@@ -56,5 +56,8 @@ DATE_FORMATS = { 'en': '%B %d, %Y', }
 SITEDESCRIPTION = "the blog of Daniel Himmelstein"
 TYPOGRIFY=True
 
-
+# Services
+DISQUS_SITENAME = 'satoshivillage'
+GOOGLE_ANALYTICS = 'UA-52757861-4'
+GA_ACCOUNT = 'UA-52757861-4'
 
