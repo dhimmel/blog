@@ -6,14 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 
-    <title>Satoshi's Village</title>
+    <title>Satoshi Village</title>
 
     <meta charset="utf-8" />
-    <link rel="stylesheet" href="/theme/css/poole.css"/>
-    <link rel="stylesheet" href="/theme/css/syntax.css"/>
-    <link rel="stylesheet" href="/theme/css/lanyon.css"/>
+    <link rel="stylesheet" href="../theme/css/poole.css"/>
+    <link rel="stylesheet" href="../theme/css/syntax.css"/>
+    <link rel="stylesheet" href="../theme/css/lanyon.css"/>
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
-    <link rel="stylesheet" href="/theme/css/styles.css"/>
+    <link rel="stylesheet" href="../theme/css/styles.css"/>
 
 
 
@@ -35,19 +35,20 @@ styles, `#sidebar-checkbox` for behavior. -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
     <div class="profile">
-      <img src="/theme/img/profile.png"/>
+      <img src="../theme/img/profile.png"/>
     </div>
   </div>
 
   <nav class="sidebar-nav">
   <a class="sidebar-nav-item" href="/">All</a>
 
-      <a class="sidebar-nav-item" href="/category/misc.html">misc</a>
+      <a class="sidebar-nav-item" href="../category/misc.html">misc</a>
 
+  <a class="sidebar-nav-item" href="/archives">Archives</a>
   <a class="sidebar-nav-item" href="http://dhimmel.com/">Home</a>
   <a class="sidebar-nav-item" href="http://dhimmel.com/about">About</a>
   <a class="sidebar-nav-item" href="http://dhimmel.com/research">Research</a>
-  <a class="sidebar-nav-item" href="#">Blog</a>
+  <a class="sidebar-nav-item" href="/">Blog</a>
   </nav>
 
   <div class="sidebar-item">
@@ -62,8 +63,8 @@ styles, `#sidebar-checkbox` for behavior. -->
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="/" title="Home">Satoshi's Village</a>
-            <small>and the himmelblog</small>
+            <a href="../" title="Home">Satoshi Village</a>
+            <small>the blog of Daniel Himmelstein</small>
           </h3>
         </div>
       </div>
@@ -79,8 +80,8 @@ styles, `#sidebar-checkbox` for behavior. -->
     <p>One network, with which many of my readers are familiar, is Facebook. At its core, Facebook is a network (graph) of users (nodes) connected by friendships (edges). Each user exists and experiences content within the confines of their Facebook subgraph, the portion of the network consisting of their friends. When analyzed properly, an individual&#8217;s friendship network paints a historical picture of his or her social&nbsp;engagement.</p>
 <p>Here I&#8217;ve created my Facebook friendship network. Nodes represents my friends, and edges represent their friendships. My network contains 1,278 friends with 40,255 friendships amongst themselves. Nearly all of my friends belong to the giant connected component displayed below. Node size indicates degree (number of mutual friends). I applied a <a href="http://dx.doi.org/10.1371/journal.pone.0098679" title="ForceAtlas2 Publication - PLOS ONE">force-directed layout</a> to organize the network: highly connected nodes are pulled together, while distantly connected nodes are&nbsp;repulsed.</p>
 <p>Ideally, I would have manually categorized my friends into communities. However, to save time, I classified friends using a <a href="http://dx.doi.org/10.1088/1742-5468/2008/10/P10008" title="Fast unfolding of communities in large networks">community detection algorithm</a>. The algorithm succeeded in partitioning my friends into communities (denoted by color) that coincided with my past social&nbsp;experiences.</p>
-<p><img alt="Facebook Friendship Network" src="http://dhimmel.com/wp-content/uploads/2014/09/friendship-network.jpg" title="Facebook Friendship Network" /></p>
-<p>Several interesting phenomena are revealed. The two largest clusters correspond to childhood and college, two highly social and prolonged eras of my life. My hometown friends formed two communities: those who graduated highschool in 2007 or before (purple) and those who graduated after 2007 (blue). My maternal kindred are tightly clustered forming their own community (dark green): my mom is one of sixteen siblings. My brother is the intermediate blue node between my hometown and kin clusters. I went to summer camp for nearly a decade in New Hampshire. These friends (light green community) are proximal but separate from my hometown friends. My 300-mile journey to a college full of new acquaintances manifests in a cluster distant from the rest of the network. At Cornell, I joined a fraternity as well as the debate team. However, only debate forms its own community reflecting the greater social isolation of that activity. Finally, my colleagues and classmates at <span class="caps">UCSF</span> are tightly clustered. The distant offshoot from this cluster represents the individuals I met while participating in a <a href="http://dhimmel.com/blog/innovation-in-medical-education-forum/" title="Innovation in Medical Education Forum">medical education forum in Guatemala</a>.</p>
+<p><img alt="Facebook Friendship Network" src="../friendship-network/friendship-network.jpg" title="Facebook Friendship Network" /></p>
+<p>Several interesting phenomena are revealed. The two largest clusters correspond to childhood and college, two highly social and prolonged eras of my life. My hometown friends formed two communities: those who graduated highschool in 2007 or before (purple) and those who graduated after 2007 (blue). My maternal kindred are tightly clustered forming their own community (dark green): my mom is one of sixteen siblings. My brother is the intermediate blue node between my hometown and kin clusters. I went to summer camp for nearly a decade in New Hampshire. These friends (light green community) are proximal but separate from my hometown friends. My 300-mile journey to a college full of new acquaintances manifests in a cluster distant from the rest of the network. At Cornell, I joined a fraternity as well as the debate team. However, only debate forms its own community reflecting the greater social isolation of that activity. Finally, my colleagues and classmates at <span class="caps">UCSF</span> are tightly clustered. The distant offshoot from this cluster represents the individuals I met while participating in a <a href="../imef-guatemala/" title="Innovation in Medical Education Forum">medical education forum in Guatemala</a>.</p>
 <p>I encourage my readers to play around with their own friendship networks. One interesting aspect is discovering the friends which bridge one&#8217;s various communities. Additionally, unconnected nodes most commonly indicate serendipitous encounters or sockpuppet accounts. I used the <a href="https://apps.facebook.com/netvizz/" title="Facebook netvizz App">netvizz app</a> to extract my friendship network from Facebook and <a href="https://gephi.github.io/" title="Gephi Homepage">Gephi</a> for&nbsp;visualization.</p>
   </div>
 </div>

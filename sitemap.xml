@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>/cruk_reassessment.html</loc>
+    <loc>./cruk_reassessment/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>/elevation-and-lung-cancer.md.html</loc>
+    <loc>./elevation-and-lung-cancer/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>/friendship-network.html</loc>
+    <loc>./friendship-network/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>/guatemala-forum.html</loc>
+    <loc>./imef-guatemala/</loc>
     <priority>0.8</priority>
   </url>
 
