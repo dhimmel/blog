@@ -3,14 +3,24 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Daniel Himmelstein'
-SITENAME = "Satoshi's Village"
-#SITEURL = 'http://blog.dhimmel.com'
+SITENAME = "Satoshi Village"
+SITEURL = 'http://blog.dhimmel.com'
+DELETE_OUTPUT_DIRECTORY = True
 
 PATH = 'content'
+ARTICLE_PATHS = ['posts']
+STATIC_PATHS = ['posts', 'favicon.ico', 'CNAME']
+EXTRA_PATH_METADATA = {'CNAME': {'path': 'CNAME'},}
 
 TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
+
+# URL settings
+ARTICLE_URL = '{slug}/'
+ARTICLE_SAVE_AS = '{slug}/index.html'
+
+USE_FOLDER_AS_CATEGORY = False
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -20,10 +30,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Home', 'http://dhimmel.com/'),
+LINKS = (('Archives', '/archives'),
+         ('Home', 'http://dhimmel.com/'),
          ('About', 'http://dhimmel.com/about'),
          ('Research', 'http://dhimmel.com/research'),
-         ('Blog', '#'),)
+         ('Blog', '/'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
@@ -32,7 +43,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 3
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 # Pelicanyan
 THEME = 'themes/pelicanyan/'
@@ -42,9 +53,7 @@ ROBOTS_SAVE_AS = 'robots.txt'
 HUMANS_SAVE_AS = 'humans.txt'
 SITEMAP_SAVE_AS = 'sitemap.xml'
 DATE_FORMATS = { 'en': '%B %d, %Y', }
-STATIC_PATHS = ['images', 'favicon.ico', 'extra/CNAME']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
-SITEDESCRIPTION = "and the himmelblog"
+SITEDESCRIPTION = "the blog of Daniel Himmelstein"
 TYPOGRIFY=True
 
 
