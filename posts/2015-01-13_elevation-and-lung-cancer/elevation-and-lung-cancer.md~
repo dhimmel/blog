@@ -6,7 +6,7 @@ Summary: For the past two years
 
 For the past two years, [Kamen Simeonov](http://www.ksimeonov.com/ "Kamen Simeonov Homepage") and I have been working on a project codenamed _The Lung_. Today is _PeerJ Publication Day_ and the results of our research are now online:
 
-> Simeonov KP, Himmelstein DS (2015) Lung cancer incidence decreases with elevation: evidence for oxygen as an inhaled carcinogen. _PeerJ_ 2:e705 [doi:10.7717/peerj.705](http://dx.doi.org/10.7717/peerj.705 "Lung cancer incidence decreases with elevation")
+> Simeonov KP, Himmelstein DS (2015) **Lung cancer incidence decreases with elevation: evidence for oxygen as an inhaled carcinogen**. _PeerJ_ 2:e705 [doi:10.7717/peerj.705](http://dx.doi.org/10.7717/peerj.705 "Lung cancer incidence decreases with elevation")
 > <div data-badge-popover="right" data-badge-type="large-bar" data-doi="10.7717/peerj.705" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ## Findings
