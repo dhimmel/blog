@@ -2,7 +2,6 @@ Title: Elevation, Oxygen, and Cancer of the Lung
 Slug: elevation-and-lung-cancer
 Date: 2015-01-13
 Tags: altitude, cancer, counties, elevation, epidemiology, incidence, lung cancer, oncology, oxygen, statistics
-Summary: For the past two years
 
 For the past two years, [Kamen Simeonov](http://www.ksimeonov.com/ "Kamen Simeonov Homepage") and I have been working on a project codenamed _The Lung_. Today is _PeerJ Publication Day_ and the results of our research are now online:
 

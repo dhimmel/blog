@@ -22,6 +22,8 @@ ARTICLE_SAVE_AS = '{slug}/index.html'
 
 USE_FOLDER_AS_CATEGORY = False
 
+SUMMARY_MAX_LENGTH = 75
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -36,11 +38,7 @@ LINKS = (('Archives', '/archives'),
          ('Research', 'http://dhimmel.com/research'),
          ('Blog', '/'),)
 
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
-
-DEFAULT_PAGINATION = 3
+DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -48,7 +46,7 @@ RELATIVE_URLS = True
 # Pelicanyan
 THEME = 'themes/pelicanyan/'
 TWITTER_ACCOUNT = 'dhimmel'
-DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'sitemap', 'robots', 'humans')
+DIRECT_TEMPLATES = ('index', 'archives', 'sitemap', 'robots', 'humans')
 ROBOTS_SAVE_AS = 'robots.txt'
 HUMANS_SAVE_AS = 'humans.txt'
 SITEMAP_SAVE_AS = 'sitemap.xml'

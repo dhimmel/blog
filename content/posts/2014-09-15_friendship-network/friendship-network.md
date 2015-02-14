@@ -2,7 +2,6 @@ Title: My Friendship Network
 Slug: friendship-network
 Date: 2014-09-15
 Tags: networks, modules, facebook, friendship, social network analysis, graphs, netvizz
-Summary: Creating a personalized friendship network from FaceBook.
 
 One network, with which many of my readers are familiar, is Facebook. At its core, Facebook is a network (graph) of users (nodes) connected by friendships (edges). Each user exists and experiences content within the confines of their Facebook subgraph, the portion of the network consisting of their friends. When analyzed properly, an individual's friendship network paints a historical picture of his or her social engagement.
 

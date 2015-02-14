@@ -2,7 +2,6 @@ Title: Innovation in Medical Education Forum
 Slug: imef-guatemala
 Date: 2013-11-19
 Tags: Accessibility, Forum, Guatemala, Innovation, Medical Education, UFM
-Summary: Innovation in Medical Education Forum.
 
 During the first week of October in 2013, I traveled to Guatemala. The [Universidad Francisco Marroquín](https://www.ufm.edu/index.php/Portal "Universidad Francisco Marroquin Homepage") (UFM) hosted a [forum of 30 innovators and medical professionals](http://noticias.ufm.edu/index.php?title=Innovation_in_Medical_Education_Forum%2C_en_la_UFM "Innovation_in_Medical_Education_Forum%2C_en_la_UFM") to envision the future of healthcare and medical education. The forum produced suggestions for a new medical degree, based on embracing disruptions, which would initially coexist with the current medical program.
 

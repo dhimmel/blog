@@ -2,7 +2,6 @@ Title: The <i>Cancer Research UK</i> Reassessment of our Lung Cancer versus Elev
 Slug: cruk_reassessment
 Date: 2015-01-15
 Tags: Cancer Research UK, elevation, lung cancer, oxygen, Osgun, PeerJ, smoking
-Summary: Response to Cancer Research UK
 
 We would like to thank _Cancer Research UK_ for their cancer related advocacy and [their coverage](http://scienceblog.cancerresearchuk.org/2015/01/14/does-oxygen-cause-lung-cancer-i-wouldnt-hold-your-breath/ "Does oxygen cause lung cancer?") of our [recent publication](http://dx.doi.org/10.7717/peerj.705 "Lung cancer incidence decreases with elevation"). However, we find several aspects of their interpretation troubling.
 
