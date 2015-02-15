@@ -20,4 +20,4 @@ Several ideas came to the forefront as the forum progressed:
 
 I had the [opportunity to explore the UFM campus](http://noticias.ufm.edu/index.php?title=Cientificos_y_emprendedores_en_la_UFM "Cientificos_y_emprendedores_en_la_UFM") and was thoroughly impressed by the design, hospitality, principles, and foresight of the institution. While visiting the campus, I was interviewed about my views on accessibility and communication in science. The [recording](http://newmedia.ufm.edu/himmelsteinaccessibilityscience "UFM NewMedia Interview Page") is below:
 
-<iframe width="604" height="340" src="http://www.youtube.com/embed/twZJCFTFE2g?feature=oembed" frameborder="0" allowfullscreen></iframe>
+<div class="videoWrapper"><iframe width="604" height="340" src="http://www.youtube.com/embed/twZJCFTFE2g?feature=oembed" frameborder="0" allowfullscreen></iframe></div>
