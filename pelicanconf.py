@@ -32,11 +32,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Archives', '/archives'),
-         ('Home', 'http://dhimmel.com/'),
-         ('About', 'http://dhimmel.com/about'),
-         ('Research', 'http://dhimmel.com/research'),
-         ('Blog', '/'),)
+LINKS = (('<b>Satohsi Village Blog</b>', '/'),
+         ('&ndash; archives', '/archives'),
+         ('<b>Daniel Himmelstein</b>', 'http://dhimmel.com/'),
+         ('&ndash; about', 'http://dhimmel.com/about'),
+         ('&ndash; research', 'http://dhimmel.com/research'),
+         )
 
 DEFAULT_PAGINATION = 10
 
