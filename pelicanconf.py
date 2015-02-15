@@ -32,7 +32,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('<b>Satohsi Village Blog</b>', '/'),
+LINKS = (('<b>Satoshi Village Blog</b>', '/'),
          ('&ndash; archives', '/archives'),
          ('<b>Daniel Himmelstein</b>', 'http://dhimmel.com/'),
          ('&ndash; about', 'http://dhimmel.com/about'),
