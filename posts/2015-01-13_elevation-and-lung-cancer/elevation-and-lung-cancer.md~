@@ -2,7 +2,6 @@ Title: Elevation, Oxygen, and Cancer of the Lung
 Slug: elevation-and-lung-cancer
 Date: 2015-01-13
 Tags: altitude, cancer, counties, elevation, epidemiology, incidence, lung cancer, oncology, oxygen, statistics
-Summary: For the past two years
 
 For the past two years, [Kamen Simeonov](http://www.ksimeonov.com/ "Kamen Simeonov Homepage") and I have been working on a project codenamed _The Lung_. Today is _PeerJ Publication Day_ and the results of our research are now online:
 
@@ -19,7 +18,7 @@ To convey the magnitude of the observed association, we imagine a hypothetical s
 
 While we don't recommend anyone relocate just yet and the risk for nonsmokers is low, experimental confirmation of oxygen-driven tumorgenesis could lead to new insights that yield better lung cancer preventions and treatment. Learn more about our findings in the [press release](http://eurekalert.org/e/64Wk "Press Release: Can inhaled oxygen cause cancer?") or see *SciShow's* [video summary](https://youtu.be/HrIrB9reWwQ?t=89s):
 
-<iframe width="604" height="340" src="https://www.youtube.com/embed/HrIrB9reWwQ?start=89&#038;feature=oembed" frameborder="0" allowfullscreen></iframe>
+<div class="videoWrapper"><iframe width="604" height="340" src="https://www.youtube.com/embed/HrIrB9reWwQ?start=89&#038;feature=oembed" frameborder="0" allowfullscreen></iframe></div>
 
 ## Visualization
 
