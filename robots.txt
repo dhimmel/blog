@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://./sitemap.xml
+Sitemap: http://http://blog.dhimmel.com/sitemap.xml
