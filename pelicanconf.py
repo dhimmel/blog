@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Daniel Himmelstein'
 SITENAME = "Satoshi Village"
-SITEURL = 'http://blog.dhimmel.com'
+
 DELETE_OUTPUT_DIRECTORY = True
 
 PATH = 'content'
@@ -17,6 +17,9 @@ TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = u'en'
 
 # URL settings
+SITEURL = 'http://blog.dhimmel.com'
+# Only enable document-relative URLs when developing
+RELATIVE_URLS = False
 ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'
 
@@ -40,9 +43,6 @@ LINKS = (('<b>Satoshi Village Blog</b>', '/'),
          )
 
 DEFAULT_PAGINATION = 10
-
-# Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
 
 # Pelicanyan
 THEME = 'themes/pelicanyan/'
