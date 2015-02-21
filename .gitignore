@@ -1,3 +1,9 @@
+# Pelican Files
+srv.pid
+pelican.pid
+
+
+
 # Created by https://www.gitignore.io
 
 ### Linux ###
