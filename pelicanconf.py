@@ -9,8 +9,9 @@ DELETE_OUTPUT_DIRECTORY = True
 
 PATH = 'content'
 ARTICLE_PATHS = ['posts']
-STATIC_PATHS = ['posts', 'favicon.ico', 'CNAME']
-EXTRA_PATH_METADATA = {'CNAME': {'path': 'CNAME'},}
+STATIC_PATHS = ['posts', 'favicon.ico', 'CNAME', '404.md']
+EXTRA_PATH_METADATA = {'CNAME': {'path': 'CNAME'},
+                       '404.md': {'path': '404.md'},}
 
 TIMEZONE = 'America/Los_Angeles'
 
