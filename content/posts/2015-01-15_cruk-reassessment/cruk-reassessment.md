@@ -1,5 +1,5 @@
 Title: The <i>Cancer Research UK</i> Reassessment of our Lung Cancer versus Elevation Study
-Slug: cruk_reassessment
+Slug: cruk-reassessment
 Date: 2015-01-15
 Tags: Cancer Research UK, elevation, lung cancer, oxygen, Osgun, PeerJ, smoking
 
