@@ -58,6 +58,8 @@ TYPOGRIFY=True
 
 # Services
 DISQUS_SITENAME = 'satoshivillage'
-GOOGLE_ANALYTICS = 'UA-52757861-4'
-GA_ACCOUNT = 'UA-52757861-4'
+#GOOGLE_ANALYTICS = 'UA-52757861-4'
+#GA_ACCOUNT = 'UA-52757861-4' # used for pelicanyan
 
+PIWIK_URL = 'piwik.dhimmel.com'
+PIWIK_SITE_ID = 5
