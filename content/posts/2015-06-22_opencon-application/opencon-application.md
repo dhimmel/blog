@@ -27,7 +27,7 @@ I predict new uses for existing drugs by mining the union of many diverse datase
 
 Two consequences of open science attract me: hastening discovery and enabling anyone to be a scientist.
 
-I yearn to see the reality behind shadows. Alone this is impossible; I will always remain a prisoner. But together, through the crossbreeding of our works, we can escape the cave. Newton's quote from 1676 is no longer true. If I have seen further, it is by standing on the shoulders of dwarfs that together make dwarfs of the giants.
+I yearn to see the reality behind shadows. Alone this is impossible; I will always remain a prisoner. But together, through the crossbreeding of our works, we can escape the cave. Newton's [quote](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants) from 1676 is no longer true. If I have seen further, it is by standing on the shoulders of dwarfs that together make dwarfs of the giants.
 
 ### How would you use your experience at OpenCon to advance Open Access, Open Education and/or Open Data?
 
