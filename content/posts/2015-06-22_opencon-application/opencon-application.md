@@ -27,12 +27,14 @@ I predict new uses for existing drugs by mining the union of many diverse datase
 
 Two consequences of open science attract me: hastening discovery and enabling anyone to be a scientist.
 
-I yearn to see the reality behind shadows. Alone this is impossible; I will always remain a prisoner. But together, through the crossbreeding of our works, we can escape the cave. Newton's [quote](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants) from 1676 is no longer true. If I have seen further, it is by standing on the shoulders of dwarfs that together make dwarfs of the giants.
+I yearn to see the reality behind [shadows](https://en.wikipedia.org/wiki/Allegory_of_the_Cave). Alone this is impossible; I will always remain a prisoner. But together, through the crossbreeding of our works, we can escape the cave.
+
+Newton's [quote](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants) from 1676 is no longer true. If I have seen further, it is by standing on the shoulders of dwarfs that *together* dwarf the giants.
 
 ### How would you use your experience at OpenCon to advance Open Access, Open Education and/or Open Data?
 
 Our weapons are immaterial -- crowdsourced knowledge, open source, the public domain, and technical standards -- yet nonetheless require a coordinated sharpening.
 
-Central authority is antithetical to open science. The open scientist limits herself only by the bounds of possibility and heeds no artificial constraint. How then, without a ruler, does a decentralized community coordinate? Can an army of isolated heretics wage war on a unified front?
+Central authority is antithetical to open science. The open scientist limits herself only by the bounds of possibility and heeds no artificial constraint. How then, without a ruler, does a decentralized community coordinate? Can an army of isolated heretics wage war on a unified front? The soldiers must be brought together.
 
-The soldiers must be brought together. *OpenCon 2015* is that gathering. With an assembly of 163, 13,203 peer-to-peer interactions are possible. And which interactions occur will determine the future of science.
+*OpenCon 2015* is that gathering. With an assembly of 163, 13,203 peer-to-peer interactions are possible. And which interactions occur will determine the future of science.
