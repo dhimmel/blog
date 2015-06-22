@@ -1,15 +1,15 @@
-Title: OpenCon 2015 Application
+Title: My application to OpenCon 2015, the best conference ever
 Slug: opencon-app
 Date: 2015-06-22
 Tags: open science, open access, open data, Thinklab, conferences, applications
 
-Below I have posted the written portions of my application to the [OpenCon 2015 conference](http://opencon2015.org/), which will be held from November 14--16 in Brussels, Belgium. I have ordered the questions from practical/mundane to philisophical/radical.
+Below I have posted the written portions of my application to the [OpenCon 2015 conference](http://opencon2015.org/), which was called the [best conference ever](http://www.scopeofscience.com/2014/11/best-conference-ever/) by a 2014 attendee. This open science gathering will be held from November 14–16 in Brussels, Belgium. I have ordered my responses from practical to philisophical and mundane to radical.
 
-> For the events you checked, please explain how you plan to participate.
+### For the events you checked, please explain how you plan to participate.
 
 Last year I went to the Bay Area Open Access Week [event](https://peerj.com/blog/post/97879213303/save-the-date-participative-bay-area-oa-week-event-for-generation-open/). Here I met the founder of [*Thinklab*](http://thinklab.com), the open science platform I now use for my research. I had not heard of [Open Data Day](http://opendataday.org/) until now but look forward to attending a local hackaton on its next occurrence.
 
-> If you are currently engaged in activities to advance Open Access, Open Education and/or Open Data, please describe them. If you are not currently engaged, how would you plan to get involved?
+### If you are currently engaged in activities to advance Open Access, Open Education and/or Open Data, please describe them.
 
 This year began with a major leap. I embarked on a fully open research project. First, I posted our [proposal](http://thinklab.com/p/rephetio/proposal) on *Thinklab* -- a platform that pays scientists to interact openly. We constantly revise the proposal based on feedback. All research is open notebook. And we post our analyses upon their conception.
 
@@ -21,7 +21,7 @@ January 13th marked the culmination of an [independent study](https://dx.doi.org
 
 While personally motivated by ideology, I know the move to openness must be driven by incentives. I hope to illustrate the benefits by example, but am also a hardened and vocal advocate. I am committed to [CC-BY](https://creativecommons.org/licenses/by/4.0/) and [CC0](https://creativecommons.org/publicdomain/zero/1.0/) licensing for my work. And when training new scientists, open science is a large part of my [curricula](http://www.slideshare.net/himmelstein/biological-medical-informatics/36).
 
-> What is your interest in Open Access, Open Education and/or Open Data and how does it relate to your work?
+### What is your interest in Open Access, Open Education and/or Open Data and how does it relate to your work?
 
 I predict new uses for existing drugs by mining the union of many diverse datasets. My project integrates over 20 public databases and depends on open source tools.
 
@@ -29,10 +29,10 @@ Two consequences of open science attract me: hastening discovery and enabling an
 
 I yearn to see the reality behind shadows. Alone this is impossible; I will always remain a prisoner. But together, through the crossbreeding of our works, we can escape the cave. Newton's quote from 1676 is no longer true. If I have seen further, it is by standing on the shoulders of dwarfs that together make dwarfs of the giants.
 
-> How would you use your experience at OpenCon to advance Open Access, Open Education and/or Open Data? If you attended OpenCon last year, please address how attending OpenCon again would help you build upon your work.
+### How would you use your experience at OpenCon to advance Open Access, Open Education and/or Open Data?
 
 Our weapons are immaterial -- crowdsourced knowledge, open source, the public domain, and technical standards -- yet nonetheless require a coordinated sharpening.
 
 Central authority is antithetical to open science. The open scientist limits herself only to the bounds of possibility and heeds no artificial constraint. How then, without a ruler, does a decentralized community coordinate? Can an army of isolated heretics wage war on a unified front?
 
-The soldiers must be brought together. OpenCon 2015 is that gathering. With 163 assembled, 13,203 peer-to-peer interactions are possible. And which interactions occur will determine the future of science for all humankind.
+The soldiers must be brought together. *OpenCon 2015* is that gathering. With 163 assembled, 13,203 peer-to-peer interactions are possible. And which interactions occur will determine the future of science for all humankind.
