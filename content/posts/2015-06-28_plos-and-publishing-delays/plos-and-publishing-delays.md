@@ -1,7 +1,7 @@
 Title: Publication delays at PLOS
 Slug: plos-and-publishing-delays
-Date: 2015-06-22
-Tags: publishing, PLOS, journals, open access
+Date: 2015-06-28
+Tags: publishing, PLOS, journals, open access, acceptance time, publication time, PLOS Computational Biology, pubmed, scraping
 
 
 On April 22, 2015 [my research](https://dx.doi.org/10.1101/011569) was formally accepted to *PLOS Computational Biology*. 68 days later the article has yet to published. My [current project](https://dx.doi.org/10.15363/thinklab.4) builds on the forthcoming study and would benefit from its publication. Frustrated, I decided to investigate whether such delays are commonplace at PLOS.
@@ -14,7 +14,7 @@ I started by retrieving all pubmed records for the 7 PLOS journals. For each jou
 
 I am not alone! Starting in 2011, publications delays at *PLOS Comp Bio* began regularly breaching 80 days. *PLOS Genetics*, *Pathogens*, and *Neglected Tropical Diseases* experienced similar publishing delay explosions in 2011, although appear to recently improved. These marked temporal fluctuations suggest that delays are not an innate and immutable characteristic of publishing, but instead dependent on operational efficiency and organizational well-being.
 
-The two oldest and most established PLOS journals, *Biology* and *Medicine*, followed a different pattern: long delays in their early years followed by stability at 40 days since 2009. The dearth of *PLOS Biology* records prior to 2009, resulted from broken DOI redirects. Before my scraper finished its duties, PLOS [fixed the issue](https://twitter.com/dhimmel/status/613842560360951808) resulting in the few visible Biology articles of that period.
+The two oldest and most established PLOS journals, *Biology* and *Medicine*, followed a different pattern: long delays in their early years followed by stability at 40 days since 2009. The dearth of *PLOS Biology* records prior to 2009, resulted from broken DOI redirects. Before my scraper finished its duties, PLOS [fixed the issue](https://twitter.com/dhimmel/status/613842560360951808) resulting in the few visible *Biology* articles of that period.
 
 The scraped data is nice because it comes directly from the source, but is time intensive and limited to a single webpage layout. Therefore, I also extracted timestamps from pubmed. Below I show publication (solid lines) and acceptance (dotted lines) times from this larger dataset.
 
