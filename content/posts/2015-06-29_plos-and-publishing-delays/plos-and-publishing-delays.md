@@ -75,7 +75,7 @@ Let us know in the comments if any services already exist to fulfill this role.
 
 My goal in performing this extensive evaluation of PLOS publishing times was to bring light to an area of publishing that needed it. PLOS led the open access revolution and still has its unique advantages. Hopefully, public feedback will allow PLOS to improve in the areas where it struggles.
 
-Check out [this GitHub repository](https://github.com/dhimmel/plostime) for source code, datasets, and figures.
+Check out the [GitHub repository](https://github.com/dhimmel/plostime) for source code, datasets, and figures.
 
 <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.7/css/jquery.dataTables.min.css">
 <script type="text/javascript" src="//code.jquery.com/jquery-2.1.4.min.js"></script>
