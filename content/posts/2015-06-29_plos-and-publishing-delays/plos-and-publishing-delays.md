@@ -3,7 +3,7 @@ Slug: plos-and-publishing-delays
 Date: 2015-06-29
 Tags: publishing, PLOS, journals, open access, acceptance time, publication time, PLOS Computational Biology, PubMed, scraping
 
-On April 22, 2015 my research was formally accepted to *PLOS Computational Biology*. 68 days later the article has yet to published. My [current project](https://dx.doi.org/10.15363/thinklab.4) builds on the [forthcoming study](https://dx.doi.org/10.1101/011569) and would benefit from its publication. Frustrated, I decided to investigate whether such delays are commonplace at PLOS.
+On April 22, 2015 my research was formally accepted to *PLOS Computational Biology*. 68 days later the article has yet to be published. My [current project](https://dx.doi.org/10.15363/thinklab.4) builds on the [forthcoming study](https://dx.doi.org/10.1101/011569) and would benefit from its publication. Frustrated, I decided to investigate whether such delays are commonplace at PLOS.
 
 ## Publication and acceptance delays at PLOS
 
@@ -11,7 +11,7 @@ I started by retrieving all PubMed records for the 7 PLOS journals. For each jou
 
 ![PLOS publication times from website scraping](https://raw.githubusercontent.com/dhimmel/plostime/39ff289cae08c81bce6aed499e8df391a05b2107/figure/scraped-plos-publication-times.png "Scraped PLOS publication times")
 
-I am not alone! Starting in 2011, publications delays at *PLOS Computational Biology* began regularly breaching 80 days. *PLOS Genetics*, *Pathogens*, and *Neglected Tropical Diseases* experienced similar publishing delay explosions in 2011, although appear to recently improved. These extreme temporal fluctuations suggest that delays are not an innate and immutable characteristic of publishing, but instead dependent on operational efficiency and organizational well-being.
+I am not alone! Starting in 2011, publications delays at *PLOS Computational Biology* began regularly breaching 80 days. *PLOS Genetics*, *Pathogens*, and *Neglected Tropical Diseases* experienced similar publishing delay explosions in 2011, although appear to have recently improved. These extreme temporal fluctuations suggest that delays are not an innate and immutable characteristic of publishing, but instead dependent on operational efficiency and organizational well-being.
 
 The two oldest and most established PLOS journals, *Biology* and *Medicine*, followed a different pattern: long delays in their early years followed by stability at 40 days since 2009. The dearth of *PLOS Biology* records prior to 2009, resulted from broken DOI redirects. Before my scraper finished its duties, PLOS [fixed the issue](https://twitter.com/dhimmel/status/613842560360951808) resulting in the few visible *Biology* articles of that period.
 
@@ -45,7 +45,7 @@ Next, I looked at acceptance times for the same 16 journals.
 
 ## Publication and acceptance times for all journals
 
-The table below shows the median days till acceptance and publication for all journals. Journals whose article timestamps were missing from PubMed are not included.
+The table below shows the median days till acceptance and publication for 3,482 journals. A journal may be omitted if it is not indexed by PubMed or had no timestamped articles since 2014.
 
 <table id="journals" class="display" cellspacing="0" width="100%">
   <thead>
@@ -66,12 +66,12 @@ Acceptance and publication times are not the only factor to consider when select
 I propose a journal review service. Like yelp for scientific publishing except that author reviews will be [CC-BY](https://creativecommons.org/licenses/by/4.0/). I see three main benefits:
 
 1. Transparency -- past author experiences with a journal are a treasure trove in need of a display case
-1. Search -- even finding all journals publish research in your field is difficult. A search feature would support filters and rankings based on user preferences.
+1. Search -- even finding all journals that publish research in your field is difficult. A search feature would support filters and rankings based on user preferences.
 3. Progress -- journals can improve based on their feedback. If not, they will perish.
 
 Let us know in the comments if any services already exist to fulfill this role.
 
-My goal in performing this extensive evaluation of PLOS publishing times was to bring light to an area of publishing that needed it. PLOS lead the open access revolution and still has its unique advantages. Hopefully, public feedback will allow PLOS to improve in the areas where it struggles.
+My goal in performing this extensive evaluation of PLOS publishing times was to bring light to an area of publishing that needed it. PLOS led the open access revolution and still has its unique advantages. Hopefully, public feedback will allow PLOS to improve in the areas where it struggles.
 
 <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.7/css/jquery.dataTables.min.css">
 <script type="text/javascript" src="//code.jquery.com/jquery-2.1.4.min.js"></script>
