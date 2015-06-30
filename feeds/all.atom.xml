@@ -58,7 +58,9 @@ $(document).ready(function() {
         { sTitle: 'Articles' },
         { sTitle: 'Acceptance'},
         { sTitle: 'Publication' } ],
-      "order": [[ 2, "desc" ]]}
+      "order": [[ 2, "desc" ]],
+      "search": { "regex": true }
+}
     );
 } );
 &lt;/script&gt;</summary><category term="publishing"></category><category term="PLOS"></category><category term="journals"></category><category term="open access"></category><category term="acceptance time"></category><category term="publication time"></category><category term="PLOS Computational Biology"></category><category term="PubMed"></category><category term="scraping"></category></entry><entry><title>My application to OpenCon 2015, the best conference ever</title><link href="http://blog.dhimmel.com/opencon-application/" rel="alternate"></link><updated>2015-06-22T00:00:00-07:00</updated><author><name>Daniel Himmelstein</name></author><id>tag:blog.dhimmel.com,2015-06-22:opencon-application/</id><summary type="html">&lt;p&gt;Below I have posted the written portions of my application to &lt;a href="http://opencon2015.org/"&gt;&lt;em&gt;OpenCon 2015&lt;/em&gt;&lt;/a&gt;, which was called the &lt;a href="http://www.scopeofscience.com/2014/11/best-conference-ever/"&gt;best conference ever&lt;/a&gt; by a 2014 attendee. This open science gathering will be held from November 14–16 in Brussels, Belgium. I have ordered my responses from practical to philosophical and mundane to&amp;nbsp;radical.&lt;/p&gt;
