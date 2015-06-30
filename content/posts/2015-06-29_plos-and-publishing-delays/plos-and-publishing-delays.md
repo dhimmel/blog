@@ -91,7 +91,9 @@ $(document).ready(function() {
         { sTitle: 'Articles' },
         { sTitle: 'Acceptance'},
         { sTitle: 'Publication' } ],
-      "order": [[ 2, "desc" ]]}
+      "order": [[ 2, "desc" ]],
+      "search": { "regex": true }
+}
     );
 } );
 </script>
