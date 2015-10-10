@@ -77,9 +77,9 @@ My goal in performing this extensive evaluation of PLOS publishing times was to 
 
 Check out the [GitHub repository](https://github.com/dhimmel/plostime) for source code, datasets, and figures.
 
-<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.7/css/jquery.dataTables.min.css">
+<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css">
 <script type="text/javascript" src="//code.jquery.com/jquery-2.1.4.min.js"></script>
-<script type="text/javascript" src="//cdn.datatables.net/1.10.7/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js"></script>
 
 <script>
 $(document).ready(function () {
