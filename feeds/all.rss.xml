@@ -70,9 +70,9 @@
 &lt;h2&gt;In&amp;nbsp;conclusion&lt;/h2&gt;
 &lt;p&gt;My goal in performing this extensive evaluation of &lt;span class="caps"&gt;PLOS&lt;/span&gt; publishing times was to bring light to an area of publishing that needed it. &lt;span class="caps"&gt;PLOS&lt;/span&gt; led the open access revolution and still has its unique advantages. Hopefully, public feedback will allow &lt;span class="caps"&gt;PLOS&lt;/span&gt; to improve in the areas where it&amp;nbsp;struggles.&lt;/p&gt;
 &lt;p&gt;Check out the &lt;a href="https://github.com/dhimmel/plostime"&gt;GitHub repository&lt;/a&gt; for source code, datasets, and&amp;nbsp;figures.&lt;/p&gt;
-&lt;p&gt;&lt;link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css"&gt;
-&lt;script type="text/javascript" src="//code.jquery.com/jquery-2.1.4.min.js"&gt;&lt;/script&gt;
-&lt;script type="text/javascript" src="//cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css"&gt;
+&lt;script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="https://cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js"&gt;&lt;/script&gt;&lt;/p&gt;
 &lt;script&gt;
 $(document).ready(function () {
     $('#journals').dataTable({
