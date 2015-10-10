@@ -74,20 +74,20 @@
 &lt;script type="text/javascript" src="//code.jquery.com/jquery-2.1.4.min.js"&gt;&lt;/script&gt;
 &lt;script type="text/javascript" src="//cdn.datatables.net/1.10.7/js/jquery.dataTables.min.js"&gt;&lt;/script&gt;&lt;/p&gt;
 &lt;script&gt;
-$(document).ready(function() {
-    $('#journals').dataTable( {
-      "ajax": '//raw.githubusercontent.com/dhimmel/plostime/39ff289cae08c81bce6aed499e8df391a05b2107/data/journal-times.json',
-      aoColumns: [
-        { sWidth: '50%', sTitle: 'Journal' },
-        { bVisible: false},
-        { sTitle: 'Articles' },
-        { sTitle: 'Acceptance'},
-        { sTitle: 'Publication' } ],
-      "order": [[ 2, "desc" ]],
-      "search": { "regex": true }
-}
-    );
-} );
+$(document).ready(function () {
+    $('#journals').dataTable({
+        ajax: 'https://raw.githubusercontent.com/dhimmel/plostime/39ff289cae08c81bce6aed499e8df391a05b2107/data/journal-times.json',
+        aoColumns: [
+            {sWidth: '50%', sTitle: 'Journal'},
+            {bVisible: false},
+            {sTitle: 'Articles'},
+            {sTitle: 'Acceptance'},
+            {sTitle: 'Publication'}
+        ],
+        order: [[2, "desc"]],
+        search: {regex: true}
+    });
+});
 &lt;/script&gt;</summary><category term="publishing"></category><category term="PLOS"></category><category term="journals"></category><category term="open access"></category><category term="acceptance time"></category><category term="publication time"></category><category term="PLOS Computational Biology"></category><category term="PubMed"></category><category term="scraping"></category></entry><entry><title>My application to OpenCon 2015, the best conference ever</title><link href="http://blog.dhimmel.com/opencon-application/" rel="alternate"></link><updated>2015-06-22T00:00:00-07:00</updated><author><name>Daniel Himmelstein</name></author><id>tag:blog.dhimmel.com,2015-06-22:opencon-application/</id><summary type="html">&lt;p&gt;Below I have posted the written portions of my application to &lt;a href="http://opencon2015.org/"&gt;&lt;em&gt;OpenCon 2015&lt;/em&gt;&lt;/a&gt;, which was called the &lt;a href="http://www.scopeofscience.com/2014/11/best-conference-ever/"&gt;best conference ever&lt;/a&gt; by a 2014 attendee. This open science gathering will be held from November 14–16 in Brussels, Belgium. I have ordered my responses from practical to philosophical and mundane to&amp;nbsp;radical.&lt;/p&gt;
 &lt;h3&gt;For the events you checked, please explain how you plan to&amp;nbsp;participate.&lt;/h3&gt;
 &lt;p&gt;Last year I went to the Bay Area Open Access Week &lt;a href="https://peerj.com/blog/post/97879213303/save-the-date-participative-bay-area-oa-week-event-for-generation-open/"&gt;event&lt;/a&gt;. Here I met the founder of &lt;a href="http://thinklab.com"&gt;&lt;em&gt;Thinklab&lt;/em&gt;&lt;/a&gt;, the open science platform I now use for my research. I had not heard of &lt;a href="http://opendataday.org/"&gt;Open Data Day&lt;/a&gt; until now but look forward to attending a local hackathon on its next&amp;nbsp;occurrence.&lt;/p&gt;
