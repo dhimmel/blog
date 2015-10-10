@@ -82,18 +82,18 @@ Check out the [GitHub repository](https://github.com/dhimmel/plostime) for sourc
 <script type="text/javascript" src="//cdn.datatables.net/1.10.7/js/jquery.dataTables.min.js"></script>
 
 <script>
-$(document).ready(function() {
-    $('#journals').dataTable( {
-      "ajax": '//raw.githubusercontent.com/dhimmel/plostime/39ff289cae08c81bce6aed499e8df391a05b2107/data/journal-times.json',
-      aoColumns: [
-        { sWidth: '50%', sTitle: 'Journal', bRegex: true },
-        { bVisible: false, bRegex: true},
-        { sTitle: 'Articles' },
-        { sTitle: 'Acceptance'},
-        { sTitle: 'Publication' } ],
-      "order": [[ 2, "desc" ]],
-      "search": { "regex": true, "smart": false }
-}
-    );
-} );
+$(document).ready(function () {
+    $('#journals').dataTable({
+        ajax: 'https://raw.githubusercontent.com/dhimmel/plostime/39ff289cae08c81bce6aed499e8df391a05b2107/data/journal-times.json',
+        aoColumns: [
+            {sWidth: '50%', sTitle: 'Journal'},
+            {bVisible: false},
+            {sTitle: 'Articles'},
+            {sTitle: 'Acceptance'},
+            {sTitle: 'Publication'}
+        ],
+        order: [[2, "desc"]],
+        search: {regex: true}
+    });
+});
 </script>
