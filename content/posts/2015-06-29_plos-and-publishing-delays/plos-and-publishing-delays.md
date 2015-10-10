@@ -54,6 +54,7 @@ The table below shows the median days till acceptance and publication for 3,482 
       <th></th>
       <th></th>
       <th></th>
+      <th></th>
     </tr>
   </thead>
   <tbody></tbody>
