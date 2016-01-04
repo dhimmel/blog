@@ -24,7 +24,7 @@ While we don't recommend anyone relocate just yet and the risk for nonsmokers is
 
 Interact with this scatterplot to explore the relationship between elevation and lung cancer. The bivariate plot shows unadjusted lung cancer incidence decreasing with county elevation. The partial regression plot shows the relationship while accounting for additional factors, such as smoking and education. Accounting for the additional factors sharpened the association. Vector (pdf) versions of the manuscript figures are [available from the project's repository](https://github.com/dhimmel/elevcan/tree/master/manual/figures/vectors "Project GitHub -- Vector Images"). 
 
-<div><iframe src="http://dipper.ucsf.edu:3838/elevcan" width="100%" height="700px" style="border: none;">Shiny Visualization</iframe></div>
+<div><iframe src="https://dhimmel.shinyapps.io/elevcan" width="100%" height="700px" style="border: none;">Shiny Visualization</iframe></div>
 
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
