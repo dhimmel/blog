@@ -1,3 +1,6 @@
+# Draft folder
+output/drafts
+
 # Pelican Files
 srv.pid
 pelican.pid
