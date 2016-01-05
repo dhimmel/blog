@@ -113,18 +113,18 @@ styles, `#sidebar-checkbox` for behavior. -->
       <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
       <script>
-        (function(document) {
+      (function (document) {
           var i = 0;
           // snip empty header rows since markdown can't
           var rows = document.querySelectorAll('tr');
-          for(i=0; i<rows.length; i++) {
-            var ths = rows[i].querySelectorAll('th');
-            var rowlen = rows[i].children.length;
-            if (ths.length > 0 && ths.length === rowlen) {
-              rows[i].remove();
-            }
+          for (i = 0; i < rows.length; i += 1) {
+              var ths = rows[i].querySelectorAll('th');
+              var rowlen = rows[i].children.length;
+              if (ths.length > 0 && ths.length === rowlen) {
+                  rows[i].remove();
+              }
           }
-        })(document);
+      })(document);
       </script>
 
       <script>

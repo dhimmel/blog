@@ -63,6 +63,8 @@ styles, `#sidebar-checkbox` for behavior. -->
 <h1>Archives for Satoshi Village</h1>
 
 <dl>
+    <dt>January 05, 2016</dt>
+    <dd><a href="http://blog.dhimmel.com/preprints-2015/">The preprint in 2015 and what comes&nbsp;next</a></dd>
     <dt>July 20, 2015</dt>
     <dd><a href="http://blog.dhimmel.com/emp-and-slime/">Electromagnetic pulses and slime&nbsp;molds</a></dd>
     <dt>June 29, 2015</dt>
@@ -83,18 +85,18 @@ styles, `#sidebar-checkbox` for behavior. -->
       <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
       <script>
-        (function(document) {
+      (function (document) {
           var i = 0;
           // snip empty header rows since markdown can't
           var rows = document.querySelectorAll('tr');
-          for(i=0; i<rows.length; i++) {
-            var ths = rows[i].querySelectorAll('th');
-            var rowlen = rows[i].children.length;
-            if (ths.length > 0 && ths.length === rowlen) {
-              rows[i].remove();
-            }
+          for (i = 0; i < rows.length; i += 1) {
+              var ths = rows[i].querySelectorAll('th');
+              var rowlen = rows[i].children.length;
+              if (ths.length > 0 && ths.length === rowlen) {
+                  rows[i].remove();
+              }
           }
-        })(document);
+      })(document);
       </script>
 
       <script>

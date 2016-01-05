@@ -66,6 +66,16 @@ styles, `#sidebar-checkbox` for behavior. -->
 <div class="posts">
   <div class="post">
     <h1 class="post-title">
+      <a href="http://blog.dhimmel.com/preprints-2015/" rel="bookmark" title="Permalink to The preprint in 2015 and what comes next">The preprint in 2015 and what comes&nbsp;next</a>
+    </h1>
+    <span class="post-date">January 05, 2016</span>
+
+    <p>2015 was a year of the preprint. While posting manuscripts prior to peer review and journal publication <a href="http://arxiv.org/pdf/1108.2700v2.pdf">has</a> long been practiced in physics, preprints are just catching on in the&nbsp;biosciences.</p>
+<p>Last year, labs <a href="https://medium.com/@greenescientist/why-we-preprint-fb3bfbcdf4ff">started</a> universally preprinting, and preprints <a href="https://doi.org/10.1073/pnas.1511912112">were billed</a> as the solution to accelerating an ever more laborious publishing&nbsp;process.</p>
+<p>To give some context, <em>PeerJ PrePrints</em> and <em>bioRxiv</em> both launched in 2013. Prior to 2015, <em>PeerJ</em> published <a href="https://gist.github.com/dhimmel/81f55d62af27197a845e">on average</a> 1.2 preprints per ...</p>
+  </div>
+  <div class="post">
+    <h1 class="post-title">
       <a href="http://blog.dhimmel.com/emp-and-slime/" rel="bookmark" title="Permalink to Electromagnetic pulses and slime molds">Electromagnetic pulses and slime&nbsp;molds</a>
     </h1>
     <span class="post-date">July 20, 2015</span>
@@ -143,18 +153,18 @@ styles, `#sidebar-checkbox` for behavior. -->
       <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
       <script>
-        (function(document) {
+      (function (document) {
           var i = 0;
           // snip empty header rows since markdown can't
           var rows = document.querySelectorAll('tr');
-          for(i=0; i<rows.length; i++) {
-            var ths = rows[i].querySelectorAll('th');
-            var rowlen = rows[i].children.length;
-            if (ths.length > 0 && ths.length === rowlen) {
-              rows[i].remove();
-            }
+          for (i = 0; i < rows.length; i += 1) {
+              var ths = rows[i].querySelectorAll('th');
+              var rowlen = rows[i].children.length;
+              if (ths.length > 0 && ths.length === rowlen) {
+                  rows[i].remove();
+              }
           }
-        })(document);
+      })(document);
       </script>
 
       <script>
