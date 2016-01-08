@@ -10,7 +10,7 @@ Status: draft
 
 Green lines show the delay percentiles for each year and are spaced every 2.5<sup>th</sup>%. Quartiles are bold. The best-fit curve is shown as a gray band.
 
-![Acceptance delays](https://raw.githubusercontent.com/dhimmel/delays/fe80fe4ee0eece86ff694bc973964a5651a4e18f/viz/acceptance-by-article.png)
+![Acceptance delays](https://raw.githubusercontent.com/dhimmel/delays/75fef346ac44acea6ae6f7536d1ab584758b9518/viz/acceptance-by-article.png)
 
 Select your journal of interest to see historical acceptance delays. Individual articles are represented as red dots.
 
@@ -22,7 +22,7 @@ Select your journal of interest to see historical acceptance delays. Individual 
 
 Time from acceptance to online publication
 
-![Publication delays](https://raw.githubusercontent.com/dhimmel/delays/fe80fe4ee0eece86ff694bc973964a5651a4e18f/viz/publication-by-article.png)
+![Publication delays](https://raw.githubusercontent.com/dhimmel/delays/75fef346ac44acea6ae6f7536d1ab584758b9518/viz/publication-by-article.png)
 
 <img id="delay-img-publish" style="width:100%;">
 
@@ -58,7 +58,7 @@ Time from acceptance to online publication
     update_image(type);
   }
 
-  var commit = "fe80fe4ee0eece86ff694bc973964a5651a4e18f";
+  var commit = "75fef346ac44acea6ae6f7536d1ab584758b9518";
 
   // accept
   var url = "https://raw.githubusercontent.com/dhimmel/delays/" + commit  + "/webapp/select2-accept" + ".json";
