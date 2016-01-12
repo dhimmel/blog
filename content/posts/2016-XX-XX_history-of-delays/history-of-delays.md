@@ -1,10 +1,21 @@
 Title: The history of publishing delays
 Slug: history-of-delays
-Date: 2016-01-20
+Date: 2016-02-10
 Tags: publishing delays
 Status: draft
 
-**Copyright notice:** Unpublished work by Daniel Himmelstein, all rights reserved until this notice is removed.
+**Notice:** Unpublished work by Daniel Himmelstein, all rights reserved until this notice is removed. Please do not share this page until its publication.
+
+***
+
+Last July, I [released a summary](http://blog.dhimmel.com/plos-and-publishing-delays/#journals_wrapper) of the recent publishing delays at 3,475 journals. The post attracted lots of attention via [Twitter](https://twitter.com/dhimmel/status/615624280026394625) and [*Nature News*](https://doi.org/10.1038/523131f), primarily because scientists are frustrated with the sluggish pace of publishing.
+
+However, a major question remained. Are publication delays getting better or worse? Kendall Powell, writing a feature article for *Nature News* released in tandem with this post, contacted me. Her investigation had uncovered a widespread belief that delays were worsening with time. But she wanted data, and the existing data was highly [concentrated](http://wp.me/p4Ir7n-5Y) or [anecdotal](https://doi.org/10.1096/fj.12-0901ufm).
+
+So I set out to uncover the history of publishing delays. Using PubMed, I extracted:
+
++ **acceptance delays**—days from receival to acceptance—for 3,238,646 articles since 1965
++ **publishing delays**—days from acceptance to online publication—for 2,661,145 articles since 1997
 
 ## Acceptance delays
 
@@ -28,6 +39,9 @@ Time from acceptance to online publication
 
 <select id="select-publish" style="width:100%"></select>
 
+## Journal trends
+
+![Change in delays over time](https://raw.githubusercontent.com/dhimmel/delays/19506467197da6a487aec51fe92a212d78ccae0f/viz/slope-distributions.png)
 
 ## Limitations
 
