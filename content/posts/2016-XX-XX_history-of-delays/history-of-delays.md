@@ -51,7 +51,13 @@ These findings illustrate the transformative power of the digital age: publicati
 
 ## Journal trends
 
-![Change in delays over time](https://raw.githubusercontent.com/dhimmel/delays/19506467197da6a487aec51fe92a212d78ccae0f/viz/slope-distributions.png)
+The last decade witnessed the rise of the megajournal. By [rapidly publishing a large quantity](https://doi.org/10.7717/peerj.981) of articles, megajournals could be driving article-level delay trends. So what about journal-level delay trends? If you select a random journal, are you more likely to see increasing or decreasing delays?
+
+For each journal, we regressed article delay versus date. The resulting slope indicates the average number of days a journal's delays increased per year. The distributions of these slopes are shown below. Dashes indicate quartiles and crosses indicate means.
+
+![Journal-level delay trends](https://raw.githubusercontent.com/dhimmel/delays/19506467197da6a487aec51fe92a212d78ccae0f/viz/slope-distributions.png)
+
+69% percent of journals experienced decreasing publication delays. However in terms of acceptance delays, journals are roughly split between quickening and slowing. The positive skew of the acceptance distribution suggests that the slowing journals have slowed more than the quickening journals have quickened, although this effect is minor.
 
 ## Limitations
 
