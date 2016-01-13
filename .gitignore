@@ -1,5 +1,5 @@
-# Draft folder
-output/drafts
+# Output folder
+output
 
 # Pelican Files
 srv.pid
