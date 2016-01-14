@@ -35,7 +35,7 @@ Interested in a specific journal? Use the selection box below to explore its acc
 
 ## Publication delays
 
-Online publication [began in the '90s](https://doi.org/10.3998/3336451.0003.212) and quickly became standard. Nowadays, since print rarely precedes online access, an article's online debut is its effective date of publication. Conveniently in PubMed, precise dates are considerably more available for online compared to print publication.
+Online publication [began in the ’90s](https://doi.org/10.3998/3336451.0003.212) and quickly became standard. Nowadays, since print rarely precedes online access, an article's online debut is its effective date of publication. Conveniently in PubMed, precise dates are considerably more available for online compared to print publication.
 
 The time between acceptance and online publication encapsulates typesetting, proofing, and occasionally press releasing. The plot below shows the history of online publication delays since 2000, the first year with a double-digit number of journals.
 
@@ -53,19 +53,27 @@ These findings illustrate the transformative power of the digital age: publicati
 
 The last decade witnessed the rise of the megajournal. By [rapidly publishing a large quantity](https://doi.org/10.7717/peerj.981) of articles, megajournals could be driving article-level delay trends. So what about journal-level delay trends? If you select a random journal, are you more likely to see increasing or decreasing delays?
 
-For each journal, we regressed article delay versus date. The resulting slope indicates the average number of days a journal's delays increased per year. The distributions of these slopes are shown below. Dashes indicate quartiles and crosses indicate means.
+For each journal, I regressed article delay versus date. The resulting slope indicates the average number of days a journal's delays increased per year. The distributions of these slopes are shown below. Dashes indicate quartiles and crosses indicate means.
 
 ![Journal-level delay trends](https://raw.githubusercontent.com/dhimmel/delays/19506467197da6a487aec51fe92a212d78ccae0f/viz/slope-distributions.png)
 
-69% percent of journals experienced decreasing publication delays. However in terms of acceptance delays, journals are roughly split between quickening and slowing. The positive skew of the acceptance distribution suggests that the slowing journals have slowed more than the quickening journals have quickened, although this effect is minor.
+69% percent of journals experienced decreasing publication delays. However in terms of acceptance delays, journals were roughly split between quickening and slowing. These findings suggest that the article-level trends above are generally occurring amongst journals, rather than being dominated by a few megajournals.
 
 ## Limitations
 
-+ Only includes published articles, rejections may be different
-+ Non-selection bias
-+ Errant data
-+ Receival is initial submission or revised submission
-+ provisional PDF
+Briefly, here are some limitations the reader should be aware of:
+
++ The [overall time till publication](https://doi.org/10.1073/pnas.1511912112) is outside the scope of this analysis. Growing reviewer expectations, rejection rates, and author lists could make the overall publication process more laborious even if individual journals are becoming quicker.
++ Depositing dates in PubMed is optional leading to the potential for selection bias.
++ PubMed contains erroneous dates. However, we apply quality control including removing negative delays and zero-day acceptances as well as defining an acceptable date range.
++ There is no standard for PubMed's `receival` date. Some journals use the date of initial submission while others use resubmission or revised-submission dates.
++ Provisional publication—whereby publishers release a pre-typeset article (generally as a PDF only) prior to complete online publication—blurs the meaning of publication.
+
+I encourage readers to explore and build on this analysis, which is [available on GitHub](https://github.com/dhimmel/delays).
+
+## Conclusion
+
+Publishing delays haven't ballooned. However, there's plenty of room for improvement. I'd like to see existing journals strive towards acceptance within two months and publication within two weeks. In the meantime, scientists looking to circumvent delays should consider [preprinting](http://blog.dhimmel.com/preprints-2015/) or realtime platforms like [*Thinklab*](http://thinklab.com/).
 
 <script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/js/select2.min.js"></script>
