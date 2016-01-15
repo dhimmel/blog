@@ -23,14 +23,13 @@ through the end of 2015.
 
 The time between submission and acceptance encapsulates editorial decision, peer review, and revision. Below, we visualize 51 years of acceptance delays. Each year, the green lines indicate delay percentiles, spaced every 2.5 points with quartiles bolded. The gray band displays a curve fitted for all articles over time.
 
-![Acceptance delay versus year accepted](https://raw.githubusercontent.com/dhimmel/delays/75fef346ac44acea6ae6f7536d1ab584758b9518/viz/acceptance-by-article.png "51 years of acceptance delays")
+![Acceptance delay versus year accepted](https://raw.githubusercontent.com/dhimmel/delays/19dfde5e6953f621f2b6796409e71035848be17e/viz/acceptance-by-article.png "35 years of acceptance delays")
 
 The number of journals reporting acceptance delays prior to 1981 [is in](https://github.com/dhimmel/delays/blob/19506467197da6a487aec51fe92a212d78ccae0f/data/year-summaries.tsv) the single digits, so drawing conclusions on those early years would be premature. However since 1981, the median acceptance delay has teetered around the 100 day mark. So on a per article level, acceptance delays don't appear to be worsening. If anything, long delays are becoming less frequent as evidenced by the downward sloping third quartile line and best-fit curve since 1988.
 
-Interested in a specific journal? Use the selection box below to explore its acceptance delay history. Red dots represent individual articles.
+Interested in a specific journal? Use the box below to select from 2,901 journals with acceptance delay histories. Red dots represent individual articles.
 
 <img id="delay-img-accept" style="width:100%;">
-
 <select id="select-accept" style="width:100%"></select>
 
 ## Publication delays
@@ -39,14 +38,13 @@ Online publication [began in the ’90s](https://doi.org/10.3998/3336451.0003.21
 
 The time between acceptance and online publication encapsulates typesetting, proofing, and occasionally press releasing. The plot below shows the history of online publication delays since 2000, the first year with a double-digit number of journals.
 
-![Publication delay versus year published](https://raw.githubusercontent.com/dhimmel/delays/75fef346ac44acea6ae6f7536d1ab584758b9518/viz/publication-by-article.png "16 years of online publication delays")
+![Publication delay versus year published](https://raw.githubusercontent.com/dhimmel/delays/19dfde5e6953f621f2b6796409e71035848be17e/viz/publication-by-article.png "16 years of online publication delays")
 
 Publication delays have approximately been cut in half since the early 2000s. Progress hit a plateau in 2009 with the median delay stabilizing around 25 days. However, the longest delays steadily decreased up until 2014.
 
-These findings illustrate the transformative power of the digital age: publication speed doubled and now greater transparency will bring scrutiny to the stragglers, who will hopefully pick up their pace. Use the selection box below to view the publication delay history of a specific journal.
+These findings illustrate the transformative power of the digital age: publication speed doubled and now greater transparency will bring scrutiny to the stragglers, who will hopefully pick up their pace. Below, select from 2,564 journals with publication delay histories.
 
 <img id="delay-img-publish" style="width:100%;">
-
 <select id="select-publish" style="width:100%"></select>
 
 ## Journal trends
@@ -55,7 +53,7 @@ The last decade witnessed the rise of the megajournal. By [rapidly publishing a 
 
 For each journal, I regressed article delay versus date. The resulting slope indicates the average number of days a journal's delays increased per year. The distributions of these slopes are shown below. Dashes indicate quartiles and crosses indicate means.
 
-![Journal-level delay trends](https://raw.githubusercontent.com/dhimmel/delays/19506467197da6a487aec51fe92a212d78ccae0f/viz/slope-distributions.png)
+![Journal-level delay trends](https://raw.githubusercontent.com/dhimmel/delays/19dfde5e6953f621f2b6796409e71035848be17e/viz/slope-distributions.png)
 
 69% percent of journals experienced decreasing publication delays. However in terms of acceptance delays, journals were roughly split between quickening and slowing. These findings suggest that the article-level trends above are generally occurring amongst journals, rather than being dominated by a few megajournals.
 
@@ -63,7 +61,7 @@ For each journal, I regressed article delay versus date. The resulting slope ind
 
 Briefly, here are some limitations the reader should be aware of:
 
-+ The [overall time till publication](https://doi.org/10.1073/pnas.1511912112) is outside the scope of this analysis. Growing reviewer expectations, rejection rates, and author lists could make the overall publication process more laborious even if individual journals are becoming quicker.
++ The [overall time till publication](https://doi.org/10.1073/pnas.1511912112) is outside the scope of this analysis. Growing manuscripts, rejection rates, and author lists could make the overall publication process more laborious even if individual journals are becoming quicker.
 + Depositing dates in PubMed is optional leading to the potential for selection bias.
 + PubMed contains erroneous dates. However, we apply quality control including removing negative delays and zero-day acceptances as well as defining an acceptable date range.
 + There is no standard for PubMed's `receival` date. Some journals use the date of initial submission while others use resubmission or revised-submission dates.
@@ -98,7 +96,7 @@ Publishing delays haven't ballooned. However, there's plenty of room for improve
     update_image(type);
   }
 
-  var commit = "75fef346ac44acea6ae6f7536d1ab584758b9518";
+  var commit = "19dfde5e6953f621f2b6796409e71035848be17e";
 
   // accept
   var url = "https://raw.githubusercontent.com/dhimmel/delays/" + commit  + "/webapp/select2-accept" + ".json";
