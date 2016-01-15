@@ -8,7 +8,7 @@ Status: draft
 
 ***
 
-Last July, I [released a summary](http://blog.dhimmel.com/plos-and-publishing-delays/#journals_wrapper) of the recent publishing delays at 3,475 journals. The post attracted lots of attention via [Twitter](https://twitter.com/dhimmel/status/615624280026394625) and [*Nature News*](https://doi.org/10.1038/523131f), primarily because scientists are frustrated with the sluggish pace of publishing.
+Last June, I [released a summary](http://blog.dhimmel.com/plos-and-publishing-delays/#journals_wrapper) of the recent publishing delays at 3,475 journals. The post attracted lots of attention via [Twitter](https://twitter.com/dhimmel/status/615624280026394625) and [*Nature News*](https://doi.org/10.1038/523131f), primarily because scientists are frustrated with the sluggish pace of publishing.
 
 However, a major question remained. Are publication delays getting better or worse? Kendall Powell, writing a feature for *Nature News* released in tandem with this post, contacted me. Her investigation had uncovered a widespread belief that delays were worsening with time. But she wanted data, and the existing data was highly [concentrated](http://wp.me/p4Ir7n-5Y) or [anecdotal](https://doi.org/10.1096/fj.12-0901ufm).
 
@@ -21,7 +21,7 @@ through the end of 2015.
 
 ## Acceptance delays
 
-The time between submission and acceptance encapsulates editorial decision, peer review, and revision. Below, we visualize 51 years of acceptance delays. Each year, the green lines indicate delay percentiles, spaced every 2.5 points with quartiles bolded. The gray band displays a curve fitted for all articles over time.
+The time between submission and acceptance encapsulates editorial decision, peer review, and revision. Below, we visualize 35 years of acceptance delays. Each year, the green lines indicate delay percentiles, spaced every 2.5 points with quartiles bolded. The gray band displays a curve fitted for all articles over time.
 
 ![Acceptance delay versus year accepted](https://raw.githubusercontent.com/dhimmel/delays/19dfde5e6953f621f2b6796409e71035848be17e/viz/acceptance-by-article.png "35 years of acceptance delays")
 
