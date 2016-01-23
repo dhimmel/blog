@@ -10,7 +10,7 @@ Status: draft
 
 Last June, I [released a summary](http://blog.dhimmel.com/plos-and-publishing-delays/#journals_wrapper "Publication delays at PLOS and 3,475 other journals") of the recent publishing delays at 3,475 journals. The post attracted lots of attention via [Twitter](https://twitter.com/dhimmel/status/615624280026394625 "Tweet introducing data on publication and acceptance delays for 3,482 journals") and [*Nature News*](https://doi.org/10.1038/523131f "Long wait for publication plagues many journals"), primarily because scientists are frustrated with the sluggish pace of publishing.
 
-However, a major question remained. Are publication delays getting better or worse? Kendall Powell, writing a feature for *Nature News* released in tandem with this post, contacted me. Her investigation had uncovered a widespread belief that delays were worsening with time. But she wanted data, and the existing data was [field specific](http://wp.me/p4Ir7n-5Y "Waiting to Happen: Publication lag times in Cell Biology Journals") or [anecdotal](https://doi.org/10.1096/fj.12-0901ufm "The Glacial Pace of Scientific Publishing").
+However, a major question remained. Are publication delays getting shorter or longer? Kendall Powell, writing a feature for *Nature News* released in tandem with this post, contacted me. Her investigation had uncovered a widespread belief that delays were worsening with time. But she wanted data, and the existing data was [field specific](http://wp.me/p4Ir7n-5Y "Waiting to Happen: Publication lag times in Cell Biology Journals") or [anecdotal](https://doi.org/10.1096/fj.12-0901ufm "The Glacial Pace of Scientific Publishing").
 
 So I set out to uncover the history of publishing delays. Using PubMed, I extracted
 
@@ -61,13 +61,14 @@ For each journal, I regressed article delay versus date. The resulting slope ind
 
 Briefly, here are some limitations the reader should be aware of:
 
-+ The [overall time till publication](https://doi.org/10.1073/pnas.1511912112 "Accelerating scientific publication in biology") is outside the scope of this analysis. Growing manuscripts, rejection rates, and author lists could make the overall publication process more laborious even if individual journals are becoming quicker.
-+ Depositing dates in PubMed is optional leading to the potential for selection bias.
 + PubMed contains erroneous dates. However, we apply quality controls such as removing negative delays and zero-day acceptances.
++ Depositing dates in PubMed is optional leading to the potential for selection bias.
++ The [overall time till publication](https://doi.org/10.1073/pnas.1511912112 "Accelerating scientific publication in biology") is outside the scope of this analysis. Growing manuscripts, rejection rates, and author lists could make the overall publication process more laborious even if individual journals are becoming quicker.
 + There is no standard for PubMed's `receival` date. Some journals use the date of initial submission while others use resubmission or revised-submission dates.
++ There's [evidence](http://svpow.com/2012/10/03/dear-royal-society-please-stop-lying-to-us-about-publication-times/ "Dear Royal Society, please stop lying to us about publication times") that journals favor decisions of "reject with invited resubmission" rather than "revise" to shorten their reported acceptance delays. [Some feel](http://smallpondscience.com/2015/05/20/what-ever-happened-to-major-and-minor-revisions/ "What ever happened to major and minor revisions?") this practice is increasing with time.
 + Provisional publication—whereby publishers release a pre-typeset article (generally as a PDF only) prior to complete online publication—blurs the meaning of publication.
 
-I encourage readers to explore and build on this analysis, which is [available on GitHub](https://github.com/dhimmel/delays/tree/history-blog-post "GitHub Repository: dhimmel/delays at history-blog-post").
+The takeaway here is that, as a whole, PubMed acceptance delays likely underestimate the actual time it takes to get a manuscript accepted. I encourage readers to explore and build on this analysis, which is [available on GitHub](https://github.com/dhimmel/delays/tree/history-blog-post "GitHub Repository: dhimmel/delays at history-blog-post").
 
 ## Conclusion
 
