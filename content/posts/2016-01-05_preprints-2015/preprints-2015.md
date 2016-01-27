@@ -3,7 +3,7 @@ Slug: preprints-2015
 Date: 2016-01-05
 Tags: preprints, bioRxiv, PeerJ Preprints, Thinklab, open science, scientific publishing, publishing delays
 
-2015 was a year of the preprint. While posting manuscripts prior to peer review and journal publication [has](http://arxiv.org/pdf/1108.2700v2.pdf) long been practiced in physics, preprints are just catching on in the biosciences.
+2015 was a year of the preprint. While posting manuscripts prior to peer review and journal publication [has](http://arxiv.org/pdf/1108.2700v2.pdf "arXiv · It was twenty years ago today …") long been practiced in physics, preprints are just catching on in the biosciences.
 
 Last year, labs [started](https://medium.com/@greenescientist/why-we-preprint-fb3bfbcdf4ff "Why we preprint") universally preprinting, and preprints [were billed](https://doi.org/10.1073/pnas.1511912112 "Accelerating scientific publication in biology") as the solution to accelerating an ever more laborious publishing process.
 

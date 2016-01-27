@@ -35,7 +35,7 @@ To reconstruct the Tokyo railway, researchers placed Quaker Oats in a petri dish
 
 ## The slime and EMP converge
 
-During this period, my junior spring, I took the best course of my Cornell experience, [networks](https://courses.cit.cornell.edu/info2040_2010sp/). The final paper asked for an "exploration of a topic related to the course." I [proposed](https://doi.org/10.6084/m9.figshare.1488841 "Biologically inspired designs for restoring power transmission after an electromagnetic pulse attack") using slime mold networks to reconstruct the power grid after an EMP attack. Food sources would represent power plants. Slime mold would be tasked with reconnecting the power grid, but constrained by a light gradient representing the blast.
+During this period, my junior spring, I took the best course of my Cornell experience, [networks](https://courses.cit.cornell.edu/info2040_2010sp/ "Computer Science 2850, Cornell University, Spring 2010"). The final paper asked for an "exploration of a topic related to the course." I [proposed](https://doi.org/10.6084/m9.figshare.1488841 "Biologically inspired designs for restoring power transmission after an electromagnetic pulse attack") using slime mold networks to reconstruct the power grid after an EMP attack. Food sources would represent power plants. Slime mold would be tasked with reconnecting the power grid, but constrained by a light gradient representing the blast.
 
 <p><iframe src="http://wl.figshare.com/articles/1488841/embed?show_title=0" width="100%" height="400" frameborder="0"></iframe></p>
 
