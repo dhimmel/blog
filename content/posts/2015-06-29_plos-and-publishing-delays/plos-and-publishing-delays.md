@@ -3,7 +3,7 @@ Slug: plos-and-publishing-delays
 Date: 2015-06-29
 Tags: publishing, PLOS, journals, open access, acceptance time, publication time, PLOS Computational Biology, PubMed, scraping
 
-On April 22, 2015 my research was formally accepted to *PLOS Computational Biology*. 68 days later the article has yet to be published. My [current project](https://dx.doi.org/10.15363/thinklab.4) builds on the [forthcoming study](https://dx.doi.org/10.1101/011569) and would benefit from its publication. Frustrated, I decided to investigate whether such delays are commonplace at PLOS.
+On April 22, 2015 my research was formally accepted to *PLOS Computational Biology*. 68 days later the article has yet to be published. My [current project](https://doi.org/10.15363/thinklab.4 "Thinklab · Repurposing drugs on a heterogeneous network") builds on the [forthcoming study](https://doi.org/10.1101/011569 "bioRxiv · Heterogeneous Network Edge Prediction: A Data Integration Approach to Prioritize Disease-Associated Genes") and would benefit from its publication. Frustrated, I decided to investigate whether such delays are commonplace at PLOS.
 
 ## Publication and acceptance delays at PLOS
 
@@ -13,7 +13,7 @@ I started by retrieving all PubMed records for the 7 PLOS journals. For each jou
 
 I am not alone! Starting in 2011, publications delays at *PLOS Computational Biology* began regularly breaching 80 days. *PLOS Genetics*, *Pathogens*, and *Neglected Tropical Diseases* experienced similar publishing delay explosions in 2011, although appear to have recently improved. These extreme temporal fluctuations suggest that delays are not an innate and immutable characteristic of publishing, but instead dependent on operational efficiency and organizational well-being.
 
-The two oldest and most established PLOS journals, *Biology* and *Medicine*, followed a different pattern: long delays in their early years followed by stability at 40 days since 2009. The dearth of *PLOS Biology* records prior to 2009, resulted from broken DOI redirects. Before my scraper finished its duties, PLOS [fixed the issue](https://twitter.com/dhimmel/status/613842560360951808) resulting in the few visible *Biology* articles of that period.
+The two oldest and most established PLOS journals, *Biology* and *Medicine*, followed a different pattern: long delays in their early years followed by stability at 40 days since 2009. The dearth of *PLOS Biology* records prior to 2009, resulted from broken DOI redirects. Before my scraper finished its duties, PLOS [fixed the issue](https://twitter.com/dhimmel/status/613842560360951808 "Twitter · PLOS Biology DOI resolution error") resulting in the few visible *Biology* articles of that period.
 
 The scraped data is nice because it comes directly from the source, but is time intensive and limited to a single webpage layout. Therefore, I also extracted timestamps from PubMed. Below I show publication (solid lines) and acceptance (dotted lines) times from this larger dataset.
 
@@ -31,7 +31,7 @@ Next, I decided to compile recent delay information for as many journals as poss
 
 I looked at delays for open access journals in my field. Below, publication time distributions are shown for 16 journals.
 
-![Publishing time per journal](https://raw.githubusercontent.com/dhimmel/plostime/39ff289cae08c81bce6aed499e8df391a05b2107/figure/publication-days-violinplot.png)
+![Publishing time per journal](https://raw.githubusercontent.com/dhimmel/plostime/39ff289cae08c81bce6aed499e8df391a05b2107/figure/publication-days-violinplot.png "Publication delays for 16 open access journals in my field")
 
 As luck would have it, *PLOS Computational Biology* has the highest median publication time. Since all PLOS journals use the same editorial and typesetting system, the poor performance across the PLOS family is unsurprising.
 
@@ -39,7 +39,7 @@ As luck would have it, *PLOS Computational Biology* has the highest median publi
 
 Next, I looked at acceptance times for the same 16 journals.
 
-![Acceptance time per journal](https://raw.githubusercontent.com/dhimmel/plostime/39ff289cae08c81bce6aed499e8df391a05b2107/figure/acceptance-days-violinplot.png)
+![Acceptance time per journal](https://raw.githubusercontent.com/dhimmel/plostime/39ff289cae08c81bce6aed499e8df391a05b2107/figure/acceptance-days-violinplot.png "Acceptance delays for 16 open access journals in my field")
 
 *PeerJ* is a clear winner with a median time of 74 days. The variation between journals for acceptance time is less drastic than for publication time: peer review sets a lower limit on the time needed for acceptance.
 
@@ -64,7 +64,7 @@ The table below shows the median days till acceptance and publication for 3,482 
 
 Acceptance and publication times are not the only factor to consider when selecting a journal. Traditionally, the impact factor -- average citations for articles published in the two preceding years -- has been a primary criteria. However, any single metric is insufficient to make an informed decision on where to submit. A host of other journal attributes matter such as readership, aesthetics, communication, friendliness, flexibility, features, and web nativity.
 
-I propose a journal review service. Like yelp for scientific publishing except that author reviews will be [CC-BY](https://creativecommons.org/licenses/by/4.0/). I see three main benefits:
+I propose a journal review service. Like yelp for scientific publishing except that author reviews will be [CC-BY](https://creativecommons.org/licenses/by/4.0/ "Creative Commons — Attribution 4.0 International"). I see three main benefits:
 
 1. Transparency -- past author experiences with a journal are a treasure trove in need of a display case
 1. Search -- even finding all journals that publish research in your field is difficult. A search feature would support filters and rankings based on user preferences.
@@ -76,7 +76,7 @@ Let us know in the comments if any services already exist to fulfill this role.
 
 My goal in performing this extensive evaluation of PLOS publishing times was to bring light to an area of publishing that needed it. PLOS led the open access revolution and still has its unique advantages. Hopefully, public feedback will allow PLOS to improve in the areas where it struggles.
 
-Check out the [GitHub repository](https://github.com/dhimmel/plostime) for source code, datasets, and figures.
+Check out the [GitHub repository](https://github.com/dhimmel/plostime "dhimmel/plostime on GitHub") for source code, datasets, and figures.
 
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css">
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
