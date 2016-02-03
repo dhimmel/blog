@@ -23,9 +23,9 @@ through the end of 2015. PubMed relies on publishers to deposit history dates. F
 
 The time between submission and acceptance encapsulates editorial decision, peer review, and revision. Below, we visualize 35 years of acceptance delays. Each year, the green lines indicate delay percentiles, spaced every 2.5 points with quartiles bolded. The gray band displays a curve fitted for all articles over time.
 
-![Acceptance delay versus year accepted](https://raw.githubusercontent.com/dhimmel/delays/5abcac4879b65441c9c63b1774a3b502d83455be/viz/acceptance-by-article.png "35 years of acceptance delays")
+![Acceptance delay versus year accepted](https://raw.githubusercontent.com/dhimmel/delays/59310065e325c71e7d121be240a0a3bc60875cc4/viz/acceptance-by-article.png "35 years of acceptance delays")
 
-The number of journals reporting acceptance delays prior to 1981 [is in](https://github.com/dhimmel/delays/blob/5abcac4879b65441c9c63b1774a3b502d83455be/data/yearly-summaries.tsv "Table with yearly publishing delay summaries") the single digits, so drawing conclusions on those early years would be premature. However since 1981, the median acceptance delay has teetered around the 100 day mark. So on a per article level, acceptance delays don't appear to be worsening. If anything, long delays are becoming less frequent as evidenced by the downward sloping third quartile line and best-fit curve since 1988.
+The number of journals reporting acceptance delays prior to 1981 [is in](https://github.com/dhimmel/delays/blob/59310065e325c71e7d121be240a0a3bc60875cc4/data/yearly-summaries.tsv "Table with yearly publishing delay summaries") the single digits, so drawing conclusions on those early years would be premature. However since 1981, the median acceptance delay has teetered around the 100 day mark. So on a per article level, acceptance delays don't appear to be worsening. If anything, long delays are becoming less frequent as evidenced by the downward sloping third quartile line and best-fit curve since 1988.
 
 Interested in a specific journal? Use the box below to select from 3,086 journals with acceptance delay histories. Red dots represent individual articles.
 
@@ -38,7 +38,7 @@ Online publication [began in the ’90s](https://doi.org/10.3998/3336451.0003.21
 
 The time between acceptance and online publication encapsulates typesetting, proofing, and occasionally press releasing. The plot below shows the history of online publication delays since 2000, the first year with a double-digit number of journals.
 
-![Publication delay versus year published](https://raw.githubusercontent.com/dhimmel/delays/5abcac4879b65441c9c63b1774a3b502d83455be/viz/publication-by-article.png "16 years of online publication delays")
+![Publication delay versus year published](https://raw.githubusercontent.com/dhimmel/delays/59310065e325c71e7d121be240a0a3bc60875cc4/viz/publication-by-article.png "16 years of online publication delays")
 
 Publication delays have approximately been cut in half since the early 2000s. Progress hit a plateau in 2009 with the median delay stabilizing around 25 days. However, the longest delays steadily decreased up until 2014.
 
@@ -53,7 +53,7 @@ The last decade witnessed the rise of the megajournal. By [rapidly publishing a 
 
 For each journal, I regressed article delay versus date. The resulting slope indicates the average number of days a journal's delays increased per year. The distributions of these slopes are shown below. Dashes indicate quartiles and crosses indicate means.
 
-![Journal-level delay trends](https://raw.githubusercontent.com/dhimmel/delays/5abcac4879b65441c9c63b1774a3b502d83455be/viz/slope-distributions.png "Violin plots of change in delay distributions")
+![Journal-level delay trends](https://raw.githubusercontent.com/dhimmel/delays/59310065e325c71e7d121be240a0a3bc60875cc4/viz/slope-distributions.png "Violin plots of change in delay distributions")
 
 69% percent of journals experienced decreasing publication delays. However in terms of acceptance delays, journals were roughly split between quickening and slowing. These findings suggest that the article-level trends above are generally occurring amongst journals, rather than being dominated by a few megajournals.
 
@@ -97,7 +97,7 @@ Publishing delays haven't ballooned. However, there's plenty of room for improve
     update_image(type);
   }
 
-  var commit = "5abcac4879b65441c9c63b1774a3b502d83455be";
+  var commit = "59310065e325c71e7d121be240a0a3bc60875cc4";
 
   // accept
   var url = "https://raw.githubusercontent.com/dhimmel/delays/" + commit  + "/webapp/select2-accept" + ".json";
