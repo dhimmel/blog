@@ -68,7 +68,7 @@ Briefly, here are some limitations the reader should be aware of:
 + There's [evidence](http://svpow.com/2012/10/03/dear-royal-society-please-stop-lying-to-us-about-publication-times/ "Dear Royal Society, please stop lying to us about publication times") that journals favor decisions of "reject and resubmit" rather than "revise" to shorten their reported acceptance delays. [Some feel](http://smallpondscience.com/2015/05/20/what-ever-happened-to-major-and-minor-revisions/ "What ever happened to major and minor revisions?") this practice is increasing with time.
 + Provisional publication—whereby publishers release a pre-typeset article (generally as a PDF only) prior to complete online publication—blurs the meaning of publication.
 
-The takeaway here is that, as a whole, PubMed acceptance delays likely underestimate the actual time it takes to get a manuscript accepted. I encourage readers to explore and build on this analysis, which is [available on GitHub](https://github.com/dhimmel/delays/tree/history-blog-post "GitHub Repository: dhimmel/delays at history-blog-post").
+The takeaway here is that, as a whole, PubMed acceptance delays likely underestimate the actual time it takes to get a manuscript accepted. I encourage readers to explore and build on this analysis, which is [available on GitHub](https://github.com/dhimmel/delays/tree/history-blog-post "GitHub Repository: dhimmel/delays at history-blog-post") and citeable via DOI: [10.5281/zenodo.45516](https://doi.org/10.5281/zenodo.45516 "Zenodo deposition of the GitHub repository for this analysis").
 
 ## Conclusion
 
