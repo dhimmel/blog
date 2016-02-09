@@ -2,15 +2,10 @@ Title: The history of publishing delays
 Slug: history-of-delays
 Date: 2016-02-10
 Tags: publishing delays
-Status: draft
-
-**Notice:** Unpublished work by Daniel Himmelstein, all rights reserved until this notice is removed. Please do not share this page until its publication.
-
-***
 
 Last June, I [released a summary](http://blog.dhimmel.com/plos-and-publishing-delays/#journals_wrapper "Publication delays at PLOS and 3,475 other journals") of the recent publishing delays at 3,475 journals. The post attracted lots of attention via [Twitter](https://twitter.com/dhimmel/status/615624280026394625 "Tweet introducing data on publication and acceptance delays for 3,482 journals") and [*Nature News*](https://doi.org/10.1038/523131f "Long wait for publication plagues many journals"), primarily because scientists are frustrated with the sluggish pace of publishing.
 
-However, a major question remained. Are publication delays getting shorter or longer? Kendall Powell, writing a feature for *Nature News* released in tandem with this post, contacted me. Her investigation had uncovered a widespread belief that delays were worsening with time. But she wanted data, and the existing data was [field specific](http://wp.me/p4Ir7n-5Y "Waiting to Happen: Publication lag times in Cell Biology Journals") or [anecdotal](https://doi.org/10.1096/fj.12-0901ufm "The Glacial Pace of Scientific Publishing").
+However, a major question remained. Are publication delays getting shorter or longer? Kendall Powell, writing a [feature for *Nature News*](http://www.nature.com/news/1.19320 "The Waiting Game") released in tandem with this post, contacted me. Her investigation had uncovered a widespread belief that delays were worsening with time. But she wanted data, and the existing data was [field specific](http://wp.me/p4Ir7n-5Y "Waiting to Happen: Publication lag times in Cell Biology Journals") or [anecdotal](https://doi.org/10.1096/fj.12-0901ufm "The Glacial Pace of Scientific Publishing").
 
 So I set out to uncover the history of publishing delays. Using PubMed, I extracted
 
