@@ -1,5 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Satoshi Village</title><link>http://blog.dhimmel.com/</link><description></description><atom:link href="http://blog.dhimmel.com/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 05 Jan 2016 00:00:00 -0800</lastBuildDate><item><title>The preprint in 2015 and what comes next</title><link>http://blog.dhimmel.com/preprints-2015/</link><description>&lt;p&gt;2015 was a year of the preprint. While posting manuscripts prior to peer review and journal publication &lt;a href="http://arxiv.org/pdf/1108.2700v2.pdf" title="arXiv · It was twenty years ago today …"&gt;has&lt;/a&gt; long been practiced in physics, preprints are just catching on in the&amp;nbsp;biosciences.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Satoshi Village</title><link>http://blog.dhimmel.com/</link><description></description><atom:link href="http://blog.dhimmel.com/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 10 Feb 2016 00:00:00 -0800</lastBuildDate><item><title>The history of publishing delays</title><link>http://blog.dhimmel.com/history-of-delays/</link><description>&lt;p&gt;Last June, I &lt;a href="http://blog.dhimmel.com/plos-and-publishing-delays/#journals_wrapper" title="Publication delays at PLOS and 3,475 other journals"&gt;released a summary&lt;/a&gt; of the recent publishing delays at 3,475 journals. The post attracted lots of attention via &lt;a href="https://twitter.com/dhimmel/status/615624280026394625" title="Tweet introducing data on publication and acceptance delays for 3,482 journals"&gt;Twitter&lt;/a&gt; and &lt;a href="https://doi.org/10.1038/523131f" title="Long wait for publication plagues many journals"&gt;&lt;em&gt;Nature News&lt;/em&gt;&lt;/a&gt;, primarily because scientists are frustrated with the sluggish pace of&amp;nbsp;publishing.&lt;/p&gt;
+&lt;p&gt;However, a major question remained. Are publication delays getting shorter or longer? Kendall Powell, writing a &lt;a href="http://www.nature.com/news/1.19320" title="The Waiting Game"&gt;feature for &lt;em&gt;Nature News&lt;/em&gt;&lt;/a&gt; released in tandem with this post, contacted me. Her investigation had uncovered a widespread belief that delays were worsening with time. But she wanted data, and the existing data was &lt;a href="http://wp.me/p4Ir7n-5Y" title="Waiting to Happen: Publication lag times in Cell Biology Journals"&gt;field specific&lt;/a&gt; or &lt;a href="https://doi.org/10.1096/fj.12-0901ufm" title="The Glacial Pace of Scientific Publishing"&gt;anecdotal&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So I set out to uncover the history of publishing delays. Using PubMed, I&amp;nbsp;extracted&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;acceptance delays&lt;/strong&gt;—days from receival to acceptance—for 3,330,333 articles since&amp;nbsp;1965&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;publishing delays&lt;/strong&gt;—days from acceptance to online publication—for 2,765,750 articles since&amp;nbsp;1997&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;through the end of 2015. PubMed relies on publishers to deposit history dates. Frequently, publishers opt not to provide histories, and occasionally they provide erroneous dates. As a result, publishing delays for many journals will be missing or&amp;nbsp;incomplete.&lt;/p&gt;
+&lt;h2 id="acceptance-delays"&gt;Acceptance&amp;nbsp;delays&lt;/h2&gt;
+&lt;p&gt;The time between submission and acceptance encapsulates editorial decision, peer review, and revision. Below, we visualize 35 years of acceptance delays. Each year, the green lines indicate delay percentiles, spaced every 2.5 points with quartiles bolded. The gray band displays a curve fitted for all articles over&amp;nbsp;time.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Acceptance delay versus year accepted" src="https://raw.githubusercontent.com/dhimmel/delays/59310065e325c71e7d121be240a0a3bc60875cc4/viz/acceptance-by-article.png" title="35 years of acceptance delays" /&gt;&lt;/p&gt;
+&lt;p&gt;The number of journals reporting acceptance delays prior to 1981 &lt;a href="https://github.com/dhimmel/delays/blob/59310065e325c71e7d121be240a0a3bc60875cc4/data/yearly-summaries.tsv" title="Table with yearly publishing delay summaries"&gt;is in&lt;/a&gt; the single digits, so drawing conclusions on those early years would be premature. However since 1981, the median acceptance delay has teetered around the 100 day mark. So on a per article level, acceptance delays don&amp;#8217;t appear to be worsening. If anything, long delays are becoming less frequent as evidenced by the downward sloping third quartile line and best-fit curve since&amp;nbsp;1988.&lt;/p&gt;
+&lt;p&gt;Interested in a specific journal? Use the box below to select from 3,086 journals with acceptance delay histories. Red dots represent individual&amp;nbsp;articles.&lt;/p&gt;
+&lt;p&gt;&lt;select id="select-accept" style="width:100%"&gt;&lt;/select&gt;
+&lt;img id="delay-img-accept" title="Acceptance delay history" style="width:100%;"&gt;&lt;/p&gt;
+&lt;h2 id="publication-delays"&gt;Publication&amp;nbsp;delays&lt;/h2&gt;
+&lt;p&gt;Online publication &lt;a href="https://doi.org/10.3998/3336451.0003.212" title="Electronic Journals and Scholarly Communication"&gt;began in the ’90s&lt;/a&gt; and quickly became standard. Nowadays, since print rarely precedes online access, an article&amp;#8217;s online debut is its effective date of publication. Conveniently in PubMed, precise dates are considerably more available for online compared to print&amp;nbsp;publication.&lt;/p&gt;
+&lt;p&gt;The time between acceptance and online publication encapsulates typesetting, proofing, and occasionally press releasing. The plot below shows the history of online publication delays since 2000, the first year with a double-digit number of&amp;nbsp;journals.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Publication delay versus year published" src="https://raw.githubusercontent.com/dhimmel/delays/59310065e325c71e7d121be240a0a3bc60875cc4/viz/publication-by-article.png" title="16 years of online publication delays" /&gt;&lt;/p&gt;
+&lt;p&gt;Publication delays have approximately been cut in half since the early 2000s. Progress hit a plateau in 2009 with the median delay stabilizing around 25 days. However, the longest delays steadily decreased up until&amp;nbsp;2014.&lt;/p&gt;
+&lt;p&gt;These findings illustrate the transformative power of the digital age: publication speed doubled and now greater transparency will bring scrutiny to the stragglers, who will hopefully pick up their pace. Below, select from 2,756 journals with publication delay&amp;nbsp;histories.&lt;/p&gt;
+&lt;p&gt;&lt;select id="select-publish" style="width:100%"&gt;&lt;/select&gt;
+&lt;img id="delay-img-publish" title="Online publishing delay history" style="width:100%;"&gt;&lt;/p&gt;
+&lt;h2 id="journal-trends"&gt;Journal&amp;nbsp;trends&lt;/h2&gt;
+&lt;p&gt;The last decade witnessed the rise of the megajournal. By &lt;a href="https://doi.org/10.7717/peerj.981" title="Björk (2015) PeerJ"&gt;rapidly publishing a large quantity&lt;/a&gt; of articles, megajournals could be driving article-level delay trends. So what about journal-level delay trends? If you select a random journal, are you more likely to see increasing or decreasing&amp;nbsp;delays?&lt;/p&gt;
+&lt;p&gt;For each journal, I regressed article delay versus date. The resulting slope indicates the average number of days a journal&amp;#8217;s delays increased per year. The distributions of these slopes are shown below. Dashes indicate quartiles and crosses indicate&amp;nbsp;means.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Journal-level delay trends" src="https://raw.githubusercontent.com/dhimmel/delays/59310065e325c71e7d121be240a0a3bc60875cc4/viz/slope-distributions.png" title="Violin plots of change in delay distributions" /&gt;&lt;/p&gt;
+&lt;p&gt;69% percent of journals experienced decreasing publication delays. However in terms of acceptance delays, journals were roughly split between quickening and slowing. These findings suggest that the article-level trends above are generally occurring amongst journals, rather than being dominated by a few&amp;nbsp;megajournals.&lt;/p&gt;
+&lt;h2 id="limitations"&gt;Limitations&lt;/h2&gt;
+&lt;p&gt;Briefly, here are some limitations the reader should be aware&amp;nbsp;of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PubMed contains erroneous dates. However, we apply quality controls such as removing negative delays and zero-day&amp;nbsp;acceptances.&lt;/li&gt;
+&lt;li&gt;Depositing dates in PubMed is optional leading to the potential for selection&amp;nbsp;bias.&lt;/li&gt;
+&lt;li&gt;The &lt;a href="https://doi.org/10.1073/pnas.1511912112" title="Accelerating scientific publication in biology"&gt;overall time till publication&lt;/a&gt; is outside the scope of this analysis. Growing manuscripts, rejection rates, and author lists could make the overall publication process more laborious even if individual journals are becoming&amp;nbsp;quicker.&lt;/li&gt;
+&lt;li&gt;There is no standard for PubMed&amp;#8217;s &lt;code&gt;receival&lt;/code&gt; date. Some journals use the date of initial submission while others use resubmission or revised-submission&amp;nbsp;dates.&lt;/li&gt;
+&lt;li&gt;There&amp;#8217;s &lt;a href="http://svpow.com/2012/10/03/dear-royal-society-please-stop-lying-to-us-about-publication-times/" title="Dear Royal Society, please stop lying to us about publication times"&gt;evidence&lt;/a&gt; that journals favor decisions of &amp;#8220;reject and resubmit&amp;#8221; rather than &amp;#8220;revise&amp;#8221; to shorten their reported acceptance delays. &lt;a href="http://smallpondscience.com/2015/05/20/what-ever-happened-to-major-and-minor-revisions/" title="What ever happened to major and minor revisions?"&gt;Some feel&lt;/a&gt; this practice is increasing with&amp;nbsp;time.&lt;/li&gt;
+&lt;li&gt;Provisional publication—whereby publishers release a pre-typeset article (generally as a &lt;span class="caps"&gt;PDF&lt;/span&gt; only) prior to complete online publication—blurs the meaning of&amp;nbsp;publication.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The takeaway here is that, as a whole, PubMed acceptance delays likely underestimate the actual time it takes to get a manuscript accepted. I encourage readers to explore and build on this analysis, which is &lt;a href="https://github.com/dhimmel/delays/tree/history-blog-post" title="GitHub Repository: dhimmel/delays at history-blog-post"&gt;available on GitHub&lt;/a&gt; and citeable via &lt;span class="caps"&gt;DOI&lt;/span&gt;: &lt;a href="https://doi.org/10.5281/zenodo.45516" title="Zenodo deposition of the GitHub repository for this analysis"&gt;10.5281/zenodo.45516&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="conclusion"&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Publishing delays haven&amp;#8217;t ballooned. However, there&amp;#8217;s plenty of room for improvement. I&amp;#8217;d like to see existing journals strive towards acceptance within two months and publication within two weeks. In the meantime, scientists looking to circumvent delays should consider &lt;a href="http://blog.dhimmel.com/preprints-2015/" title="The preprint in 2015 and what comes next"&gt;preprinting&lt;/a&gt; or realtime platforms such as &lt;a href="http://thinklab.com/" title="A community for realtime open collaborative science"&gt;&lt;em&gt;Thinklab&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript"&gt;&lt;/script&gt;
+
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/js/select2.min.js"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/css/select2.min.css" rel="stylesheet" /&gt;&lt;/p&gt;
+&lt;script type="text/javascript"&gt;
+
+  function update_image(type) {
+    var nlm_id = jQuery('#select-' + type).val();
+    console.log('update_image', type, nlm_id );
+    var url = "https://raw.githubusercontent.com/dhimmel/delays/" + commit + "/viz/journal/" + type + '/' + nlm_id + '.png';
+    jQuery('#delay-img-' + type).attr('src', url);
+  }
+
+  function initialize_select(data, type) {
+    console.log('initialize_select', data, type )
+    jQuery('#select-' + type).select2({
+      data: data,
+      placeholder: "Select a journal"
+    });
+    //jQuery('#select-' + type).val('0001027');
+    update_image(type);
+  }
+
+  var commit = "59310065e325c71e7d121be240a0a3bc60875cc4";
+
+  // accept
+  var url = "https://raw.githubusercontent.com/dhimmel/delays/" + commit  + "/webapp/select2-accept" + ".json";
+  jQuery.getJSON( url, callback=function( data ) {
+    initialize_select(data, 'accept');
+    });
+  jQuery('#select-accept').on("select2:select", function(e) {
+    update_image('accept');
+    });
+
+  // publish
+  var url = "https://raw.githubusercontent.com/dhimmel/delays/" + commit  + "/webapp/select2-publish" + ".json";
+  jQuery.getJSON( url, callback=function( data ) {
+    initialize_select(data, 'publish');
+    });
+  jQuery('#select-publish').on("select2:select", function(e) {
+    update_image('publish');
+    });
+
+&lt;/script&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Himmelstein</dc:creator><pubDate>Wed, 10 Feb 2016 00:00:00 -0800</pubDate><guid>tag:blog.dhimmel.com,2016-02-10:history-of-delays/</guid><category>publishing delays</category></item><item><title>The preprint in 2015 and what comes next</title><link>http://blog.dhimmel.com/preprints-2015/</link><description>&lt;p&gt;2015 was a year of the preprint. While posting manuscripts prior to peer review and journal publication &lt;a href="http://arxiv.org/pdf/1108.2700v2.pdf" title="arXiv · It was twenty years ago today …"&gt;has&lt;/a&gt; long been practiced in physics, preprints are just catching on in the&amp;nbsp;biosciences.&lt;/p&gt;
 &lt;p&gt;Last year, labs &lt;a href="https://medium.com/@greenescientist/why-we-preprint-fb3bfbcdf4ff" title="Why we preprint"&gt;started&lt;/a&gt; universally preprinting, and preprints &lt;a href="https://doi.org/10.1073/pnas.1511912112" title="Accelerating scientific publication in biology"&gt;were billed&lt;/a&gt; as the solution to accelerating an ever more laborious publishing&amp;nbsp;process.&lt;/p&gt;
 &lt;p&gt;To give some context, &lt;em&gt;PeerJ PrePrints&lt;/em&gt; and &lt;em&gt;bioRxiv&lt;/em&gt; both launched in 2013. Prior to 2015, &lt;em&gt;PeerJ&lt;/em&gt; published &lt;a href="https://gist.github.com/dhimmel/81f55d62af27197a845e" title="Growth of bioscience preprints in 2015"&gt;on average&lt;/a&gt; 1.2 preprints per day compared to 2.4 for &lt;em&gt;bioRxiv&lt;/em&gt;. Yet in 2015, &lt;em&gt;PeerJ&lt;/em&gt; averaged 2.3 per day while &lt;em&gt;bioRxiv&lt;/em&gt; averaged 4.9. Since together &lt;em&gt;bioRxiv&lt;/em&gt; and &lt;em&gt;PeerJ&lt;/em&gt; published only 2,626 preprints in 2015 while PubMed grew by 1,082,213 articles, the ~100% annual growth in preprinting could persist for the next several&amp;nbsp;years.&lt;/p&gt;
 &lt;p&gt;And the &lt;a href="https://peerj.com/blog/post/115284878288/a-peerj-preprint-so-just-what-is-that-exactly/" title="A PeerJ PrePrint – so just what is that exactly?"&gt;incentives&lt;/a&gt; for preprinting will likely spur continued growth. In short, the benefits—establishing precedent and increased article lifespan—outweigh the disadvantages—ineligibility to a &lt;a href="http://www.sherpa.ac.uk/romeo/browse.php?colour=white&amp;amp;la=en&amp;amp;fIDnum=|&amp;amp;mode=simple" title="SHERPA/RoMEO List of white publishers"&gt;dwindling set&lt;/a&gt; of démodé journals. While preprint servers may not provide the same visibility as journal, they can still be influential. For example, my first preprint &lt;a href="http://slides.com/dhimmel/data-biologist-cookbook#/2/2" title="Data Biologist Cookbook: Unlocking the Genetics of Complex Diseases"&gt;was featured&lt;/a&gt; in a review, and my second &lt;a href="http://slides.com/dhimmel/data-biologist-cookbook#/2/1" title="Data Biologist Cookbook: Oxygen driven tumorigenesis"&gt;drove interest&lt;/a&gt; in the&amp;nbsp;topic.&lt;/p&gt;
