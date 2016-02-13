@@ -78,6 +78,12 @@ My goal in performing this extensive evaluation of PLOS publishing times was to 
 
 Check out the [GitHub repository](https://github.com/dhimmel/plostime "dhimmel/plostime on GitHub") for source code, datasets, and figures.
 
+***
+
+**Updates**: On February 10, 2016, I published a sequel blog post titled [the history of publishing delays]({filename}../2016-02-10_history-of-delays/history-of-delays.md), which visualizes delays over time for each journal.
+
+***
+
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css">
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script type="text/javascript" src="https://cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js"></script>
