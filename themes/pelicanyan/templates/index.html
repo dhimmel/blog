@@ -13,6 +13,16 @@
     <span class="post-date">{{ article.locale_date }}</span>
 
     {{ article.summary }}
+
+    <!--read more element-->
+    <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
+      <div style="width: 100%; height: 18px; border-bottom: 1px dashed #268AD1; text-align: center">
+        <span style="background-color: #FFFFFF; padding: 0 10px;">
+          <i>read more</i>
+        </span>
+      </div>
+    </a>
+
   </div>
   {% endfor %}
 </div>
