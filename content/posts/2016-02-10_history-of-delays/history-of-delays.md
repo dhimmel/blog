@@ -1,7 +1,7 @@
 Title: The history of publishing delays
 Slug: history-of-delays
 Date: 2016-02-10
-Tags: publishing delays
+Tags: publishing, delays, review time, scientific publishing, journals
 
 Last June, I [released a summary](http://blog.dhimmel.com/plos-and-publishing-delays/#journals_wrapper "Publication delays at PLOS and 3,475 other journals") of the recent publishing delays at 3,475 journals. The post attracted lots of attention via [Twitter](https://twitter.com/dhimmel/status/615624280026394625 "Tweet introducing data on publication and acceptance delays for 3,482 journals") and [*Nature News*](https://doi.org/10.1038/523131f "Long wait for publication plagues many journals"), primarily because scientists are frustrated with the sluggish pace of publishing.
 
