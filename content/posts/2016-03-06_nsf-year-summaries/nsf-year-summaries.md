@@ -1,8 +1,7 @@
-Title: Four years of fellowship: annual summaries for my NSF grant
+Title: Four years of fellowship: annual summaries for my NSF Graduate Research Fellowship
 Slug: nsf-year-summaries
 Date: 2016-03-06
 Tags: NSF, National Science Foundation, GRFP, GRF, fellowship, annual activity report, fellowship year summary
-Status: draft
 
 As a first year graduate student at UCSF, I took a mandatory course titled [_Scientific Writing_](http://coursecatalog.ucsf.edu/course/142 "Biophysics 297 · UCSF Registrar"), which helped students apply for the National Science Foundation's [Graduate Research Fellowship](https://www.nsfgrfp.org "NSF Graduate Research Fellowship Program Homepage"). I was fortunate to receive the fellowship, which has funded the bulk of my PhD since its third year.
 
@@ -55,7 +54,7 @@ Finally, while waiting for my accepted [paper](https://doi.org/10.1371/journal.p
 
 I'll close with four reflections:
 
-1. My productivity exceeded linear growth over the four year period.
+1. My productivity exceeded linear growth over the four year period. Experience has played a role, in addition to the rise of open source tools for data science.
 + The number of hyperlinks per year has grown rapidly from 0 to 3 to 13 to 21. I attribute much of this increase to open science, which has led to more public output per unit of research time.
 + The deadline has always been May 1, yet each year I've finished the summary further in advance than the year before. Am I becoming less just-in-time?
-+ I have yet to "discover new uses for existing drugs" despite aiming for this in 2013.
++ I have yet to "discover new uses for existing drugs" despite aiming for this in 2013. Let's make 2016 the year!
