@@ -3,7 +3,7 @@ Slug: nsf-year-summaries
 Date: 2016-03-06
 Tags: NSF, National Science Foundation, GRFP, GRF, fellowship, annual activity report, fellowship year summary
 
-As a first year graduate student at UCSF, I took a mandatory course titled [_Scientific Writing_](http://coursecatalog.ucsf.edu/course/142 "Biophysics 297 · UCSF Registrar"), which helped students apply for the National Science Foundation's [Graduate Research Fellowship](https://www.nsfgrfp.org "NSF Graduate Research Fellowship Program Homepage"). I was fortunate to receive the fellowship, which has funded the bulk of my PhD since its third year.
+As a first year graduate student at UCSF, I took a mandatory course titled [_Scientific Writing_](http://coursecatalog.ucsf.edu/course/142 "Biophysics 297 · UCSF Registrar"), which helped students apply for the National Science Foundation's [Graduate Research Fellowship](https://www.nsfgrfp.org "NSF Graduate Research Fellowship Program Homepage"). I was fortunate to receive the fellowship (Grant [No. 1144247](http://grantome.com/grant/NSF/DGE-1144247 "Grantome Record")), which has funded the bulk of my PhD since its third year.
 
 At the end of each fellowship year, fellows submit an Annual Activities Report, which includes a written Fellowship Year Summary. Below I've reproduced my summaries from the last four years. But first, here's a screenshot of the prompt:
 
