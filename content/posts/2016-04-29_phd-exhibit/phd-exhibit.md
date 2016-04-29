@@ -1,14 +1,13 @@
 Title: My PhD Exhibit
 Slug: phd-exhibit
-Date: 2016-04-28
+Date: 2016-04-29
 Tags: exhibit, PhD, UCSF, thesis
-Status: draft
 
-1,700 days after moving to San Francisco for graduate school, I gave my thesis seminar. Here's the seminar [recording](https://youtu.be/H8DfXop8K7g):
+1,700 days after moving to San Francisco for graduate school, I gave my thesis seminar. We live streamed the seminar on YouTube. The stream peaked at 20 concurrent viewers and had viewers from America, Bulgaria, Brazil, Britain, Canada, Czechia, France, and Israel. Here's a shout-out to everyone who tuned in. If you missed it, the [recording](https://youtu.be/H8DfXop8K7g "YouTube · Daniel Himmelstein's PhD Thesis Seminar") (below) and [slides](http://slides.com/dhimmel/thesis-seminar "Slides · The hetnet awakens: understanding disease through data integration & open science") are online.
 
 <div class="videoWrapper"><iframe width="604" height="340" src="https://www.youtube.com/embed/H8DfXop8K7g?feature=oembed&rel=0&theme=light&showinfo=0&autohide=1" frameborder="0" allowfullscreen></iframe></div>
 
-After the seminar, the Baranzini Lab organized a reception. The reception was home to my PhD Exhibit. As per tradition, PhD Exhibits showcase items and achievements from one's dissertation. My exhibit consisted of the following 11 items and reprinted labels.
+After the seminar, the Baranzini Lab organized a reception. The reception was home to my PhD Exhibit. As per tradition, PhD Exhibits showcase items and achievements from one's dissertation. My exhibit consisted of the following 11 items and labels, adapted for the _Satoshi Village_ blog.
 
 ## 1. Emrakul, the Aeons Torn
 
@@ -36,7 +35,7 @@ Daniel's time at UCSF has been a time of growth, both for Daniel as a scientist 
 
 ## 5. The PhD Plant
 
-![Exhibit 5]({attach}exhibit-05.jpg)
+![Exhibit 5]({attach}exhibit-05.jpg "Daniel's PhD Plant is pictured with Isabelle Feldhaus")
 
 On display is Daniel's PhD Plant. When a student takes on a PhD Plant, their primary doctoral obligation becomes graduating before the plant perishes. Daniel has been cultivating this abutilon since April 2014. Over the years he added grass and replanted it, although he deeply regrets not having started it from seed on September 1, 2011 — the first day of his PhD. Daniel thanks his labmate Egle for caring for the plant in his absence. Upon leaving, Daniel is expected to give the plant to Egle.
 
