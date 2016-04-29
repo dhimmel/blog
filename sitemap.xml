@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
+    <loc>http://blog.dhimmel.com/phd-exhibit/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>http://blog.dhimmel.com/nsf-year-summaries/</loc>
     <priority>0.8</priority>
   </url>
