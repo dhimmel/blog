@@ -35,7 +35,7 @@ Daniel's time at UCSF has been a time of growth, both for Daniel as a scientist 
 
 ## 5. The PhD Plant
 
-![Exhibit 5]({attach}exhibit-05.jpg "Daniel's PhD Plant is pictured with Isabelle Feldhaus")
+![Exhibit 5]({attach}exhibit-05.jpg "Daniel's PhD Plant is pictured with Isabelle Feldhaus at The Exhibit. The poor health of the plant is disguised with posterization.")
 
 On display is Daniel's PhD Plant. When a student takes on a PhD Plant, their primary doctoral obligation becomes graduating before the plant perishes. Daniel has been cultivating this abutilon since April 2014. Over the years he added grass and replanted it, although he deeply regrets not having started it from seed on September 1, 2011 — the first day of his PhD. Daniel thanks his labmate Egle for caring for the plant in his absence. Upon leaving, Daniel is expected to give the plant to Egle.
 
