@@ -4,7 +4,7 @@ Date: 2016-11-30
 Tags: bioRxiv, preprints, licensing, Creative Commons, license, CC BY, publishing
 Status: draft
 
-[Medium Post](https://medium.com/@OmnesRes/so-i-went-ahead-and-grabbed-the-licensing-information-for-each-article-de0414b4ca3a) by Jordan Anaya of Omnes Res.
+From 2013 to 2015, bioRxiv published 2,589 preprints. Now in 2016 alone, they've published 4,309.
 
 ## Licenses over time
 
@@ -32,6 +32,9 @@ Each preprint received a score based on its license: 5 points for CC BY, 3 for C
   <tbody></tbody>
 </table>
 
+## Acknowledgements
+
+[Medium Post](https://medium.com/@OmnesRes/so-i-went-ahead-and-grabbed-the-licensing-information-for-each-article-de0414b4ca3a) by Jordan Anaya of Omnes Res.
 
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.css">
 <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
