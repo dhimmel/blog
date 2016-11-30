@@ -54,7 +54,7 @@ Each preprint received a score based on its license: 5 points for CC BY, 3 for C
 
 <script>
 var base_url = 'https://raw.githubusercontent.com/dhimmel/biorxiv-licenses';
-var commit = '2f1c2cd37ff234c173d6cde919d33776a5ca1753';
+var commit = 'master';
 
 
 $(document).ready(function () {
