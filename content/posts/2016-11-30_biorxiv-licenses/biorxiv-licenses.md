@@ -6,9 +6,9 @@ Status: draft
 
 Jordan Anaya of Omnes Res, creator of the PrePubMed search engine for biomedical preprints, recently compared _bioRxiv_ to _PeerJ Preprints_. We both agree that _PeerJ_ offers a better user experience with fantastic technology behind their preprint server. However, _bioRxiv_ has greater adoption in the biodata sciences.
 
-In fact, since my last blog post on preprints at the beginning of 2016, _bioRxiv_ has grown by 140% from 2,785 to 6,918 preprints. The growth has been fueled largely by the efforts of [ASAPbio](http://asapbio.org/) and the growing recognition that publishing delays are interfering with science.
+In fact, since my last blog post on preprints at the beginning of 2016, _bioRxiv_ has grown by 140% from 2,785 to 6,918 preprints. The growth has been fueled largely by the efforts of [ASAPbio](http://asapbio.org/) and the growing recognition that [publishing delays](http://blog.dhimmel.com/history-of-delays/) are [interfering with science](https://doi.org/10.1038/530148a).
 
-While PeerJ requires that all preprints are published under a Creative Commons Attribution (CC BY) License, _bioRxiv_ allows authors to choose from five options: CC BY, CC BY-ND, CC BY-NC, CC BY-NC-ND, and all rights reserved (no license).
+While _PeerJ_ requires that all preprints are published under a Creative Commons Attribution (CC BY) License, _bioRxiv_ allows authors to choose from five options: CC BY, CC BY-ND, CC BY-NC, CC BY-NC-ND, and all rights reserved (no license).
 
 The purpose of Creative Commons licenses is to allow the reuse of content that would otherwise be prohibited by copyright. As a result, the open licensing of preprints is crucial for the growth of open access, the movement to make publicly-funded research articles available to and reusable by the public.
 
@@ -34,7 +34,7 @@ Next, I looked at the license breakdown by discipline. The figure below shows al
 
 Next, I assigned each preprint a score based on its license: 5 points for CC BY, 3 for CC BY-ND or CC BY-NC, 2 for CC BY-NC-ND, and 1 for all rights reserved. An author's score is the sum of their preprints.
 
-Middle initials were removed to consolidate duplicate names for the same person. If you're worried that this analysis conflates multiple authors with the same name, start using [ORCID](http://orcid.org/ "persistent digital identifiers for every researcher"). Luckily, with only 29,322 distinct author names, name collisions are yet to be a major problem.
+Middle initials were removed to consolidate duplicate names for the same person. If you're worried that this analysis conflates multiple authors with the same name, start using [ORCID](http://orcid.org/ "Persistent digital identifiers for every researcher"). Luckily, with only 29,322 distinct author names, name collisions are yet to be a major problem.
 
 <table id="authors" class="display" cellspacing="0" width="100%">
   <thead>
