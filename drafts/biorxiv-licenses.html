@@ -76,12 +76,53 @@ styles, `#sidebar-checkbox` for behavior. -->
     <span class="post-date">November 30, 2016</span>
 
     <p>Jordan Anaya of Omnes Res, creator of the PrePubMed search engine for biomedical preprints, recently compared <em>bioRxiv</em> to <em>PeerJ Preprints</em>. We both agree that <em>PeerJ</em> offers a better user experience with fantastic technology behind their preprint server. However, <em>bioRxiv</em> has greater adoption in the biodata&nbsp;sciences.</p>
-<p>In fact, since my last blog post on preprints at the beginning of 2016, <em>bioRxiv</em> has grown by 140% from 2,785 to 6,918 preprints. The growth has been fueled largely by the efforts of <a href="http://asapbio.org/">ASAPbio</a> and the growing recognition that publishing delays are interfering with&nbsp;science.</p>
-<p>While PeerJ requires that all preprints are published under a Creative Commons Attribution (<span class="caps">CC</span> <span class="caps">BY</span>) License, <em>bioRxiv</em> allows authors to choose from five options: <span class="caps">CC</span> <span class="caps">BY</span>, <span class="caps">CC</span> <span class="caps">BY</span>-<span class="caps">ND</span>, <span class="caps">CC</span> <span class="caps">BY</span>-<span class="caps">NC</span>, <span class="caps">CC</span> <span class="caps">BY</span>-<span class="caps">NC</span>-<span class="caps">ND</span>, and all rights reserved (no&nbsp;license).</p>
+<p>In fact, since my last blog post on preprints at the beginning of 2016, <em>bioRxiv</em> has grown by 140% from 2,785 to 6,918 preprints. The growth has been fueled largely by the efforts of <a href="http://asapbio.org/">ASAPbio</a> and the growing recognition that <a href="http://blog.dhimmel.com/history-of-delays/">publishing delays</a> are <a href="https://doi.org/10.1038/530148a">interfering with science</a>.</p>
+<p>While <em>PeerJ</em> requires that all preprints are published under a Creative Commons Attribution (<span class="caps">CC</span> <span class="caps">BY</span>) License, <em>bioRxiv</em> allows authors to choose from five options: <span class="caps">CC</span> <span class="caps">BY</span>, <span class="caps">CC</span> <span class="caps">BY</span>-<span class="caps">ND</span>, <span class="caps">CC</span> <span class="caps">BY</span>-<span class="caps">NC</span>, <span class="caps">CC</span> <span class="caps">BY</span>-<span class="caps">NC</span>-<span class="caps">ND</span>, and all rights reserved (no&nbsp;license).</p>
 <p>The purpose of Creative Commons licenses is to allow the reuse of content that would otherwise be prohibited by copyright. As a result, the open licensing of preprints is crucial for the growth of open access, the movement to make publicly-funded research articles available to and reusable by the&nbsp;public.</p>
 <h2 id="license-breakdown">License&nbsp;breakdown</h2>
 <p>Unfortunately, of the five options offered by <em>bioRxiv</em>, <span class="caps">CC</span> <span class="caps">BY</span> is the only <a href="http://opendefinition.org/licenses/">open license</a>, which requires that content &#8220;can be freely used, modified, and shared by anyone for any purpose.&#8221; Therefore, with the help of Jordan Anaya, I looked into which licensing options authors were choosing for their <em>bioRxiv</em> preprints. The breakdown shows that there&#8217;s major room for improvement (see why license choices matter&nbsp;below).</p>
-<p>Table goes&nbsp;here</p>
+<table>
+<thead>
+<tr>
+<th>License</th>
+<th>Count</th>
+<th>Percent</th>
+<th>Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="caps">CC</span> <span class="caps">BY</span></td>
+<td>1229</td>
+<td>17.8%</td>
+<td>5</td>
+</tr>
+<tr>
+<td><span class="caps">CC</span> <span class="caps">BY</span>-<span class="caps">ND</span></td>
+<td>493</td>
+<td>7.1%</td>
+<td>3</td>
+</tr>
+<tr>
+<td><span class="caps">CC</span> <span class="caps">BY</span>-<span class="caps">NC</span></td>
+<td>583</td>
+<td>8.5%</td>
+<td>3</td>
+</tr>
+<tr>
+<td><span class="caps">CC</span> <span class="caps">BY</span>-<span class="caps">NC</span>-<span class="caps">ND</span></td>
+<td>2539</td>
+<td>36.8%</td>
+<td>2</td>
+</tr>
+<tr>
+<td>None</td>
+<td>2054</td>
+<td>29.8%</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
 <h3 id="licenses-over-time">Licenses over&nbsp;time</h3>
 <p>Next, I looked to see whether <em>bioRxiv</em> preprints were becoming more open over time. They weren&#8217;t. In fact, the proportion of <span class="caps">CC</span> <span class="caps">BY</span> licenses has been in decline since mid&nbsp;2014.</p>
 <div id="date-figure"></div>
@@ -92,7 +133,7 @@ styles, `#sidebar-checkbox` for behavior. -->
 
 <h2 id="author-leaderboard">Author&nbsp;leaderboard</h2>
 <p>Next, I assigned each preprint a score based on its license: 5 points for <span class="caps">CC</span> <span class="caps">BY</span>, 3 for <span class="caps">CC</span> <span class="caps">BY</span>-<span class="caps">ND</span> or <span class="caps">CC</span> <span class="caps">BY</span>-<span class="caps">NC</span>, 2 for <span class="caps">CC</span> <span class="caps">BY</span>-<span class="caps">NC</span>-<span class="caps">ND</span>, and 1 for all rights reserved. An author&#8217;s score is the sum of their&nbsp;preprints.</p>
-<p>Middle initials were removed to consolidate duplicate names for the same person. If you&#8217;re worried that this analysis conflates multiple authors with the same name, start using <a href="http://orcid.org/" title="persistent digital identifiers for every researcher"><span class="caps">ORCID</span></a>. Luckily, with only 29,322 distinct author names, name collisions are yet to be a major&nbsp;problem.</p>
+<p>Middle initials were removed to consolidate duplicate names for the same person. If you&#8217;re worried that this analysis conflates multiple authors with the same name, start using <a href="http://orcid.org/" title="Persistent digital identifiers for every researcher"><span class="caps">ORCID</span></a>. Luckily, with only 29,322 distinct author names, name collisions are yet to be a major&nbsp;problem.</p>
 <table id="authors" class="display" cellspacing="0" width="100%">
   <thead>
     <tr>
@@ -104,7 +145,7 @@ styles, `#sidebar-checkbox` for behavior. -->
   <tbody></tbody>
 </table>
 
-<p>Congratulations to <a href="https://www.broadinstitute.org/bios/mark-daly" title="Mark Daily at the Broad Institute">Mark Daly</a> of the Broad Institute for leading both in terms of number of preprints and score. Also notable was Jesse Bloom of the Fred Hutchinson Cancer Research Center, who&#8217;s posted 10 preprints, all under <span class="caps">CC</span> <span class="caps">BY</span>. Condolences to my advisor, <a href="http://www.greenelab.com/casey">Casey Greene</a>, whose unfortunate decision to post one of his <span class="caps">XX</span> bioRxiv preprints under all rights reserved kept him out of the top&nbsp;10.</p>
+<p>Congratulations to <a href="https://www.broadinstitute.org/bios/mark-daly" title="Mark Daily at the Broad Institute">Mark Daly</a> of the Broad Institute for leading both in terms of number of preprints and score. Also notable was Jesse Bloom of the Fred Hutchinson Cancer Research Center, who&#8217;s posted 10 preprints, all under <span class="caps">CC</span> <span class="caps">BY</span>. Condolences to my advisor, <a href="http://www.greenelab.com/casey">Casey Greene</a>, whose unfortunate decision to post <a href="https://doi.org/10.1101/051524">one</a> of his 11 bioRxiv preprints under all rights reserved kept him out of the top&nbsp;10.</p>
 <h2 id="choosing-between-licenses">Choosing between&nbsp;licenses</h2>
 <h3 id="all-rights-reserved">All rights&nbsp;reserved</h3>
 <p>Archiving and&nbsp;dissemination</p>
