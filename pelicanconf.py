@@ -57,7 +57,7 @@ SITEMAP_SAVE_AS = 'sitemap.xml'
 DATE_FORMATS = { 'en': '%B %d, %Y', }
 SITEDESCRIPTION = "the blog of Daniel Himmelstein"
 TYPOGRIFY=True
-MD_EXTENSIONS = ['markdown.extensions.toc']
+MD_EXTENSIONS = ['markdown.extensions.toc', 'markdown.extensions.tables']
 
 # Services
 DISQUS_SITENAME = 'satoshivillage'

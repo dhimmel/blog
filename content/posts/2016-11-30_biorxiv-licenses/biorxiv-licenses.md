@@ -16,7 +16,13 @@ The purpose of Creative Commons licenses is to allow the reuse of content that w
 
 Unfortunately, of the five options offered by _bioRxiv_, CC BY is the only [open license](http://opendefinition.org/licenses/), which requires that content "can be freely used, modified, and shared by anyone for any purpose." Therefore, with the help of Jordan Anaya, I looked into which licensing options authors were choosing for their _bioRxiv_ preprints. The breakdown shows that there's major room for improvement (see why license choices matter below).
 
-Table goes here
+| License     | Count | Percent | Score |
+|-------------|-------|---------|-------|
+| CC BY       | 1229  | 17.8%   | 5     |
+| CC BY-ND    | 493   | 7.1%    | 3     |
+| CC BY-NC    | 583   | 8.5%    | 3     |
+| CC BY-NC-ND | 2539  | 36.8%   | 2     |
+| None        | 2054  | 29.8%   | 1     |
 
 ### Licenses over time
 
@@ -47,7 +53,7 @@ Middle initials were removed to consolidate duplicate names for the same person.
   <tbody></tbody>
 </table>
 
-Congratulations to [Mark Daly](https://www.broadinstitute.org/bios/mark-daly "Mark Daily at the Broad Institute") of the Broad Institute for leading both in terms of number of preprints and score. Also notable was Jesse Bloom of the Fred Hutchinson Cancer Research Center, who's posted 10 preprints, all under CC BY. Condolences to my advisor, [Casey Greene](http://www.greenelab.com/casey), whose unfortunate decision to post one of his XX bioRxiv preprints under all rights reserved kept him out of the top 10.
+Congratulations to [Mark Daly](https://www.broadinstitute.org/bios/mark-daly "Mark Daily at the Broad Institute") of the Broad Institute for leading both in terms of number of preprints and score. Also notable was Jesse Bloom of the Fred Hutchinson Cancer Research Center, who's posted 10 preprints, all under CC BY. Condolences to my advisor, [Casey Greene](http://www.greenelab.com/casey), whose unfortunate decision to post [one](https://doi.org/10.1101/051524) of his 11 bioRxiv preprints under all rights reserved kept him out of the top 10.
 
 ## Choosing between licenses
 
