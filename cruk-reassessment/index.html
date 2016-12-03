@@ -124,21 +124,6 @@ styles, `#sidebar-checkbox` for behavior. -->
       <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
       <script>
-      (function (document) {
-          var i = 0;
-          // snip empty header rows since markdown can't
-          var rows = document.querySelectorAll('tr');
-          for (i = 0; i < rows.length; i += 1) {
-              var ths = rows[i].querySelectorAll('th');
-              var rowlen = rows[i].children.length;
-              if (ths.length > 0 && ths.length === rowlen) {
-                  rows[i].remove();
-              }
-          }
-      })(document);
-      </script>
-
-      <script>
         /* Lanyon & Poole are Copyright (c) 2014 Mark Otto. Adapted to Pelican 20141223 and extended a bit by @thomaswilley */
         (function(document) {
           var toggle = document.querySelector('.sidebar-toggle');
