@@ -49,6 +49,7 @@ Middle initials were removed to consolidate duplicate names for the same person.
       <th></th>
       <th></th>
       <th></th>
+      <th></th>
     </tr>
   </thead>
   <tbody></tbody>
@@ -129,7 +130,12 @@ Preprints are an exciting development in scholarly communication. Now let's star
 
 <script>
 var base_url = 'https://raw.githubusercontent.com/dhimmel/biorxiv-licenses';
-var commit = '26c3cc33ad57a3cf2e7dee3491fcf90859518000';
+var commit = '3b3d0668f1fe266a9b88de5b92578d6b16cbc407';
+
+function render_integer(data, type) {
+  if (type != 'display') {return data};
+  return data.toLocaleString('en-us');
+}
 
 $(document).ready(function () {
     $('#author-table').dataTable({
@@ -137,7 +143,8 @@ $(document).ready(function () {
         aoColumns: [
             {sWidth: '50%', sTitle: 'Author'},
             {sTitle: 'Preprints'},
-            {sTitle: 'Score'}
+            {sTitle: 'Score'},
+            {sTitle: 'Rank', mRender: render_integer}
         ],
         order: [[2, "desc"]],
         search: {regex: true}
