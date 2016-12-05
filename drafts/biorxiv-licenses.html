@@ -189,6 +189,13 @@ styles, `#sidebar-checkbox` for behavior. -->
   .vega-actions a {
     margin-right: 5px;
   }
+
+  .vega-embed .vega-actions a:after {
+      content: ' · ';
+  }
+  .vega-embed .vega-actions a:last-child:after {
+      content: '';
+  }
 </style>
 
 <script>
