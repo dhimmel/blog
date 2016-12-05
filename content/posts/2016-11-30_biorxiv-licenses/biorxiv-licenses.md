@@ -14,17 +14,17 @@ The purpose of Creative Commons licenses is to allow the reuse of content that w
 
 ## License breakdown
 
-Unfortunately, of the five options offered by _bioRxiv_, CC BY is the only [open license](http://opendefinition.org/licenses/ "Open Definition Conformant Licenses"), which requires that content "can be freely used, modified, and shared by anyone for any purpose." Therefore, with the help of Jordan Anaya, I looked into which licensing options authors were choosing for their _bioRxiv_ preprints (up until the end of November 2016). The breakdown shows that there's major room for improvement <small>([see why license choices matter below](#license-implications))</small>.
+Unfortunately, of the five options offered by _bioRxiv_, CC BY is the only [open license](http://opendefinition.org/licenses/ "Open Definition Conformant Licenses"), which requires that content "can be freely used, modified, and shared by anyone for any purpose." Therefore, with the help of Jordan Anaya, I looked into which licensing options authors were choosing for their _bioRxiv_ preprints (till the end of November 2016). The breakdown shows that there's major room for improvement <small>([see why license choices matter below](#license-implications))</small>.
 
 <a id="license-table"></a>
 
 | License     | Count  | Percent | Score |
 |-------------|--------|---------|-------|
-| CC BY       | 1,239  | 17.8%   | 5     |
-| CC BY-ND    | 498    | 7.1%    | 3     |
-| CC BY-NC    | 590    | 8.5%    | 3     |
-| CC BY-NC-ND | 2,569  | 36.8%   | 2     |
-| None        | 2,076  | 29.8%   | 1     |
+| CC BY       | 1,237  | 17.8%   | 5     |
+| CC BY-ND    | 496    | 7.2%    | 3     |
+| CC BY-NC    | 586    | 8.5%    | 3     |
+| CC BY-NC-ND | 2,553  | 36.8%   | 2     |
+| None        | 2,061  | 29.7%   | 1     |
 
 ### Licenses over time
 
@@ -77,11 +77,11 @@ Should _bioRxiv_ cease to exist, preserving these unlicensed preprints would be 
 
 ### Non-commercial
 
-75.1% of _bioRxiv_ preprints forbid commercial use. Unfortunately, the [ambiguity](https://doi.org/10.3897/zookeys.150.2189 "Creative Commons licenses and the non-commercial condition: Implications for the re-use of biodiversity information") of what qualifies as commercial dissuades potential users. But commercial use is awesome — it means that someone has found a way to add enough value to your work that others will pay for it. And unless you plan on selling your preprint, there's zero opportunity cost.
+75.0% of _bioRxiv_ preprints forbid commercial use. Unfortunately, the [ambiguity](https://doi.org/10.3897/zookeys.150.2189 "Creative Commons licenses and the non-commercial condition: Implications for the re-use of biodiversity information") of what qualifies as commercial dissuades potential users. But commercial use is awesome — it means that someone has found a way to add enough value to your work that others will pay for it. And unless you plan on selling your preprint, there's zero opportunity cost.
 
 ### No derivates
 
-73.8% of _bioRxiv_ preprints forbid derivates. A derivative could be that someone likes your figure and wants to modify it. Or someone wants to translate your preprint into a different language. Along with non-commercial stipulations, no derivates [creates incompatibilities](https://wiki.creativecommons.org/wiki/Wiki/cc_license_compatibility "Creative Commons License Compatibility") making it difficult to combine with other content.
+73.7% of _bioRxiv_ preprints forbid derivates. A derivative could be that someone likes your figure and wants to modify it. Or someone wants to translate your preprint into a different language. Along with non-commercial stipulations, no derivates [creates incompatibilities](https://wiki.creativecommons.org/wiki/Wiki/cc_license_compatibility "Creative Commons License Compatibility") making it difficult to combine with other content.
 
 ## What can I do?
 
@@ -95,10 +95,10 @@ Should _bioRxiv_ cease to exist, preserving these unlicensed preprints would be 
 
 Preprints are an exciting development in scholarly communication. Now let's start off down the right track.
 
+
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.css">
 <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.js"></script>
-
 
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script src="//vega.github.io/vega/vega.js"></script>
@@ -161,5 +161,4 @@ vg.embed("#date-figure", embedSpec, zoom);
 var json_url = `${base_url}/${commit}/figure/license-vs-subject/vega-lite-spec.json`;
 var embedSpec = {mode: "vega-lite", url: json_url, renderer: 'svg', actions: actions};
 vg.embed("#subject-figure", embedSpec, zoom);
-
 </script>
