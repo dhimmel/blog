@@ -213,6 +213,7 @@ styles, `#sidebar-checkbox` for behavior. -->
 <script>
 var base_url = 'https://raw.githubusercontent.com/dhimmel/biorxiv-licenses';
 var commit = '3b3d0668f1fe266a9b88de5b92578d6b16cbc407';
+var commit_url = base_url + '/' + commit;
 
 function render_integer(data, type) {
   if (type != 'display') {return data};
@@ -221,7 +222,7 @@ function render_integer(data, type) {
 
 $(document).ready(function () {
     $('#author-table').dataTable({
-        ajax: `${base_url}/${commit}/data/author-scores.json`,
+        ajax: commit_url + '/data/author-scores.json',
         aoColumns: [
             {sWidth: '50%', sTitle: 'Author'},
             {sTitle: 'Preprints'},
@@ -244,19 +245,19 @@ function zoom(error, result) {
   if (data_url.includes('license-vs-subject')) {
     var figure_id = 'subject-figure'
   }
-  var svg = d3.select(`#${figure_id} svg`);
+  var svg = d3.select('#' + figure_id + 'svg');
   var w = svg.attr("width");
   var h = svg.attr("height");
-  svg.attr("viewBox", `0 0 ${w} ${h}`);
+  svg.attr("viewBox", "0 0 " + w + " " + h);
   svg.attr("width", '100%');
   svg.attr("height", '100%');
 }
 
-var json_url = `${base_url}/${commit}/figure/license-vs-time/vega-lite-spec.json`;
+var json_url = commit_url + '/figure/license-vs-time/vega-lite-spec.json';
 var embedSpec = {mode: "vega-lite", url: json_url, renderer: 'svg', actions: actions};
 vg.embed("#date-figure", embedSpec, zoom);
 
-var json_url = `${base_url}/${commit}/figure/license-vs-subject/vega-lite-spec.json`;
+var json_url = commit_url + '/figure/license-vs-subject/vega-lite-spec.json';
 var embedSpec = {mode: "vega-lite", url: json_url, renderer: 'svg', actions: actions};
 vg.embed("#subject-figure", embedSpec, zoom);
 </script>

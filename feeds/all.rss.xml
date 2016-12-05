@@ -135,6 +135,7 @@
 &lt;script&gt;
 var base_url = 'https://raw.githubusercontent.com/dhimmel/biorxiv-licenses';
 var commit = '3b3d0668f1fe266a9b88de5b92578d6b16cbc407';
+var commit_url = base_url + '/' + commit;
 
 function render_integer(data, type) {
   if (type != 'display') {return data};
@@ -143,7 +144,7 @@ function render_integer(data, type) {
 
 $(document).ready(function () {
     $('#author-table').dataTable({
-        ajax: `${base_url}/${commit}/data/author-scores.json`,
+        ajax: commit_url + '/data/author-scores.json',
         aoColumns: [
             {sWidth: '50%', sTitle: 'Author'},
             {sTitle: 'Preprints'},
@@ -166,19 +167,19 @@ function zoom(error, result) {
   if (data_url.includes('license-vs-subject')) {
     var figure_id = 'subject-figure'
   }
-  var svg = d3.select(`#${figure_id} svg`);
+  var svg = d3.select('#' + figure_id + 'svg');
   var w = svg.attr("width");
   var h = svg.attr("height");
-  svg.attr("viewBox", `0 0 ${w} ${h}`);
+  svg.attr("viewBox", "0 0 " + w + " " + h);
   svg.attr("width", '100%');
   svg.attr("height", '100%');
 }
 
-var json_url = `${base_url}/${commit}/figure/license-vs-time/vega-lite-spec.json`;
+var json_url = commit_url + '/figure/license-vs-time/vega-lite-spec.json';
 var embedSpec = {mode: "vega-lite", url: json_url, renderer: 'svg', actions: actions};
 vg.embed("#date-figure", embedSpec, zoom);
 
-var json_url = `${base_url}/${commit}/figure/license-vs-subject/vega-lite-spec.json`;
+var json_url = commit_url + '/figure/license-vs-subject/vega-lite-spec.json';
 var embedSpec = {mode: "vega-lite", url: json_url, renderer: 'svg', actions: actions};
 vg.embed("#subject-figure", embedSpec, zoom);
 &lt;/script&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Himmelstein</dc:creator><pubDate>Mon, 05 Dec 2016 00:00:00 -0800</pubDate><guid>tag:blog.dhimmel.com,2016-12-05:biorxiv-licenses/</guid><category>bioRxiv</category><category>preprints</category><category>licensing</category><category>Creative Commons</category><category>license</category><category>CC BY</category><category>publishing</category><category>all rights reserved</category><category>PeerJ</category></item><item><title>My PhD Exhibit</title><link>http://blog.dhimmel.com/phd-exhibit/</link><description>&lt;p&gt;1,700 days after moving to San Francisco for graduate school, I gave my thesis seminar. We live streamed the seminar on YouTube. The stream peaked at 20 concurrent viewers and had viewers from America, Bulgaria, Brazil, Britain, Canada, Czechia, France, and Israel. Here&amp;#8217;s a shout-out to everyone who tuned in. If you missed it, the &lt;a href="https://youtu.be/H8DfXop8K7g" title="YouTube · Daniel Himmelstein's PhD Thesis Seminar"&gt;recording&lt;/a&gt; (below) and &lt;a href="http://slides.com/dhimmel/thesis-seminar" title="Slides · The hetnet awakens: understanding disease through data integration &amp;amp; open science"&gt;slides&lt;/a&gt; are&amp;nbsp;online.&lt;/p&gt;
