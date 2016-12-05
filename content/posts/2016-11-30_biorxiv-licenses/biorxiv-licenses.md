@@ -1,6 +1,6 @@
 Title: Licensing of <i>bioRxiv</i> preprints
 Slug: biorxiv-licenses
-Date: 2016-11-30
+Date: 2016-12-5
 Tags: bioRxiv, preprints, licensing, Creative Commons, license, CC BY, publishing
 Status: draft
 
