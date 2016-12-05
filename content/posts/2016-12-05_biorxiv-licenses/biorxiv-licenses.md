@@ -1,8 +1,7 @@
-Title: Licensing of <i>bioRxiv</i> preprints
+Title: The licensing of <i>bioRxiv</i> preprints
 Slug: biorxiv-licenses
-Date: 2016-12-5
-Tags: bioRxiv, preprints, licensing, Creative Commons, license, CC BY, publishing
-Status: draft
+Date: 2016-12-05
+Tags: bioRxiv, preprints, licensing, Creative Commons, license, CC BY, publishing, all rights reserved, PeerJ
 
 Jordan Anaya of [Omnes Res](http://www.omnesres.com/ "Jordan Anaya is OmniRes") — creator of the [PrePubMed](http://www.prepubmed.org/ "PrePubMed indexes preprints from arXiv q-bio, PeerJ Preprints, Figshare, bioRxiv, F1000Research, preprints.org, and The Winnower") search engine for biomedical preprints — [recently compared](https://medium.com/@OmnesRes/biorxiv-vs-peerj-preprints-f7589141c532 "bioRxiv vs. PeerJ Preprints") _bioRxiv_ to _PeerJ Preprints_. We agree that [_PeerJ_](https://peerj.com/preprints/ "PeerJ Preprints") offers the better technology and user experience. However, [_bioRxiv_](http://biorxiv.org/ "The Preprint Server for Biology") has greater adoption in the biodata sciences.
 
