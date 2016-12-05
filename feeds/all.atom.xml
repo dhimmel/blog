@@ -59,7 +59,7 @@
 &lt;h2 id="the-biorxiv-leaderboard"&gt;The &lt;em&gt;bioRxiv&lt;/em&gt;&amp;nbsp;leaderboard&lt;/h2&gt;
 &lt;p&gt;Using the scoring system &lt;a href="#license-table"&gt;above&lt;/a&gt;, I assigned each preprint a score based on its license. Each author received a score equaling the sum of their&amp;nbsp;preprints.&lt;/p&gt;
 &lt;p&gt;Middle initials were removed to consolidate duplicate names for the same person. If you&amp;#8217;re worried that this analysis conflates multiple authors with the same name, start using &lt;a href="http://orcid.org/" title="Persistent digital identifiers for every researcher"&gt;&lt;span class="caps"&gt;ORCID&lt;/span&gt;&lt;/a&gt;. Luckily, with only 29,436 distinct author names, name collisions are yet to be a major&amp;nbsp;problem.&lt;/p&gt;
-&lt;table id="authors" class="display" cellspacing="0" width="100%"&gt;
+&lt;table id="author-table" class="display" cellspacing="0" width="100%"&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;&lt;/th&gt;
@@ -136,7 +136,7 @@ var base_url = 'https://raw.githubusercontent.com/dhimmel/biorxiv-licenses';
 var commit = '26c3cc33ad57a3cf2e7dee3491fcf90859518000';
 
 $(document).ready(function () {
-    $('#authors').dataTable({
+    $('#author-table').dataTable({
         ajax: `${base_url}/${commit}/data/author-scores.json`,
         aoColumns: [
             {sWidth: '50%', sTitle: 'Author'},
