@@ -6,7 +6,7 @@ Status: draft
 
 Jordan Anaya of [Omnes Res](http://www.omnesres.com/ "Jordan Anaya is OmniRes") — creator of the [PrePubMed](http://www.prepubmed.org/ "PrePubMed indexes preprints from arXiv q-bio, PeerJ Preprints, Figshare, bioRxiv, F1000Research, preprints.org, and The Winnower") search engine for biomedical preprints — [recently compared](https://medium.com/@OmnesRes/biorxiv-vs-peerj-preprints-f7589141c532 "bioRxiv vs. PeerJ Preprints") _bioRxiv_ to _PeerJ Preprints_. We both agree that [_PeerJ_](https://peerj.com/preprints/ "PeerJ Preprints") offers a better user experience with fantastic technology behind their preprint server. However, [_bioRxiv_](http://biorxiv.org/ "The Preprint Server for Biology") has greater adoption in the biodata sciences.
 
-In fact, since my last blog post on preprints at the beginning of 2016, _bioRxiv_ has grown by 140% from 2,785 to 6,918 preprints. The growth has been fueled largely by the efforts of [ASAPbio](http://asapbio.org/ "A scientist-driven initiative to promote the productive use of preprints in the life sciences") and the growing recognition that [publishing delays](http://blog.dhimmel.com/history-of-delays/ "The history of publishing delays") are [interfering with science](https://doi.org/10.1038/530148a "Does it take too long to publish research?").
+In fact, since my last blog post on preprints at the beginning of 2016, _bioRxiv_ has grown by 149% from 2,785 to 6,933 preprints. The growth has been fueled largely by the efforts of [ASAPbio](http://asapbio.org/ "A scientist-driven initiative to promote the productive use of preprints in the life sciences") and the growing recognition that [publishing delays](http://blog.dhimmel.com/history-of-delays/ "The history of publishing delays") are [interfering with science](https://doi.org/10.1038/530148a "Does it take too long to publish research?").
 
 While _PeerJ_ requires that all preprints are published under a Creative Commons Attribution ([CC BY](https://creativecommons.org/licenses/by/4.0/)) License, _bioRxiv_ allows authors to choose from five options: CC BY, [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) <small>(Attribution-NoDerivatives)</small>, [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) <small>(Attribution-NonCommercial)</small>, [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) <small>(Attribution-NonCommercial-NoDerivatives)</small>, and no license <small>(all rights reserved)</small>.
 
@@ -42,7 +42,7 @@ What about licensing by discipline? The figure below shows all subjects with at 
 
 Using the scoring system [above](#license-table), I assigned each preprint a score based on its license. Each author received a score equaling the sum of their preprints.
 
-Middle initials were removed to consolidate duplicate names for the same person. If you're worried that this analysis conflates multiple authors with the same name, start using [ORCID](http://orcid.org/ "Persistent digital identifiers for every researcher"). Luckily, with only 29,322 distinct author names, name collisions are yet to be a major problem.
+Middle initials were removed to consolidate duplicate names for the same person. If you're worried that this analysis conflates multiple authors with the same name, start using [ORCID](http://orcid.org/ "Persistent digital identifiers for every researcher"). Luckily, with only 29,436 distinct author names, name collisions are yet to be a major problem.
 
 <table id="authors" class="display" cellspacing="0" width="100%">
   <thead>
