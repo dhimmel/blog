@@ -163,7 +163,7 @@ function zoom(error, result) {
   if (data_url.includes('license-vs-subject')) {
     var figure_id = 'subject-figure'
   }
-  var svg = d3.select('#' + figure_id + 'svg');
+  var svg = d3.select('#' + figure_id + ' svg');
   var w = svg.attr("width");
   var h = svg.attr("height");
   svg.attr("viewBox", "0 0 " + w + " " + h);
