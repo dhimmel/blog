@@ -149,10 +149,11 @@ $(document).ready(function () {
             {sWidth: '50%', sTitle: 'Author'},
             {sTitle: 'Preprints'},
             {sTitle: 'Score'},
-            {sTitle: 'Rank', mRender: render_integer}
+            {sTitle: 'Rank'}
         ],
         order: [[2, "desc"]],
-        search: {regex: true}
+        search: {regex: true},
+        deferRender: true
     });
 });
 
