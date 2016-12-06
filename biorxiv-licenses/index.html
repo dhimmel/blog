@@ -167,7 +167,7 @@ styles, `#sidebar-checkbox` for behavior. -->
 <h3 id="non-commercial">Non-commercial</h3>
 <p>75.0% of <em>bioRxiv</em> preprints forbid commercial use. Unfortunately, the <a href="https://doi.org/10.3897/zookeys.150.2189" title="Creative Commons licenses and the non-commercial condition: Implications for the re-use of biodiversity information">ambiguity</a> of what qualifies as commercial dissuades potential users. But commercial use is awesome — it means that someone has found a way to add enough value to your work that others will pay for it. And unless you plan on selling your preprint, there&#8217;s zero opportunity&nbsp;cost.</p>
 <p>We&#8217;re quickly entering an era where scientific literature is read first by a computer, and then second, if at all, by a human. As <a href="http://chjh.nl/" title="Chris Hartgerink's Homepage">Chris Hartgerink</a> — <a href="https://doi.org/10.1038/527413f" title="Text-mining block prompts online response">a text miner</a> in the Netherlands 🇳🇱 who purchased legal insurance during his PhD — explains, &#8220;<span class="caps">NC</span> restricts the value of text and data mining outputs by limiting the potential applications of the&nbsp;method.&#8221;</p>
-<h3 id="no-derivates">No&nbsp;derivates</h3>
+<h3 id="no-derivatives">No&nbsp;derivatives</h3>
 <p>73.7% of <em>bioRxiv</em> preprints forbid derivatives. A derivative could be that someone likes your figure and wants to modify it. Or someone wants to translate your preprint into a different language. Even more so than <span class="caps">NC</span>, <span class="caps">ND</span> stipulations are <a href="https://wiki.creativecommons.org/wiki/Wiki/cc_license_compatibility" title="Creative Commons License Compatibility">incompatible</a> with other licenses, making it difficult to remix or combine&nbsp;content.</p>
 <h2 id="what-can-i-do">What can I&nbsp;do?</h2>
 <ul>
@@ -245,7 +245,7 @@ function zoom(error, result) {
   if (data_url.includes('license-vs-subject')) {
     var figure_id = 'subject-figure'
   }
-  var svg = d3.select('#' + figure_id + 'svg');
+  var svg = d3.select('#' + figure_id + ' svg');
   var w = svg.attr("width");
   var h = svg.attr("height");
   svg.attr("viewBox", "0 0 " + w + " " + h);

@@ -89,7 +89,7 @@
 &lt;h3 id="non-commercial"&gt;Non-commercial&lt;/h3&gt;
 &lt;p&gt;75.0% of &lt;em&gt;bioRxiv&lt;/em&gt; preprints forbid commercial use. Unfortunately, the &lt;a href="https://doi.org/10.3897/zookeys.150.2189" title="Creative Commons licenses and the non-commercial condition: Implications for the re-use of biodiversity information"&gt;ambiguity&lt;/a&gt; of what qualifies as commercial dissuades potential users. But commercial use is awesome — it means that someone has found a way to add enough value to your work that others will pay for it. And unless you plan on selling your preprint, there&amp;#8217;s zero opportunity&amp;nbsp;cost.&lt;/p&gt;
 &lt;p&gt;We&amp;#8217;re quickly entering an era where scientific literature is read first by a computer, and then second, if at all, by a human. As &lt;a href="http://chjh.nl/" title="Chris Hartgerink's Homepage"&gt;Chris Hartgerink&lt;/a&gt; — &lt;a href="https://doi.org/10.1038/527413f" title="Text-mining block prompts online response"&gt;a text miner&lt;/a&gt; in the Netherlands 🇳🇱 who purchased legal insurance during his PhD — explains, &amp;#8220;&lt;span class="caps"&gt;NC&lt;/span&gt; restricts the value of text and data mining outputs by limiting the potential applications of the&amp;nbsp;method.&amp;#8221;&lt;/p&gt;
-&lt;h3 id="no-derivates"&gt;No&amp;nbsp;derivates&lt;/h3&gt;
+&lt;h3 id="no-derivatives"&gt;No&amp;nbsp;derivatives&lt;/h3&gt;
 &lt;p&gt;73.7% of &lt;em&gt;bioRxiv&lt;/em&gt; preprints forbid derivatives. A derivative could be that someone likes your figure and wants to modify it. Or someone wants to translate your preprint into a different language. Even more so than &lt;span class="caps"&gt;NC&lt;/span&gt;, &lt;span class="caps"&gt;ND&lt;/span&gt; stipulations are &lt;a href="https://wiki.creativecommons.org/wiki/Wiki/cc_license_compatibility" title="Creative Commons License Compatibility"&gt;incompatible&lt;/a&gt; with other licenses, making it difficult to remix or combine&amp;nbsp;content.&lt;/p&gt;
 &lt;h2 id="what-can-i-do"&gt;What can I&amp;nbsp;do?&lt;/h2&gt;
 &lt;ul&gt;
@@ -167,7 +167,7 @@ function zoom(error, result) {
   if (data_url.includes('license-vs-subject')) {
     var figure_id = 'subject-figure'
   }
-  var svg = d3.select('#' + figure_id + 'svg');
+  var svg = d3.select('#' + figure_id + ' svg');
   var w = svg.attr("width");
   var h = svg.attr("height");
   svg.attr("viewBox", "0 0 " + w + " " + h);
