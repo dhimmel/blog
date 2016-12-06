@@ -87,7 +87,7 @@ Should _bioRxiv_ cease to exist, preserving these unlicensed preprints would be 
 
 We're quickly entering an era where scientific literature is read first by a computer, and then second, if at all, by a human. As [Chris Hartgerink](http://chjh.nl/ "Chris Hartgerink's Homepage") — [a text miner](https://doi.org/10.1038/527413f "Text-mining block prompts online response") in the Netherlands 🇳🇱 who purchased legal insurance during his PhD — explains, "NC restricts the value of text and data mining outputs by limiting the potential applications of the method."
 
-### No derivates
+### No derivatives
 
 73.7% of _bioRxiv_ preprints forbid derivatives. A derivative could be that someone likes your figure and wants to modify it. Or someone wants to translate your preprint into a different language. Even more so than NC, ND stipulations are [incompatible](https://wiki.creativecommons.org/wiki/Wiki/cc_license_compatibility "Creative Commons License Compatibility") with other licenses, making it difficult to remix or combine content.
 
