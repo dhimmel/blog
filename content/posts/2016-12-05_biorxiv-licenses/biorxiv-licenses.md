@@ -110,10 +110,10 @@ Preprints are an exciting development in scholarly communication. Now let's star
 <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.js"></script>
 
-<script src="//d3js.org/d3.v3.min.js"></script>
-<script src="//vega.github.io/vega/vega.js"></script>
-<script src="//vega.github.io/vega-lite/vega-lite.js"></script>
-<script src="//vega.github.io/vega-editor/vendor/vega-embed.js" charset="utf-8"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js" charset="utf-8"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vega/2.6.5/vega.min.js" charset="utf-8"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vega-lite/1.3.1/vega-lite.min.js" charset="utf-8"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vega-embed/2.2.0/vega-embed.min.js" charset="utf-8"></script>
 
 <style media="screen">
   .vega-actions a {
