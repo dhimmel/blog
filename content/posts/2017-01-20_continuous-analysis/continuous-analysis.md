@@ -20,7 +20,7 @@ In these instances, universities require users of publicly funded software to en
 
 ## CIBERSORT of Stanford University
 
-[CIBERSORT](https://cibersort.stanford.edu/) is an R program for analyzing gene expression data. Since its 2015 [publication](https://doi.org/10.1038/nmeth.3337 "Aaron Newman et al. (2015) Robust enumeration of cell subsets from tissue expression profiles. Nature Methods") in _Nature Methods_, it's been cited 71 times. The CIBERSORT program is made available, after registration and upon special request, under a [Stanford Non-commercial Software License Agreement](https://gist.github.com/dhimmel/58dcd9b512e669f20a65ddf73997b733 "GitHub Gist of the CIBERSORT License"). The title suggests this a standard license for Stanford, but Google doesn't pull up any other instances of its use. Here are some of the specifics:
+[CIBERSORT](https://cibersort.stanford.edu/ "CIBERSORT HomePage at Stanford") is an R program for analyzing gene expression data. Since its 2015 [publication](https://doi.org/10.1038/nmeth.3337 "Aaron Newman et al. (2015) Robust enumeration of cell subsets from tissue expression profiles. Nature Methods") in _Nature Methods_, it's been cited 71 times. The CIBERSORT program is made available, after registration and upon special request, under a [Stanford Non-commercial Software License Agreement](https://gist.github.com/dhimmel/58dcd9b512e669f20a65ddf73997b733 "GitHub Gist of the CIBERSORT License"). The title suggests this a standard license for Stanford, but Google doesn't pull up any other instances of its use. Here are some of the specifics:
 
 > RECIPIENT shall not distribute the Program or transfer it to any other person or organization without prior written permission from STANFORD.
 
@@ -40,7 +40,7 @@ So not only is the CIBERSORT license terrible for reproducibility, it's profound
 
 ## GSEA of the Broad Institute
 
-Gene Set Enrichment Analysis (GSEA) is a Java program produced at the Broad Institute to help make biological sense out of a list of genes. The software was originally described in a [2005 _PNAS_ paper](https://doi.org/10.1073/pnas.0506580102 "Aravind Subramanian et al. (2005) Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles. Proceedings of the National Academy of Sciences") and later in a [2007 _Bioinformatics_ paper](https://doi.org/10.1093/bioinformatics/btm369 "Aravind Subramanian et al. (2007) GSEA-P: a desktop application for Gene Set Enrichment Analysis. Bioinformatics"). The program been updated over time, most recently in October 2016. Together the two publications have amassed nearly 11 thousand citations.
+Gene Set Enrichment Analysis (GSEA) is a Java program produced at the Broad Institute to help make biological sense out of a list of genes. The software was originally described in a [2005 _PNAS_ paper](https://doi.org/10.1073/pnas.0506580102 "Aravind Subramanian et al. (2005) Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles. Proceedings of the National Academy of Sciences") and later in a [2007 _Bioinformatics_ paper](https://doi.org/10.1093/bioinformatics/btm369 "Aravind Subramanian et al. (2007) GSEA-P: a desktop application for Gene Set Enrichment Analysis. Bioinformatics"). The program has been updated over time, most recently in October 2016. Together the two publications have amassed nearly 11 thousand citations.
 
 The [GSEA website](http://software.broadinstitute.org/gsea/index.jsp "GSEA HomePage at the Broad Institute") deceptively states:
 
@@ -76,11 +76,11 @@ If you're a:
 
 + **Funder**. Mandate the open release of all software. Fund researchers with a track record of producing open source software. The nascent website [Depsy](http://depsy.org/) can [help identify](https://doi.org/10.1038/529115a "Dalmeet Chawla (2016) The unsung heroes of scientific software. Nature") open source contributors. Also check that the researchers are already active on GitHub or other repository hosting services.
 
-+ **Researcher**. In most cases, your University owns the software you produce. Ideally, you can engineer a situation where you don't have to consult your University every time you want openly license your software. The best method is committing to open licensing in your grant applications, thereby placing legally binding obligations on your University. See this example [resource sharing plan](https://github.com/lab-carpentry/blueprint-resourcesharing/blob/master/examples/NIH-example.md "Lab Carpentry: NIH example for open licensing") from Lab Carpentry, which we developed to prevent situations like CIBERSORT, GSEA, or [Xenome](https://medium.com/@greenescientist/when-software-goes-missing-f6a0dffd68e5 "Casey Greene (2016) When software goes missing. Medium"). 
++ **University**. Stress the importance of open source to your Licensing Office. Ensure that your Licensing Office receives input from experts on reuse, such as librarians, not just experts on commercialization, liability, and "technology transfer".
+
++ **Researcher**. In most cases, your University owns the software you produce. Ideally, you can engineer a situation where you don't have to consult your University every time you want to openly license your software. The best method is committing to open licensing in your grant applications, thereby placing legally binding obligations on your University. See this example [resource sharing plan](https://github.com/lab-carpentry/blueprint-resourcesharing/blob/master/examples/NIH-example.md "Lab Carpentry: NIH example for open licensing") from Lab Carpentry, which we developed to prevent situations like CIBERSORT, GSEA, or [Xenome](https://medium.com/@greenescientist/when-software-goes-missing-f6a0dffd68e5 "Casey Greene (2016) When software goes missing. Medium"). 
 
     However, even if the licensing of your software is up to the discretion of your University, there's still hope. Communicate to your Licensing Office the importance of open source licensing. Remember that should you change institutions or go the entrepreneurial route, your ability to freely use your past code will be contingent upon its open licensing.
-
-+ **University**. Stress the importance of open source to your Licensing Office. Ensure that your Licensing Office receives input from experts on reuse, such as librarians, not just experts on commercialization, liability, and "technology transfer".
 
 # Epilogue
 
