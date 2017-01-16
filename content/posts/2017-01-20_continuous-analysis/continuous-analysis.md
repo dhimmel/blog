@@ -32,7 +32,7 @@ One of the most exciting aspects of continuous analysis is that whenever you cha
 
 > RECIPIENT shall NOT make modifications to the Program.
 
-This is a major impediment as you're not allowed to enhance the software or even make bugfixes. So hypothetically, if CIBERSORT hardcoded its SVM to only evaluate two regularization strengths, you wouldn't be allowed to add additional values to improve model fitting. And finally, don't try to do anything valuable with this publicly funded software:
+This is a major impediment as you're not allowed to enhance the software or even make bugfixes. So hypothetically, if CIBERSORT hardcoded its ν-SVM to only evaluate three regularization strengths, you wouldn't be allowed to add additional values to improve model fitting. And finally, don't try to do anything valuable with this publicly funded software:
 
 > RECIPIENT shall not use the Program for commercial advantage, or in the course of for-profit activities.
 
