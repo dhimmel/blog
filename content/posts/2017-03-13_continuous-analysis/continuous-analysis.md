@@ -1,6 +1,6 @@
 Title: University software licenses prevent reproducible science
 Slug: continuous-analysis
-Date: 2017-01-20
+Date: 2017-03-13
 Tags: software, licensing, continuous analysis, reproducibility, Universities
 Status: draft
 
