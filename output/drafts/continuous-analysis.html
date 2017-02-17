@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+
+    <title>Satoshi Village</title>
+
+    <meta charset="utf-8" />
+    <link href="http://blog.dhimmel.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Satoshi Village Full Atom Feed" />
+    <link href="http://blog.dhimmel.com/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Satoshi Village Full RSS Feed" />
+    <link rel="stylesheet" href="http://blog.dhimmel.com/theme/css/poole.css"/>
+    <link rel="stylesheet" href="http://blog.dhimmel.com/theme/css/syntax.css"/>
+    <link rel="stylesheet" href="http://blog.dhimmel.com/theme/css/lanyon.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+    <link rel="stylesheet" href="http://blog.dhimmel.com/theme/css/styles.css"/>
+
+
+
+    <meta name="tags" contents="software" />
+    <meta name="tags" contents="licensing" />
+    <meta name="tags" contents="continuous analysis" />
+    <meta name="tags" contents="reproducibility" />
+    <meta name="tags" contents="Universities" />
+
+  </head>
+
+  <body>
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <div class="profile">
+      <img src="http://blog.dhimmel.com/theme/img/profile.jpg"/>
+    </div>
+  </div>
+
+  <nav class="sidebar-nav">
+  <!--<a class="sidebar-nav-item" href="/"><b>Blog Home<b></a>-->
+  
+
+  <a class="sidebar-nav-item" href="/"><b>Satoshi Village Blog</b></a>
+  <a class="sidebar-nav-item" href="/archives">&ndash; archives</a>
+  <a class="sidebar-nav-item" href="http://dhimmel.com/"><b>Daniel Himmelstein</b></a>
+  <a class="sidebar-nav-item" href="http://dhimmel.com/about">&ndash; about</a>
+  <a class="sidebar-nav-item" href="http://dhimmel.com/research">&ndash; research</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+    &copy; <a href="https://twitter.com/dhimmel">@dhimmel</a> under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a>
+    </p>
+  </div>
+</div>    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="http://blog.dhimmel.com/" title="Home">Satoshi Village</a>
+            <small>the blog of Daniel Himmelstein</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+<div class="posts">
+<div class="post">
+    <h1 class="post-title">
+      University software licenses prevent reproducible&nbsp;science
+    </h1>
+    <span class="post-date">March 13, 2017</span>
+
+    <p>Today is an exciting day for reproducibility in computational sciences. Continuous analysis awakens with its <a href="https://doi.org/10.1101/056473" title="Brett Beaulieu-Jones &amp; Casey Greene (2017) Reproducible Computational Workflows with Continuous Analysis. Nature Biotechnology">publication</a> in <em>Nature Biotechnology</em>. <strong>Continuous analysis</strong> is a method for automatically re-executing a study whenever its source code is updated. Any changes resulting from the update are tracked and&nbsp;visible.</p>
+<p>Once properly configured, continuous analysis makes a computational study fully reproducible at every state throughout its history. It works by combining two technologies. First, <strong>continuous integration</strong> monitors the source data and code for changes. If a change is detected, the study is re-executed by a <span class="caps">CI</span> service such as <a href="https://travis-ci.com/">Travis <span class="caps">CI</span></a>, <a href="https://circleci.com/">CircleCI</a>, or <a href="http://try.drone.io/">Drone</a>. Second, to ensure the same computational environment is always available, <strong>Docker</strong> is used. <a href="https://www.docker.com/">Docker</a> allows you to containerize a custom software environment, so anyone can run your analysis at any future&nbsp;time.</p>
+<h2 id="the-problem">The&nbsp;Problem</h2>
+<p>In order for continuous analysis to enable reproducibility, the Docker image for a study must be publicly available. <a href="https://hub.docker.com/">Docker Hub</a> provides a convenient home for Docker images. However, for full reproducibility, images and containers should also be deposited to a persistent archive, such as figshare or Zenodo, under an open license, so they remain available in&nbsp;perpetuity.</p>
+<p>When you make a Docker image publicly available, you <em>distribute</em> the containerized software. Accordingly, the right to redistribute software is a precondition for using it in reproducible computational workflows powered by continuous analysis. Unfortunately, copyright and licensing agreements often restrict distribution. The <a href="http://www.astrobetter.com/blog/2014/03/10/the-whys-and-hows-of-licensing-scientific-code/" title="Jake VanderPlas (2014) The Whys and Hows of Licensing Scientific Code. AstroBetter">solution</a> is releasing software under a permissive open source license to allow redistribution and integration with other&nbsp;codebases.</p>
+<p>The current situation is dire. Many academics are unaware that copyright prevents distribution and reuse of their code, even after they&#8217;ve posted it online and published a corresponding study. However, this post will focus on a different barrier to reproducibility: <font style="font-variant: small-caps">Licensing offices at universities that fully comprehend legal restrictions on software reuse and explicitly choose to prevent redistribution.</font></p>
+<p>In these instances, universities require users of publicly funded software to enter into a licensing agreement. Copyright is no longer the primary obstacle to reuse, and fair use is no longer an alibi. Instead users are contractually bound to a custom license agreement. And few researchers have the legal background to appreciate the consequences. They simply register on a website, click agree, and subsequently overlook the legal baggage they&#8217;ve now taken on to perform their research. I&#8217;ll focus on two cases, but you&#8217;re encouraged to comment on&nbsp;others.</p>
+<h2 id="cibersort-of-stanford-university"><span class="caps">CIBERSORT</span> of Stanford&nbsp;University</h2>
+<p><a href="https://cibersort.stanford.edu/" title="CIBERSORT HomePage at Stanford"><span class="caps">CIBERSORT</span></a> is an R program for analyzing gene expression data. Since its 2015 <a href="https://doi.org/10.1038/nmeth.3337" title="Aaron Newman et al. (2015) Robust enumeration of cell subsets from tissue expression profiles. Nature Methods">publication</a> in <em>Nature Methods</em>, it&#8217;s been cited 71 times. The <span class="caps">CIBERSORT</span> program is made available, after registration and upon special request, under a <a href="https://gist.github.com/dhimmel/58dcd9b512e669f20a65ddf73997b733" title="GitHub Gist of the CIBERSORT License">Stanford Non-commercial Software License Agreement</a>. The title suggests this a standard license for Stanford, but Google doesn&#8217;t pull up any other instances of its use. Here are some of the&nbsp;specifics:</p>
+<blockquote>
+<p><span class="caps">RECIPIENT</span> shall not distribute the Program or transfer it to any other person or organization without prior written permission from <span class="caps">STANFORD</span>.</p>
+</blockquote>
+<p>Hence, workflows using <span class="caps">CIBERSORT</span> are ineligible for reproducibility through continuous analysis as users are forbidden from distributing a Docker image. How about reimplementing the algorithm in Python, so you can get on with your containerization? With unlicensed software this would be a good option as copyright doesn&#8217;t cover ideas. However, if you&#8217;ve agreed to the <span class="caps">CIBERSORT</span> license, reimplementing the algorithm is no longer an&nbsp;option:</p>
+<blockquote>
+<p><span class="caps">RECIPIENT</span> shall not reverse engineer, reverse assemble, reverse compile, decompile, disassemble, or otherwise attempt to create the source code for the Program. <span class="caps">RECIPIENT</span> acknowledges that any programs created based on the Program will be considered a derivative of the Program and owned by <span class="caps">STANFORD</span>.</p>
+</blockquote>
+<p>One of the most exciting aspects of continuous analysis is that whenever you change a piece of source code, you&#8217;re automatically shown the consequences. But not <span class="caps">CIBERSORT</span> as&nbsp;the:</p>
+<blockquote>
+<p><span class="caps">RECIPIENT</span> shall <span class="caps">NOT</span> make modifications to the&nbsp;Program.</p>
+</blockquote>
+<p>This is a major impediment as you&#8217;re not allowed to enhance the software or even make bugfixes. So hypothetically, if <span class="caps">CIBERSORT</span> hardcoded its ν-<span class="caps">SVM</span> to only evaluate three regularization strengths, you wouldn&#8217;t be allowed to add additional values to improve model fitting. And finally, don&#8217;t try to do anything valuable with this publicly funded&nbsp;software:</p>
+<blockquote>
+<p><span class="caps">RECIPIENT</span> shall not use the Program for commercial advantage, or in the course of for-profit&nbsp;activities.</p>
+</blockquote>
+<p>So not only is the <span class="caps">CIBERSORT</span> license terrible for reproducibility, it&#8217;s profoundly antiscientific. Yet, who funded the work? Three <span class="caps">NIH</span> Grants. One <span class="caps">DOD</span> grant. And several philanthropic foundations and charities including Doris Duke, Damon Runyon, B&amp;J Cardon, Ludwig, and Thomas + Stacey&nbsp;Siebel.</p>
+<h2 id="gsea-of-the-broad-institute"><span class="caps">GSEA</span> of the Broad&nbsp;Institute</h2>
+<p>Gene Set Enrichment Analysis (<span class="caps">GSEA</span>) is a Java program produced at the Broad Institute to help make biological sense out of a list of genes. The software was originally described in a <a href="https://doi.org/10.1073/pnas.0506580102" title="Aravind Subramanian et al. (2005) Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles. Proceedings of the National Academy of Sciences">2005 <em><span class="caps">PNAS</span></em> paper</a> and later in a <a href="https://doi.org/10.1093/bioinformatics/btm369" title="Aravind Subramanian et al. (2007) GSEA-P: a desktop application for Gene Set Enrichment Analysis. Bioinformatics">2007 <em>Bioinformatics</em> paper</a>. The program has been updated over time, most recently in October 2016. Together the two publications have amassed nearly 11 thousand&nbsp;citations.</p>
+<p>The <a href="http://software.broadinstitute.org/gsea/index.jsp" title="GSEA HomePage at the Broad Institute"><span class="caps">GSEA</span> website</a> deceptively&nbsp;states:</p>
+<blockquote>
+<p>Please register to download the <span class="caps">GSEA</span> software … Registration is free. Its only purpose is to help us track usage for reports to our funding&nbsp;agencies.</p>
+</blockquote>
+<p>In reality, <a href="http://software.broadinstitute.org/gsea/register.jsp?next=index.jsp" title="GSEA/MSigDB Registration and License Agreement">registration</a> requires agreeing to the <a href="https://gist.github.com/dhimmel/04bfed6f618686ef53e050ba1191d917" title="GitHub Gist of the GSEA/MSigDB License Agreement">Massachusetts Institute of Technology Single User License Agreement for Internal Research Purposes Only</a>. Despite its generic title, this is a highly customized license that does not appear to be used anywhere&nbsp;else.</p>
+<p>Accompanying the software is a database of gene sets called MSigDB, which is covered by the same license. In 2016, this license forced me to <a href="https://doi.org/10.15363/thinklab.d108#3" title="Daniel Himmelstein (2016) MSigDB licensing: Removing MSigDB from the Rephetio project. Thinklab">remove MSigDB</a> from an integrative resource I was creating. This incident, along with others, was covered in the <em>Nature</em> story titled <a href="https://doi.org/10.1038/536016a" title="Simon Oxenham (2016) Legal confusion threatens to slow data science. Nature">legal confusion threatens to slow data science</a>. Here we&#8217;ll focus instead on how <span class="caps">MIT</span>&#8217;s license prevents reproducible research using the <span class="caps">GSEA</span>&nbsp;software.</p>
+<p>First, users are forbidden from sharing any Docker images containing <span class="caps">GSEA</span>: </p>
+<blockquote>
+<p>In no event shall <span class="caps">LICENSEE</span> sublicense or distribute, in whole or in part, the <span class="caps">PROGRAM</span>, modifications, [or] <span class="caps">BUG</span> <span class="caps">FIXES</span></p>
+</blockquote>
+<p>Nevertheless without sharing the Docker image, a researcher could still benefit from continuous analysis. While not ideal for reproducibility, a private Docker image or encrypted <span class="caps">GSEA</span> binary could be used in continuous integration to enable automatic re-execution and diffing of changes. But the license goes further and forbids convenient cloud services such as Travis <span class="caps">CI</span> or&nbsp;CircleCI:</p>
+<blockquote>
+<p><span class="caps">LICENSEE</span> agrees not to put the <span class="caps">PROGRAM</span> or the <span class="caps">DATABASE</span> on a network, server, or other similar technology that may be accessed by any individual other than the <span class="caps">LICENSEE</span>.</p>
+</blockquote>
+<p>As with <span class="caps">CIBERSORT</span>, users take on restrictions that exceed copyright. Specifically, licensees are forbidden from reimplementing the software to make it more&nbsp;open:</p>
+<blockquote>
+<p><span class="caps">LICENSEE</span> agrees that … the <span class="caps">PROGRAM</span> … shall not be rewritten in another computer language or otherwise adapted to circumvent the need for obtaining a license for use of the <span class="caps">PROGRAM</span> or the <span class="caps">DATABASE</span> other than as specified by this&nbsp;Agreement.</p>
+</blockquote>
+<p>Continuous analysis strives to automate all downstream consequences of a change. However, the <span class="caps">GSEA</span> license imposes onerous and manual reporting&nbsp;requirements:</p>
+<blockquote>
+<p><span class="caps">LICENSEE</span> agrees to provide … a written evaluation of the <span class="caps">PROGRAM</span> … Modifications and <span class="caps">BUG</span> <span class="caps">FIXES</span> shall be provided to <span class="caps">MIT</span> promptly upon their&nbsp;creation.</p>
+</blockquote>
+<p>The <span class="caps">GSEA</span> team has <a href="http://grantome.com/grant/NIH/R01-CA121941-06A1">received</a> millions of dollars in funding from the <span class="caps">NIH</span>, including the <span class="caps">NCI</span> and <span class="caps">NIGMS</span>, to develop their software and database. Join me in declaring it unacceptable for university licensing offices to hijack such major public&nbsp;investments.</p>
+<h2 id="what-can-you-do">What can you&nbsp;do?</h2>
+<p>If you&#8217;re&nbsp;a:</p>
+<ul>
+<li>
+<p><strong>Journal</strong>. Adopt an open source policy that requires all software to be released under an <span class="caps">OSI</span>-approved license. See <a href="https://doi.org/10.1186/s13059-016-1040-y" title="Rafal Marszalek &amp; Louisa Flintoft (2016) Being open: our policy on source code. Genome Biology"><em>Genome Biology</em>’s policy</a> as an&nbsp;example.</p>
+</li>
+<li>
+<p><strong>Funder</strong>. Mandate the open release of all software. Fund researchers with a track record of producing open source software. The nascent website <a href="http://depsy.org/">Depsy</a> can <a href="https://doi.org/10.1038/529115a" title="Dalmeet Chawla (2016) The unsung heroes of scientific software. Nature">help identify</a> open source contributors. Also check that the researchers are already active on GitHub or other repository hosting&nbsp;services.</p>
+</li>
+<li>
+<p><strong>University</strong>. Stress the importance of open source to your Licensing Office. Ensure that your Licensing Office receives input from experts on reuse, such as librarians, not just experts on commercialization, liability, and &#8220;technology&nbsp;transfer&#8221;.</p>
+</li>
+<li>
+<p><strong>Researcher</strong>. In most cases, your University owns the software you produce. Ideally, you can engineer a situation where you don&#8217;t have to consult your University every time you want to openly license your software. The best method is committing to open licensing in your grant applications, thereby placing legally binding obligations on your University. See this blueprint <a href="https://github.com/lab-carpentry/blueprint-resourcesharing/blob/master/examples/NIH-example.md" title="Lab Carpentry: NIH example for open licensing">resource sharing plan</a> from Lab Carpentry, which we developed to prevent situations like <span class="caps">CIBERSORT</span>, <span class="caps">GSEA</span>, or <a href="https://medium.com/@greenescientist/when-software-goes-missing-f6a0dffd68e5" title="Casey Greene (2016) When software goes missing. Medium">Xenome</a>.</p>
+<p>However, even if the licensing of your software is up to the discretion of your University, there&#8217;s still hope. Communicate to your Licensing Office the importance of open source licensing. Remember that should you change institutions or go the entrepreneurial route, your ability to freely use your past code will be contingent upon its open&nbsp;licensing.</p>
+</li>
+</ul>
+<h1 id="epilogue">Epilogue</h1>
+<p>This post focuses on the interplay between continuous analysis and petty software licensing by universities. However, many of the concepts apply more generally. The right to redistribute is the bedrock of reproducibility. While the absence of open licensing has harmed reproducibility in the past &#8212; here&#8217;s a <a href="http://gu.com/p/4dcx2/stw" title="Pete Etchells (2015) Replication frustration: what stops experiments being reliably repeated? The Guardian">bizarre example</a> — the problem is only accelerating as science become more data driven and&nbsp;computational.</p>
+<p>New technologies like Docker that integrate hundreds of software products exacerbate licensing issues. As <a href="http://www.nexb.com/info/nexb_bio.pdf" title="CEO of nexB, a company that helps companies comply with open source software licensing">Michael Herzog</a> <a href="https://youtu.be/7493AmJdCwM" title="Heather Meeker &amp; Michael Herzog (2016) Managing open source software in the Docker era. DejaCode on YouTube">explains</a>, &#8220;when you ship or deploy an image you are responsible for compliance for all layers included in that image.&#8221; Given the impending legal difficulties for reproducible research that solely integrates open software, the last thing science needs is for universities to employ legal tactics to explicitly preclude reproducible research using publicly funded&nbsp;software.</p>
+
+    <h2 id="comments">Comments</h2>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'satoshivillage'; 
+    var disqus_title = 'University software licenses prevent reproducible&nbsp;science';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+  </div>
+</div>
+      </div>
+
+      <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+      <script>
+        /* Lanyon & Poole are Copyright (c) 2014 Mark Otto. Adapted to Pelican 20141223 and extended a bit by @thomaswilley */
+        (function(document) {
+          var toggle = document.querySelector('.sidebar-toggle');
+          var sidebar = document.querySelector('#sidebar');
+          var checkbox = document.querySelector('#sidebar-checkbox');
+          document.addEventListener('click', function(e) {
+            var target = e.target;
+            if(!checkbox.checked ||
+            sidebar.contains(target) ||
+            (target === checkbox || target === toggle)) return;
+            checkbox.checked = false;
+            }, false);
+            })(document);
+      </script>
+
+<script type="text/javascript">
+    var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.dhimmel.com/" : "http://piwik.dhimmel.com/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 5);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://piwik.dhimmel.com/piwik.php?idsite=5" style="border:0" alt="" /></p></noscript>
+
+
+     </div>
+  </body>
+</html>
