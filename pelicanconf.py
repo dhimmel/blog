@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
+# Python 3 pelican configuration file for blog.dhimmel.com
 
 AUTHOR = 'Daniel Himmelstein'
 SITENAME = "Satoshi Village"
@@ -10,12 +8,14 @@ DELETE_OUTPUT_DIRECTORY = True
 PATH = 'content'
 ARTICLE_PATHS = ['posts']
 STATIC_PATHS = ['posts', 'favicon.ico', 'CNAME', '404.md']
-EXTRA_PATH_METADATA = {'CNAME': {'path': 'CNAME'},
-                       '404.md': {'path': '404.md'},}
+EXTRA_PATH_METADATA = {
+    'CNAME': {'path': 'CNAME'},
+    '404.md': {'path': '404.md'},
+}
 
 TIMEZONE = 'America/Los_Angeles'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = 'en'
 
 # URL settings
 SITEURL = 'http://blog.dhimmel.com'
@@ -38,12 +38,13 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('<b>Satoshi Village Blog</b>', '/'),
-         ('&ndash; archives', '/archives'),
-         ('<b>Daniel Himmelstein</b>', 'http://dhimmel.com/'),
-         ('&ndash; about', 'http://dhimmel.com/about'),
-         ('&ndash; research', 'http://dhimmel.com/research'),
-         )
+LINKS = [
+    ('<b>Satoshi Village Blog</b>', '/'),
+    ('&ndash; archives', '/archives'),
+    ('<b>Daniel Himmelstein</b>', 'http://dhimmel.com/'),
+    ('&ndash; about', 'http://dhimmel.com/about'),
+    ('&ndash; research', 'http://dhimmel.com/research'),
+]
 
 DEFAULT_PAGINATION = 10
 
@@ -65,10 +66,11 @@ MARKDOWN = {
     'output_format': 'html5',
 }
 
-# Services
+# External services
 DISQUS_SITENAME = 'satoshivillage'
-#GOOGLE_ANALYTICS = 'UA-52757861-4'
-#GA_ACCOUNT = 'UA-52757861-4' # used for pelicanyan
+
+# GOOGLE_ANALYTICS = 'UA-52757861-4'
+# GA_ACCOUNT = 'UA-52757861-4' # used for pelicanyan
 
 PIWIK_URL = 'piwik.dhimmel.com'
 PIWIK_SITE_ID = 5
