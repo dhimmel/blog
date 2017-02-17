@@ -54,10 +54,16 @@ DIRECT_TEMPLATES = ('index', 'archives', 'sitemap', 'robots', 'humans')
 ROBOTS_SAVE_AS = 'robots.txt'
 HUMANS_SAVE_AS = 'humans.txt'
 SITEMAP_SAVE_AS = 'sitemap.xml'
-DATE_FORMATS = { 'en': '%B %d, %Y', }
+DATE_FORMATS = {'en': '%B %d, %Y'}
 SITEDESCRIPTION = "the blog of Daniel Himmelstein"
-TYPOGRIFY=True
-MD_EXTENSIONS = ['markdown.extensions.toc', 'markdown.extensions.tables']
+TYPOGRIFY = True
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.toc': {},
+        'markdown.extensions.tables': {},
+    },
+    'output_format': 'html5',
+}
 
 # Services
 DISQUS_SITENAME = 'satoshivillage'

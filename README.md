@@ -20,7 +20,9 @@ the `gh-pages` branch of the repository. The custom subdomain of
 
 Install the conda environment for generating the blog with:
 
-```sh conda env create --file environment.yml ```
+```sh
+conda env create --file environment.yml
+```
 
 Activate the environment using `source activate blog`.
 
@@ -29,8 +31,13 @@ Run `pelican content/` to process the posts and export the HTML pages to
 
 To view the blog locally use:
 
-```sh cd output python -m http.server ```
+```sh
+cd output
+python -m http.server
+```
 
 Deploy to GitHub pages using:
 
-```sh ghp-import -p output ```
+```sh
+ghp-import -p output
+```
