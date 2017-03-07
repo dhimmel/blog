@@ -39,5 +39,5 @@ python -m http.server
 Deploy to GitHub pages using:
 
 ```sh
-ghp-import -p output
+ghp-import --push output
 ```
