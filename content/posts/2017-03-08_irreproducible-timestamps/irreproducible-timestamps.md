@@ -1,4 +1,4 @@
-Title: The most interesting case of scientific irreproducibility ever?
+Title: The most interesting case of scientific irreproducibility?
 Slug: irreproducible-timestamps
 Date: 2017-03-08
 Tags: bitcoin, clinical trials, proof of existence, timestamps, blockchain, timestamping, replication, reproducibility
