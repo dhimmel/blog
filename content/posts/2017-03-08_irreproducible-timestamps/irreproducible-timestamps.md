@@ -1,8 +1,8 @@
 Title: The most interesting case of scientific irreproducibility ever?
 Slug: irreproducible-timestamps
 Date: 2017-03-08
-Tags: blockchain, bitcoin, clinical trials, scientific misconduct, proof of existence, timestamps
-Status: draft
+Tags: bitcoin, clinical trials, proof of existence, timestamps, blockchain, timestamping, replication, reproducibility
+
 
 On February 26, 2016, the [first version](https://doi.org/10.12688/f1000research.8114.1 "Version 1") of an article titled "How blockchain-timestamped protocols could improve the trustworthiness of medical science" was posted to _F1000Research_. The paper had two authors: [Greg Irving](http://www.phpc.cam.ac.uk/people/pcu-group/pcu-senior-research-staff/greg-irving/) of the University of Cambridge and [John Holden](http://www.garswoodsurgery.co.uk/staff1.aspx) of Garswood Surgery. The article describes a method for timestamping clinical trials, so the retrospective existence of a trial can be verified at a later date. The technique uses the Bitcoin blockchain as an immutable and timestamped data store.
 
@@ -100,3 +100,7 @@ The beauty of cryptography is that it doesn't matter what I think. If Irving & H
 Furthermore, there is currently a bounty to reproduce Irving & Holden's address generation. This bounty was publicly disclosed over a year ago with the initial posting of their study and remains unclaimed. Note that Irving/Holden and StrongCoin should both possess enough information to move the funds from <small>`1AHjCz2oEUTH8js4S8vViC8NKph4zCACXH`</small>. Therefore, withdrawal is insufficient to prove the protocol's existence. But the continued lack of withdrawal is evidence that no third party can reproduce their analysis.
 
 Past attempts to reproduce scientific studies have been [notoriously inconclusive](https://doi.org/10.1038/541269a "Monya Baker & Elie Dolgin. Cancer reproducibility project releases first results. Nature News. January 18, 2017"). Irving & Holden's timestamp is notedly different in that its replicability is unambiguous. It will or will not provably replicate. There is no in between. So in a perverse way, this incident gives us a glimpse into a more reproducible future.
+
+***
+
+The analyses for this blog post are posted to GitHub at [`dhimmel/irreproducible-timestamps`](https://github.com/dhimmel/irreproducible-timestamps) and archived [on Zenodo](https://doi.org/10.5281/zenodo.375952 "dhimmel/irreproducible-timestamps v1.0: Initial replication analysis for the Satoshi Village blog post"). For those looking to claim the bounty, you can open the address generation notebook [in Binder](http://mybinder.org/repo/dhimmel/irreproducible-timestamps).
