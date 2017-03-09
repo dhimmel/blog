@@ -64,7 +64,7 @@ The table below shows the median days till acceptance and publication for 3,482 
 
 Acceptance and publication times are not the only factor to consider when selecting a journal. Traditionally, the impact factor -- average citations for articles published in the two preceding years -- has been a primary criteria. However, any single metric is insufficient to make an informed decision on where to submit. A host of other journal attributes matter such as readership, aesthetics, communication, friendliness, flexibility, features, and web nativity.
 
-I propose a journal review service. Like yelp for scientific publishing except that author reviews will be [CC-BY](https://creativecommons.org/licenses/by/4.0/ "Creative Commons — Attribution 4.0 International"). I see three main benefits:
+I propose a journal review service. Like yelp for scientific publishing except that author reviews will be [CC BY](https://creativecommons.org/licenses/by/4.0/ "Creative Commons — Attribution 4.0 International"). I see three main benefits:
 
 1. Transparency -- past author experiences with a journal are a treasure trove in need of a display case
 1. Search -- even finding all journals that publish research in your field is difficult. A search feature would support filters and rankings based on user preferences.

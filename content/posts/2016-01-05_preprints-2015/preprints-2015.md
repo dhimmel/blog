@@ -31,6 +31,6 @@ So while I wholeheartedly recommend preprinting, I encourage those interested in
 
 In closing, here are three recommendations for maximizing the potential of your science with preprints:
 
-1. Release your preprint under a [CC-BY](http://creativecommons.org/licenses/by/4.0/ "Creative Commons — Attribution 4.0 International") license to encourage reuse and hence citation.
+1. Release your preprint under a [CC BY](http://creativecommons.org/licenses/by/4.0/ "Creative Commons — Attribution 4.0 International") license to encourage reuse and hence citation.
 2. Treat your preprint as a publication: all data and code needed to reproduce the study should be available and appropriately licensed.
 3. Make sure to update your preprint with revisions. Help readers stay up to date while gaining visibility on the recents list.
