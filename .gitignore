@@ -1,6 +1,5 @@
 # Pelican Files
-srv.pid
-pelican.pid
+cache
 
 # Linux
 *~
