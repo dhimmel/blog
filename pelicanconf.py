@@ -7,11 +7,13 @@ DELETE_OUTPUT_DIRECTORY = True
 
 PATH = 'content'
 ARTICLE_PATHS = ['posts']
-STATIC_PATHS = ['posts', 'favicon.ico', 'CNAME', '404.md']
-EXTRA_PATH_METADATA = {
-    'CNAME': {'path': 'CNAME'},
-    '404.md': {'path': '404.md'},
-}
+STATIC_PATHS = ['posts', 'favicon.ico']
+EXTRA_PATH_METADATA = dict()
+
+# Static files to copy from content to output
+for name in 'CNAME', '404.md', '.nojekyll':
+    STATIC_PATHS.append(name)
+    EXTRA_PATH_METADATA[name] = {'path': name}
 
 TIMEZONE = 'America/Los_Angeles'
 
