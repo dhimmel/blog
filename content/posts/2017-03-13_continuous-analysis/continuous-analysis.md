@@ -1,8 +1,7 @@
 Title: University software licenses prevent reproducible science
 Slug: continuous-analysis
 Date: 2017-03-13
-Tags: software, licensing, continuous analysis, reproducibility, Universities
-Status: draft
+Tags: software, licensing, continuous analysis, reproducibility, Universities, open source, Docker, continuous integration, GSEA, CIBERSORT, Stanford, Broad Institute
 
 Today is an exciting day for reproducibility in computational sciences. Continuous analysis awakens with its [publication](https://doi.org/10.1038/nbt.3780 "Brett Beaulieu-Jones & Casey Greene (2017) Reproducible Computational Workflows with Continuous Analysis. Nature Biotechnology") in _Nature Biotechnology_. **Continuous analysis** is a method for automatically re-executing a study whenever its source code is updated. Any changes resulting from the update are tracked and visible.
 
