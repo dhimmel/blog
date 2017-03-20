@@ -215,11 +215,6 @@ var base_url = 'https://raw.githubusercontent.com/dhimmel/biorxiv-licenses';
 var commit = '3b3d0668f1fe266a9b88de5b92578d6b16cbc407';
 var commit_url = base_url + '/' + commit;
 
-function render_integer(data, type) {
-  if (type != 'display') {return data};
-  return data.toLocaleString('en-us');
-}
-
 $(document).ready(function () {
     $('#author-table').dataTable({
         ajax: commit_url + '/data/author-scores.json',
