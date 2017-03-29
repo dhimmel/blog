@@ -105,6 +105,10 @@ We're quickly entering an era where scientific literature is read first by a com
 
 Preprints are an exciting development in scholarly communication. Now let's start off down the right track.
 
+***
+
+**Update on March 29, 2017:** Jessica Polka, Director of ASAPbio, [noticed](#comment-3215911237) that _bioRxiv_ reordered their license options so the more open licenses now appear first (as I suggested in the comments below). Accordingly, I [compared](https://github.com/dhimmel/biorxiv-licenses/blob/16cdfccef4ac1fb30cfb3de784b686659ce1de52/3.impact.ipynb "Jupyter notebook on GitHub: bioRxiv license choices, before & after the blog post") the distribution of licenses for the 100 days preceding this blog post to the 100 days following this blog post. The proportion of CC BY licenses increased from 13.7% to 21.1% (_p_ = 1.67 × 10<sup>-8</sup>). Based on this effect, I estimate this blog post led to **153 additional CC BY preprints** in the 100 days following its publication!
+
 
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.css">
 <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
@@ -132,11 +136,6 @@ Preprints are an exciting development in scholarly communication. Now let's star
 var base_url = 'https://raw.githubusercontent.com/dhimmel/biorxiv-licenses';
 var commit = '3b3d0668f1fe266a9b88de5b92578d6b16cbc407';
 var commit_url = base_url + '/' + commit;
-
-function render_integer(data, type) {
-  if (type != 'display') {return data};
-  return data.toLocaleString('en-us');
-}
 
 $(document).ready(function () {
     $('#author-table').dataTable({

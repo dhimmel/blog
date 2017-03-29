@@ -186,6 +186,8 @@ styles, `#sidebar-checkbox` for behavior. -->
 </li>
 </ul>
 <p>Preprints are an exciting development in scholarly communication. Now let&#8217;s start off down the right&nbsp;track.</p>
+<hr>
+<p><strong>Update on March 29, 2017:</strong> Jessica Polka, Director of ASAPbio, <a href="#comment-3215911237">noticed</a> that <em>bioRxiv</em> reordered their license options so the more open licenses now appear first (as I suggested in the comments below). Accordingly, I <a href="https://github.com/dhimmel/biorxiv-licenses/blob/16cdfccef4ac1fb30cfb3de784b686659ce1de52/3.impact.ipynb" title="Jupyter notebook on GitHub: bioRxiv license choices, before &amp; after the blog post">compared</a> the distribution of licenses for the 100 days preceding this blog post to the 100 days following this blog post. The proportion of <span class="caps">CC</span> <span class="caps">BY</span> licenses increased from 13.7% to 21.1% (<em>p</em> = 1.67 × 10<sup>-8</sup>). Based on this effect, I estimate this blog post led to <strong>153 additional <span class="caps">CC</span> <span class="caps">BY</span> preprints</strong> in the 100 days following its&nbsp;publication!</p>
 <p><link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.css">
 <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.js"></script></p>
@@ -214,11 +216,6 @@ styles, `#sidebar-checkbox` for behavior. -->
 var base_url = 'https://raw.githubusercontent.com/dhimmel/biorxiv-licenses';
 var commit = '3b3d0668f1fe266a9b88de5b92578d6b16cbc407';
 var commit_url = base_url + '/' + commit;
-
-function render_integer(data, type) {
-  if (type != 'display') {return data};
-  return data.toLocaleString('en-us');
-}
 
 $(document).ready(function () {
     $('#author-table').dataTable({
