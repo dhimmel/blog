@@ -107,7 +107,9 @@ The analyses for this blog post are posted to GitHub at [`dhimmel/irreproducible
 
 ***
 
-**Update on March 30, 2017:** Today, Irving & Holden posted [version 3](https://doi.org/10.12688/f1000research.8114.3) of their study to _F1000Research_. The updated study now claims have verified the clinical trial protocol timestamp by:
+## Update on March 30, 2017
+
+Today, Irving & Holden posted [version 3](https://doi.org/10.12688/f1000research.8114.3) of their study to _F1000Research_. The updated study now claims have verified the clinical trial protocol timestamp by:
 
 1. logging into the same StrongCoin account that generated the bitcoin address <small>`1AHjCz2oEUTH8js4S8vViC8NKph4zCACXH`</small>.
 2. decrypting the corresponding private key using the protocol's hash as the account password.
@@ -116,4 +118,4 @@ So Irving & Holden have conceded that their protocol's hash was used as an accou
 
 On the other hand, I'm tempted to ask Irving & Holden for their StrongCoin login (email & password), so I can "verify" that their protocol's hash decrypts their address's private key — also known as claiming my damn bounty!
 
-Thanks Benjamin Carlisle for contributing diffs showing the revisions between versions [2–3](https://github.com/dhimmel/irreproducible-timestamps/blob/37f66dc39bab650671d1d05e510199705c59248b/f1000/v2-3.pdf) and [1–2](https://github.com/dhimmel/irreproducible-timestamps/blob/37f66dc39bab650671d1d05e510199705c59248b/f1000/v1-2.pdf). Note that version 3 also switches to using a text file rather than a Word Document to store the protocol. I [generated](http://nbviewer.jupyter.org/github/dhimmel/irreproducible-timestamps/blob/37f66dc39bab650671d1d05e510199705c59248b/addresses.ipynb#Update-for-protocol-for-manuscript-version-3) addresses using Carlisle's method for the new SHA-256 hash. However, reproducing Irving & Holden's hash is irrelevant (unless you have access to their StrongCoin account).
+Thanks Benjamin Carlisle for contributing diffs showing the revisions between versions [2–3](https://github.com/dhimmel/irreproducible-timestamps/blob/37f66dc39bab650671d1d05e510199705c59248b/f1000/v2-3.pdf "PDF of the diff between Irving & Holden v2 and v3") and [1–2](https://github.com/dhimmel/irreproducible-timestamps/blob/37f66dc39bab650671d1d05e510199705c59248b/f1000/v1-2.pdf "PDF of the diff between Irving & Holden v1 and v2"). Note that version 3 also switches to using a text file rather than a Word Document to store the protocol. I [generated](http://nbviewer.jupyter.org/github/dhimmel/irreproducible-timestamps/blob/37f66dc39bab650671d1d05e510199705c59248b/addresses.ipynb#Update-for-protocol-for-manuscript-version-3) addresses using Carlisle's method for the new SHA-256 hash. However, reproducing Irving & Holden's hash is irrelevant (unless you have access to their StrongCoin account).
