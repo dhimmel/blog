@@ -119,3 +119,11 @@ So Irving & Holden have conceded that their protocol's hash was used as an accou
 On the other hand, I'm tempted to ask Irving & Holden for their StrongCoin login (email & password), so I can "verify" that their protocol's hash decrypts their address's private key — also known as claiming my damn bounty!
 
 Thanks Benjamin Carlisle for contributing diffs showing the revisions between versions [2–3](https://github.com/dhimmel/irreproducible-timestamps/blob/37f66dc39bab650671d1d05e510199705c59248b/f1000/v2-3.pdf "PDF of the diff between Irving & Holden v2 and v3") and [1–2](https://github.com/dhimmel/irreproducible-timestamps/blob/37f66dc39bab650671d1d05e510199705c59248b/f1000/v1-2.pdf "PDF of the diff between Irving & Holden v1 and v2"). Note that version 3 also switches to using a text file rather than a Word Document to store the protocol. I [generated](http://nbviewer.jupyter.org/github/dhimmel/irreproducible-timestamps/blob/37f66dc39bab650671d1d05e510199705c59248b/addresses.ipynb#Update-for-protocol-for-manuscript-version-3) addresses using Carlisle's method for the new SHA-256 hash. However, reproducing Irving & Holden's hash is irrelevant (unless you have access to their StrongCoin account).
+
+## Update on May 26, 2017
+
+_F1000Research_ announced on May 24 that the study will be retracted, [as covered](http://retractionwatch.com/2017/05/24/authors-retract-much-debated-blockchain-paper-f1000/ "Authors retract much-debated blockchain paper from F1000. Retraction Watch. By Alison McCook on 2017-05-24") by Retraction Watch. The retraction note states:
+
+> The authors have taken this decision after considering the methodological concerns raised by a peer reviewer during the post-publication open peer review process. As the methodology has been deemed to be unreliable, the article is now retracted.
+
+The retraction came after a fourth reviewer, William Knottenbelt, [reached](https://doi.org/10.5256/f1000research.12186.r22913 "Review by William J. Knottenbelt on 2017-05-22") the same conclusions about the flawed methodology as this blog post.
