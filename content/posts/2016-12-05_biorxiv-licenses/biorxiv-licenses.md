@@ -109,6 +109,10 @@ Preprints are an exciting development in scholarly communication. Now let's star
 
 **Update on March 29, 2017:** Jessica Polka, Director of ASAPbio, [noticed](#comment-3215911237) that _bioRxiv_ reordered their license options so the more open licenses now appear first (as I suggested in the comments below). Accordingly, I [compared](https://github.com/dhimmel/biorxiv-licenses/blob/16cdfccef4ac1fb30cfb3de784b686659ce1de52/3.impact.ipynb "Jupyter notebook on GitHub: bioRxiv license choices, before & after the blog post") the distribution of licenses for the 100 days preceding this blog post to the 100 days following this blog post. The proportion of CC BY licenses increased from 13.7% to 21.1% (_p_ = 1.67 × 10<sup>-8</sup>). Based on this effect, I estimate this blog post led to **153 additional CC BY preprints** in the 100 days following its publication!
 
+***
+
+**Update on June 16, 2017:** ASAPbio just [announced](http://asapbio.org/licensing "ASAPbio launches preprint licensing task force. 2017-06-16") they're launching a licensing taskforce, which I'm excited to be part of. _Nature News_ [covered](https://doi.org/10.1038/nature.2017.22161 "Lindsay McKenzie. Biologists debate how to license preprints. Nature News. 2017-06-16") this development and the broader issue. The leaderboard above helped identify preprint authors Jesse Bloom and Giulio Caravagna, who were both interviewed by _Nature News_.
+
 
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.css">
 <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
