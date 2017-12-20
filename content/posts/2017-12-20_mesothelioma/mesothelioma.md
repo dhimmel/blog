@@ -9,13 +9,13 @@ Our study proved controversial, even evoking criticism from *Cancer Research UK*
 While the link between elevation and lung cancer is an open question, the association between asbestos and mesothelioma is indisputable, having been cemented by a century of [epidemiologic interrogation](https://doi.org/10.1183/09031936.96.09091932 "The epidemiology of mesothelioma in historical context. European Respiratory Journal. 1996-09-01").
 
 Here, I chat with Alison Grimes regarding what we now know about mesothelioma and asbestos, including what the future may hold.
-Alison is a Health Advocate with the [Mesothelioma + Asbestos Awareness Center](https://www.maacenter.org/).
+Alison is a Health Advocate at the [Mesothelioma + Asbestos Awareness Center](https://www.maacenter.org/ "MAACenter Homepage").
 
 ***
 
 > What is mesothelioma, how common is it, and who does it affect?
 
-Mesothelioma is a rare cancer [responsible](https://doi.org/10.15585/mmwr.mm6608a3 "Malignant Mesothelioma Mortality — United States, 1999–2015. Centers for Disease Control and Prevention. 2017-03-03") for taking the lives of approximately 3,000 people each year in the United States.
+[Mesothelioma](https://www.maacenter.org/mesothelioma/ "MAACenter Mesothelioma Page") is a rare cancer [responsible](https://doi.org/10.15585/mmwr.mm6608a3 "Malignant Mesothelioma Mortality — United States, 1999–2015. Centers for Disease Control and Prevention. 2017-03-03") for taking the lives of approximately 3,000 people each year in the United States.
 The disease affects people who have been exposed to asbestos in their day-to-day lives, whether that be through occupational exposure or other means.
 
 ![Mesothelioma mortality in the United States](https://github.com/dhimmel/mesothelioma/raw/886f3a0779c9cb6cb051e22c2f72c5be1e348087/figure/mortality.png "Mesothelioma mortality by state. Age-adjusted to the 2000 US standard population. Source: United States Cancer Statistics, WONDER Online Database, United States Department of Health and Human Services.")
@@ -29,7 +29,7 @@ Exposure to and removal of asbestos can lead to the [development](https://doi.or
 
 > What’s the prognosis and what factors determine disease progression?
 
-The prognosis of mesothelioma varies depending on the type of diagnosis.
+The [prognosis](https://www.maacenter.org/mesothelioma/prognosis/ "MAACenter Mesothelioma Progrnosis Page") of mesothelioma varies depending on the type of diagnosis.
 Both pleural and peritoneal mesothelioma have an [average life expectancy](https://doi.org/10.1155/2017/2782590 "Life Expectancy in Pleural and Peritoneal Mesothelioma. Lung Cancer International. 2017-01-23") of 6–12 months, while pericardial mesothelioma has an average life expectancy of 6 months.
 Although there is no cure for mesothelioma yet, [early detection](https://doi.org/10.18632/oncotarget.17910 "Biomarkers for early diagnosis of malignant mesothelioma: Do we need another moonshot? Oncotarget. 2017-05-17") may allow for more options when it comes to treatment and ultimately improve survival rate and quality of life.
 
@@ -51,7 +51,7 @@ Unfortunately, any amount of exposure to asbestos could lead to mesothelioma, or
 > What are some exciting research developments related to mesothelioma from the last five years?
 
 + **Immunotherapy** — In recent years, doctors have done clinical trials to see how immunotherapy affects several cancers, [including](https://doi.org/10.21037/tlcr.2017.05.02 "Immunotherapy for malignant pleural mesothelioma: current status and future directions. Translational Lung Cancer Research. 2017-06") mesothelioma.
-[Immunotherapy](https://www.maacenter.org/treatment/emerging-treatments/immunotherapy/), the act of transferring T-cells, is designed to help the immune system recognize cancer cells that it otherwise wouldn’t have been able to.
+[Immunotherapy](https://www.maacenter.org/treatment/emerging-treatments/immunotherapy/ "MAACenter Immunotherapy Page"), the act of transferring T-cells, is designed to help the immune system recognize cancer cells that it otherwise wouldn’t have been able to.
 It encourages antibodies to block the PD-L1 protein so that T-cells can recognize it and fight it off.
 
 + **Cancer Moonshot** — During its first year of operation, [Cancer Moonshot](https://obamawhitehouse.archives.gov/node/352601)’s mission has been clear: to make more therapies available and work on early detection.
