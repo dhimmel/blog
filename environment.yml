@@ -1,12 +1,11 @@
 name: blog
 channels:
-- anaconda
+  - conda-forge
 dependencies:
-- markdown=2.6.7
-- python=3.6.0
-- jinja2=2.9.4
-- pip:
-  - pelican==3.7.1
-  - smartypants==2.0.0
-  - typogrify==2.0.7
-  - ghp-import==0.5.5
+  - ghp-import=0.5.5
+  - jinja2=2.10
+  - markdown=2.6.9
+  - pelican=3.7.1
+  - python=3.6.3
+  - smartypants=2.0.0
+  - typogrify=2.0.7
