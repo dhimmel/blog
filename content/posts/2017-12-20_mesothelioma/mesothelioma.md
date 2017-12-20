@@ -1,8 +1,8 @@
 Title: Dangerous dusts and malignant mesotheliomas: Q&A with Alison Grimes
+Authors: Alison Grimes, Daniel Himmelstein
 Slug: mesothelioma
 Date: 2017-12-20
 Tags: mesothelioma, cancer, asbestos, epidemiology, awareness, Q&A, oncology
-Status: draft
 
 In 2015, Simeonov and I [proposed](https://doi.org/10.7717/peerj.705 "Lung cancer incidence decreases with elevation: evidence for oxygen as an inhaled carcinogen. PeerJ. 2015-01-13") that oxygen is an inhaled carcinogen, resulting in greater lung cancer incidence at lower elevations.
 Our study proved controversial, even evoking criticism from *Cancer Research UK*, which we responded to elsewhere on [this blog](http://blog.dhimmel.com/cruk-reassessment/ "The Cancer Research UK Reassessment of our Lung Cancer versus Elevation Study. Satoshi Village. 2015-01-15").
