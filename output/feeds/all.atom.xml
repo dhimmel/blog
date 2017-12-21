@@ -11,7 +11,7 @@ Alison is a Health Advocate at the &lt;a href="https://www.maacenter.org/" title
 &lt;blockquote&gt;
 &lt;p&gt;What is mesothelioma, how common is it, and who does it&amp;nbsp;affect?&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;a href="https://www.maacenter.org/mesothelioma/" title="MAACenter Mesothelioma Page"&gt;Mesothelioma&lt;/a&gt; is a rare cancer &lt;a href="https://doi.org/10.15585/mmwr.mm6608a3" title="Malignant Mesothelioma Mortality — United States, 1999–2015. Centers for Disease Control and Prevention. 2017-03-03"&gt;responsible&lt;/a&gt; for taking the lives of approximately 3,000 people each year in the United States.
+&lt;p&gt;Mesothelioma is a rare cancer &lt;a href="https://doi.org/10.15585/mmwr.mm6608a3" title="Malignant Mesothelioma Mortality — United States, 1999–2015. Centers for Disease Control and Prevention. 2017-03-03"&gt;responsible&lt;/a&gt; for taking the lives of approximately 3,000 people each year in the United States.
 The disease affects people who have been exposed to asbestos in their day-to-day lives, whether that be through occupational exposure or other&amp;nbsp;means.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Mesothelioma mortality in the United States" src="https://github.com/dhimmel/mesothelioma/raw/886f3a0779c9cb6cb051e22c2f72c5be1e348087/figure/mortality.png" title="Mesothelioma mortality by state. Age-adjusted to the 2000 US standard population. Source: United States Cancer Statistics, WONDER Online Database, United States Department of Health and Human Services."&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Data visualization:&lt;/strong&gt; mesothelioma mortality varies by state (&lt;a href="https://github.com/dhimmel/mesothelioma"&gt;source code&lt;/a&gt;).&lt;/em&gt;&lt;/p&gt;
@@ -47,7 +47,7 @@ Unfortunately, any amount of exposure to asbestos could lead to mesothelioma, or
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Immunotherapy&lt;/strong&gt; — In recent years, doctors have done clinical trials to see how immunotherapy affects several cancers, &lt;a href="https://doi.org/10.21037/tlcr.2017.05.02" title="Immunotherapy for malignant pleural mesothelioma: current status and future directions. Translational Lung Cancer Research. 2017-06"&gt;including&lt;/a&gt; mesothelioma.
-&lt;a href="https://www.maacenter.org/treatment/emerging-treatments/immunotherapy/" title="MAACenter Immunotherapy Page"&gt;Immunotherapy&lt;/a&gt;, the act of transferring T-cells, is designed to help the immune system recognize cancer cells that it otherwise wouldn’t have been able to.
+Immunotherapy, the act of transferring T-cells, is designed to help the immune system recognize cancer cells that it otherwise wouldn’t have been able to.
 It encourages antibodies to block the &lt;span class="caps"&gt;PD&lt;/span&gt;-L1 protein so that T-cells can recognize it and fight it&amp;nbsp;off.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;

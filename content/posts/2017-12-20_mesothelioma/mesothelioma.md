@@ -15,7 +15,7 @@ Alison is a Health Advocate at the [Mesothelioma + Asbestos Awareness Center](ht
 
 > What is mesothelioma, how common is it, and who does it affect?
 
-[Mesothelioma](https://www.maacenter.org/mesothelioma/ "MAACenter Mesothelioma Page") is a rare cancer [responsible](https://doi.org/10.15585/mmwr.mm6608a3 "Malignant Mesothelioma Mortality — United States, 1999–2015. Centers for Disease Control and Prevention. 2017-03-03") for taking the lives of approximately 3,000 people each year in the United States.
+Mesothelioma is a rare cancer [responsible](https://doi.org/10.15585/mmwr.mm6608a3 "Malignant Mesothelioma Mortality — United States, 1999–2015. Centers for Disease Control and Prevention. 2017-03-03") for taking the lives of approximately 3,000 people each year in the United States.
 The disease affects people who have been exposed to asbestos in their day-to-day lives, whether that be through occupational exposure or other means.
 
 ![Mesothelioma mortality in the United States](https://github.com/dhimmel/mesothelioma/raw/886f3a0779c9cb6cb051e22c2f72c5be1e348087/figure/mortality.png "Mesothelioma mortality by state. Age-adjusted to the 2000 US standard population. Source: United States Cancer Statistics, WONDER Online Database, United States Department of Health and Human Services.")
@@ -51,7 +51,7 @@ Unfortunately, any amount of exposure to asbestos could lead to mesothelioma, or
 > What are some exciting research developments related to mesothelioma from the last five years?
 
 + **Immunotherapy** — In recent years, doctors have done clinical trials to see how immunotherapy affects several cancers, [including](https://doi.org/10.21037/tlcr.2017.05.02 "Immunotherapy for malignant pleural mesothelioma: current status and future directions. Translational Lung Cancer Research. 2017-06") mesothelioma.
-[Immunotherapy](https://www.maacenter.org/treatment/emerging-treatments/immunotherapy/ "MAACenter Immunotherapy Page"), the act of transferring T-cells, is designed to help the immune system recognize cancer cells that it otherwise wouldn’t have been able to.
+Immunotherapy, the act of transferring T-cells, is designed to help the immune system recognize cancer cells that it otherwise wouldn’t have been able to.
 It encourages antibodies to block the PD-L1 protein so that T-cells can recognize it and fight it off.
 
 + **Cancer Moonshot** — During its first year of operation, [Cancer Moonshot](https://obamawhitehouse.archives.gov/node/352601)’s mission has been clear: to make more therapies available and work on early detection.
