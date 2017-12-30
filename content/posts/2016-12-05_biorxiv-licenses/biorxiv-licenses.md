@@ -41,7 +41,7 @@ What about licensing by discipline? The figure below shows all subjects with at 
 
 Using the scoring system [above](#license-table), I assigned each preprint a score based on its license. Each author received a score equaling the sum of their preprints.
 
-Middle initials were removed to consolidate duplicate names for the same person. If you're worried that this analysis conflates multiple authors with the same name, start using [ORCID](http://orcid.org/ "Persistent digital identifiers for every researcher"). Luckily, with only 29,436 distinct author names, name collisions are yet to be a major problem.
+Middle initials were removed to consolidate duplicate names for the same person. If you're worried that this analysis conflates multiple authors with the same name, start using [ORCID](https://orcid.org/ "Persistent digital identifiers for every researcher"). Luckily, with only 29,436 distinct author names, name collisions are yet to be a major problem.
 
 <table id="author-table" class="display" cellspacing="0" width="100%">
   <thead>
@@ -93,11 +93,11 @@ We're quickly entering an era where scientific literature is read first by a com
 
 ## What can I do?
 
-+ **Authors:** Choose CC BY in the future. If you've posted any preprints that aren't CC BY, you can submit a revision on _bioRxiv_ to update the license (assuming that you still own the rights and the work hasn't been published by a journal). 
-  
++ **Authors:** Choose CC BY in the future. If you've posted any preprints that aren't CC BY, you can submit a revision on _bioRxiv_ to update the license (assuming that you still own the rights and the work hasn't been published by a journal).
+
     If you're worried about some nebulous risk to open licensing, just remember that there are already [over a quarter billion](https://stateof.creativecommons.org/2015/ "State of the Commons 2015") CC BY licensed works. <small>Note that if your preprint includes content that you don't own the rights to and that isn't compatibly licensed, you'll have to seek permission or take a wager on [fair use](https://en.wikipedia.org/wiki/Fair_use "Wikipedia · Fair use").</small>
 
-+ **Funders:** Require open! See the Gates Foundation's [policy](http://www.gatesfoundation.org/How-We-Work/General-Information/Open-Access-Policy "Bill & Melinda Gates Foundation Open Access Policy") as an example.
++ **Funders:** Require open! See the Gates Foundation's [policy](https://www.gatesfoundation.org/How-We-Work/General-Information/Open-Access-Policy "Bill & Melinda Gates Foundation Open Access Policy") as an example.
 
 + **Preprint Servers:** Remove the all rights reserved option. Consider replacing it with [CC0](https://creativecommons.org/publicdomain/zero/1.0/) <small>(Public Domain Dedication)</small>, which is ideal for preprints by US Government employees 🇺🇸, whose work is not subject to copyright under US law but would [still benefit](https://creativecommons.org/2014/05/09/white-house-supports-cc0-for-federal-government-datasets/ "White House supports CC0 for federal government datasets") from CC0 internationally.
 
@@ -127,7 +127,7 @@ Preprints are an exciting development in scholarly communication. Now let's star
   .vega-actions a {
     margin-right: 5px;
   }
-  
+
   .vega-embed .vega-actions a:after {
       content: ' · ';
   }

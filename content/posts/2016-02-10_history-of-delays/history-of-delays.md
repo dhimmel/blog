@@ -67,7 +67,7 @@ The takeaway here is that, as a whole, PubMed acceptance delays likely underesti
 
 ## Conclusion
 
-Publishing delays haven't ballooned. However, there's plenty of room for improvement. I'd like to see existing journals strive towards acceptance within two months and publication within two weeks. In the meantime, scientists looking to circumvent delays should consider [preprinting](http://blog.dhimmel.com/preprints-2015/ "The preprint in 2015 and what comes next") or realtime platforms such as [*Thinklab*](http://thinklab.com/ "A community for realtime open collaborative science").
+Publishing delays haven't ballooned. However, there's plenty of room for improvement. I'd like to see existing journals strive towards acceptance within two months and publication within two weeks. In the meantime, scientists looking to circumvent delays should consider [preprinting](http://blog.dhimmel.com/preprints-2015/ "The preprint in 2015 and what comes next") or realtime platforms such as [*Thinklab*](https://think-lab.github.io/ "A community for realtime open collaborative science").
 
 <script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/js/select2.min.js"></script>
