@@ -33,24 +33,39 @@ As such, the references section (bibliography) is a numbered list:
 
 ![](scihub-refs-numeric.png)
 
-## Usage
+## Usage in PubMed Central
 
 In general, each journal (or even publisher) has a preferred citation style that's applied to all of their articles.
 However, I couldn't find much information on the overall prevalence of the two styles.
-Hence, I turned to the PubMed Central (PMC) Open Access Subset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/), which contained fulltexts for XX articles in a consistent XML format.
+Hence, I turned to the PubMed Central (PMC) Open Access (OA) [Subset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/), which as of March 4, 2018 contained fulltexts for 1,875,131 articles in a standardized machine-readable format (JATS XML).
+This corpus is fantastic for text & data mining.
+Note it could be ever better, but due to licensing issues, 61% of the 4.8 million articles in PMC are excluded from its OA Subset:
+please consider only publishing in libre OA journals!
 
-This corpus is fantastic for text & data mining, but note that XX% of all 4784205 articles in PMC are excluded from the OA Subset, since their publishers' apply legal barriers to restrict their availability and reuse.
-The OA Subset has previously been used to (allegedly) [detect](https://doi.org/10.1038/d41586-018-02421-3) duplicated images, but can also be used 
+Anyways, 1,602,392 articles included citations and references ([source code](https://gitlab.com/dhimmel/pmc-citation-styles)).
+I crafted a _heuristic_ (a bunch of rules / handmade algorithm) to classify the citation style of an article as numeric, author, or unknown.
+While there's no guarantee the algorithm correctly classifies every citation/article, I fed it a collection of [test cases](https://gitlab.com/dhimmel/pmc-citation-styles/blob/afbcbe68479f54d2e77a2352340809e0fc1e9e56/utils/test_utils.py#L80-110) (enforced via [continuous integration](https://doi.org/10.1038/550143a "Collaborative software development made easy")) to ensure it's not too misbehaved.
+
+Overall, 86.0% of articles used numeric-style and 12.2% used author-style (the algorithm could not resolve 1.8% of articles, classifying them as unknown).
+Here's the popularity of each citation style by year of publication (absolute counts on the left, normalized proportions on the right):
 
 ![Popularity of citation styles by year](https://glcdn.githack.com/dhimmel/pmc-citation-styles/raw/694ebea384372d87e68b4582087a10233de945b5/figure/years-mutlipanel.svg)
 
+We see that each year more articles were added to the PMC OA Subset than the year before, with a total of 255,736 articles added from 2017.
+However, the relative popularity of author- versus numeric-style citations has remained relatively constant.
 
+What about the proliferation of unknown-style articles from 2008–2012?
+These are almost all from the [_Acta Crystallographica_](https://en.wikipedia.org/wiki/Acta_Crystallographica) series of journals, which hyperlinks citations using the ▶ symbol.
+See [`PMC3793688`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3793688/ "De Silva et al. 2013. Acta Crystallographica Section E: Structure Reports. DOI: 10.1107/S1600536813018643") for example.
+Manual inspection reveals that _Acta Crystallographica_ references are actually author-style.
 
+Here are some easter eggs.
+In 2003 and 2004, _PLOS Biology_ published 283 articles using author-style citations before switching to numeric-style, which remains the PLOS style to this day.
+The article with the most references at 3,112 is [World checklist of hornworts and liverworts](https://doi.org/10.3897/phytokeys.59.6261) in the journal _PhytoKeys_ (`PMC4758082`), which used author-style for its 12,274 in-text citations.
+The article with the second-most references at 2,857 is [QCD and strongly coupled gauge theories](https://doi.org/10.1140/epjc/s10052-014-2981-5) from _The European Physical Journal C_ (`PMC4413533`), which uses numeric-style to render its 3,679 in-text citations.
 
+## When to use what
 
-PeerJ, eLife, Ubiquity Press journals
-
-## Numberic-style
 
 PLOS, BMC-series journals, Nature journals
 
@@ -66,19 +81,3 @@ Textual citation, Parenthetical citation
 Downside of texual (in-line citations)
 
 ## Popularity
-
-
-## Get
-
-ftp://ftp.ncbi.nlm.nih.gov/pub/pmc
-
-```
-<xref rid="ref-68" ref-type="bibr">WorldClim, 2013</xref>
-```
-
-https://www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi?verb=GetRecord&identifier=oai:pubmedcentral.nih.gov:156895&metadataPrefix=pmc
-https://www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi?verb=GetRecord&identifier=oai:pubmedcentral.nih.gov:4304851&metadataPrefix=pmc
-
-
-PMC4304851
-
