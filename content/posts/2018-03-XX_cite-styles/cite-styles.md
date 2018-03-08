@@ -11,7 +11,7 @@ You may have also heard them referred to as the [Harvard](https://en.wikipedia.o
 ## Author-style
 
 Here's an example of author-style from our recent Sci-Hub Coverage Study published in _eLife_.
-First, notice how citations appear in the main text:
+First, see how citations appear in the main text:
 
 ![](scihub-cites-author.png)
 
