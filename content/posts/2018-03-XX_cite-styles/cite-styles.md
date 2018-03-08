@@ -13,25 +13,25 @@ You may have also heard them referred to as the [Harvard](https://en.wikipedia.o
 Here's an example of author-style from our recent Sci-Hub Coverage Study published in _eLife_.
 First, see how citations appear in the main text:
 
-![](scihub-cites-author.png)
+![Sci-Hub Coverage Study in eLife: author-style citations]({attach}scihub-cites-author.png)
 
 Notice how studies with 3 or more authors use "et al." rather than listing every single author.
 Also note how the letter `a` was appended to `Van Noorden, 2013` to denote that this is the first of the two Van Noorden articles from 2013 that we cited.
 
 With author-style, references (items in the bibliography) are sorted alphabetically by first-author's surname:
 
-![](scihub-refs-author.png){widht="70%"}
+![Sci-Hub Coverage Study in eLife: author-style refences]({attach}scihub-refs-author.png){width="70%"}
 
 ## Numeric-style
 
 Here's the same paragraph as above, but using numeric-style, which is the default for Manubot – the tool we used to write [the manuscript](https://greenelab.github.io/scihub-manuscript/):
 
-![](scihub-cites-numeric.png)
+![Sci-Hub Coverage Study via Manubot: numeric-style citations]({attach}scihub-cites-numeric.png)
 
 When using numeric-style citations, references are numbered according to the order they were cited.
 As such, the references section (bibliography) is a numbered list:
 
-![](scihub-refs-numeric.png)
+![Sci-Hub Coverage Study via Manubot: numeric-style references]({attach}scihub-refs-numeric.png)
 
 ## Usage in PubMed Central
 
@@ -59,10 +59,11 @@ These are almost all from the [_Acta Crystallographica_](https://en.wikipedia.or
 See [`PMC3793688`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3793688/ "De Silva et al. 2013. Acta Crystallographica Section E: Structure Reports. DOI: 10.1107/S1600536813018643") for example.
 Manual inspection reveals that _Acta Crystallographica_ references are actually author-style.
 
-Here are some easter eggs.
-In 2003 and 2004, _PLOS Biology_ published 283 articles using author-style citations before switching to numeric-style, which remains the PLOS style to this day.
-The article with the most references at 3,112 is [World checklist of hornworts and liverworts](https://doi.org/10.3897/phytokeys.59.6261) in the journal _PhytoKeys_ (`PMC4758082`), which used author-style for its 12,274 in-text citations.
-The article with the second-most references at 2,857 is [QCD and strongly coupled gauge theories](https://doi.org/10.1140/epjc/s10052-014-2981-5) from _The European Physical Journal C_ (`PMC4413533`), which uses numeric-style to render its 3,679 in-text citations.
+Here are some easter eggs:
+
++ In 2003 and 2004, _PLOS Biology_ published 283 articles using author-style citations before switching to numeric-style, which remains the PLOS style to this day.
++ The article with the most references at 3,112 is [World checklist of hornworts and liverworts](https://doi.org/10.3897/phytokeys.59.6261) in the journal _PhytoKeys_ (`PMC4758082`), which used author-style for its 12,274 in-text citations.
++ The article with the second-most references at 2,857 is [QCD and strongly coupled gauge theories](https://doi.org/10.1140/epjc/s10052-014-2981-5) from _The European Physical Journal C_ (`PMC4413533`), which uses numeric-style to render its 3,679 in-text citations.
 
 ## When to use what
 
