@@ -4,7 +4,7 @@ Date: 2018-03-20
 Tags: bibliography, references, citations, works cited, journals, Manubot, eLife, PeerJ, Thinklab
 Status: draft
 
-Should citations in scholarly writing appear as author-year snippets, like ([Pantcheva, 2018](http://site.uit.no/english/writing-style/citationstyles/ "Citation styles: Vancouver and Harvard systems"); [Zelle, 2015](http://docs.citationstyles.org/en/1.0.1/primer.html "Primer — An Introduction to CSL: v1.0.1")), or numbers, like [[1](),[2]()]?
+Should citations in scholarly writing appear as author-year snippets, like ([Pantcheva, 2018](http://site.uit.no/english/writing-style/citationstyles/ "Citation styles: Vancouver and Harvard systems"); [Zelle, 2015](http://docs.citationstyles.org/en/1.0.1/primer.html "Primer — An Introduction to CSL: v1.0.1")), or numbers, like [[1](https://www.nottingham.ac.uk/studyingeffectively/writing/referencing/styles.aspx "Studying Effectively: Referencing styles. University of Nottingham"),[2](https://library.wur.nl/infoboard/7_citing/citation_styles.html "Author-date or numeric style. Wageningen University & Research")]?
 Let's refer to these two methods as _author-style_ and _numeric-style_.
 You may have also heard them referred to as the [Harvard](https://en.wikipedia.org/wiki/Parenthetical_referencing) and [Vancouver](https://en.wikipedia.org/wiki/Vancouver_system) referencing systems.
 
@@ -67,18 +67,23 @@ Here are some easter eggs:
 
 ## When to use what
 
-
-PLOS, BMC-series journals, Nature journals
-
+Average number of authors per biomedical publication [now exceeding](https://10.15200/winn.141832.26907 "Robert Aboukhalil · 2014 · The rising trend in authorship · Winnower") five, referring to papers by just their first author et al. will often overlook the majority of contributions.
 
 
-There are two main ways to organize reference lists and citations in scholarly writing.
+# The Worst Case
+
+https://gitlab.com/dhimmel/pmc-citation-styles/blob/master/07.rephetio-stats.ipynb
+https://elifesciences.org/articles/26726#references
+93 self references where I'm first author.
+62 Thinklab, 24 Zenodo, 5 Figshare, the bioRxiv preprint for the study, and one peer-reviewed study this study builds off of.
+
+We were just shy of breaking single-letter-suffix disambiguation, getting to `2015z` for Himmelstein works from 2015 and `2016w` for Himmelstein works from 2016.
+
+These 93 references took up three pages of the [PDF](({attach}elife-26726-v2.pdf))'s bibliography:
+
+![Project Rephetio eLife PDF: all references to Himmelstein first-author works]({attach}elife-26726-v2-himmelstein-refs.png)
+
+The 394 author-style citations consumed a total of 8,542 characters, excluding the surrounding parentheses and multi-citation separators.
+That's an average of 21.7 characters versus 2.6 characters average for the same manuscript using numeric-style.
 
 
-Numbered references or alphabetical
-
-Textual citation, Parenthetical citation
-
-Downside of texual (in-line citations)
-
-## Popularity
