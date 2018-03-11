@@ -65,13 +65,56 @@ Here are some easter eggs:
 + The article with the most references at 3,112 is [World checklist of hornworts and liverworts](https://doi.org/10.3897/phytokeys.59.6261) in the journal _PhytoKeys_ (`PMC4758082`), which used author-style for its 12,274 in-text citations.
 + The article with the second-most references at 2,857 is [QCD and strongly coupled gauge theories](https://doi.org/10.1140/epjc/s10052-014-2981-5) from _The European Physical Journal C_ (`PMC4413533`), which uses numeric-style to render its 3,679 in-text citations.
 
-## When to use what
+## The worst case
+
+Below, I'll go over the pros and cons of author- versus numeric-style.
+But first, I want to introduce the Project Rephetio manuscript that will help exhibit the _worst-case_ performance of the two styles.
+
+Project Rephetio was the final act of my PhD, and we took a [radically open](http://git.dhimmel.com/rephetio-manuscript/#realtime-open-science-thinklab) approach for this study.
+First, we used the (now defunct) website Thinklab to post our proposal and publicly discuss the project while it was underway.
+All code was posted immediately to GitHub under an open license.
+Data was also uploaded to GitHub, or if too large, to Figshare.
+In the end, the project encompassed 86 Thinklab discussions, 41 [GitHub](https://git.io/v5zvX) repositories (23 of which we archived on [Zenodo](https://goo.gl/FMiqHq)), 9 [Figshare](https://doi.org/ccq3) records, and several prepublication manuscripts (i.e. via Manubot, Thinklab, and bioRxiv).
+
+The Project Rephetio manuscript was [eventually published](http://doi.org/10.7554/eLife.26726) in the journal _eLife_ with a total of 394 citations to 241 references.
+I was the first author of 93 of the references, which took a full three pages of bibliography in [_eLife_'s PDF]({attach}elife-26726-v2.pdf) (_eLife_ uses author-style):
+
+![Project Rephetio eLife PDF: all references to Himmelstein first-author works](elife-26726-v2-himmelstein-refs.png)
+
+Only one of these "self-citations" was to a traditional scholarly output — the [predecessor study](https://doi.org/10.1371/journal.pcbi.1004259 "Himmelstein & Baranzini. 2015. Heterogeneous Network Edge Prediction: A Data Integration Approach to Prioritize Disease-Associated Genes. PLOS Computational Biology") to Project Rephetio.
+The remaining 92 references were to non-traditional outputs generated during the course of the study:
+62 Thinklab discussions/documents, 24 Zenodo records, 5 Figshare records, and 1 preprint.
+
+As scientific communication grows beyond immutable journal articles in the coming decades, we can expect to see more and more studies like Project Rephetio, which will have a large number of references to non-journal outputs, such as code, data, and discussion forums.
+Today's worst-case bibliographies will be tomorrow's average cases.
+
+## Which style is best?
+
+Benefits Author style:
+
+1. You can recognize a study by just looking at the text of a citation.
+
+Anti: fields bigger, non-traditional outputs
+
+2. The first author is more visibly credited.
+3. Identify outdated studies
+
+4. Citations and references can be prepared independently, without the assistance of a typesetting program, assuming there are no author-year collisions.
+
+Benefits of numeric-style:
+
+1. Space savings
+2. Less distracting
+3. Easier lookup of a citation in the references
+4. Can cite works that don't have authors
+
+The days where author-style made sense for scholarly manuscripts has passed.
 
 Average number of authors per biomedical publication [now exceeding](https://10.15200/winn.141832.26907 "Robert Aboukhalil · 2014 · The rising trend in authorship · Winnower") five, referring to papers by just their first author et al. will often overlook the majority of contributions.
 
-![Project Rephetio via Thinklab: numeric-style citations]({attach}rephetio-cites-numeric.png)
+![Project Rephetio via Thinklab: numeric-style citations](rephetio-cites-numeric.png)
 
-![Project Rephetio via eLife Lens: author-style citations]({attach}rephetio-cites-author.png)
+![Project Rephetio via eLife Lens: author-style citations](rephetio-cites-author.png)
 
 
 # The Worst Case
@@ -85,7 +128,6 @@ We were just shy of breaking single-letter-suffix disambiguation, getting to `20
 
 These 93 references took up three pages of the [PDF](({attach}elife-26726-v2.pdf))'s bibliography:
 
-![Project Rephetio eLife PDF: all references to Himmelstein first-author works]({attach}elife-26726-v2-himmelstein-refs.png)
 
 The 394 author-style citations consumed a total of 8,542 characters, excluding the surrounding parentheses and multi-citation separators.
 That's an average of 21.7 characters versus 2.6 characters average for the same manuscript using numeric-style.
