@@ -1,7 +1,7 @@
 Title: On author versus numeric citation styles
 Slug: cite-styles
-Date: 2018-03-20
-Tags: bibliography, references, citations, works cited, journals, Manubot, eLife, PeerJ, Thinklab
+Date: 2018-03-12
+Tags: style, bibliography, references, citations, journals, Manubot, eLife, PeerJ, Thinklab, PubMed Central
 Status: draft
 
 Should citations in scholarly writing appear as author-year snippets, like ([Pantcheva, 2018](http://site.uit.no/english/writing-style/citationstyles/ "Citation styles: Vancouver and Harvard systems"); [Zelle, 2015](http://docs.citationstyles.org/en/1.0.1/primer.html "Primer — An Introduction to CSL: v1.0.1")), or numbers, like [[1](https://www.nottingham.ac.uk/studyingeffectively/writing/referencing/styles.aspx "Studying Effectively: Referencing styles. University of Nottingham"),[2](https://library.wur.nl/infoboard/7_citing/citation_styles.html "Author-date or numeric style. Wageningen University & Research")]?
@@ -10,7 +10,7 @@ You may have also heard them referred to as the [Harvard](https://en.wikipedia.o
 
 ## Author-style
 
-Here's an example of author-style from our recent Sci-Hub Coverage Study published in _eLife_.
+Here's an example of author-style from our recent Sci-Hub Coverage Study [published](https://doi.org/10.7554/eLife.32822 "Sci-Hub provides access to nearly all scholarly literature. eLife. 2018") in _eLife_.
 First, see how citations appear in the main text:
 
 ![Sci-Hub Coverage Study in eLife: author-style citations]({attach}scihub-cites-author.png)
