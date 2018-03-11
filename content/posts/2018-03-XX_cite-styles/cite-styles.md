@@ -20,7 +20,7 @@ Also note how the letter `a` was appended to `Van Noorden, 2013` to denote that 
 
 With author-style, references (items in the bibliography) are sorted alphabetically by first-author's surname:
 
-![Sci-Hub Coverage Study in eLife: author-style refences]({attach}scihub-refs-author.png){width="70%"}
+![Sci-Hub Coverage Study in eLife: author-style refences]({attach}scihub-refs-author.png)
 
 ## Numeric-style
 
@@ -79,57 +79,95 @@ In the end, the project encompassed 86 Thinklab discussions, 41 [GitHub](https:/
 The Project Rephetio manuscript was [eventually published](http://doi.org/10.7554/eLife.26726) in the journal _eLife_ with a total of 394 citations to 241 references.
 I was the first author of 93 of the references, which took a full three pages of bibliography in [_eLife_'s PDF]({attach}elife-26726-v2.pdf) (_eLife_ uses author-style):
 
-![Project Rephetio eLife PDF: all references to Himmelstein first-author works](elife-26726-v2-himmelstein-refs.png)
+![Project Rephetio eLife PDF: all references to Himmelstein first-author works]({attach}elife-26726-v2-himmelstein-refs.png)
 
 Only one of these "self-citations" was to a traditional scholarly output — the [predecessor study](https://doi.org/10.1371/journal.pcbi.1004259 "Himmelstein & Baranzini. 2015. Heterogeneous Network Edge Prediction: A Data Integration Approach to Prioritize Disease-Associated Genes. PLOS Computational Biology") to Project Rephetio.
 The remaining 92 references were to non-traditional outputs generated during the course of the study:
 62 Thinklab discussions/documents, 24 Zenodo records, 5 Figshare records, and 1 preprint.
 
 As scientific communication grows beyond immutable journal articles in the coming decades, we can expect to see more and more studies like Project Rephetio, which will have a large number of references to non-journal outputs, such as code, data, and discussion forums.
-Today's worst-case bibliographies will be tomorrow's average cases.
+Today's worst-case bibliography will be tomorrow's average case.
 
 ## Which style is best?
 
-Benefits Author style:
+**Which style do I prefer?
+Numeric-style!**
+The worst-case performance of author-style is unacceptable.
+The benefits of author-style are becoming less and less relevant to modern scholarship and publication media.
 
-1. You can recognize a study by just looking at the text of a citation.
+To demonstrate my point, let's examine the pros of each style.
+For this task, we'll refer to a paragraph from Project Rephetio.
+Here's the paragraph in author-style, via [_eLife_ Lens](https://lens.elifesciences.org/26726/):
 
-Anti: fields bigger, non-traditional outputs
+![Project Rephetio via eLife Lens: author-style citations]({attach}rephetio-cites-author.png)
 
-2. The first author is more visibly credited.
-3. Identify outdated studies
+And here's the same paragraph in numeric-style via [Thinklab](https://think-lab.github.io/p/rephetio/report/#edges):
 
-4. Citations and references can be prepared independently, without the assistance of a typesetting program, assuming there are no author-year collisions.
+![Project Rephetio via Thinklab: numeric-style citations]({attach}rephetio-cites-numeric.png)
 
-Benefits of numeric-style:
+## Advantages of author-style
 
-1. Space savings
-2. Less distracting
-3. Easier lookup of a citation in the references
-4. Can cite works that don't have authors
+Author style has several benefits:
 
-The days where author-style made sense for scholarly manuscripts has passed.
+1. **You can recognize the referenced work from just its in-text citation.**
+For example, you don't need a reference section to know which study this sentence cites ([Watson & Crick, 1953](https://doi.org/10.1038/171737a0)).
+_However_, science has grown.
+No one has the mental capacity to remember every study in their field.
+Nowadays, imagine you're reading a genomics study and encounter a citation to `Li et al., 2017`.
+Even if you'd memorized every genomics study in PubMed, you'd still be choosing between [84 papers](https://goo.gl/xUHY8i "Search PubMed for records published in 2017 with a first author of Li and a MeSH term of genomics").
+Furthermore, the advantages of immediate recognizability are scant when hovering over a citation pops-up a tooltip with full reference information.
+Also, there's less room for misrecognition when readers are always shown the full author list, title, and journal information when investigating a citation.
 
-Average number of authors per biomedical publication [now exceeding](https://10.15200/winn.141832.26907 "Robert Aboukhalil · 2014 · The rising trend in authorship · Winnower") five, referring to papers by just their first author et al. will often overlook the majority of contributions.
+2. **The first author is more visibly credited.**
+Credit is important in science.
+As a first author, it can certainly be nice to find your surname in the main text of articles that you've influenced.
+Unfortunately, science is rarely a one-(wo)man job these days, with biomedical publications [now averaging](https://10.15200/winn.141832.26907 "Robert Aboukhalil · 2014 · The rising trend in authorship · Winnower") over five authors.
+Precisely since credit is so important for propelling the academic enterprise forward, we should avoid systems that tend to improperly credit individuals over communities.
 
-![Project Rephetio via Thinklab: numeric-style citations](rephetio-cites-numeric.png)
+3. **Dates help readers establish the chronology of prior work and quickly identify outdated citations.**
+For example, the average R&D cost of a new drug in the U.S. is $93 million ([DiMasi et al., 1995](https://doi.org/10.2165/00019053-199507020-00007 "DiMasi, Hansen, Grabowski, Lasagna. Research and Development Costs for New Drugs by Therapeutic Category. PharmacoEconomics. 1995")).
+However, numeric-style citations still allow readers to access dates, albeit with an extra step.
+And when trying to reconstruct the chronology of a certain topic, I'll often need to see the precise date in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) format (e.g. `2018-03-12`), which is too verbose for in-text citations anyways.
 
-![Project Rephetio via eLife Lens: author-style citations](rephetio-cites-author.png)
+4. **Citations and references can be prepared independently**, without the assistance of a typesetting program.
+Not having to renumber every reference when adding a citation to the beginning of a document is a big advantage if you're typesetting manually.
+However, there's always the risk of author-year collisions, which either breaks the independence of citations and references or results in ambiguous citations.
 
+  Also, the future of scholarly writing is cite-by-identifier.
+For example, I'd cite Project Rephetio by its Digital Object Identifier like `[@doi:10.7554/eLife.26726]`.
+Then, typesetting software, such as [Manubot](https://github.com/greenelab/manubot-rootstock), retrieves the corresponding bibliographic metadata and automatically formats both the citations and references according to [whatever style](https://github.com/citation-style-language/styles) you specify.
 
-# The Worst Case
+## Advantages of numeric-style
 
-https://gitlab.com/dhimmel/pmc-citation-styles/blob/master/07.rephetio-stats.ipynb
-https://elifesciences.org/articles/26726#references
-93 self references where I'm first author.
-62 Thinklab, 24 Zenodo, 5 Figshare, the bioRxiv preprint for the study, and one peer-reviewed study this study builds off of.
+Now let's look at the advantages of author style:
 
-We were just shy of breaking single-letter-suffix disambiguation, getting to `2015z` for Himmelstein works from 2015 and `2016w` for Himmelstein works from 2016.
+1. **Numeric-style is more space efficient.**
+The 394 author-style citations from Project Rephetio consumed a total of 8,542 characters (excluding the surrounding parentheses and multi-citation separators).
+That's an average of 21.7 characters per citation versus 2.6 for numeric-style.
+Author-style citations required 8 times as many characters than numeric-style!
 
-These 93 references took up three pages of the [PDF](({attach}elife-26726-v2.pdf))'s bibliography:
+2. **Numeric-style is less distracting.**
+Author-style citations can be visually distracting because they introduce large gaps into the flow of the prose.
+To avoid this disruption, author-style encourages grouping citations rather than interspersing them throughout a sentence.
+It also discourages citing a large number of works.
+The number and position of citations in scholarly writing should not be constrained by what is essentially a user-interface limitation!
 
+3. **Numeric lookup of references is easiest.**
+For both humans and machines, it's easier to navigate a numbered list compared to an alphabetical one.
+This is especially true when the alphabetical list has multiple references from the same first author.
+If you disagree, I challenge you to pick a Himmelstein citation from the snippet above and try to find it in the alphabetical reference compilation.
+Also notice the `Himmelstein et al.` references get all the way to `2015z`… I wonder if `2015aa` would have been next?
 
-The 394 author-style citations consumed a total of 8,542 characters, excluding the surrounding parentheses and multi-citation separators.
-That's an average of 21.7 characters versus 2.6 characters average for the same manuscript using numeric-style.
+4. **Numeric-style citations do not degrade when citing works without first authors.**
+Sometimes references don't have authors.
+Or the author is an organization or consortium. 
+Author-style references can get quite unwieldy in these circumstances.
+For example, check out this dataset citation as per [_PeerJ_](https://doi.org/10.7717/peerj.705)'s author-style, which consumes 71 characters:
 
+  > Pounds of meat purchased per household during 2006 was extracted from the 2011 Food Environment Atlas ([United States Department of Agriculture Economic Research Service, 2014](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads.aspx))
 
+## Treatise
+
+In certain types of writing, author-style citations do make sense.
+For example, if you're emailing a colleague or writing a GitHub issue comment, author-style citations (hyperlinked to the work, of course) are quick and easy.
+However, in today's scholarly environment, numeric-style is preferable for substantial manuscripts, where several failure modes of author-style citations are beginning to appear.
