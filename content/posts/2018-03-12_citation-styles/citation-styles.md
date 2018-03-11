@@ -1,5 +1,5 @@
 Title: On author versus numeric citation styles
-Slug: cite-styles
+Slug: citation-styles
 Date: 2018-03-12
 Tags: style, bibliography, references, citations, journals, Manubot, eLife, PeerJ, Thinklab, PubMed Central
 Status: draft
