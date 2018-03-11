@@ -40,7 +40,7 @@ However, I couldn't find much information on the overall prevalence of the two s
 Hence, I turned to the PubMed Central (PMC) Open Access (OA) [Subset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/), which as of March 4, 2018 contained fulltexts for 1,875,131 articles in a standardized machine-readable format (JATS XML).
 This corpus is fantastic for text & data mining.
 Note it could be ever better, but due to licensing issues, 61% of the 4.8 million articles in PMC are excluded from its OA Subset:
-please consider only publishing in libre OA journals!
+please help by only publishing in [libre OA](https://goo.gl/S8uKk5 "DOAJ Search for CC BY Journals") journals!
 
 Anyways, 1,602,392 articles included citations and references ([source code](https://gitlab.com/dhimmel/pmc-citation-styles)).
 I crafted a _heuristic_ (a bunch of rules / handmade algorithm) to classify the citation style of an article as numeric, author, or unknown.
@@ -68,6 +68,10 @@ Here are some easter eggs:
 ## When to use what
 
 Average number of authors per biomedical publication [now exceeding](https://10.15200/winn.141832.26907 "Robert Aboukhalil · 2014 · The rising trend in authorship · Winnower") five, referring to papers by just their first author et al. will often overlook the majority of contributions.
+
+![Project Rephetio via Thinklab: numeric-style citations]({attach}rephetio-cites-numeric.png)
+
+![Project Rephetio via eLife Lens: author-style citations]({attach}rephetio-cites-author.png)
 
 
 # The Worst Case
