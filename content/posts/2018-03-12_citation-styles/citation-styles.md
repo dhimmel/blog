@@ -169,5 +169,24 @@ For example, check out this dataset citation as per [_PeerJ_](https://doi.org/10
 ## Treatise
 
 In certain types of writing, author-style citations do make sense.
-For example, if you're emailing a colleague or writing a GitHub issue comment, author-style citations (hyperlinked to the work, of course) are quick and easy.
-However, in today's scholarly environment, numeric-style is preferable for substantial manuscripts, where several failure modes of author-style citations are beginning to appear.
+Particularly, author-style is good for short, informal documents without a separate references section.
+This includes emails, Steem posts, GitHub issues, and even blog posts.
+Of course, you should hyperlink author-style citations to the referenced work, so there's no ambiguity.
+
+But, in today's scholarly environment, numeric-style is preferable for substantial manuscripts, where several failure modes of author-style citations are beginning to appear.
+For the publishers out there, here are some takeaways:
+
++ If you're using author-style citations, consider switching to numeric-style. _PeerJ_ and _eLife_ designed their interfaces with user experience of readers in mind.
+Interestingly, they both chose author-style.
+It will be informative to see if they decide to switch to numeric-style.
+
++ If you're using numeric-style citations, make sure that HTML manuscript views provide tooltips with reference metadata. See for example, the Thinklab style above, which not only provides tooltips, but also highlights numeric citations by their type 
+(<span style="background-color: #E5E5E5">external</span>,
+<span style="background-color: #D1F3FE">project discussion</span>,
+<span style="background-color: #D9FFDE">code or data</span>).
+
++ Consider reformatting the style of references.
+I [think](https://github.com/greenelab/manubot-rootstock/issues/53) the title should go first, before authors, as seen in the Manubot-generated references above.
+Always provide a standard identifier or URL in references.
+It's the single most important element of a textual reference.
+In other words, `PMC4805733` or `https://doi.org/cmbr` is a better reference than `A. Ofosu, Aog 29 (2016) 1-8` (the style currently used by uBiome SmartGut reports).
