@@ -39,11 +39,11 @@ In general, each journal (or even publisher) has a preferred citation style that
 However, I couldn't find much information on the overall prevalence of the two styles.
 Hence, I turned to the PubMed Central (PMC) [Open Access (OA) Subset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/ "PMC Open Access Subset Homepage"), which as of March 4, 2018 contained fulltexts for 1,875,131 articles in a standardized machine-readable format (JATS XML).
 This corpus is fantastic for text & data mining.
-Note it could be ever better, but due to licensing issues, 61% of the 4.8 million articles in PMC are excluded from its OA Subset:
+Note it could be even better, but due to licensing issues, 61% of the 4.8 million articles in PMC are excluded from its OA Subset:
 please help by only publishing in [libre OA](https://goo.gl/S8uKk5 "DOAJ Search for CC BY Journals") journals!
 
 Anyways, 1,602,392 articles included citations and references ([source code](https://gitlab.com/dhimmel/pmc-citation-styles "dhimmel/pmc-citation-styles on GitLab")).
-I crafted a _heuristic_ (a bunch of rules / handmade algorithm) to classify the citation style of an article as numeric, author, or unknown.
+I crafted a _heuristic_ (a bunch of handmade rules) to classify the citation style of an article as numeric, author, or unknown.
 While there's no guarantee the algorithm correctly classifies every citation/article, I fed it a collection of [test cases](https://gitlab.com/dhimmel/pmc-citation-styles/blob/afbcbe68479f54d2e77a2352340809e0fc1e9e56/utils/test_utils.py#L80-110 "test_utils.py: test cases for citation style classification") (enforced via [continuous integration](https://doi.org/10.1038/550143a "Andrew Silver. Collaborative software development made easy. Nature Toolbox. 2017-10-14")) to ensure it's not too misbehaved.
 
 Overall, 86.0% of articles used numeric-style and 12.2% used author-style (the algorithm could not resolve 1.8% of articles, classifying them as unknown).
@@ -107,7 +107,7 @@ And here's the same paragraph in numeric-style via [Thinklab](https://think-lab.
 
 ## Advantages of author-style
 
-Author style has several benefits:
+Author-style has several benefits:
 
 1. **You can recognize the referenced work from just its in-text citation.**
 For example, you don't need a reference section to know which study this sentence cites ([Watson & Crick, 1953](https://doi.org/10.1038/171737a0)).
@@ -139,12 +139,12 @@ Then, typesetting software, such as [Manubot](https://github.com/greenelab/manub
 
 ## Advantages of numeric-style
 
-Now let's look at the advantages of author style:
+Now let's look at the advantages of numeric-style:
 
 1. **Numeric-style is more space efficient.**
 The 394 author-style citations from Project Rephetio consumed a total of 8,542 characters (excluding the surrounding parentheses and multi-citation separators).
 That's an average of 21.7 characters per citation versus 2.6 for numeric-style.
-Author-style citations required 8 times as many characters than numeric-style!
+Author-style citations required 8 times as many characters numeric-style!
 
 2. **Numeric-style is less distracting.**
 Author-style citations can be visually distracting because they introduce large gaps into the flow of the prose.
@@ -160,7 +160,7 @@ Also notice the `Himmelstein et al.` references get all the way to `2015z`… I 
 
 4. **Numeric-style citations do not degrade when citing works without first authors.**
 Sometimes references don't have authors.
-Or the author is an organization or consortium. 
+Or the author is an organization or consortium.
 Author-style references can get quite unwieldy in these circumstances.
 For example, check out this dataset citation as per [_PeerJ_](https://doi.org/10.7717/peerj.705)’s author-style, which consumes 71 characters:
 
