@@ -2,7 +2,6 @@ Title: On author versus numeric citation styles
 Slug: citation-styles
 Date: 2018-03-12
 Tags: style, bibliography, references, citations, journals, Manubot, eLife, PeerJ, Thinklab, PubMed Central
-Status: draft
 
 Should citations in scholarly writing appear as author-year snippets, like ([Pantcheva, 2018](http://site.uit.no/english/writing-style/citationstyles/ "Citation styles: Vancouver and Harvard systems"); [Zelle, 2015](http://docs.citationstyles.org/en/1.0.1/primer.html "Primer — An Introduction to CSL: v1.0.1")), or numbers, like [[1](https://www.nottingham.ac.uk/studyingeffectively/writing/referencing/styles.aspx "Studying Effectively: Referencing styles · University of Nottingham"),[2](https://library.wur.nl/infoboard/7_citing/citation_styles.html "Author-date or numeric style · Wageningen University & Research")]?
 Let's refer to these two methods as _author-style_ and _numeric-style_.
@@ -44,12 +43,12 @@ please help by only publishing in [libre OA](https://goo.gl/S8uKk5 "DOAJ Search 
 
 Anyways, 1,602,392 articles included citations and references ([source code](https://gitlab.com/dhimmel/pmc-citation-styles "dhimmel/pmc-citation-styles on GitLab")).
 I crafted a _heuristic_ (a bunch of handmade rules) to classify the citation style of an article as numeric, author, or unknown.
-While there's no guarantee the algorithm correctly classifies every citation/article, I fed it a collection of [test cases](https://gitlab.com/dhimmel/pmc-citation-styles/blob/afbcbe68479f54d2e77a2352340809e0fc1e9e56/utils/test_utils.py#L80-110 "test_utils.py: test cases for citation style classification") (enforced via [continuous integration](https://doi.org/10.1038/550143a "Andrew Silver. Collaborative software development made easy. Nature Toolbox. 2017-10-14")) to ensure it's not too misbehaved.
+While there's no guarantee the algorithm correctly classifies every citation/article, I fed it a collection of [test cases](https://gitlab.com/dhimmel/pmc-citation-styles/blob/d08b920861aef667ef7edb84c12c35ba119a69df/utils/test_utils.py#L80-110 "test_utils.py: test cases for citation style classification") (enforced via [continuous integration](https://doi.org/10.1038/550143a "Andrew Silver. Collaborative software development made easy. Nature Toolbox. 2017-10-14")) to ensure it's not too misbehaved.
 
 Overall, 86.0% of articles used numeric-style and 12.2% used author-style (the algorithm could not resolve 1.8% of articles, classifying them as unknown).
 Here's the popularity of each citation style by year of publication (absolute counts on the left, normalized proportions on the right):
 
-![Popularity of citation styles by year](https://glcdn.githack.com/dhimmel/pmc-citation-styles/raw/694ebea384372d87e68b4582087a10233de945b5/figure/years-mutlipanel.svg)
+![Popularity of citation styles by year](https://gitlab.com/dhimmel/pmc-citation-styles/raw/d08b920861aef667ef7edb84c12c35ba119a69df/figure/years-mutlipanel.png)
 
 We see that each year more articles were added to the PMC OA Subset than the year before, with a total of 255,736 articles added from 2017.
 However, the relative popularity of author- versus numeric-style citations has remained relatively constant.
@@ -110,7 +109,7 @@ And here's the same paragraph in numeric-style via [Thinklab](https://think-lab.
 Author-style has several benefits:
 
 1. **You can recognize the referenced work from just its in-text citation.**
-For example, you don't need a reference section to know which study this sentence cites ([Watson & Crick, 1953](https://doi.org/10.1038/171737a0)).
+For example, you don't need a reference section to know which study this sentence cites ([Watson & Crick, 1953](https://doi.org/10.1038/171737a0 "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid")).
 _However_, science has grown.
 No one has the mental capacity to remember every study in their field.
 Nowadays, imagine you're reading a genomics study and encounter a citation to `Li et al., 2017`.
@@ -142,7 +141,7 @@ Then, typesetting software, such as [Manubot](https://github.com/greenelab/manub
 Now let's look at the advantages of numeric-style:
 
 1. **Numeric-style is more space efficient.**
-The 394 author-style citations from Project Rephetio consumed a total of 8,542 characters (excluding the surrounding parentheses and multi-citation separators).
+The 394 author-style citations from Project Rephetio consumed a total of 8,542 characters (excluding the surrounding parentheses and multi-citation separators, [notebook](https://gitlab.com/dhimmel/pmc-citation-styles/blob/d08b920861aef667ef7edb84c12c35ba119a69df/07.rephetio-stats.ipynb)).
 That's an average of 21.7 characters per citation versus 2.6 for numeric-style.
 Author-style citations required 8 times as many characters numeric-style!
 

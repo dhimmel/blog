@@ -1,5 +1,190 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Satoshi Village</title><link href="http://blog.dhimmel.com/" rel="alternate"></link><link href="http://blog.dhimmel.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.dhimmel.com/</id><updated>2017-12-20T00:00:00-08:00</updated><entry><title>Dangerous dusts and malignant mesotheliomas: Q&amp;A with Alison Grimes</title><link href="http://blog.dhimmel.com/mesothelioma/" rel="alternate"></link><published>2017-12-20T00:00:00-08:00</published><updated>2017-12-20T00:00:00-08:00</updated><author><name>Alison Grimes</name></author><id>tag:blog.dhimmel.com,2017-12-20:/mesothelioma/</id><summary type="html">&lt;p&gt;In 2015, Simeonov and I &lt;a href="https://doi.org/10.7717/peerj.705" title="Lung cancer incidence decreases with elevation: evidence for oxygen as an inhaled carcinogen. PeerJ. 2015-01-13"&gt;proposed&lt;/a&gt; that oxygen is an inhaled carcinogen, resulting in greater lung cancer incidence at lower elevations.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Satoshi Village</title><link href="http://blog.dhimmel.com/" rel="alternate"></link><link href="http://blog.dhimmel.com/feeds/all.atom.xml" rel="self"></link><id>http://blog.dhimmel.com/</id><updated>2018-03-12T00:00:00-07:00</updated><entry><title>On author versus numeric citation styles</title><link href="http://blog.dhimmel.com/citation-styles/" rel="alternate"></link><published>2018-03-12T00:00:00-07:00</published><updated>2018-03-12T00:00:00-07:00</updated><author><name>Daniel Himmelstein</name></author><id>tag:blog.dhimmel.com,2018-03-12:/citation-styles/</id><summary type="html">&lt;p&gt;Should citations in scholarly writing appear as author-year snippets, like (&lt;a href="http://site.uit.no/english/writing-style/citationstyles/" title="Citation styles: Vancouver and Harvard systems"&gt;Pantcheva, 2018&lt;/a&gt;; &lt;a href="http://docs.citationstyles.org/en/1.0.1/primer.html" title="Primer — An Introduction to CSL: v1.0.1"&gt;Zelle, 2015&lt;/a&gt;), or numbers, like [&lt;a href="https://www.nottingham.ac.uk/studyingeffectively/writing/referencing/styles.aspx" title="Studying Effectively: Referencing styles · University of Nottingham"&gt;1&lt;/a&gt;,&lt;a href="https://library.wur.nl/infoboard/7_citing/citation_styles.html" title="Author-date or numeric style · Wageningen University &amp;amp; Research"&gt;2&lt;/a&gt;]?
+Let&amp;#8217;s refer to these two methods as &lt;em&gt;author-style&lt;/em&gt; and &lt;em&gt;numeric-style&lt;/em&gt;.
+You may have also heard them referred to as the &lt;a href="https://en.wikipedia.org/wiki/Parenthetical_referencing" title="Parenthetical referencing · Wikipedia"&gt;Harvard&lt;/a&gt; and &lt;a href="https://en.wikipedia.org/wiki/Vancouver_system" title="Vancouver system · Wikipedia"&gt;Vancouver&lt;/a&gt; referencing&amp;nbsp;systems.&lt;/p&gt;
+&lt;h2 id="author-style"&gt;Author-style&lt;/h2&gt;
+&lt;p&gt;Here&amp;#8217;s an example of author-style from our recent Sci-Hub Coverage Study &lt;a href="https://doi.org/10.7554/eLife.32822" title="Himmelstein, Rodriquez, Levernier, Munro, McLaughlin, Tzovaras, Greene · Sci-Hub provides access to nearly all scholarly literature · eLife · 2018"&gt;published&lt;/a&gt; in &lt;em&gt;eLife&lt;/em&gt;.
+First, see how citations appear in the main&amp;nbsp;text:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img alt="Sci-Hub Coverage Study in eLife: author-style citations" src="http://blog.dhimmel.com/citation-styles/scihub-cites-author.png"&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Notice how studies with 3 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Should citations in scholarly writing appear as author-year snippets, like (&lt;a href="http://site.uit.no/english/writing-style/citationstyles/" title="Citation styles: Vancouver and Harvard systems"&gt;Pantcheva, 2018&lt;/a&gt;; &lt;a href="http://docs.citationstyles.org/en/1.0.1/primer.html" title="Primer — An Introduction to CSL: v1.0.1"&gt;Zelle, 2015&lt;/a&gt;), or numbers, like [&lt;a href="https://www.nottingham.ac.uk/studyingeffectively/writing/referencing/styles.aspx" title="Studying Effectively: Referencing styles · University of Nottingham"&gt;1&lt;/a&gt;,&lt;a href="https://library.wur.nl/infoboard/7_citing/citation_styles.html" title="Author-date or numeric style · Wageningen University &amp;amp; Research"&gt;2&lt;/a&gt;]?
+Let&amp;#8217;s refer to these two methods as &lt;em&gt;author-style&lt;/em&gt; and &lt;em&gt;numeric-style&lt;/em&gt;.
+You may have also heard them referred to as the &lt;a href="https://en.wikipedia.org/wiki/Parenthetical_referencing" title="Parenthetical referencing · Wikipedia"&gt;Harvard&lt;/a&gt; and &lt;a href="https://en.wikipedia.org/wiki/Vancouver_system" title="Vancouver system · Wikipedia"&gt;Vancouver&lt;/a&gt; referencing&amp;nbsp;systems.&lt;/p&gt;
+&lt;h2 id="author-style"&gt;Author-style&lt;/h2&gt;
+&lt;p&gt;Here&amp;#8217;s an example of author-style from our recent Sci-Hub Coverage Study &lt;a href="https://doi.org/10.7554/eLife.32822" title="Himmelstein, Rodriquez, Levernier, Munro, McLaughlin, Tzovaras, Greene · Sci-Hub provides access to nearly all scholarly literature · eLife · 2018"&gt;published&lt;/a&gt; in &lt;em&gt;eLife&lt;/em&gt;.
+First, see how citations appear in the main&amp;nbsp;text:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img alt="Sci-Hub Coverage Study in eLife: author-style citations" src="http://blog.dhimmel.com/citation-styles/scihub-cites-author.png"&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Notice how studies with 3 or more authors use &amp;#8220;et al.&amp;#8221; rather than listing every single author.
+Also note how the letter &lt;code&gt;a&lt;/code&gt; was appended to &lt;code&gt;Van Noorden, 2013&lt;/code&gt; to denote that this is the first of the two Van Noorden articles from 2013 that we&amp;nbsp;cited.&lt;/p&gt;
+&lt;p&gt;With author-style, references (items in the bibliography) are sorted alphabetically by first-author&amp;#8217;s&amp;nbsp;surname:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img alt="Sci-Hub Coverage Study in eLife: author-style refences" src="http://blog.dhimmel.com/citation-styles/scihub-refs-author.png"&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="numeric-style"&gt;Numeric-style&lt;/h2&gt;
+&lt;p&gt;Here&amp;#8217;s the same paragraph as above, but using numeric-style, which is the default for Manubot – the tool we used to write the &lt;a href="https://greenelab.github.io/scihub-manuscript/" title="Sci-Hub Coverage Study manuscript via Manubot"&gt;manuscript&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img alt="Sci-Hub Coverage Study via Manubot: numeric-style citations" src="http://blog.dhimmel.com/citation-styles/scihub-cites-numeric.png"&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When using numeric-style citations, references are numbered according to the order they were cited.
+As such, the references section (bibliography) is a numbered&amp;nbsp;list:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img alt="Sci-Hub Coverage Study via Manubot: numeric-style references" src="http://blog.dhimmel.com/citation-styles/scihub-refs-numeric.png"&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="usage-in-pubmed-central"&gt;Usage in PubMed&amp;nbsp;Central&lt;/h2&gt;
+&lt;p&gt;In general, each journal (or even publisher) has a preferred citation style that&amp;#8217;s applied to all of their articles.
+However, I couldn&amp;#8217;t find much information on the overall prevalence of the two styles.
+Hence, I turned to the PubMed Central (&lt;span class="caps"&gt;PMC&lt;/span&gt;) &lt;a href="https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/" title="PMC Open Access Subset Homepage"&gt;Open Access (&lt;span class="caps"&gt;OA&lt;/span&gt;) Subset&lt;/a&gt;, which as of March 4, 2018 contained fulltexts for 1,875,131 articles in a standardized machine-readable format (&lt;span class="caps"&gt;JATS&lt;/span&gt; &lt;span class="caps"&gt;XML&lt;/span&gt;).
+This corpus is fantastic for text &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; data mining.
+Note it could be even better, but due to licensing issues, 61% of the 4.8 million articles in &lt;span class="caps"&gt;PMC&lt;/span&gt; are excluded from its &lt;span class="caps"&gt;OA&lt;/span&gt; Subset:
+please help by only publishing in &lt;a href="https://goo.gl/S8uKk5" title="DOAJ Search for CC BY Journals"&gt;libre &lt;span class="caps"&gt;OA&lt;/span&gt;&lt;/a&gt;&amp;nbsp;journals!&lt;/p&gt;
+&lt;p&gt;Anyways, 1,602,392 articles included citations and references (&lt;a href="https://gitlab.com/dhimmel/pmc-citation-styles" title="dhimmel/pmc-citation-styles on GitLab"&gt;source code&lt;/a&gt;).
+I crafted a &lt;em&gt;heuristic&lt;/em&gt; (a bunch of handmade rules) to classify the citation style of an article as numeric, author, or unknown.
+While there&amp;#8217;s no guarantee the algorithm correctly classifies every citation/article, I fed it a collection of &lt;a href="https://gitlab.com/dhimmel/pmc-citation-styles/blob/d08b920861aef667ef7edb84c12c35ba119a69df/utils/test_utils.py#L80-110" title="test_utils.py: test cases for citation style classification"&gt;test cases&lt;/a&gt; (enforced via &lt;a href="https://doi.org/10.1038/550143a" title="Andrew Silver. Collaborative software development made easy. Nature Toolbox. 2017-10-14"&gt;continuous integration&lt;/a&gt;) to ensure it&amp;#8217;s not too&amp;nbsp;misbehaved.&lt;/p&gt;
+&lt;p&gt;Overall, 86.0% of articles used numeric-style and 12.2% used author-style (the algorithm could not resolve 1.8% of articles, classifying them as unknown).
+Here&amp;#8217;s the popularity of each citation style by year of publication (absolute counts on the left, normalized proportions on the&amp;nbsp;right):&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Popularity of citation styles by year" src="https://gitlab.com/dhimmel/pmc-citation-styles/raw/d08b920861aef667ef7edb84c12c35ba119a69df/figure/years-mutlipanel.png"&gt;&lt;/p&gt;
+&lt;p&gt;We see that each year more articles were added to the &lt;span class="caps"&gt;PMC&lt;/span&gt; &lt;span class="caps"&gt;OA&lt;/span&gt; Subset than the year before, with a total of 255,736 articles added from 2017.
+However, the relative popularity of author- versus numeric-style citations has remained relatively&amp;nbsp;constant.&lt;/p&gt;
+&lt;p&gt;What about the proliferation of unknown-style articles from 2008–2012?
+These are almost all from the &lt;a href="https://en.wikipedia.org/wiki/Acta_Crystallographica"&gt;&lt;em&gt;Acta Crystallographica&lt;/em&gt;&lt;/a&gt; series of journals, which hyperlinks citations using the ▶ symbol.
+See &lt;a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3793688/" title="De Silva et al. 2013. Acta Crystallographica Section E: Structure Reports. DOI: 10.1107/S1600536813018643"&gt;&lt;code&gt;PMC3793688&lt;/code&gt;&lt;/a&gt; for example.
+Manual inspection reveals that &lt;em&gt;Acta Crystallographica&lt;/em&gt; references are actually&amp;nbsp;author-style.&lt;/p&gt;
+&lt;p&gt;Here are some easter&amp;nbsp;eggs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In 2003 and 2004, &lt;em&gt;&lt;span class="caps"&gt;PLOS&lt;/span&gt; Biology&lt;/em&gt; published 283 articles using author-style citations before switching to numeric-style, which remains the &lt;span class="caps"&gt;PLOS&lt;/span&gt; style to this&amp;nbsp;day.&lt;/li&gt;
+&lt;li&gt;The article with the most references at 3,112 is &lt;a href="https://doi.org/10.3897/phytokeys.59.6261"&gt;World checklist of hornworts and liverworts&lt;/a&gt; in the journal &lt;em&gt;PhytoKeys&lt;/em&gt; (&lt;a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4758082/"&gt;&lt;code&gt;PMC4758082&lt;/code&gt;&lt;/a&gt;), which used author-style for its 12,274 in-text&amp;nbsp;citations.&lt;/li&gt;
+&lt;li&gt;The article with the second-most references at 2,857 is &lt;a href="https://doi.org/10.1140/epjc/s10052-014-2981-5"&gt;&lt;span class="caps"&gt;QCD&lt;/span&gt; and strongly coupled gauge theories&lt;/a&gt; from &lt;em&gt;The European Physical Journal C&lt;/em&gt; (&lt;a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4413533/"&gt;&lt;code&gt;PMC4413533&lt;/code&gt;&lt;/a&gt;), which uses numeric-style to render its 3,679 in-text&amp;nbsp;citations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="the-worst-case"&gt;The worst&amp;nbsp;case&lt;/h2&gt;
+&lt;p&gt;Below, I&amp;#8217;ll go over the pros and cons of author- versus numeric-style.
+But first, I want to introduce the Project Rephetio manuscript that will help exhibit the &lt;em&gt;worst-case&lt;/em&gt; performance of the two&amp;nbsp;styles.&lt;/p&gt;
+&lt;p&gt;Project Rephetio was the final act of my PhD, and we took a &lt;a href="http://git.dhimmel.com/rephetio-manuscript/#realtime-open-science-thinklab"&gt;radically open&lt;/a&gt; approach for this study.
+First, we used the (now defunct) website Thinklab to post our proposal and publicly discuss the project while it was underway.
+All code was posted immediately to GitHub under an open license.
+Data was also uploaded to GitHub, or if too large, to Figshare.
+In the end, the project encompassed 86 Thinklab discussions, 41 &lt;a href="https://git.io/v5zvX"&gt;GitHub&lt;/a&gt; repositories (23 of which we archived on &lt;a href="https://goo.gl/FMiqHq"&gt;Zenodo&lt;/a&gt;), 9 &lt;a href="https://doi.org/ccq3"&gt;Figshare&lt;/a&gt; records, and several prepublication manuscripts (i.e. via Manubot, Thinklab, and &lt;em&gt;bioRxiv&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;The Project Rephetio manuscript was &lt;a href="http://doi.org/10.7554/eLife.26726"&gt;eventually published&lt;/a&gt; in the journal &lt;em&gt;eLife&lt;/em&gt; with a total of 394 citations to 241 references.
+I was the first author of 93 of the references, which took a full three pages of bibliography in &lt;a href="http://blog.dhimmel.com/citation-styles/elife-26726-v2.pdf"&gt;&lt;em&gt;eLife&lt;/em&gt;&amp;#8216;s &lt;span class="caps"&gt;PDF&lt;/span&gt;&lt;/a&gt; (&lt;em&gt;eLife&lt;/em&gt; uses&amp;nbsp;author-style):&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Project Rephetio eLife PDF: all references to Himmelstein first-author works" src="http://blog.dhimmel.com/citation-styles/elife-26726-v2-himmelstein-refs.png"&gt;&lt;/p&gt;
+&lt;p&gt;Only one of these &amp;#8220;self-citations&amp;#8221; was to a traditional scholarly output — the &lt;a href="https://doi.org/10.1371/journal.pcbi.1004259" title="Himmelstein &amp;amp; Baranzini. 2015. Heterogeneous Network Edge Prediction: A Data Integration Approach to Prioritize Disease-Associated Genes. PLOS Computational Biology"&gt;predecessor study&lt;/a&gt; to Project Rephetio.
+The remaining 92 references were to non-traditional outputs generated during the course of the study:
+62 Thinklab discussions/documents, 24 Zenodo records, 5 Figshare records, and 1&amp;nbsp;preprint.&lt;/p&gt;
+&lt;p&gt;As scientific communication grows beyond immutable journal articles in the coming decades, we can expect to see more and more studies like Project Rephetio, which will have a large number of references to non-journal outputs, such as code, data, and discussion forums.
+Today&amp;#8217;s worst-case bibliography will be tomorrow&amp;#8217;s average&amp;nbsp;case.&lt;/p&gt;
+&lt;h2 id="which-style-is-best"&gt;Which style is&amp;nbsp;best?&lt;/h2&gt;
+&lt;p&gt;Which style do &lt;strong&gt;I prefer?
+Numeric-style!&lt;/strong&gt;
+The worst-case performance of author-style is unacceptable.
+The benefits of author-style are becoming less and less relevant to modern scholarship and publication&amp;nbsp;media.&lt;/p&gt;
+&lt;p&gt;To demonstrate my point, let&amp;#8217;s examine the pros of each style.
+For this task, we&amp;#8217;ll refer to a paragraph from Project Rephetio.
+Here&amp;#8217;s the paragraph in author-style, via &lt;a href="https://lens.elifesciences.org/26726/"&gt;&lt;em&gt;eLife&lt;/em&gt; Lens&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img alt="Project Rephetio via eLife Lens: author-style citations" src="http://blog.dhimmel.com/citation-styles/rephetio-cites-author.png"&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And here&amp;#8217;s the same paragraph in numeric-style via &lt;a href="https://think-lab.github.io/p/rephetio/report/#edges"&gt;Thinklab&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img alt="Project Rephetio via Thinklab: numeric-style citations" src="http://blog.dhimmel.com/citation-styles/rephetio-cites-numeric.png"&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="advantages-of-author-style"&gt;Advantages of&amp;nbsp;author-style&lt;/h2&gt;
+&lt;p&gt;Author-style has several&amp;nbsp;benefits:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;You can recognize the referenced work from just its in-text citation.&lt;/strong&gt;
+For example, you don&amp;#8217;t need a reference section to know which study this sentence cites (&lt;a href="https://doi.org/10.1038/171737a0" title="Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid"&gt;Watson &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Crick, 1953&lt;/a&gt;).
+&lt;em&gt;However&lt;/em&gt;, science has grown.
+No one has the mental capacity to remember every study in their field.
+Nowadays, imagine you&amp;#8217;re reading a genomics study and encounter a citation to &lt;code&gt;Li et al., 2017&lt;/code&gt;.
+Even if you&amp;#8217;d memorized every genomics study in PubMed, you&amp;#8217;d still be choosing between &lt;a href="https://goo.gl/xUHY8i" title="Search PubMed for records published in 2017 with a first author of Li and a MeSH term of genomics"&gt;84 papers&lt;/a&gt;.
+Furthermore, the advantages of immediate recognizability are scant when hovering over a citation pops-up a tooltip with full reference information.
+Also, there&amp;#8217;s less room for misrecognition when readers are always shown the full author list, title, and journal information when investigating a&amp;nbsp;citation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The first author is more visibly credited.&lt;/strong&gt;
+Credit is important in science.
+As a first author, it can certainly be nice to find your surname in the main text of articles that you&amp;#8217;ve influenced.
+Unfortunately, science is rarely a one-(wo)man job these days, with biomedical publications &lt;a href="https://10.15200/winn.141832.26907" title="Robert Aboukhalil · 2014 · The rising trend in authorship · Winnower"&gt;now averaging&lt;/a&gt; over five authors.
+Precisely since credit is so important for propelling the academic enterprise forward, we should avoid systems that tend to improperly credit individuals over&amp;nbsp;communities.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Dates help readers establish the chronology of prior work and quickly identify outdated citations.&lt;/strong&gt;
+For example, the average R&amp;amp;D cost of a new drug in the &lt;span class="caps"&gt;U.S.&lt;/span&gt; is $93 million (&lt;a href="https://doi.org/10.2165/00019053-199507020-00007" title="DiMasi, Hansen, Grabowski, Lasagna. Research and Development Costs for New Drugs by Therapeutic Category. PharmacoEconomics. 1995"&gt;DiMasi et al., 1995&lt;/a&gt;).
+However, numeric-style citations still allow readers to access dates, albeit with an extra step.
+And when trying to reconstruct the chronology of a certain topic, I&amp;#8217;ll often need to see the precise date in &lt;a href="https://en.wikipedia.org/wiki/ISO_8601"&gt;&lt;span class="caps"&gt;ISO&lt;/span&gt; 8601&lt;/a&gt; format (e.g. &lt;code&gt;2018-03-12&lt;/code&gt;), which is too verbose for in-text citations&amp;nbsp;anyways.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Citations and references can be prepared independently&lt;/strong&gt;, without the assistance of a typesetting program.
+Not having to renumber every reference when adding a citation to the beginning of a document is a big advantage if you&amp;#8217;re typesetting manually.
+However, there&amp;#8217;s always the risk of author-year collisions, which either breaks the independence of citations and references or results in ambiguous&amp;nbsp;citations.&lt;/p&gt;
+&lt;p&gt;Also, the future of scholarly writing is cite-by-identifier.
+For example, I&amp;#8217;d cite Project Rephetio by its Digital Object Identifier like &lt;code&gt;[@doi:10.7554/eLife.26726]&lt;/code&gt;.
+Then, typesetting software, such as &lt;a href="https://github.com/greenelab/manubot-rootstock"&gt;Manubot&lt;/a&gt;, retrieves the corresponding bibliographic metadata and automatically formats both the citations and references according to &lt;a href="https://github.com/citation-style-language/styles"&gt;whatever style&lt;/a&gt; you&amp;nbsp;specify.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="advantages-of-numeric-style"&gt;Advantages of&amp;nbsp;numeric-style&lt;/h2&gt;
+&lt;p&gt;Now let&amp;#8217;s look at the advantages of&amp;nbsp;numeric-style:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Numeric-style is more space efficient.&lt;/strong&gt;
+The 394 author-style citations from Project Rephetio consumed a total of 8,542 characters (excluding the surrounding parentheses and multi-citation separators, &lt;a href="https://gitlab.com/dhimmel/pmc-citation-styles/blob/d08b920861aef667ef7edb84c12c35ba119a69df/07.rephetio-stats.ipynb"&gt;notebook&lt;/a&gt;).
+That&amp;#8217;s an average of 21.7 characters per citation versus 2.6 for numeric-style.
+Author-style citations required 8 times as many characters&amp;nbsp;numeric-style!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Numeric-style is less distracting.&lt;/strong&gt;
+Author-style citations can be visually distracting because they introduce large gaps into the flow of the prose.
+To avoid this disruption, author-style encourages grouping citations rather than interspersing them throughout a sentence.
+It also discourages citing a large number of works.
+The number and position of citations in scholarly writing should not be constrained by what is essentially a user-interface&amp;nbsp;limitation!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Numeric lookup of references is easiest.&lt;/strong&gt;
+For both humans and machines, it&amp;#8217;s easier to navigate a numbered list compared to an alphabetical one.
+This is especially true when the alphabetical list has multiple references from the same first author.
+If you disagree, I challenge you to pick a Himmelstein citation from the snippet above and try to find it in the alphabetical reference compilation.
+Also notice the &lt;code&gt;Himmelstein et al.&lt;/code&gt; references get all the way to &lt;code&gt;2015z&lt;/code&gt;… I wonder if &lt;code&gt;2015aa&lt;/code&gt; would have been&amp;nbsp;next?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Numeric-style citations do not degrade when citing works without first authors.&lt;/strong&gt;
+Sometimes references don&amp;#8217;t have authors.
+Or the author is an organization or consortium.
+Author-style references can get quite unwieldy in these circumstances.
+For example, check out this dataset citation as per &lt;a href="https://doi.org/10.7717/peerj.705"&gt;&lt;em&gt;PeerJ&lt;/em&gt;&lt;/a&gt;’s author-style, which consumes 71&amp;nbsp;characters:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Pounds of meat purchased per household during 2006 was extracted from the 2011 Food Environment Atlas (&lt;a href="https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads.aspx"&gt;United States Department of Agriculture Economic Research Service, 2014&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="treatise"&gt;Treatise&lt;/h2&gt;
+&lt;p&gt;In certain types of writing, author-style citations do make sense.
+Particularly, author-style is good for short, informal documents without a separate references section.
+This includes emails, Steem posts, GitHub issues, and even blog posts.
+Of course, you should hyperlink author-style citations to the referenced work, so there&amp;#8217;s no&amp;nbsp;ambiguity.&lt;/p&gt;
+&lt;p&gt;But, in today&amp;#8217;s scholarly environment, numeric-style is preferable for substantial manuscripts, where several failure modes of author-style citations are beginning to appear.
+For the publishers out there, here are some&amp;nbsp;takeaways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;If you&amp;#8217;re using author-style citations, consider switching to numeric-style. &lt;em&gt;PeerJ&lt;/em&gt; and &lt;em&gt;eLife&lt;/em&gt; designed their interfaces with user experience of readers in mind.
+Interestingly, they both chose author-style.
+It will be informative to see if they decide to switch to&amp;nbsp;numeric-style.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you&amp;#8217;re using numeric-style citations, make sure that &lt;span class="caps"&gt;HTML&lt;/span&gt; manuscript views provide tooltips with reference metadata. See for example, the Thinklab style above, which not only provides tooltips, but also highlights numeric citations by their type 
+(&lt;span style="background-color: #E5E5E5"&gt;external&lt;/span&gt;,
+&lt;span style="background-color: #D1F3FE"&gt;project discussion&lt;/span&gt;,
+&lt;span style="background-color: #D9FFDE"&gt;code or data&lt;/span&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Consider reformatting the style of references.
+I &lt;a href="https://github.com/greenelab/manubot-rootstock/issues/53"&gt;think&lt;/a&gt; the title should go first, before authors, as seen in the Manubot-generated references above.
+Always provide a standard identifier or &lt;span class="caps"&gt;URL&lt;/span&gt; in references.
+It&amp;#8217;s the single most important element of a textual reference.
+In other words, &lt;code&gt;PMC4805733&lt;/code&gt; or &lt;code&gt;https://doi.org/cmbr&lt;/code&gt; is a better reference than &lt;code&gt;A. Ofosu, Aog 29 (2016) 1-8&lt;/code&gt; (the style currently used by uBiome SmartGut&amp;nbsp;reports).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="style"></category><category term="bibliography"></category><category term="references"></category><category term="citations"></category><category term="journals"></category><category term="Manubot"></category><category term="eLife"></category><category term="PeerJ"></category><category term="Thinklab"></category><category term="PubMed Central"></category></entry><entry><title>Dangerous dusts and malignant mesotheliomas: Q&amp;A with Alison Grimes</title><link href="http://blog.dhimmel.com/mesothelioma/" rel="alternate"></link><published>2017-12-20T00:00:00-08:00</published><updated>2017-12-20T00:00:00-08:00</updated><author><name>Alison Grimes</name></author><id>tag:blog.dhimmel.com,2017-12-20:/mesothelioma/</id><summary type="html">&lt;p&gt;In 2015, Simeonov and I &lt;a href="https://doi.org/10.7717/peerj.705" title="Lung cancer incidence decreases with elevation: evidence for oxygen as an inhaled carcinogen. PeerJ. 2015-01-13"&gt;proposed&lt;/a&gt; that oxygen is an inhaled carcinogen, resulting in greater lung cancer incidence at lower elevations.
 Our study proved controversial, even evoking criticism from &lt;em&gt;Cancer Research &lt;span class="caps"&gt;UK&lt;/span&gt;&lt;/em&gt;, which we responded to elsewhere on &lt;a href="http://blog.dhimmel.com/cruk-reassessment/" title="The Cancer Research UK Reassessment of our Lung Cancer versus Elevation Study. Satoshi Village. 2015-01-15"&gt;this blog&lt;/a&gt;.
 While the link between elevation and lung cancer is an open question, the association between asbestos and mesothelioma is indisputable, having been cemented by a century of &lt;a href="https://doi.org/10.1183/09031936.96.09091932" title="The epidemiology of mesothelioma in historical context. European Respiratory Journal. 1996-09-01"&gt;epidemiologic interrogation&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Here, I chat with Alison Grimes …&lt;/p&gt;</summary><content type="html">&lt;p&gt;In 2015, Simeonov and I &lt;a href="https://doi.org/10.7717/peerj.705" title="Lung cancer incidence decreases with elevation: evidence for oxygen as an inhaled carcinogen. PeerJ. 2015-01-13"&gt;proposed&lt;/a&gt; that oxygen is an inhaled carcinogen, resulting in greater lung cancer incidence at lower elevations.
