@@ -1,6 +1,6 @@
 ## Source of the *Satoshi Village* blog
 
-[_Satoshi Village_](http://blog.dhimmel.com) is [Daniel
+[_Satoshi Village_](https://blog.dhimmel.com) is [Daniel
 Himmelstein](http://dhimmel.com)'s personal blog.
 
 The blog is created using [Pelican](http://docs.getpelican.com/) -- a static

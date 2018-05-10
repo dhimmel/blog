@@ -20,7 +20,7 @@ TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = 'en'
 
 # URL settings
-SITEURL = 'http://blog.dhimmel.com'
+SITEURL = 'https://blog.dhimmel.com'
 # Only enable document-relative URLs when developing
 RELATIVE_URLS = False
 ARTICLE_URL = '{slug}/'
