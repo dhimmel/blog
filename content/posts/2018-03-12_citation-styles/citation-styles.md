@@ -69,13 +69,13 @@ Here are some easter eggs:
 Below, I'll go over the pros and cons of author- versus numeric-style.
 But first, I want to introduce the Project Rephetio manuscript that will help exhibit the _worst-case_ performance of the two styles.
 
-Project Rephetio was the final act of my PhD, and we took a [radically open](http://git.dhimmel.com/rephetio-manuscript/#realtime-open-science-thinklab) approach for this study.
+Project Rephetio was the final act of my PhD, and we took a [radically open](https://git.dhimmel.com/rephetio-manuscript/#realtime-open-science-thinklab) approach for this study.
 First, we used the (now defunct) website Thinklab to post our proposal and publicly discuss the project while it was underway.
 All code was posted immediately to GitHub under an open license.
 Data was also uploaded to GitHub, or if too large, to Figshare.
 In the end, the project encompassed 86 Thinklab discussions, 41 [GitHub](https://git.io/v5zvX) repositories (23 of which we archived on [Zenodo](https://goo.gl/FMiqHq)), 9 [Figshare](https://doi.org/ccq3) records, and several prepublication manuscripts (i.e. via Manubot, Thinklab, and _bioRxiv_).
 
-The Project Rephetio manuscript was [eventually published](http://doi.org/10.7554/eLife.26726) in the journal _eLife_ with a total of 394 citations to 241 references.
+The Project Rephetio manuscript was [eventually published](https://doi.org/10.7554/eLife.26726) in the journal _eLife_ with a total of 394 citations to 241 references.
 I was the first author of 93 of the references, which took a full three pages of bibliography in [_eLife_'s PDF]({attach}elife-26726-v2.pdf) (_eLife_ uses author-style):
 
 ![Project Rephetio eLife PDF: all references to Himmelstein first-author works]({attach}elife-26726-v2-himmelstein-refs.png)
@@ -179,7 +179,7 @@ For the publishers out there, here are some takeaways:
 Interestingly, they both chose author-style.
 It will be informative to see if they decide to switch to numeric-style.
 
-+ If you're using numeric-style citations, make sure that HTML manuscript views provide tooltips with reference metadata. See for example, the Thinklab style above, which not only provides tooltips, but also highlights numeric citations by their type 
++ If you're using numeric-style citations, make sure that HTML manuscript views provide tooltips with reference metadata. See for example, the Thinklab style above, which not only provides tooltips, but also highlights numeric citations by their type
 (<span style="background-color: #E5E5E5">external</span>,
 <span style="background-color: #D1F3FE">project discussion</span>,
 <span style="background-color: #D9FFDE">code or data</span>).

@@ -5,7 +5,7 @@ Date: 2017-12-20
 Tags: mesothelioma, cancer, asbestos, epidemiology, awareness, Q&A, oncology
 
 In 2015, Simeonov and I [proposed](https://doi.org/10.7717/peerj.705 "Lung cancer incidence decreases with elevation: evidence for oxygen as an inhaled carcinogen. PeerJ. 2015-01-13") that oxygen is an inhaled carcinogen, resulting in greater lung cancer incidence at lower elevations.
-Our study proved controversial, even evoking criticism from *Cancer Research UK*, which we responded to elsewhere on [this blog](http://blog.dhimmel.com/cruk-reassessment/ "The Cancer Research UK Reassessment of our Lung Cancer versus Elevation Study. Satoshi Village. 2015-01-15").
+Our study proved controversial, even evoking criticism from *Cancer Research UK*, which we responded to elsewhere on [this blog](https://blog.dhimmel.com/cruk-reassessment/ "The Cancer Research UK Reassessment of our Lung Cancer versus Elevation Study. Satoshi Village. 2015-01-15").
 While the link between elevation and lung cancer is an open question, the association between asbestos and mesothelioma is indisputable, having been cemented by a century of [epidemiologic interrogation](https://doi.org/10.1183/09031936.96.09091932 "The epidemiology of mesothelioma in historical context. European Respiratory Journal. 1996-09-01").
 
 Here, I chat with Alison Grimes regarding what we now know about mesothelioma and asbestos, including what the future may hold.

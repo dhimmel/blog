@@ -16,7 +16,7 @@ We found that lung cancer decreased dramatically with rising elevation. This tre
 
 To convey the magnitude of the observed association, we imagine a hypothetical situation where the entire United States elevates to the level of the highest US county (San Juan, Colorado at 3,473 meters / 11,395 feet). Were all other factors to remain constant, we estimate 65,496 fewer new cases of lung cancer would arise per year. For comparison, 224,210 new cases of lung cancer [arose](https://doi.org/10.3322/caac.21208 "Cancer statistics, 2014") in the United States last year.
 
-While we don't recommend anyone relocate just yet and the risk for nonsmokers is low, experimental confirmation of oxygen-driven tumorgenesis could lead to new insights that yield better lung cancer preventions and treatment. Learn more about our findings in the [press release](http://eurekalert.org/e/64Wk "Press Release: Can inhaled oxygen cause cancer?") or see *SciShow's* [video summary](https://youtu.be/HrIrB9reWwQ?t=89s):
+While we don't recommend anyone relocate just yet and the risk for nonsmokers is low, experimental confirmation of oxygen-driven tumorgenesis could lead to new insights that yield better lung cancer preventions and treatment. Learn more about our findings in the [press release](https://eurekalert.org/e/64Wk "Press Release: Can inhaled oxygen cause cancer?") or see *SciShow's* [video summary](https://youtu.be/HrIrB9reWwQ?t=89s):
 
 <div class="videoWrapper"><iframe width="604" height="340" src="https://www.youtube.com/embed/HrIrB9reWwQ?start=89&feature=oembed&rel=0&theme=light&showinfo=0&autohide=1" frameborder="0" allowfullscreen></iframe></div>
 

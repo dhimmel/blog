@@ -3,7 +3,7 @@ Slug: history-of-delays
 Date: 2016-02-10
 Tags: publishing, delays, review time, scientific publishing, journals
 
-Last June, I [released a summary](http://blog.dhimmel.com/plos-and-publishing-delays/#journals_wrapper "Publication delays at PLOS and 3,475 other journals") of the recent publishing delays at 3,475 journals. The post attracted lots of attention via [Twitter](https://twitter.com/dhimmel/status/615624280026394625 "Tweet introducing data on publication and acceptance delays for 3,482 journals") and [*Nature News*](https://doi.org/10.1038/523131f "Long wait for publication plagues many journals"), primarily because scientists are frustrated with the sluggish pace of publishing.
+Last June, I [released a summary](https://blog.dhimmel.com/plos-and-publishing-delays/#journals_wrapper "Publication delays at PLOS and 3,475 other journals") of the recent publishing delays at 3,475 journals. The post attracted lots of attention via [Twitter](https://twitter.com/dhimmel/status/615624280026394625 "Tweet introducing data on publication and acceptance delays for 3,482 journals") and [*Nature News*](https://doi.org/10.1038/523131f "Long wait for publication plagues many journals"), primarily because scientists are frustrated with the sluggish pace of publishing.
 
 However, a major question remained. Are publication delays getting shorter or longer? Kendall Powell, writing a [feature for *Nature News*](https://doi.org/10.1038/530148a "The Waiting Game") released in tandem with this post, contacted me. Her investigation had uncovered a widespread belief that delays were worsening with time. But she wanted data, and the existing data was [field specific](http://wp.me/p4Ir7n-5Y "Waiting to Happen: Publication lag times in Cell Biology Journals") or [anecdotal](https://doi.org/10.1096/fj.12-0901ufm "The Glacial Pace of Scientific Publishing").
 
@@ -67,7 +67,7 @@ The takeaway here is that, as a whole, PubMed acceptance delays likely underesti
 
 ## Conclusion
 
-Publishing delays haven't ballooned. However, there's plenty of room for improvement. I'd like to see existing journals strive towards acceptance within two months and publication within two weeks. In the meantime, scientists looking to circumvent delays should consider [preprinting](http://blog.dhimmel.com/preprints-2015/ "The preprint in 2015 and what comes next") or realtime platforms such as [*Thinklab*](https://think-lab.github.io/ "A community for realtime open collaborative science").
+Publishing delays haven't ballooned. However, there's plenty of room for improvement. I'd like to see existing journals strive towards acceptance within two months and publication within two weeks. In the meantime, scientists looking to circumvent delays should consider [preprinting](https://blog.dhimmel.com/preprints-2015/ "The preprint in 2015 and what comes next") or realtime platforms such as [*Thinklab*](https://think-lab.github.io/ "A community for realtime open collaborative science").
 
 <script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/js/select2.min.js"></script>

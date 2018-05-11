@@ -5,7 +5,7 @@ Tags: bioRxiv, preprints, licensing, Creative Commons, license, CC BY, publishin
 
 Jordan Anaya of [Omnes Res](http://www.omnesres.com/ "Jordan Anaya is OmniRes") — creator of the [PrePubMed](http://www.prepubmed.org/ "PrePubMed indexes preprints from arXiv q-bio, PeerJ Preprints, Figshare, bioRxiv, F1000Research, preprints.org, and The Winnower") search engine for biomedical preprints — [recently compared](https://medium.com/@OmnesRes/biorxiv-vs-peerj-preprints-f7589141c532 "bioRxiv vs. PeerJ Preprints") _bioRxiv_ to _PeerJ Preprints_. We agree that [_PeerJ_](https://peerj.com/preprints/ "PeerJ Preprints") offers the better technology and user experience. However, [_bioRxiv_](http://biorxiv.org/ "The Preprint Server for Biology") has greater adoption in the biodata sciences.
 
-In fact, since my last blog post on preprints at the beginning of 2016, _bioRxiv_ has grown by 149% from 2,785 to 6,933 preprints. The growth has been fueled largely by the efforts of [ASAPbio](http://asapbio.org/ "A scientist-driven initiative to promote the productive use of preprints in the life sciences") and the growing recognition that [publishing delays](http://blog.dhimmel.com/history-of-delays/ "The history of publishing delays") are [interfering with science](https://doi.org/10.1038/530148a "Does it take too long to publish research?").
+In fact, since my last blog post on preprints at the beginning of 2016, _bioRxiv_ has grown by 149% from 2,785 to 6,933 preprints. The growth has been fueled largely by the efforts of [ASAPbio](http://asapbio.org/ "A scientist-driven initiative to promote the productive use of preprints in the life sciences") and the growing recognition that [publishing delays](https://blog.dhimmel.com/history-of-delays/ "The history of publishing delays") are [interfering with science](https://doi.org/10.1038/530148a "Does it take too long to publish research?").
 
 While _PeerJ_ requires that all preprints are published under a Creative Commons Attribution ([CC BY](https://creativecommons.org/licenses/by/4.0/)) License, _bioRxiv_ allows authors to choose from five options: CC BY, [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/) <small>(Attribution-NoDerivatives)</small>, [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) <small>(Attribution-NonCommercial)</small>, [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) <small>(Attribution-NonCommercial-NoDerivatives)</small>, and no license <small>(all rights reserved)</small>.
 
@@ -13,7 +13,7 @@ The purpose of Creative Commons licenses is to allow the reuse of content that w
 
 ## License breakdown
 
-Unfortunately, of the five options offered by _bioRxiv_, CC BY is the only [open license](http://opendefinition.org/licenses/ "Open Definition Conformant Licenses"), which [requires](http://opendefinition.org/ "The Open Definition sets out principles that define “openness” in relation to data and content") that content "can be freely used, modified, and shared by anyone for any purpose." Therefore, with the help of Jordan Anaya, I looked into which licensing options authors were choosing for their _bioRxiv_ preprints (till the end of November 2016). The breakdown shows that there's major room for improvement <small>([see why license choices matter below](#license-implications))</small>.
+Unfortunately, of the five options offered by _bioRxiv_, CC BY is the only [open license](https://opendefinition.org/licenses/ "Open Definition Conformant Licenses"), which [requires](https://opendefinition.org/ "The Open Definition sets out principles that define “openness” in relation to data and content") that content "can be freely used, modified, and shared by anyone for any purpose." Therefore, with the help of Jordan Anaya, I looked into which licensing options authors were choosing for their _bioRxiv_ preprints (till the end of November 2016). The breakdown shows that there's major room for improvement <small>([see why license choices matter below](#license-implications))</small>.
 
 <a id="license-table"></a>
 
@@ -69,7 +69,7 @@ Ultimately, most researchers care about getting citations and preventing plagiar
 
 > You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-NC or ND stipulations provide no additional protection against plagiarism. And anyways, scholarly norms rather than threats of being sued are what [actually encourages](http://www.dancohen.org/2013/11/26/cc0-by/ "Dan Cohen Blog · CC0 (+BY)") attribution. If you want to maximize citations, choose the license that allows for maximum dissemination.
+NC or ND stipulations provide no additional protection against plagiarism. And anyways, scholarly norms rather than threats of being sued are what [actually encourages](https://dancohen.org/2013/11/26/cc0-by/ "Dan Cohen Blog · CC0 (+BY)") attribution. If you want to maximize citations, choose the license that allows for maximum dissemination.
 
 ### All rights reserved
 
@@ -101,7 +101,7 @@ We're quickly entering an era where scientific literature is read first by a com
 
 + **Preprint Servers:** Remove the all rights reserved option. Consider replacing it with [CC0](https://creativecommons.org/publicdomain/zero/1.0/) <small>(Public Domain Dedication)</small>, which is ideal for preprints by US Government employees 🇺🇸, whose work is not subject to copyright under US law but would [still benefit](https://creativecommons.org/2014/05/09/white-house-supports-cc0-for-federal-government-datasets/ "White House supports CC0 for federal government datasets") from CC0 internationally.
 
-+ **Researchers:** Check out the [GitHub repository](https://github.com/dhimmel/biorxiv-licenses "dhimmel/biorxiv-licenses · GitHub") for this post or play with [the binder](http://mybinder.org/repo/dhimmel/biorxiv-licenses "mybinder.org · Launch dhimmel/biorxiv-licenses in your browser using Jupyter").
++ **Researchers:** Check out the [GitHub repository](https://github.com/dhimmel/biorxiv-licenses "dhimmel/biorxiv-licenses · GitHub") for this post or play with [the binder](https://mybinder.org/repo/dhimmel/biorxiv-licenses "mybinder.org · Launch dhimmel/biorxiv-licenses in your browser using Jupyter").
 
 Preprints are an exciting development in scholarly communication. Now let's start off down the right track.
 
