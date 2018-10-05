@@ -113,6 +113,9 @@ Preprints are an exciting development in scholarly communication. Now let's star
 
 **Update on June 16, 2017:** ASAPbio just [announced](http://asapbio.org/licensing "ASAPbio launches preprint licensing task force. 2017-06-16") they're launching a licensing taskforce, which I'm excited to be part of. _Nature News_ [covered](https://doi.org/10.1038/nature.2017.22161 "Lindsay McKenzie. Biologists debate how to license preprints. Nature News. 2017-06-16") this development and the broader issue. The leaderboard above helped identify preprint authors Jesse Bloom and Giulio Caravagna, who were both interviewed by _Nature News_.
 
+***
+
+**Update on October 5, 2018:** ASAPbio has [released](http://asapbio.org/new-licensing-resources "Sharing New Educational Resources on Open Licensing for Preprints") a [Preprint Licensing FAQ](http://asapbio.org/licensing-faq), which is a must-read resource for anyone interested in the intricacies of how Creative Commons licenses apply to preprints. This resource was drafted and reviewed by a diverse group of experts and stakeholders including lawyers and publishers. It touches on many of the most challenging questions related to open licensing in publishing, with top-notch legal reasoning!
 
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.css">
 <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
