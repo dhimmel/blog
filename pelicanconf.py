@@ -7,7 +7,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 PATH = 'content'
 ARTICLE_PATHS = ['posts']
-STATIC_PATHS = ['posts', 'favicon.ico']
+STATIC_PATHS = ['favicon.ico']
 EXTRA_PATH_METADATA = dict()
 
 # Static files to copy from content to output
