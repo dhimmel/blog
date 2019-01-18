@@ -43,9 +43,9 @@ AUTHOR_FEED_RSS = None
 LINKS = [
     ('<b>Satoshi Village Blog</b>', '/'),
     ('&ndash; archives', '/archives'),
-    ('<b>Daniel Himmelstein</b>', 'http://dhimmel.com/'),
-    ('&ndash; about', 'http://dhimmel.com/about'),
-    ('&ndash; research', 'http://dhimmel.com/research'),
+    ('<b>Daniel Himmelstein</b>', 'https://dhimmel.com/'),
+    ('&ndash; about', 'https://dhimmel.com/about'),
+    ('&ndash; research', 'https://dhimmel.com/research'),
 ]
 
 DEFAULT_PAGINATION = 10
