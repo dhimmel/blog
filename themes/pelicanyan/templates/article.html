@@ -2,6 +2,9 @@
 {% block title %}{{ article.title }}{% endblock %}
 {% block head %}
   {{ super() }}
+
+  <meta name="citation_date" content="{{article.date.isoformat()[:10]}}" />
+
   {% for keyword in article.keywords %}
     <meta name="keywords" content="{{keyword}}" />
   {% endfor %}
