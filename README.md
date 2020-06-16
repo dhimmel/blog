@@ -24,7 +24,6 @@ poetry run pelican content
 # view the blog locally
 cd output
 poetry run python -m http.server
-
-# Deploy the output to GitHub pages using:
-ghp-import --push output
 ```
+
+Deployment is done via CI.
