@@ -14,28 +14,17 @@ The custom subdomain of `blog.dhimmel.com` is specified in top-level `CNAME` fil
 
 ## Usage
 
-Install the conda environment for generating the blog with:
-
 ```sh
-conda env create --file environment.yml
+# Install the environment
+poetry install --no-root
 
-# or if already exists and should be updated
-conda env update --file environment.yml
-```
+# Build the blog to output
+poetry run pelican content
 
-Activate the environment using `conda activate blog`.
-
-Run `pelican content/` to process the posts and export the HTML pages to `output`.
-
-To view the blog locally use:
-
-```sh
+# view the blog locally
 cd output
-python -m http.server
-```
+poetry run python -m http.server
 
-Deploy to GitHub pages using:
-
-```sh
+# Deploy the output to GitHub pages using:
 ghp-import --push output
 ```
