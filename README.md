@@ -22,9 +22,12 @@ Install the conda environment for generating the blog with:
 
 ```sh
 conda env create --file environment.yml
+
+# or if already exists and should be updated
+conda env update --file environment.yml
 ```
 
-Activate the environment using `source activate blog`.
+Activate the environment using `conda activate blog`.
 
 Run `pelican content/` to process the posts and export the HTML pages to
 `output`.
