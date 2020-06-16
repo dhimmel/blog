@@ -19,11 +19,10 @@ The custom subdomain of `blog.dhimmel.com` is specified in top-level `CNAME` fil
 poetry install --no-root
 
 # Build the blog to output
-poetry run pelican content
+poetry run pelican
 
-# view the blog locally
-cd output
-poetry run python -m http.server
+# view the blog locally at http://localhost:8000/
+poetry run pelican --listen
 ```
 
 Deployment is done via CI.
