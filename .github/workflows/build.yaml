@@ -1,0 +1,19 @@
+name: Blog
+on:
+- push
+- pull_request
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+    - name: Install dependencies
+      run: |
+        pip install poetry
+        poetry install --no-root
+    - name: Pelican
+      run: poetry run pelican content
