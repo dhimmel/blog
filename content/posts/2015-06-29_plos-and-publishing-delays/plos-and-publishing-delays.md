@@ -17,7 +17,7 @@ The two oldest and most established PLOS journals, *Biology* and *Medicine*, fol
 
 The scraped data is nice because it comes directly from the source, but is time intensive and limited to a single webpage layout. Therefore, I also extracted timestamps from PubMed. Below I show publication (solid lines) and acceptance (dotted lines) times from this larger dataset.
 
-![PLOS acceptance and publication times from PubMed](https://raw.githubusercontent.com/dhimmel/plostime/39ff289cae08c81bce6aed499e8df391a05b2107/figure/plos-stages.png "PLOS acceptance  times (dotted line) and publication times (solid line)")
+![PLOS acceptance and publication times from PubMed](https://raw.githubusercontent.com/dhimmel/plostime/39ff289cae08c81bce6aed499e8df391a05b2107/figure/plos-stages.png "PLOS acceptance times (dotted line) and publication times (solid line)")
 
 With more articles, fine-grained temporal trends emerge. The findings are consistent with the scraped data. *PLOS Computational Biology* appears to have made some recent improvement, but still is over 50 days from acceptance to publication.
 
