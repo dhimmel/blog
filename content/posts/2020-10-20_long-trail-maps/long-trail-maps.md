@@ -22,25 +22,35 @@ I write this post to announce that **the best map of the Long Trail is now freel
 Curious where the oldest long-distance hiking trail in America wanders?
 Look no further than [OpenStreetMap](https://www.openstreetmap.org/).
 
-## Big Three Maps
+## The Big Three
 
-### OpenStreetMap
+My interest in mapping the Long Trail began with my September 2020 southbound thru-hike.
+As far as navigation options for hikers go, there are three main mapmakers:
+Green Mountain Club, Guthook, and OpenStreetMap.
 
 ### Green Mountain Club
 
-https://store.greenmountainclub.org/collections/gmc-publications/products/new-5th-edition-vermonts-long-trail-map-waterproof
-> Vermont’s Long Trail Waterproof Hiking Map (5th edition, 2015): This fold-out map of the Green Mountains includes the entire Long Trail and all blazed side trails. It has elevation profiles, up-to-date information about shelter and trail locations, mileages and suggested day hikes, as well as nearby road and town names.
-plastic-coated paper $12.95
+The [Green Mountain Club](https://www.greenmountainclub.org/) (GMC) is the non-profit organization that maintains the Long Trail.
+The GMC publishes a [paper Long Trail map](https://store.greenmountainclub.org/collections/gmc-publications/products/new-5th-edition-vermonts-long-trail-map-waterproof), last updated in 2015 and on its 5th edition.
+The map is plastic-coated for water resistance and divided into 8 sections to minimize refolding.
+It includes distances, major side trails, shelter locations, 100-feet contour lines, hill-shading, elevation profiles, and nearby towns at 1:85,000 scale.
+If you like a physical map, then consider supporting the GMC!
+The map is listed at $12.95, and available from major retailers like [REI](https://www.rei.com/product/177869/green-mountain-club-vermonts-long-trail-map-5th-edition), [Amazon](https://www.amazon.com/Mountain-Green-Vermonts-Long-Trail/dp/1888021462/), and your local outfitters.
 
-Georeferenced PDFs
-https://www.avenzamaps.com/maps/908930/long-trail-map
-$12.99
+The GMC also releases a digital version of their map, [available](https://www.avenzamaps.com/maps/908930/long-trail-map) via the Avenza mobile App for $12.99.
+With this map, you are essentially buying a georeferenced PDF of the paper map.
+This means you can use your phone's GPS (which works in airplane mode) to superimpose your location on a static map.
+But the PDFs are locked in the Avenza app, so make sure you like the Avenza interface before purchasing.
 
 ### Guthook Guides
 
 https://atlasguides.com/long-trail/
 $11.99 on [App Store](https://apps.apple.com/us/app/guthook-guides-hike-offline/id605447532) for iOS or [GooglePlay](https://play.google.com/store/apps/details?id=com.atlasguides.guthook) for Android
 
+Best For: cheaters, trash talkers, trolls, influencers
+
+
+### OpenStreetMap
 
 
 Unlike the propreitary Google or Apple Maps, anyone is free to reuse OpenStreetMap
