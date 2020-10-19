@@ -44,11 +44,23 @@ But the PDFs are locked in the Avenza app, so make sure you like the Avenza inte
 
 ### Guthook Guides
 
+[Guthook Guides](https://atlasguides.com/) brands itself "the #1 app for long-distance hikes".
+Currently, Guthook sells guides for 53 trails, including the [Long Trail](https://atlasguides.com/long-trail/) for the price of $11.99.
+The Guthook App includes the route and locations of shelters, campsites, water sources, and viewpoints.
+The real selling point however is the large number of user comments on points of interest (POIs).
+The comments can help with scouting to optimize your hike, but also can distract from the experience, burn a hole in your battery pack,
+and create reliance on an information source that isn't available for trails off the beaten path.
+
+Guthook is made by hikers for hikers.
+But its database of routes and POIs is proprietary.
+Leaving a comment, or suggesting a new POI, on Guthook is sharing that information only with customers of Guthook, rather than society at large.
+
+<!-- 
 https://atlasguides.com/long-trail/
 $11.99 on [App Store](https://apps.apple.com/us/app/guthook-guides-hike-offline/id605447532) for iOS or [GooglePlay](https://play.google.com/store/apps/details?id=com.atlasguides.guthook) for Android
 
 Best For: cheaters, trash talkers, trolls, influencers
-
+-->
 
 ### OpenStreetMap
 
