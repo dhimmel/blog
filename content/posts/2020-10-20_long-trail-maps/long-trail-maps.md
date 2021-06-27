@@ -100,6 +100,7 @@ Could not figure out how to create a Gaia GPS route.
 -->
 
 
+![The big three Long Trail maps side-by-side: GMC via Avenza, Guthook Guides, and OpenStreetMap via Gaia GPS.]({attach}long-trail-maps-side-by-side.png)
 
 ## The Long Trail from OpenStreetMap
 
