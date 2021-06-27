@@ -64,8 +64,6 @@ rather than society at large.
 <!-- 
 https://atlasguides.com/long-trail/
 $11.99 on [App Store](https://apps.apple.com/us/app/guthook-guides-hike-offline/id605447532) for iOS or [GooglePlay](https://play.google.com/store/apps/details?id=com.atlasguides.guthook) for Android
-
-Best For: cheaters, trash talkers, trolls, influencers
 -->
 
 ### OpenStreetMap
@@ -87,14 +85,36 @@ Nonetheless, it [contains](https://www.openstreetmap.org/relation/391736#map=9/4
 
 The website [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=391736&map=9!43.8387!-72.55740) allows you download the trail as GPX or KML,
 such that you could load it into your favorite navigation app ---
-popular ones include Strava, Gaia GPS, Caltopo, AllTrails, ViewRanger, Outdooractive, Komoot.
+popular ones include
+[Strava](https://www.strava.com/routes/2844248654783965478),
+[Gaia GPS](https://www.gaiagps.com/datasummary/track/51e2332d-0399-41d5-9e23-968916faf05c/),
+[CalTopo](https://caltopo.com/m/TFDH),
+[AllTrails](https://www.alltrails.com/explore/map/map-68897f1--47),
+[ViewRanger](https://my.viewranger.com/route/details/NDAxMzk1Nw==),
+[Outdooractive](https://www.outdooractive.com/en/route/hiking-route/the-long-trail-from-openstreetmap/214594603/),
+and [Komoot](https://www.komoot.com/tour/403656220).
+
+<!--
+Used https://www.gpsvisualizer.com/convert?output_elevation to add elevation.
+Could not figure out how to create a Gaia GPS route.
+-->
+
+
+
+## The Long Trail from OpenStreetMap
+
+The Long Trail is the world's first long distance hiking trail and runs from Massachusetts to Canada along the spine of the Green Mountains in Vermont.
+
+This route was posted as a companion to the blog post https://blog.dhimmel.com/long-trail-maps/. The route was extracted from OpenStreetMap on 2021-06-27 using Waymarked Trails:
+https://hiking.waymarkedtrails.org/#route?id=391736&map=9!43.8387!-72.5574
 
 ## other
 
-that make up America's oldest long-distance hiking trail as it wanders from Massachussettes to Canada along the spine of the Green Mountains in Vermont.
+that make up America's oldest long-distance hiking trail as it wanders from Massachusetts to Canada along the spine of the Green Mountains in Vermont.
 
 > Congrats on the thru-hike! I also hiked the LT in 2012. I’m having a hard time remembering exactly when I started working on the long trail in OSM, but I believe it was one of the earliest things I did. I started contributing to OSM in 2008 largely because good online trail maps were hard to come by at the time. I added trails in Vermont because that is where I live and like to hike. The Long Trail is the longest and most well known hiking trail in Vermont so it made sense to get that into OSM. I’m pretty sure I added it in my first year or two working on OSM. The ways making up the trail probably predate the relation because the idea of a relation data structure was either still very new to OSM or didn’t exist yet. If I remember correctly, I imported most of the trail from a publicly available government data source so it would have been “complete” from end to end right away. This imported trail was better than nothing, but not very accurate so for the next few years I refined it from my own GPS traces, aerial imagery, or any other data sources I came across. I haven’t payed too much attention in recent years, but I’m sure there are still plenty areas that need improvement. I did revisit the area around the Winooski River bridge after that was built and the trail rerouted in that area.
 
+https://www.openstreetmap.org/messages/894718
 
 
 
@@ -104,7 +124,6 @@ Version #81
 Liberating the route of the world's first long distance hiking trail.
 
 https://www.reddit.com/r/openstreetmap/comments/j6j5r5/when_was_the_long_trail_route_relation_first/
-https://www.openstreetmap.org/messages/894718
 
 ## OpenStreetMap uMap
 
