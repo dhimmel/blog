@@ -19,7 +19,7 @@ OpenStreetMap is like Wikipedia but for maps: a collaborative project to create 
 
 When I got in touch with Zeke, he wrote
 "I started contributing to OpenStreetMap in 2008 largely because good online trail maps were hard to come by at the time."
-Due to the efforts of contributors like Zeke --- most volunteers, exceeding 6 million in number ---
+Due to the efforts of contributors like Zeke — most volunteers, exceeding 6 million in number —
 OpenStreetMap has begun to rival, and often exceed, proprietary alternatives like Google Maps.
 I write this post to announce that **the best map of the Long Trail is now freely available to anyone via OpenStreetMap**.
 Curious where the oldest long-distance hiking trail in America wanders?
@@ -82,9 +82,15 @@ and contains natural features as well as those related to outdoor recreation,
 such as trails, campsites, shelters, waterways, and cliffs.
 Unlike the GMC and Guthook maps, OpenStreetMap is not based around any single trail.
 Nonetheless, it [contains](https://www.openstreetmap.org/relation/391736#map=9/43.9839/-72.4919) the entire Long Trail.
+But since OpenStreetMap itself is just a geospatial database,
+it is best paired with an outdoor navigation focused app that specialize in rendering wilderness.
 
+<!--
+Used https://www.gpsvisualizer.com/convert?output_elevation to add elevation to Waymarked Trails GPX.
+Could not figure out how to create a Gaia GPS route.
+-->
 The website [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=391736&map=9!43.8387!-72.55740) allows you download the trail as GPX or KML,
-such that you could load it into your favorite navigation app ---
+such that you could load it into your favorite navigation app —
 popular ones include
 [Strava](https://www.strava.com/routes/2844248654783965478),
 [Gaia GPS](https://www.gaiagps.com/datasummary/track/51e2332d-0399-41d5-9e23-968916faf05c/),
@@ -93,14 +99,41 @@ popular ones include
 [ViewRanger](https://my.viewranger.com/route/details/NDAxMzk1Nw==),
 [Outdooractive](https://www.outdooractive.com/en/route/hiking-route/the-long-trail-from-openstreetmap/214594603/),
 and [Komoot](https://www.komoot.com/tour/403656220).
+All of these apps include data from OpenStreetMap in their default map rendering.
+So by exporting the Long Trail to a route and uploading it to these apps,
+we're essentially highlighting a trail that should already be on the map.
+Many of these apps support downloading maps for offline, but sometimes only as a paid feature.
 
-<!--
-Used https://www.gpsvisualizer.com/convert?output_elevation to add elevation.
-Could not figure out how to create a Gaia GPS route.
--->
+If you just want to look at the map quickly,
+here's embedded map from uMap of the Long Trail:
 
+<!-- OpenStreetMap uMap Embed http://u.osmfr.org/m/506490/ -->
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/long-trail_506490?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#9/43.8880/-72.8229"></iframe><p><a href="//umap.openstreetmap.fr/en/map/long-trail_506490">See full screen</a></p>
+
+### Comparison
+
+Here's how the three maps look on mobile.
+With both GMC/Avenza and Guthook,
+you're required to use their selected map as the background.
+If you look closely at the Guthook screenshot,
+you'll see the map is from Google.
+For an OpenStreetMap-derived map,
+we can use any of the options above.
+Here, Gaia GPS is used with their dark mode map.
 
 ![The big three Long Trail maps side-by-side: GMC via Avenza, Guthook Guides, and OpenStreetMap via Gaia GPS.]({attach}long-trail-maps-side-by-side.png)
+
+I picked a landmark segment of the trail,
+which passes over the Winooski River and under Interstate 89,
+coinciding with the lowest elevation point along the hike.
+One difference between the maps is that Guthook skips a part of the trail,
+staying on Duxbury Road instead.
+If you look at the comments on Guthook for the nearby trailhead,
+many users note the new-and-true route.
+This is a good example of how Guthook comments provide advanced reconnaissance,
+but can diminish the experience should they spoil the surprise of a guard dog ambush or tempt you to [yellow blaze](https://adventurepossible.com/adventure/white-blue-and-other-blazes-of-the-appalachian-trail/).
+
+
 
 ## The Long Trail from OpenStreetMap
 
@@ -125,13 +158,6 @@ Version #81
 Liberating the route of the world's first long distance hiking trail.
 
 https://www.reddit.com/r/openstreetmap/comments/j6j5r5/when_was_the_long_trail_route_relation_first/
-
-## OpenStreetMap uMap
-
-https://umap.openstreetmap.fr/en/map/long-trail_506490#9/44.0244/-72.1211
-
-<!-- OpenStreetMap uMap Embed-->
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/long-trail_506490?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/en/map/long-trail_506490">See full screen</a></p>
 
 
 ## Google MyMaps
