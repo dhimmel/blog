@@ -88,6 +88,11 @@ it is best paired with an outdoor navigation focused app that specialize in rend
 <!--
 Used https://www.gpsvisualizer.com/convert?output_elevation to add elevation to Waymarked Trails GPX.
 Could not figure out how to create a Gaia GPS route.
+
+Alternative method to export to GPX using overpass-turbo
+[Export route to KML Q&A](https://help.openstreetmap.org/questions/23679/how-to-export-a-route-relation-as-gpx-or-kml/50171 "https://help.openstreetmap.org/questions/23679/how-to-export-a-route-relation-as-gpx-or-kml/50171")
+Export > Data > download as KML
+https://overpass-turbo.eu/s/YFY
 -->
 The website [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=391736&map=9!43.8387!-72.55740) allows you download the trail as GPX or KML,
 such that you could load it into your favorite navigation app —
@@ -105,10 +110,11 @@ we're essentially highlighting a trail that should already be on the map.
 Many of these apps support downloading maps for offline, but sometimes only as a paid feature.
 
 If you just want to look at the map quickly,
-here's embedded map from uMap of the Long Trail:
+here's an embedded map [from uMap](https://u.osmfr.org/m/506490/) of the Long Trail:
 
-<!-- OpenStreetMap uMap Embed http://u.osmfr.org/m/506490/ -->
-<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/long-trail_506490?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#9/43.8880/-72.8229"></iframe><p><a href="//umap.openstreetmap.fr/en/map/long-trail_506490">See full screen</a></p>
+<!-- OpenStreetMap uMap Embed https://u.osmfr.org/m/506490/ -->
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/long-trail_506490?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#9/43.8880/-72.8229">
+</iframe>
 
 ### Comparison
 
@@ -132,6 +138,115 @@ If you look at the comments on Guthook for the nearby trailhead,
 many users note the new-and-true route.
 This is a good example of how Guthook comments provide advanced reconnaissance,
 but can diminish the experience should they spoil the surprise of a guard dog ambush or tempt you to [yellow blaze](https://adventurepossible.com/adventure/white-blue-and-other-blazes-of-the-appalachian-trail/).
+
+
+## My Hike
+
+I hiked the Long Trail in September, with my two friends Freshmeat and I.A.O. Moosalamoo (trail names).
+September is an ideal month, since there's fewer bugs, less mud, and later sunrises.
+But really any month is a good time to hike!
+We hiked 280 miles over 12 days, 22 hours, and 42 minutes,
+<!-- 310:42:45 according to ViewRanger recording -->
+taking us from Canada to Massachusetts along the spine of the Green Mountains.
+
+It's hard to sum up the trip in three photos.
+But I'll try.
+
+The trail hits many of Vermont's most prominent ski areas,
+including
+Stratton (detour),
+Bromley,
+Killington (recommended detour),
+Pico (detour),
+Middlebury Snow bowl,
+Sugarbush,
+Mad River Glen,
+Stowe,
+Smuggler's Notch,
+and Jay Peak.
+Here Freshmeat enjoys the morning fog on Lift 2 of Mad River Glen:
+
+![Sitting on the top chair of Lift 2 at Mad River Glen in the Fog.]({attach}2020-09-18_ski-lift-in-the-fog.jpg)
+
+Big ponds carefully crafted by beavers:
+
+![Dead tree in front of beaver pond with reflections in the morning.]({attach}2020-09-18_ski-lift-in-the-fog.jpg)
+
+A feast for all after a grueling day that started in Johnson and ended at the Taft Lodge on Mount Mansfield.
+We were rewarded by an unremarkable, windy, and solitary sunrise the next morning on Vermont's highest peak.
+
+![Preparing a meal at Taft Lodge.]({attach}2020-09-15_meal.jpg "Dirtbag deluxe aka the hiker trash feast.")
+
+If you'd like to see more pictures from our hike, or explore the route further, here are the daily recordings on Strava:
+
+1. [2020-09-12 Long Trail Day 1](https://www.strava.com/activities/4054451382)
+- [2020-09-13 Long Trail Day 2](https://www.strava.com/activities/4058835073)
+- [2020-09-14 Long Trail Day 3](https://www.strava.com/activities/4060773689)
+- [2020-09-15 Long Trail Day 4](https://www.strava.com/activities/4065585063)
+- [2020-09-16 Long Trail Day 5](https://www.strava.com/activities/4077208150)
+- [2020-09-17 Long Trail Day 6](https://www.strava.com/activities/4077208542)
+- [2020-09-18 Long Trail Day 7](https://www.strava.com/activities/4079656180)
+- [2020-09-19 Long Trail Day 8](https://www.strava.com/activities/4087249796)
+- [2020-09-20 Long Trail Day 9](https://www.strava.com/activities/4090435994)
+- [2020-09-21 Long Trail Day 10](https://www.strava.com/activities/4096816524)
+- [2020-09-22 Long Trail Day 11](https://www.strava.com/activities/4099477998)
+- [2020-09-23 Long Trail Day 12](https://www.strava.com/activities/4106233382)
+- [2020-09-24 Long Trail Day 13](https://www.strava.com/activities/4110169270)
+- [2020-09-25 Long Trail Finale](https://www.strava.com/activities/4110572447)
+
+
+## Editing the Map
+
+According to the US Forest Service, the Long Trail is #1 (or perhaps #3).
+But according to OpenStreetMap, it's 391736.
+That is the ID for the [Long Trail *relation*](https://www.openstreetmap.org/relation/391736#map=9/43.8137/-72.9231).
+The relation connects all the individual trail segments (called ways) into a single conceptual unit.
+
+When I mentioned Zeke Farwell completing the Long Trail, I was referring to the relation which created a continuous path the length of Vermont.
+Zeke described a bit more about his early work on the Long Trail:
+
+> I imported most of the trail from a publicly available government data source so it would have been “complete” from end to end right away.
+This imported trail was better than nothing,
+but not very accurate so for the next few years I refined it from my own GPS traces, aerial imagery, or any other data sources I came across.
+
+He went on to complete the trail physically in 2012.
+Eight years later, when I hiked the trail with a copy of the OpenStreetMap relation loaded into my navigation gap,
+I noticed some portions of the trail were off.
+And many side trails were missing.
+Many of the trails still followed Zeke's original imports,
+and hadn't yet benefitted from a decade of increased data and improved GPS accuracy.
+
+So I set out to revise the entire Long Trail.
+Over a third of the Long Trail is shared with the Appalachian Trail.
+I expected the Appalachian Trail portion to be more accurate due to its significance,
+but this was not the case.
+
+I based my mapping primarily on GPS tracks.
+First I had my own track from our thru-hike and second I could reference the [Strava heatmap](https://www.strava.com/heatmap),
+which summarizes all tracks from the past two years.
+
+I used the online iD editor for all of my edits (except for rearranging the relation members which I had to do with JOSM).
+Here is an in-progress edit of the summit of Stratton Mountain.
+The dashed lines show the trails in OpenStreetMap.
+The red/orange/yellow heatmap shows the tracks of Strava users.
+The pink line is my track.
+
+![2020-09-29_osm-iD-editor-stratton-mountain]({attach}2020-09-29_osm-iD-editor-stratton-mountain.png "Editing OpenStreetMap on 2020-09-29 using the iD editor with a Strava Heatmap background. The red line shows the track of our hike. GPS tracks indicate the Long Trail is incorrectly placed.")
+
+Any GPS recording from consumer hardware will have some inaccuracy, but this is easily overcome by averaging many tracks!
+Wisdom of the crowd.
+My track as well as the Strava heatmap make it clear that the Long Trail needs to be shifted East, along with some other alignments.
+I made these changes in [changeset 91733004](https://overpass-api.de/achavi/?changeset=91733004),
+where I also added additional metadata to the fire tower like that its height is 21 meters.
+Maybe now the tower will [show up](https://www.engadget.com/flight-simulator-open-street-map-building-205545509.html "A typo created a 212-story monolith in ‘Microsoft Flight Simulator’") in flight simulators.
+By the way, if you like fire towers, the Long Trail has three: Glastenbury, Stratton (enclosed), and Belvidere.
+
+https://overpass-turbo.eu/s/18VX
+![OpenStreetMap points and ways edited most recently by dhimmel.]({attach}2021-06-28_dhimmel-osm-edits.png)
+https://www.reddit.com/r/openstreetmap/comments/j5i7hg/visualize_osm_user_contributions/g7yrjcc?utm_source=share&utm_medium=web2x&context=3
+
+Toggle before after on map above
+
 
 
 
@@ -165,55 +280,3 @@ https://www.reddit.com/r/openstreetmap/comments/j6j5r5/when_was_the_long_trail_r
 <!-- Google MyMaps Embed -->
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Rr2OSCcRA8PBjBjAIS06Gp9vCc1eWL_6" width="640" height="480"></iframe>
 
-
-## Editing OSM
-
-Fire Tower Metadata
-
-
-
-![2020-09-29_osm-iD-editor-stratton-mountain]({attach}2020-09-29_osm-iD-editor-stratton-mountain.png "Editing OpenStreetMap on 2020-09-29 using the iD editor with a Strava Heatmap background. The red line shows the track of our hike. GPS tracks indicate the Long Trail is incorrectly placed.")
-
-
-Strava Heatmap
-
-```
-https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z}
-```
-
-## OpenStreetMap Relation
-
-[OpenStreetMap Long Trail Relation (391736)](https://www.openstreetmap.org/relation/391736#map=9/43.8137/-72.9231)
-
-[Export route to KML Q&A](https://help.openstreetmap.org/questions/23679/how-to-export-a-route-relation-as-gpx-or-kml/50171 "https://help.openstreetmap.org/questions/23679/how-to-export-a-route-relation-as-gpx-or-kml/50171")
-
-Export > Data > download as KML
-
-https://overpass-turbo.eu/s/YFY
-
-
-https://hiking.waymarkedtrails.org/#route?id=391736
-https://hiking.waymarkedtrails.org/#route?id=391736&map=8!43.8494!-72.7393
-
-According to the US Forest service, the Long Trail is #1. But according to OSM, it's XXXXXX.
-
-
-## Our Hike
-
-Freshmeat, and IAO Moosalamoo
-Strava
-
-1. [2020-09-12 Long Trail Day 1](https://www.strava.com/activities/4054451382)
-- [2020-09-13 Long Trail Day 2](https://www.strava.com/activities/4058835073)
-- [2020-09-14 Long Trail Day 3](https://www.strava.com/activities/4060773689)
-- [2020-09-15 Long Trail Day 4](https://www.strava.com/activities/4065585063)
-- [2020-09-16 Long Trail Day 5](https://www.strava.com/activities/4077208150)
-- [2020-09-17 Long Trail Day 6](https://www.strava.com/activities/4077208542)
-- [2020-09-18 Long Trail Day 7](https://www.strava.com/activities/4079656180)
-- [2020-09-19 Long Trail Day 8](https://www.strava.com/activities/4087249796)
-- [2020-09-20 Long Trail Day 9](https://www.strava.com/activities/4090435994)
-- [2020-09-21 Long Trail Day 10](https://www.strava.com/activities/4096816524)
-- [2020-09-22 Long Trail Day 11](https://www.strava.com/activities/4099477998)
-- [2020-09-23 Long Trail Day 12](https://www.strava.com/activities/4106233382)
-- [2020-09-24 Long Trail Day 13](https://www.strava.com/activities/4110169270)
-- [2020-09-25 Long Trail Finale](https://www.strava.com/activities/4110572447)
