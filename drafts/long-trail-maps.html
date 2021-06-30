@@ -295,6 +295,46 @@ I started the edits the day after getting back from the hike,
 and completed my revisions in 11 days, faster even than we hiked it!
 Warning before you start contributing to OpenStreetMaps,
 it can be&nbsp;addicting.</p>
+<p>I added many of the shelters that were missing,
+such as the <a href="https://www.openstreetmap.org/way/852564406#map=19/44.39119/-72.91795">Duck Brook Shelter</a> on the <em>Old Long Trail</em> that&#8217;s visible in the map comparison image above.
+One type of feature that is still largely missing is privies.
+While all the shelters have a privy nearby,
+it can be surprisingly hard to find them, especially at night.
+Here&#8217;s <a href="https://www.openstreetmap.org/node/8756516442">a privy</a> at Battell Shelter <a href="https://overpass-api.de/achavi/?changeset=105147881">added</a> recently by user <a href="https://www.openstreetmap.org/user/dchiles">dchiles</a>.
+How is this coded in the database?
+It is just a point (node) that has the following&nbsp;tags:</p>
+<table>
+<thead>
+<tr>
+<th>tag</th>
+<th>value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://wiki.openstreetmap.org/wiki/Key:access?uselang=en" title="The wiki description page for the access tag">access</a></td>
+<td>yes</td>
+</tr>
+<tr>
+<td><a href="https://wiki.openstreetmap.org/wiki/Key:amenity?uselang=en" title="The wiki description page for the amenity tag">amenity</a></td>
+<td><a href="https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets?uselang=en" title="The wiki description page for the amenity=toilets tag">toilets</a></td>
+</tr>
+<tr>
+<td>composting</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>toilets:disposal</td>
+<td>pitlatrine</td>
+</tr>
+<tr>
+<td>toilets:handwashing</td>
+<td>no</td>
+</tr>
+</tbody>
+</table>
+<p>I added <code>composting=yes</code> to help raise awareness of proper <a href="https://www.greenmountainclub.org/privy-privy-privy/">privy etiquette</a>:
+no trash, only toilet paper and poo, unless it&#8217;s a moldering privy in which case urine is&nbsp;welcome.</p>
 <p>On the interactive map above, there is a <em>before</em> layer you can toggle on, which will show the Long Trail route before my edits.
 While only a few sections deviated in major ways, I realigned large portions of the trial.
 Looking at features (specifically nodes, ways, and relations) that were <a href="https://overpass-turbo.eu/s/18VX">last edited by me</a>,
