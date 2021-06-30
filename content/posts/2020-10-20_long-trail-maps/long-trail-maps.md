@@ -179,7 +179,7 @@ We were rewarded by an unremarkable, windy, and solitary sunrise the next mornin
 
 If you'd like to see more pictures from our hike, or explore the route further, here are the daily recordings on Strava:
 
-1. [2020-09-12 Long Trail Day 1](https://www.strava.com/activities/4054451382)
+- [2020-09-12 Long Trail Day 1](https://www.strava.com/activities/4054451382)
 - [2020-09-13 Long Trail Day 2](https://www.strava.com/activities/4058835073)
 - [2020-09-14 Long Trail Day 3](https://www.strava.com/activities/4060773689)
 - [2020-09-15 Long Trail Day 4](https://www.strava.com/activities/4065585063)
@@ -193,7 +193,6 @@ If you'd like to see more pictures from our hike, or explore the route further, 
 - [2020-09-23 Long Trail Day 12](https://www.strava.com/activities/4106233382)
 - [2020-09-24 Long Trail Day 13](https://www.strava.com/activities/4110169270)
 - [2020-09-25 Long Trail Finale](https://www.strava.com/activities/4110572447)
-
 
 ## Editing the Map
 
@@ -244,37 +243,22 @@ By the way, if you like fire towers, the Long Trail has three:
 [Stratton](https://www.openstreetmap.org/node/356555377) (enclosed),
 and [Belvidere](https://www.openstreetmap.org/node/618994751).
 
-https://overpass-turbo.eu/s/18VX
+In total, I made [34 changesets](https://nbviewer.jupyter.org/github/dhimmel/osm-get-user-changeset-metadata/blob/dhimmel-changesets/long_trail_changesets.ipynb) (collections of edits) related to the Long Trail.
+I started the edits the day after getting back from the hike,
+and completed my revisions in 11 days, faster even than we hiked it!
+Warning before you start contributing to OpenStreetMaps,
+it can be addicting.
+
+On the interactive map above, there is a _before_ layer you can toggle on, which will show the Long Trail route before my edits.
+While only a few sections deviated in major ways, I realigned large portions of the trial.
+Looking at features (specifically nodes, ways, and relations) that were [last edited by me](https://overpass-turbo.eu/s/18VX),
+you'll notice a pattern in my contributions spanning the Long Trail (along with the Upper Valley):
+
 ![OpenStreetMap points and ways edited most recently by dhimmel.]({attach}2021-06-28_dhimmel-osm-edits.png)
-https://www.reddit.com/r/openstreetmap/comments/j5i7hg/visualize_osm_user_contributions/g7yrjcc?utm_source=share&utm_medium=web2x&context=3
 
-Toggle before after on map above
+Also check out [YOSMHM](https://yosmhm.neis-one.org/?zoom=9&lat=43.89078&lon=-71.98882&layers=B00TTF&u=dhimmel) for user contribution heatmaps.
 
-
-
-
-## The Long Trail from OpenStreetMap
-
-The Long Trail is the world's first long distance hiking trail and runs from Massachusetts to Canada along the spine of the Green Mountains in Vermont.
-
-This route was posted as a companion to the blog post https://blog.dhimmel.com/long-trail-maps/. The route was extracted from OpenStreetMap on 2021-06-27 using Waymarked Trails:
-https://hiking.waymarkedtrails.org/#route?id=391736&map=9!43.8387!-72.5574
-
-## other
-
-that make up America's oldest long-distance hiking trail as it wanders from Massachusetts to Canada along the spine of the Green Mountains in Vermont.
-
-
-
-
-
-Version #81
-
-
-Liberating the route of the world's first long distance hiking trail.
-
-
-
+## The Power of Open Collaboration
 
 <!--
 ## Google MyMaps
@@ -288,5 +272,16 @@ Message from Zeke: https://www.openstreetmap.org/messages/894718
 > Congrats on the thru-hike! I also hiked the LT in 2012. I’m having a hard time remembering exactly when I started working on the long trail in OSM, but I believe it was one of the earliest things I did. I started contributing to OSM in 2008 largely because good online trail maps were hard to come by at the time. I added trails in Vermont because that is where I live and like to hike. The Long Trail is the longest and most well known hiking trail in Vermont so it made sense to get that into OSM. I’m pretty sure I added it in my first year or two working on OSM. The ways making up the trail probably predate the relation because the idea of a relation data structure was either still very new to OSM or didn’t exist yet. If I remember correctly, I imported most of the trail from a publicly available government data source so it would have been “complete” from end to end right away. This imported trail was better than nothing, but not very accurate so for the next few years I refined it from my own GPS traces, aerial imagery, or any other data sources I came across. I haven’t payed too much attention in recent years, but I’m sure there are still plenty areas that need improvement. I did revisit the area around the Winooski River bridge after that was built and the trail rerouted in that area.
 
 https://www.reddit.com/r/openstreetmap/comments/j6j5r5/when_was_the_long_trail_route_relation_first/
+
+
+## External Route title and description
+
+The Long Trail from OpenStreetMap
+
+The Long Trail is the world's first long distance hiking trail and runs from Massachusetts to Canada along the spine of the Green Mountains in Vermont.
+
+This route was posted as a companion to the blog post https://blog.dhimmel.com/long-trail-maps/. The route was extracted from OpenStreetMap on 2021-06-27 using Waymarked Trails:
+https://hiking.waymarkedtrails.org/#route?id=391736&map=9!43.8387!-72.5574
+
 -->
 
