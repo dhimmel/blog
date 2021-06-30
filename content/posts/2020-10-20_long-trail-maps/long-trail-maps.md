@@ -25,6 +25,8 @@ I write this post to announce that **the best map of the Long Trail is now freel
 Curious where the oldest long-distance hiking trail in America wanders?
 Look no further than [OpenStreetMap](https://www.openstreetmap.org/).
 
+![Entire Long Trail route exported from OpenStreetMap and superimposed on a terrain map.]({attach}2021-06-30_long-trail-stamen-terrain.png "Long Trail on Stamen Terrain Background. Screenshot from uMap.")
+
 ## The Big Three
 
 My interest in mapping the Long Trail began with my September 2020 southbound thru-hike.
@@ -113,7 +115,7 @@ we're essentially highlighting a trail that should already be on the map.
 Many of these apps support downloading maps for offline, but sometimes only as a paid feature.
 
 If you just want to look at the map quickly,
-here's an embedded map [from uMap](https://u.osmfr.org/m/506490/) of the Long Trail:
+here's an embedded map [from uMap](http://u.osmfr.org/m/506490/) of the Long Trail:
 
 <!-- OpenStreetMap uMap Embed https://u.osmfr.org/m/506490/ -->
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/long-trail_506490?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#9/43.8880/-72.8229">
@@ -233,7 +235,7 @@ The dashed lines show the trails in OpenStreetMap.
 The red/orange/yellow heatmap shows the tracks of Strava users.
 The pink line is my track.
 
-![2020-09-29_osm-iD-editor-stratton-mountain]({attach}2020-09-29_osm-iD-editor-stratton-mountain.png "Editing OpenStreetMap on 2020-09-29 using the iD editor with a Strava Heatmap background. The red line shows the track of our hike. GPS tracks indicate the Long Trail is incorrectly placed.")
+![OpenStreetMap iD editor zoomed into the Long Trail on Stratton Mountain.]({attach}2020-09-29_osm-iD-editor-stratton-mountain.png "Editing OpenStreetMap on 2020-09-29 using the iD editor with a Strava Heatmap background. The red line shows the track of our hike. GPS tracks indicate the Long Trail is incorrectly placed.")
 
 Any GPS recording from consumer hardware will have some inaccuracy, but this is easily overcome by averaging many tracks!
 Wisdom of the crowd.
