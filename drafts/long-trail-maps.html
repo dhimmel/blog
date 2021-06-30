@@ -229,7 +229,7 @@ Here Freshmeat enjoys the morning fog on Lift 2 of Mad River&nbsp;Glen:</p>
 We were rewarded by an unremarkable, windy, and solitary sunrise the next morning on Vermont&#8217;s highest&nbsp;peak.</p>
 <p><img alt="Preparing a meal at Taft Lodge." src="https://blog.dhimmel.com/drafts/2020-09-15_meal.jpg" title="Dirtbag deluxe aka the hiker trash feast."></p>
 <p>If you&#8217;d like to see more pictures from our hike, or explore the route further, here are the daily recordings on&nbsp;Strava:</p>
-<ol>
+<ul>
 <li><a href="https://www.strava.com/activities/4054451382">2020-09-12 Long Trail Day&nbsp;1</a></li>
 <li><a href="https://www.strava.com/activities/4058835073">2020-09-13 Long Trail Day&nbsp;2</a></li>
 <li><a href="https://www.strava.com/activities/4060773689">2020-09-14 Long Trail Day&nbsp;3</a></li>
@@ -244,7 +244,7 @@ We were rewarded by an unremarkable, windy, and solitary sunrise the next mornin
 <li><a href="https://www.strava.com/activities/4106233382">2020-09-23 Long Trail Day&nbsp;12</a></li>
 <li><a href="https://www.strava.com/activities/4110169270">2020-09-24 Long Trail Day&nbsp;13</a></li>
 <li><a href="https://www.strava.com/activities/4110572447">2020-09-25 Long Trail&nbsp;Finale</a></li>
-</ol>
+</ul>
 <h2 id="editing-the-map">Editing the&nbsp;Map</h2>
 <p>According to the <span class="caps">US</span> Forest Service, the Long Trail is #1 (or perhaps #3).
 But according to OpenStreetMap, it&#8217;s 391736.
@@ -286,16 +286,18 @@ By the way, if you like fire towers, the Long Trail has three:
 <a href="https://www.openstreetmap.org/node/5129580921">Glastenbury</a>,
 <a href="https://www.openstreetmap.org/node/356555377">Stratton</a> (enclosed),
 and <a href="https://www.openstreetmap.org/node/618994751">Belvidere</a>.</p>
-<p>https://overpass-turbo.eu/s/<span class="caps">18VX</span>
-<img alt="OpenStreetMap points and ways edited most recently by dhimmel." src="https://blog.dhimmel.com/drafts/2021-06-28_dhimmel-osm-edits.png">&nbsp;https://www.reddit.com/r/openstreetmap/comments/j5i7hg/visualize_osm_user_contributions/g7yrjcc?utm_source=share&amp;utm_medium=web2x&amp;context=3</p>
-<p>Toggle before after on map&nbsp;above</p>
-<h2 id="the-long-trail-from-openstreetmap">The Long Trail from&nbsp;OpenStreetMap</h2>
-<p>The Long Trail is the world&#8217;s first long distance hiking trail and runs from Massachusetts to Canada along the spine of the Green Mountains in&nbsp;Vermont.</p>
-<p>This route was posted as a companion to the blog post https://blog.dhimmel.com/long-trail-maps/. The route was extracted from OpenStreetMap on 2021-06-27 using Waymarked Trails:&nbsp;https://hiking.waymarkedtrails.org/#route?id=391736&amp;map=9!43.8387!-72.5574</p>
-<h2 id="other">other</h2>
-<p>that make up America&#8217;s oldest long-distance hiking trail as it wanders from Massachusetts to Canada along the spine of the Green Mountains in&nbsp;Vermont.</p>
-<p>Version&nbsp;#81</p>
-<p>Liberating the route of the world&#8217;s first long distance hiking&nbsp;trail.</p>
+<p>In total, I made <a href="https://nbviewer.jupyter.org/github/dhimmel/osm-get-user-changeset-metadata/blob/dhimmel-changesets/long_trail_changesets.ipynb">34 changesets</a> (collections of edits) related to the Long Trail.
+I started the edits the day after getting back from the hike,
+and completed my revisions in 11 days, faster even than we hiked it!
+Warning before you start contributing to OpenStreetMaps,
+it can be&nbsp;addicting.</p>
+<p>On the interactive map above, there is a <em>before</em> layer you can toggle on, which will show the Long Trail route before my edits.
+While only a few sections deviated in major ways, I realigned large portions of the trial.
+Looking at features (specifically nodes, ways, and relations) that were <a href="https://overpass-turbo.eu/s/18VX">last edited by me</a>,
+you&#8217;ll notice a pattern in my contributions spanning the Long Trail (along with the Upper&nbsp;Valley):</p>
+<p><img alt="OpenStreetMap points and ways edited most recently by dhimmel." src="https://blog.dhimmel.com/drafts/2021-06-28_dhimmel-osm-edits.png"></p>
+<p>Also check out <a href="https://yosmhm.neis-one.org/?zoom=9&amp;lat=43.89078&amp;lon=-71.98882&amp;layers=B00TTF&amp;u=dhimmel"><span class="caps">YOSMHM</span></a> for user contribution&nbsp;heatmaps.</p>
+<h2 id="the-power-of-open-collaboration">The Power of Open&nbsp;Collaboration</h2>
 <!--
 ## Google MyMaps
 
@@ -308,6 +310,17 @@ Message from Zeke: https://www.openstreetmap.org/messages/894718
 > Congrats on the thru-hike! I also hiked the LT in 2012. I’m having a hard time remembering exactly when I started working on the long trail in OSM, but I believe it was one of the earliest things I did. I started contributing to OSM in 2008 largely because good online trail maps were hard to come by at the time. I added trails in Vermont because that is where I live and like to hike. The Long Trail is the longest and most well known hiking trail in Vermont so it made sense to get that into OSM. I’m pretty sure I added it in my first year or two working on OSM. The ways making up the trail probably predate the relation because the idea of a relation data structure was either still very new to OSM or didn’t exist yet. If I remember correctly, I imported most of the trail from a publicly available government data source so it would have been “complete” from end to end right away. This imported trail was better than nothing, but not very accurate so for the next few years I refined it from my own GPS traces, aerial imagery, or any other data sources I came across. I haven’t payed too much attention in recent years, but I’m sure there are still plenty areas that need improvement. I did revisit the area around the Winooski River bridge after that was built and the trail rerouted in that area.
 
 https://www.reddit.com/r/openstreetmap/comments/j6j5r5/when_was_the_long_trail_route_relation_first/
+
+
+## External Route title and description
+
+The Long Trail from OpenStreetMap
+
+The Long Trail is the world's first long distance hiking trail and runs from Massachusetts to Canada along the spine of the Green Mountains in Vermont.
+
+This route was posted as a companion to the blog post https://blog.dhimmel.com/long-trail-maps/. The route was extracted from OpenStreetMap on 2021-06-27 using Waymarked Trails:
+https://hiking.waymarkedtrails.org/#route?id=391736&map=9!43.8387!-72.5574
+
 -->
 
     <h2 id="comments">Comments</h2>
