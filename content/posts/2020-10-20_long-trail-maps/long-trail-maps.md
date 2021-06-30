@@ -1,7 +1,7 @@
 Title: Mapping the Long Trail: the best is now free with OpenStreetMaps
 Slug: long-trail-maps
-Date: 2020-10-20
-Tags: hiking, long trail, openstreetmap, osm, vermont, trek, open source, open data
+Date: 2021-06-30
+Tags: hiking, long trail, openstreetmap, osm, vermont, trek, open source, open data, guthook
 Status: draft
 
 <!--
