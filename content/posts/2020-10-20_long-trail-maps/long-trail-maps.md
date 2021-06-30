@@ -252,13 +252,17 @@ it can be addicting.
 On the interactive map above, there is a _before_ layer you can toggle on, which will show the Long Trail route before my edits.
 While only a few sections deviated in major ways, I realigned large portions of the trial.
 Looking at features (specifically nodes, ways, and relations) that were [last edited by me](https://overpass-turbo.eu/s/18VX),
-you'll notice a pattern in my contributions spanning the Long Trail (along with the Upper Valley):
+you'll notice a pattern in my contributions spanning the Long Trail (along with the Upper Valley, see also [YOSMHM](https://yosmhm.neis-one.org/?zoom=9&lat=43.89078&lon=-71.98882&layers=B00TTF&u=dhimmel)):
 
 ![OpenStreetMap points and ways edited most recently by dhimmel.]({attach}2021-06-28_dhimmel-osm-edits.png)
 
-Also check out [YOSMHM](https://yosmhm.neis-one.org/?zoom=9&lat=43.89078&lon=-71.98882&layers=B00TTF&u=dhimmel) for user contribution heatmaps.
+Do you see the section in the middle of the trail (Green Mountain National Forest) where I don't have any of the most recent edits?
+That is because another user [Adam Franco](https://www.openstreetmap.org/user/Adam%20Franco) made [further enhancements](https://overpass-api.de/achavi/?changeset=103664322) more recently.
+That is the beauty of OpenStreetMap.
+It is a living map,
+whose model of open licensing and crowdsourced contribution give rise to a map more complete and encompassing than any proprietary alternative.
 
-## The Power of Open Collaboration
+Liberate the trails, put them on the map!
 
 <!--
 ## Google MyMaps
