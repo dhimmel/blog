@@ -18,7 +18,7 @@ jobs:
     - name: Pelican
       run: poetry run pelican
     - name: Deploy
-      if: github.ref == 'refs/heads/master' && github.event_name == 'push' && !github.event.repository.fork
+      if: github.ref == 'refs/heads/main' && github.event_name == 'push' && !github.event.repository.fork
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
