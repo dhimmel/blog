@@ -8,16 +8,16 @@ Status: draft
 https://blog.dhimmel.com/drafts/long-trail-maps
 -->
 
-On January 24, 2010, Zeke Farwell completed the Long Trail.
+On January 24, 2010, Zeke Farwell [completed](https://www.reddit.com/r/openstreetmap/comments/j6j5r5/when_was_the_long_trail_route_relation_first/ "Reddit OpenStreetMap: When was the Long Trail route relation first completed?") the Long Trail.
 He had begun just two days earlier, connecting more than 50 segments of trail spanning over 200 miles.
 Motivated by "the longest and most well known hiking trail in Vermont",
 Zeke often revisited portions of the trails in the years to come.
 
 Now I'm not revealing a secret [FKT](https://fastestknowntime.com/route/long-trail-vt "Fastest Known Time for the Long Trail"),
-but rather the completion of the [Long Trail route](https://www.openstreetmap.org/relation/391736#map=8/43.888/-72.817) on OpenStreetMap.
+but rather the completion of the [Long Trail route](https://www.openstreetmap.org/relation/391736#map=8/43.888/-72.817 "OpenStreetMap relation for the Long Trail") on OpenStreetMap.
 OpenStreetMap is like Wikipedia but for maps: a collaborative project to create a free editable map of the world.
 
-When I got in touch with Zeke, he wrote
+When I got in touch with [Zeke](https://www.openstreetmap.org/user/ezekielf), he wrote
 "I started contributing to OpenStreetMap in 2008 largely because good online trail maps were hard to come by at the time."
 Due to the efforts of contributors like Zeke — most volunteers, exceeding 6 million in number —
 OpenStreetMap has begun to rival, and often exceed, proprietary alternatives like Google Maps.
@@ -34,13 +34,16 @@ Green Mountain Club, Guthook, and OpenStreetMap.
 ### Green Mountain Club
 
 The [Green Mountain Club](https://www.greenmountainclub.org/) (GMC) is the non-profit organization that maintains the Long Trail.
-The GMC publishes a [paper Long Trail map](https://store.greenmountainclub.org/collections/gmc-publications/products/new-5th-edition-vermonts-long-trail-map-waterproof), last updated in 2015 and on its 5th edition.
+The GMC publishes a [paper Long Trail map](https://store.greenmountainclub.org/collections/maps/products/preorder-now-long-trail-map-6th-edition-waterproof), last updated in 2021 and on its 6<sup>th</sup> edition.
 The map is plastic-coated for water resistance and divided into 8 sections to minimize refolding.
 It includes distances, major side trails, shelter locations, 100-feet contour lines, hill-shading, elevation profiles, and nearby towns at 1:85,000 scale.
 If you like a physical map, then consider supporting the GMC!
-The map is listed at $12.95, and available from major retailers like [REI](https://www.rei.com/product/177869/green-mountain-club-vermonts-long-trail-map-5th-edition), [Amazon](https://www.amazon.com/Mountain-Green-Vermonts-Long-Trail/dp/1888021462/), and your local outfitters.
+The map is listed at $12.95, and available from major retailers like\
+[REI](https://www.rei.com/product/177869/green-mountain-club-vermonts-long-trail-map-5th-edition "Outdated 5th edition"),
+[Amazon](https://www.amazon.com/Vermonts-Long-Trail-Green-Mountain/dp/1888021608/),
+and your local outfitters.
 
-The GMC also releases a digital version of their map, [available](https://www.avenzamaps.com/maps/908930/long-trail-map) via the Avenza mobile App for $12.99.
+The GMC also releases a digital version of their map, [available](https://www.avenzamaps.com/maps/1250308) via the Avenza mobile App for $12.99.
 With this map, you are essentially buying a georeferenced PDF of the paper map.
 This means you can use your phone's GPS (which works in airplane mode) to superimpose your location on a static map.
 But the PDFs are locked in the Avenza app, so make sure you like the Avenza interface before purchasing.
@@ -94,7 +97,7 @@ Alternative method to export to GPX using overpass-turbo
 Export > Data > download as KML
 https://overpass-turbo.eu/s/YFY
 -->
-The website [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=391736&map=9!43.8387!-72.55740) allows you download the trail as GPX or KML,
+The website [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=391736&map=9!43.8387!-72.55740 "Waymarked Trails centered on the Long Trail") allows you download the trail as GPX or KML,
 such that you could load it into your favorite navigation app —
 popular ones include
 [Strava](https://www.strava.com/routes/2844248654783965478),
