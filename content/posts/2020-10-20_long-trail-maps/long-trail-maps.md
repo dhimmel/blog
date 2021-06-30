@@ -5,7 +5,7 @@ Tags: hiking, long trail, openstreetmap, osm, vermont, trek, open source, open d
 Status: draft
 
 <!--
-http://localhost:8000/drafts/long-trail-maps
+https://blog.dhimmel.com/drafts/long-trail-maps
 -->
 
 On January 24, 2010, Zeke Farwell completed the Long Trail.
@@ -170,7 +170,7 @@ Here Freshmeat enjoys the morning fog on Lift 2 of Mad River Glen:
 
 Big ponds carefully crafted by beavers:
 
-![Dead tree in front of beaver pond with reflections in the morning.]({attach}2020-09-18_ski-lift-in-the-fog.jpg)
+![Dead tree in front of beaver pond with reflections in the morning.]({attach}2020-09-25_beaver-pond.jpg)
 
 A feast for all after a grueling day that started in Johnson and ended at the Taft Lodge on Mount Mansfield.
 We were rewarded by an unremarkable, windy, and solitary sunrise the next morning on Vermont's highest peak.
@@ -239,7 +239,10 @@ My track as well as the Strava heatmap make it clear that the Long Trail needs t
 I made these changes in [changeset 91733004](https://overpass-api.de/achavi/?changeset=91733004),
 where I also added additional metadata to the fire tower like that its height is 21 meters.
 Maybe now the tower will [show up](https://www.engadget.com/flight-simulator-open-street-map-building-205545509.html "A typo created a 212-story monolith in ‘Microsoft Flight Simulator’") in flight simulators.
-By the way, if you like fire towers, the Long Trail has three: Glastenbury, Stratton (enclosed), and Belvidere.
+By the way, if you like fire towers, the Long Trail has three:
+[Glastenbury](https://www.openstreetmap.org/node/5129580921),
+[Stratton](https://www.openstreetmap.org/node/356555377) (enclosed),
+and [Belvidere](https://www.openstreetmap.org/node/618994751).
 
 https://overpass-turbo.eu/s/18VX
 ![OpenStreetMap points and ways edited most recently by dhimmel.]({attach}2021-06-28_dhimmel-osm-edits.png)
@@ -261,9 +264,7 @@ https://hiking.waymarkedtrails.org/#route?id=391736&map=9!43.8387!-72.5574
 
 that make up America's oldest long-distance hiking trail as it wanders from Massachusetts to Canada along the spine of the Green Mountains in Vermont.
 
-> Congrats on the thru-hike! I also hiked the LT in 2012. I’m having a hard time remembering exactly when I started working on the long trail in OSM, but I believe it was one of the earliest things I did. I started contributing to OSM in 2008 largely because good online trail maps were hard to come by at the time. I added trails in Vermont because that is where I live and like to hike. The Long Trail is the longest and most well known hiking trail in Vermont so it made sense to get that into OSM. I’m pretty sure I added it in my first year or two working on OSM. The ways making up the trail probably predate the relation because the idea of a relation data structure was either still very new to OSM or didn’t exist yet. If I remember correctly, I imported most of the trail from a publicly available government data source so it would have been “complete” from end to end right away. This imported trail was better than nothing, but not very accurate so for the next few years I refined it from my own GPS traces, aerial imagery, or any other data sources I came across. I haven’t payed too much attention in recent years, but I’m sure there are still plenty areas that need improvement. I did revisit the area around the Winooski River bridge after that was built and the trail rerouted in that area.
 
-https://www.openstreetmap.org/messages/894718
 
 
 
@@ -272,11 +273,20 @@ Version #81
 
 Liberating the route of the world's first long distance hiking trail.
 
-https://www.reddit.com/r/openstreetmap/comments/j6j5r5/when_was_the_long_trail_route_relation_first/
 
 
+
+<!--
 ## Google MyMaps
 
-<!-- Google MyMaps Embed -->
+Google MyMaps Embed 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Rr2OSCcRA8PBjBjAIS06Gp9vCc1eWL_6" width="640" height="480"></iframe>
+
+
+Message from Zeke: https://www.openstreetmap.org/messages/894718
+
+> Congrats on the thru-hike! I also hiked the LT in 2012. I’m having a hard time remembering exactly when I started working on the long trail in OSM, but I believe it was one of the earliest things I did. I started contributing to OSM in 2008 largely because good online trail maps were hard to come by at the time. I added trails in Vermont because that is where I live and like to hike. The Long Trail is the longest and most well known hiking trail in Vermont so it made sense to get that into OSM. I’m pretty sure I added it in my first year or two working on OSM. The ways making up the trail probably predate the relation because the idea of a relation data structure was either still very new to OSM or didn’t exist yet. If I remember correctly, I imported most of the trail from a publicly available government data source so it would have been “complete” from end to end right away. This imported trail was better than nothing, but not very accurate so for the next few years I refined it from my own GPS traces, aerial imagery, or any other data sources I came across. I haven’t payed too much attention in recent years, but I’m sure there are still plenty areas that need improvement. I did revisit the area around the Winooski River bridge after that was built and the trail rerouted in that area.
+
+https://www.reddit.com/r/openstreetmap/comments/j6j5r5/when_was_the_long_trail_route_relation_first/
+-->
 
