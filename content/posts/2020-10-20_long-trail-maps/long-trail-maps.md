@@ -281,11 +281,12 @@ you'll notice a pattern in my contributions spanning the Long Trail (along with 
 
 Do you see the section in the middle of the trail (Green Mountain National Forest) where I don't have any of the most recent edits?
 That is because another user [Adam Franco](https://www.openstreetmap.org/user/Adam%20Franco) made [further enhancements](https://overpass-api.de/achavi/?changeset=103664322) more recently.
+
 That is the beauty of OpenStreetMap.
 It is a living map,
 whose model of open licensing and crowdsourced contribution give rise to a map more complete and encompassing than any proprietary alternative.
 
-Liberate the trails, put them on the map!
+Liberate the trails, put them on _the map_!
 
 <!--
 ## Google MyMaps
