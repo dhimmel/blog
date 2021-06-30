@@ -252,6 +252,26 @@ and completed my revisions in 11 days, faster even than we hiked it!
 Warning before you start contributing to OpenStreetMaps,
 it can be addicting.
 
+I added many of the shelters that were missing,
+such as the [Duck Brook Shelter](https://www.openstreetmap.org/way/852564406#map=19/44.39119/-72.91795) on the *Old Long Trail* that's visible in the map comparison image above.
+One type of feature that is still largely missing is privies.
+While all the shelters have a privy nearby,
+it can be surprisingly hard to find them, especially at night.
+Here's [a privy](https://www.openstreetmap.org/node/8756516442) at Battell Shelter [added](https://overpass-api.de/achavi/?changeset=105147881) recently by user [dchiles](https://www.openstreetmap.org/user/dchiles).
+How is this coded in the database?
+It is just a point (node) that has the following tags:
+
+| tag | value |
+| --- | --- |
+| [access](https://wiki.openstreetmap.org/wiki/Key:access?uselang=en "The wiki description page for the access tag") | yes |
+| [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity?uselang=en "The wiki description page for the amenity tag") | [toilets](https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets?uselang=en "The wiki description page for the amenity=toilets tag") |
+| composting | yes |
+| toilets:disposal | pitlatrine |
+| toilets:handwashing | no |
+
+I added `composting=yes` to help raise awareness of proper [privy etiquette](https://www.greenmountainclub.org/privy-privy-privy/):
+no trash, only toilet paper and poo, unless it's a moldering privy in which case urine is welcome.
+
 On the interactive map above, there is a _before_ layer you can toggle on, which will show the Long Trail route before my edits.
 While only a few sections deviated in major ways, I realigned large portions of the trial.
 Looking at features (specifically nodes, ways, and relations) that were [last edited by me](https://overpass-turbo.eu/s/18VX),
