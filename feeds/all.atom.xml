@@ -1,5 +1,301 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Satoshi Village</title><link href="https://blog.dhimmel.com/" rel="alternate"></link><link href="https://blog.dhimmel.com/feeds/all.atom.xml" rel="self"></link><id>https://blog.dhimmel.com/</id><updated>2020-06-15T00:00:00-07:00</updated><entry><title>Supporting Alexandra Elbakyan’s nomination for the 2020 John Maddox Prize</title><link href="https://blog.dhimmel.com/maddox-prize-reference/" rel="alternate"></link><published>2020-06-15T00:00:00-07:00</published><updated>2020-06-15T00:00:00-07:00</updated><author><name>Daniel Himmelstein</name></author><id>tag:blog.dhimmel.com,2020-06-15:/maddox-prize-reference/</id><summary type="html">&lt;p&gt;The &lt;a href="https://senseaboutscience.org/john-maddox-prize/"&gt;John Maddox Prize&lt;/a&gt; has been awarded annually since 2012 to &amp;#8220;researchers who have shown great courage and integrity in standing up for science and scientific reasoning against fierce opposition and hostility&amp;#8221;. The prize is a joint initiative between the journal &lt;a href="https://www.nature.com/"&gt;&lt;em&gt;Nature&lt;/em&gt;&lt;/a&gt; and the &lt;a href="https://senseaboutscience.org/"&gt;&lt;em&gt;Sense about Science&lt;/em&gt;&lt;/a&gt;&amp;nbsp;charity.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Satoshi Village</title><link href="https://blog.dhimmel.com/" rel="alternate"></link><link href="https://blog.dhimmel.com/feeds/all.atom.xml" rel="self"></link><id>https://blog.dhimmel.com/</id><updated>2021-07-01T00:00:00-07:00</updated><entry><title>Mapping the Long Trail: the best is now free with OpenStreetMaps</title><link href="https://blog.dhimmel.com/long-trail-maps/" rel="alternate"></link><published>2021-07-01T00:00:00-07:00</published><updated>2021-07-01T00:00:00-07:00</updated><author><name>Daniel Himmelstein</name></author><id>tag:blog.dhimmel.com,2021-07-01:/long-trail-maps/</id><summary type="html">&lt;p&gt;On January 24, 2010, Zeke Farwell &lt;a href="https://www.reddit.com/r/openstreetmap/comments/j6j5r5/when_was_the_long_trail_route_relation_first/" title="Reddit OpenStreetMap: When was the Long Trail route relation first completed?"&gt;completed&lt;/a&gt; the Long Trail.
+He had begun just two days earlier, connecting more than 50 segments of trail spanning over 200 miles.
+Motivated by &amp;#8220;the longest and most well known hiking trail in Vermont&amp;#8221;,
+Zeke often revisited portions of the trails in the years to&amp;nbsp;come.&lt;/p&gt;
+&lt;p&gt;Now I&amp;#8217;m not revealing a secret &lt;a href="https://fastestknowntime.com/route/long-trail-vt" title="Fastest Known Time for the Long Trail"&gt;&lt;span class="caps"&gt;FKT&lt;/span&gt;&lt;/a&gt;,
+but rather the completion of the &lt;a href="https://www.openstreetmap.org/relation/391736#map=8/43.888/-72.817" title="OpenStreetMap relation for the Long Trail"&gt;Long Trail route&lt;/a&gt; on OpenStreetMap.
+OpenStreetMap is like Wikipedia …&lt;/p&gt;</summary><content type="html">&lt;p&gt;On January 24, 2010, Zeke Farwell &lt;a href="https://www.reddit.com/r/openstreetmap/comments/j6j5r5/when_was_the_long_trail_route_relation_first/" title="Reddit OpenStreetMap: When was the Long Trail route relation first completed?"&gt;completed&lt;/a&gt; the Long Trail.
+He had begun just two days earlier, connecting more than 50 segments of trail spanning over 200 miles.
+Motivated by &amp;#8220;the longest and most well known hiking trail in Vermont&amp;#8221;,
+Zeke often revisited portions of the trails in the years to&amp;nbsp;come.&lt;/p&gt;
+&lt;p&gt;Now I&amp;#8217;m not revealing a secret &lt;a href="https://fastestknowntime.com/route/long-trail-vt" title="Fastest Known Time for the Long Trail"&gt;&lt;span class="caps"&gt;FKT&lt;/span&gt;&lt;/a&gt;,
+but rather the completion of the &lt;a href="https://www.openstreetmap.org/relation/391736#map=8/43.888/-72.817" title="OpenStreetMap relation for the Long Trail"&gt;Long Trail route&lt;/a&gt; on OpenStreetMap.
+OpenStreetMap is like Wikipedia but for maps: a collaborative project to create a free editable map of the&amp;nbsp;world.&lt;/p&gt;
+&lt;p&gt;When I got in touch with &lt;a href="https://www.openstreetmap.org/user/ezekielf"&gt;Zeke&lt;/a&gt;, he wrote
+&amp;#8220;I started contributing to OpenStreetMap in 2008 largely because good online trail maps were hard to come by at the time.&amp;#8221;
+Due to the efforts of contributors like Zeke — most volunteers, exceeding 6 million in number —
+OpenStreetMap has begun to rival, and often exceed, proprietary alternatives like Google&amp;nbsp;Maps.&lt;/p&gt;
+&lt;p&gt;I write this post to announce that &lt;strong&gt;the best map of the Long Trail is now freely available to anyone via OpenStreetMap&lt;/strong&gt;.
+Curious where the oldest long-distance hiking trail in America wanders?
+Look no further than &lt;a href="https://www.openstreetmap.org/"&gt;OpenStreetMap&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Entire Long Trail route exported from OpenStreetMap and superimposed on a terrain map." src="https://blog.dhimmel.com/long-trail-maps/2021-06-30_long-trail-stamen-terrain.png" title="Long Trail on Stamen Terrain Background. Screenshot from uMap."&gt;&lt;/p&gt;
+&lt;h2 id="the-big-three"&gt;The Big&amp;nbsp;Three&lt;/h2&gt;
+&lt;p&gt;My interest in mapping the Long Trail began with my September 2020 southbound thru-hike.
+As far as navigation options for hikers go, there are three main mapmakers:
+Green Mountain Club, Guthook, and&amp;nbsp;OpenStreetMap.&lt;/p&gt;
+&lt;h3 id="green-mountain-club"&gt;Green Mountain&amp;nbsp;Club&lt;/h3&gt;
+&lt;p&gt;The &lt;a href="https://www.greenmountainclub.org/"&gt;Green Mountain Club&lt;/a&gt; (&lt;span class="caps"&gt;GMC&lt;/span&gt;) is the non-profit organization that maintains the Long Trail.
+The &lt;span class="caps"&gt;GMC&lt;/span&gt; publishes a &lt;a href="https://store.greenmountainclub.org/collections/maps/products/preorder-now-long-trail-map-6th-edition-waterproof"&gt;paper Long Trail map&lt;/a&gt;,
+last updated in 2021 and on its 6&lt;sup&gt;th&lt;/sup&gt; edition.
+The map is plastic-coated for water resistance and divided into 8 sections to minimize refolding.
+It includes distances, major side trails, shelter locations, 100-feet contour lines, hill-shading, elevation profiles, and nearby towns at 1:85,000 scale.
+If you like a physical map, then consider supporting the &lt;span class="caps"&gt;GMC&lt;/span&gt;!
+The map is listed at $12.95, and available from major retailers like
+&lt;a href="https://www.rei.com/product/177869/green-mountain-club-vermonts-long-trail-map-5th-edition" title="Outdated 5th edition"&gt;&lt;span class="caps"&gt;REI&lt;/span&gt;&lt;/a&gt;,
+&lt;a href="https://www.amazon.com/Vermonts-Long-Trail-Green-Mountain/dp/1888021608/"&gt;Amazon&lt;/a&gt;,
+and your local&amp;nbsp;outfitters.&lt;/p&gt;
+&lt;p&gt;The &lt;span class="caps"&gt;GMC&lt;/span&gt; also releases a digital version of their map, &lt;a href="https://www.avenzamaps.com/maps/1250308"&gt;available&lt;/a&gt; via the Avenza mobile App for $12.99.
+With this map, you are essentially buying a georeferenced &lt;span class="caps"&gt;PDF&lt;/span&gt; of the paper map.
+This means you can use your phone&amp;#8217;s &lt;span class="caps"&gt;GPS&lt;/span&gt; (which works in airplane mode) to superimpose your location on a static map.
+But the PDFs are locked in the Avenza app, so make sure you like the Avenza interface before&amp;nbsp;purchasing.&lt;/p&gt;
+&lt;h3 id="guthook-guides"&gt;Guthook&amp;nbsp;Guides&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://atlasguides.com/"&gt;Guthook Guides&lt;/a&gt; brands itself &amp;#8220;the #1 app for long-distance hikes&amp;#8221;.
+Currently, Guthook sells guides for 53 trails, including the &lt;a href="https://atlasguides.com/long-trail-map/"&gt;Long Trail&lt;/a&gt; for the price of $11.99.
+The Guthook App includes the route and locations of shelters, campsites, water sources, and&amp;nbsp;viewpoints.&lt;/p&gt;
+&lt;p&gt;The real selling point however is the large number of user comments on points of interest (POIs).
+The comments can help with scouting to optimize your hike,
+but also can distract from the experience,
+burn a hole in your battery pack,
+and create reliance on an information source that isn&amp;#8217;t available for trails off the beaten&amp;nbsp;path.&lt;/p&gt;
+&lt;p&gt;Guthook is made by hikers for hikers.
+But its database of routes and POIs is proprietary.
+Leaving a comment or suggesting a new &lt;span class="caps"&gt;POI&lt;/span&gt; is sharing that information only with customers of Guthook,
+rather than society at&amp;nbsp;large.&lt;/p&gt;
+&lt;!-- 
+https://atlasguides.com/long-trail/
+$11.99 on [App Store](https://apps.apple.com/us/app/guthook-guides-hike-offline/id605447532) for iOS or [GooglePlay](https://play.google.com/store/apps/details?id=com.atlasguides.guthook) for Android
+--&gt;
+
+&lt;h3 id="openstreetmap"&gt;OpenStreetMap&lt;/h3&gt;
+&lt;p&gt;Unlike the proprietary Google or Apple Maps,
+anyone is free to reuse and modify OpenStreetMap.
+This has resulted in a diverse range of &lt;a href="https://doi.org/10.3390/ijgi8050232" title="Corporate Editors in the Evolving Landscape of OpenStreetMap"&gt;contributors&lt;/a&gt; and &lt;a href="https://welcome.openstreetmap.org/about-osm-community/consumers/"&gt;consumers&lt;/a&gt;.
+Tesla owners have added missing parking lots to improve their cars&amp;#8217; &lt;em&gt;Smart Summon&lt;/em&gt; autonomous parking feature.
+Amazon &lt;a href="https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Amazon#searchInput"&gt;updates&lt;/a&gt; roadways and adds missing driveways to improve their delivery logistics.
+The &lt;a href="https://www.hotosm.org/"&gt;Humanitarian OpenStreetMap Team&lt;/a&gt; applies the map to assist with disaster response. 
+Popular navigation apps like Strava and MapMyRide show their users maps derived from OpenStreetMap.
+I&amp;#8217;ve even used it to &lt;a href="https://twitter.com/dhimmel/status/1221841589661659138"&gt;navigate&lt;/a&gt; through&amp;nbsp;Africa.&lt;/p&gt;
+&lt;p&gt;OpenStreetMap has a lot more than just &lt;em&gt;streets&lt;/em&gt;,
+and contains natural features as well as those related to outdoor recreation,
+such as trails, campsites, shelters, waterways, and cliffs.
+Unlike the &lt;span class="caps"&gt;GMC&lt;/span&gt; map and Guthook, OpenStreetMap is not based around any single trail.
+Nonetheless, it &lt;a href="https://www.openstreetmap.org/relation/391736#map=9/43.9839/-72.4919"&gt;contains&lt;/a&gt; the entire Long Trail.
+But since OpenStreetMap itself is just a geospatial database,
+it is best paired with an outdoor navigation app that specialize in rendering&amp;nbsp;wilderness.&lt;/p&gt;
+&lt;!--
+Used https://www.gpsvisualizer.com/convert?output_elevation to add elevation to Waymarked Trails GPX.
+Could not figure out how to create a Gaia GPS route.
+
+Alternative method to export to GPX using overpass-turbo
+[Export route to KML Q&amp;A](https://help.openstreetmap.org/questions/23679/how-to-export-a-route-relation-as-gpx-or-kml/50171 "https://help.openstreetmap.org/questions/23679/how-to-export-a-route-relation-as-gpx-or-kml/50171")
+Export &gt; Data &gt; download as KML
+https://overpass-turbo.eu/s/YFY
+--&gt;
+
+&lt;p&gt;The website &lt;a href="https://hiking.waymarkedtrails.org/#route?id=391736&amp;amp;map=9!43.8387!-72.55740" title="Waymarked Trails centered on the Long Trail"&gt;Waymarked Trails&lt;/a&gt; allows you download the trail as &lt;span class="caps"&gt;GPX&lt;/span&gt; or &lt;span class="caps"&gt;KML&lt;/span&gt;,
+such that you could load it into your favorite navigation app —
+popular ones include
+&lt;a href="https://www.strava.com/routes/2844248654783965478"&gt;Strava&lt;/a&gt;,
+&lt;a href="https://www.gaiagps.com/datasummary/track/51e2332d-0399-41d5-9e23-968916faf05c/"&gt;Gaia &lt;span class="caps"&gt;GPS&lt;/span&gt;&lt;/a&gt;,
+&lt;a href="https://caltopo.com/m/TFDH"&gt;CalTopo&lt;/a&gt;,
+&lt;a href="https://www.alltrails.com/explore/map/map-68897f1--47"&gt;AllTrails&lt;/a&gt;,
+&lt;a href="https://my.viewranger.com/route/details/NDAxMzk1Nw=="&gt;ViewRanger&lt;/a&gt;,
+&lt;a href="https://www.outdooractive.com/en/route/hiking-route/the-long-trail-from-openstreetmap/214594603/"&gt;Outdooractive&lt;/a&gt;,
+and &lt;a href="https://www.komoot.com/tour/403656220"&gt;Komoot&lt;/a&gt;.
+All of these apps include data from OpenStreetMap in their default map rendering.
+So by exporting the Long Trail to a route and uploading it to these apps,
+we&amp;#8217;re essentially highlighting a trail that should already be on the map.
+Many of these apps support downloading maps for offline use, but sometimes only as a paid&amp;nbsp;feature.&lt;/p&gt;
+&lt;p&gt;If you just want to look at the Long Trail route from OpenStreetMap quickly,
+here&amp;#8217;s an embedded map &lt;a href="http://u.osmfr.org/m/506490/"&gt;from uMap&lt;/a&gt;:&lt;/p&gt;
+&lt;!-- OpenStreetMap uMap Embed https://u.osmfr.org/m/506490/ --&gt;
+
+&lt;iframe width="100%" height="500px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/long-trail_506490?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=false&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=true&amp;searchControl=null&amp;tilelayersControl=null&amp;embedControl=null&amp;datalayersControl=true&amp;onLoadPanel=undefined&amp;captionBar=false#9/43.8880/-72.8229"&gt;
+&lt;/iframe&gt;
+
+&lt;h3 id="comparison"&gt;Comparison&lt;/h3&gt;
+&lt;p&gt;Here&amp;#8217;s how the three maps look on mobile.
+With both &lt;span class="caps"&gt;GMC&lt;/span&gt;/Avenza and Guthook,
+you&amp;#8217;re required to use their selected map as the background.
+If you look closely at the Guthook screenshot,
+you&amp;#8217;ll see the map is from Google.
+For an OpenStreetMap-derived map,
+we can use any of the options above.
+Here, Gaia &lt;span class="caps"&gt;GPS&lt;/span&gt; is used with their dark mode&amp;nbsp;map.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="The big three Long Trail maps side-by-side: GMC via Avenza, Guthook Guides, and OpenStreetMap via Gaia GPS." src="https://blog.dhimmel.com/long-trail-maps/long-trail-maps-side-by-side.png"&gt;&lt;/p&gt;
+&lt;p&gt;I picked a landmark segment of the trail,
+which passes over the Winooski River and under Interstate 89,
+coinciding with the lowest elevation point along the hike.
+One difference between the maps is that Guthook skips a part of the trail,
+staying on Duxbury Road instead.
+If you look at the comments on Guthook for the nearby trailhead,
+many users note the new-and-true route.
+This is a good example of how Guthook comments provide advanced reconnaissance,
+but can diminish the experience should they spoil the surprise of a guard dog ambush or tempt you to &lt;a href="https://adventurepossible.com/adventure/white-blue-and-other-blazes-of-the-appalachian-trail/"&gt;yellow blaze&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="my-hike"&gt;My&amp;nbsp;Hike&lt;/h2&gt;
+&lt;p&gt;I hiked the Long Trail in September, with my two friends Freshmeat and &lt;span class="caps"&gt;I.A.O.&lt;/span&gt; Moosalamoo (trail names).
+September is an ideal month, since there are fewer bugs, less mud, and later sunrises.
+But really any month is a good time to hike!
+We hiked 280 miles over 12 days, 22 hours, and 42 minutes,
+&lt;!-- 310:42:45 according to ViewRanger recording --&gt;
+taking us from Canada to Massachusetts along the spine of the Green&amp;nbsp;Mountains.&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s hard to sum up the trip in three photos.
+But I&amp;#8217;ll&amp;nbsp;try.&lt;/p&gt;
+&lt;p&gt;The trail hits many of Vermont&amp;#8217;s most prominent ski areas,
+including
+Stratton (detour),
+Bromley,
+Killington (recommended detour),
+Pico (detour),
+Middlebury Snow bowl,
+Sugarbush,
+Mad River Glen,
+Stowe,
+Smuggler&amp;#8217;s Notch,
+and Jay Peak.
+Here Freshmeat enjoys the morning fog on Lift 2 of Mad River&amp;nbsp;Glen:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Sitting on the top chair of Lift 2 at Mad River Glen in the Fog." src="https://blog.dhimmel.com/long-trail-maps/2020-09-18_ski-lift-in-the-fog.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;After a grueling day that started in Johnson and ended at the Taft Lodge on Mount Mansfield, I prepared a deluxe feast for&amp;nbsp;all.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Preparing a meal at Taft Lodge." src="https://blog.dhimmel.com/long-trail-maps/2020-09-15_meal.jpg" title="Dirtbag deluxe aka the hiker trash feast."&gt;&lt;/p&gt;
+&lt;p&gt;The next morning, we were rewarded by an unremarkable, windy, and solitary sunrise on Vermont&amp;#8217;s highest peak.
+There were some incredible beaver dams along the path,
+including the one that created this pond where we stayed on our last night (see also the &lt;a href="https://blog.dhimmel.com/long-trail-maps/2020-09-25_tree-at-night-astrophotography.jpg"&gt;astrophotography version&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Dead tree in front of beaver pond with reflections in the morning." src="https://blog.dhimmel.com/long-trail-maps/2020-09-25_beaver-pond.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;If you&amp;#8217;d like to see more pictures from our hike or explore the route further,
+here are the daily recordings on&amp;nbsp;Strava:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.strava.com/activities/4054451382"&gt;2020-09-12 Long Trail Day&amp;nbsp;1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.strava.com/activities/4058835073"&gt;2020-09-13 Long Trail Day&amp;nbsp;2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.strava.com/activities/4060773689"&gt;2020-09-14 Long Trail Day&amp;nbsp;3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.strava.com/activities/4065585063"&gt;2020-09-15 Long Trail Day&amp;nbsp;4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.strava.com/activities/4077208150"&gt;2020-09-16 Long Trail Day&amp;nbsp;5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.strava.com/activities/4077208542"&gt;2020-09-17 Long Trail Day&amp;nbsp;6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.strava.com/activities/4079656180"&gt;2020-09-18 Long Trail Day&amp;nbsp;7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.strava.com/activities/4087249796"&gt;2020-09-19 Long Trail Day&amp;nbsp;8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.strava.com/activities/4090435994"&gt;2020-09-20 Long Trail Day&amp;nbsp;9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.strava.com/activities/4096816524"&gt;2020-09-21 Long Trail Day&amp;nbsp;10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.strava.com/activities/4099477998"&gt;2020-09-22 Long Trail Day&amp;nbsp;11&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.strava.com/activities/4106233382"&gt;2020-09-23 Long Trail Day&amp;nbsp;12&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.strava.com/activities/4110169270"&gt;2020-09-24 Long Trail Day&amp;nbsp;13&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.strava.com/activities/4110572447"&gt;2020-09-25 Long Trail&amp;nbsp;Finale&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="editing-the-map"&gt;Editing the&amp;nbsp;Map&lt;/h2&gt;
+&lt;p&gt;According &lt;a href="https://github.com/dhimmel/long-trail-maps/blob/dhimmel-changesets/supplements/2020-10-01_National_Forest_System_Trails.xlsx"&gt;to&lt;/a&gt; the &lt;span class="caps"&gt;US&lt;/span&gt; Forest Service, the Long Trail is #1 (or perhaps #3).
+But according to OpenStreetMap, it&amp;#8217;s 391736.
+That is the &lt;span class="caps"&gt;ID&lt;/span&gt; for the &lt;a href="https://www.openstreetmap.org/relation/391736#map=9/43.8137/-72.9231"&gt;Long Trail &lt;em&gt;relation&lt;/em&gt;&lt;/a&gt;.
+The relation connects all the individual trail segments (called ways) into a single conceptual&amp;nbsp;unit.&lt;/p&gt;
+&lt;p&gt;When I mentioned Zeke Farwell completing the Long Trail,
+I was referring to the relation which created a continuous path the length of Vermont.
+Zeke described a bit more about his early work on the Long&amp;nbsp;Trail:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I imported most of the trail from a publicly available government data source so it would have been “complete” from end to end right away.
+This imported trail was better than nothing,
+but not very accurate so for the next few years I refined it from my own &lt;span class="caps"&gt;GPS&lt;/span&gt; traces, aerial imagery, or any other data sources I came&amp;nbsp;across.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;He went on to complete the trail physically in 2012.
+Eight years later, when I hiked the trail with a copy of the OpenStreetMap relation loaded into my navigation app,
+I noticed some portions of the trail were off.
+And many side trails were missing.
+Many of the trails still followed Zeke&amp;#8217;s original imports,
+and hadn&amp;#8217;t yet benefitted from a decade of increased data and improved &lt;span class="caps"&gt;GPS&lt;/span&gt;&amp;nbsp;accuracy.&lt;/p&gt;
+&lt;p&gt;So I set out to revise the entire Long Trail.
+Over a third of the Long Trail is shared with the Appalachian Trail.
+I expected the Appalachian Trail portion to be more accurate due to its significance,
+but this was not the&amp;nbsp;case.&lt;/p&gt;
+&lt;p&gt;I based my mapping primarily on &lt;span class="caps"&gt;GPS&lt;/span&gt; tracks.
+First I had my own track from our thru-hike,
+and second I could reference the &lt;a href="https://www.strava.com/heatmap"&gt;Strava heatmap&lt;/a&gt;,
+which summarizes all tracks uploaded to that platform over the past two&amp;nbsp;years.&lt;/p&gt;
+&lt;p&gt;I used the online iD editor for all of my edits
+(except for rearranging the relation members which I had to do with &lt;span class="caps"&gt;JOSM&lt;/span&gt;).
+Here is an in-progress edit of the summit of Stratton Mountain.
+The dashed lines show the trails in OpenStreetMap.
+The red/orange/yellow heatmap shows the tracks of Strava users.
+The pink line is my&amp;nbsp;track.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="OpenStreetMap iD editor zoomed into the Long Trail on Stratton Mountain." src="https://blog.dhimmel.com/long-trail-maps/2020-09-29_osm-iD-editor-stratton-mountain.png" title="Editing OpenStreetMap on 2020-09-29 using the iD editor with a Strava Heatmap background. The red line shows the track of our hike. GPS tracks indicate the Long Trail is incorrectly placed."&gt;&lt;/p&gt;
+&lt;p&gt;Any &lt;span class="caps"&gt;GPS&lt;/span&gt; recording from consumer hardware will have some inaccuracy,
+but this is easily overcome by averaging many tracks!
+Wisdom of the crowd.
+My track as well as the Strava heatmap make it clear that the Long Trail needs to be shifted east, along with some other alignments.
+I made these changes in &lt;a href="https://overpass-api.de/achavi/?changeset=91733004"&gt;changeset 91733004&lt;/a&gt;,
+where I also added additional metadata to the fire tower like that its height is 21 meters.
+Maybe now the tower will &lt;a href="https://www.engadget.com/flight-simulator-open-street-map-building-205545509.html" title="A typo created a 212-story monolith in ‘Microsoft Flight Simulator’"&gt;show up&lt;/a&gt; in flight simulators.
+By the way, if you like fire towers, the Long Trail has three:
+&lt;a href="https://www.openstreetmap.org/node/5129580921"&gt;Glastenbury&lt;/a&gt;,
+&lt;a href="https://www.openstreetmap.org/node/356555377"&gt;Stratton&lt;/a&gt; (enclosed),
+and &lt;a href="https://www.openstreetmap.org/node/618994751"&gt;Belvidere&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In total, I made &lt;a href="https://nbviewer.jupyter.org/github/dhimmel/long-trail-maps/blob/dhimmel-changesets/long_trail_changesets.ipynb"&gt;34 changesets&lt;/a&gt; (collections of edits) related to the Long Trail.
+I started the edits the day after getting back from the hike,
+and completed my revisions in 11 days, faster even than we hiked it!
+Warning before you start contributing to OpenStreetMaps,
+it can be&amp;nbsp;addicting.&lt;/p&gt;
+&lt;p&gt;I added many of the shelters that were missing,
+such as the &lt;a href="https://www.openstreetmap.org/way/852564406#map=19/44.39119/-72.91795"&gt;Duck Brook Shelter&lt;/a&gt; on the &lt;em&gt;Old Long Trail&lt;/em&gt; that&amp;#8217;s visible in the map comparison image above.
+One type of feature that is still largely missing is privies.
+While all the shelters have a privy nearby,
+it can be surprisingly hard to find them, especially at night.
+Here&amp;#8217;s &lt;a href="https://www.openstreetmap.org/node/8756516442"&gt;a privy&lt;/a&gt; at Battell Shelter &lt;a href="https://overpass-api.de/achavi/?changeset=105147881"&gt;added&lt;/a&gt; recently by user &lt;a href="https://www.openstreetmap.org/user/dchiles"&gt;dchiles&lt;/a&gt;.
+How is this coded in the database?
+It is just a point (node) that has the following&amp;nbsp;tags:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;tag&lt;/th&gt;
+&lt;th&gt;value&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Key:access?uselang=en" title="The wiki description page for the access tag"&gt;access&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;yes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Key:amenity?uselang=en" title="The wiki description page for the amenity tag"&gt;amenity&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets?uselang=en" title="The wiki description page for the amenity=toilets tag"&gt;toilets&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;composting&lt;/td&gt;
+&lt;td&gt;yes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;toilets:disposal&lt;/td&gt;
+&lt;td&gt;pitlatrine&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;toilets:handwashing&lt;/td&gt;
+&lt;td&gt;no&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;I added the &lt;code&gt;composting=yes&lt;/code&gt; tag to help raise awareness of proper &lt;a href="https://www.greenmountainclub.org/privy-privy-privy/"&gt;privy etiquette&lt;/a&gt;:
+no trash, only toilet paper and poo, unless it&amp;#8217;s a moldering privy in which case urine is&amp;nbsp;welcome.&lt;/p&gt;
+&lt;p&gt;On the interactive map above, there is a &lt;em&gt;before&lt;/em&gt; layer you can toggle on, which will show the Long Trail route before my edits.
+While only a few sections deviated in major ways, I realigned large portions of the trial.
+Looking at features (specifically nodes, ways, and relations) that were &lt;a href="https://overpass-turbo.eu/s/18VX"&gt;last edited by me&lt;/a&gt;,
+you&amp;#8217;ll notice a pattern in my contributions spanning the Long Trail (along with the Upper Valley, see also &lt;a href="https://yosmhm.neis-one.org/?zoom=9&amp;amp;lat=43.89078&amp;amp;lon=-71.98882&amp;amp;layers=B00TTF&amp;amp;u=dhimmel"&gt;&lt;span class="caps"&gt;YOSMHM&lt;/span&gt;&lt;/a&gt;):&lt;/p&gt;
+&lt;p&gt;&lt;img alt="OpenStreetMap points and ways edited most recently by dhimmel." src="https://blog.dhimmel.com/long-trail-maps/2021-06-28_dhimmel-osm-edits.png" title="Features that were most recently edited by dhimmel as of June 28, 2021."&gt;&lt;/p&gt;
+&lt;p&gt;Do you see the section in the middle &amp;#8212; in Green Mountain National Forest &amp;#8212; where I don&amp;#8217;t have any of the most recent edits?
+That is because another user &lt;a href="https://www.openstreetmap.org/user/Adam%20Franco"&gt;Adam Franco&lt;/a&gt; made &lt;a href="https://overpass-api.de/achavi/?changeset=103664322"&gt;further enhancements&lt;/a&gt; more&amp;nbsp;recently.&lt;/p&gt;
+&lt;p&gt;That is the beauty of OpenStreetMap.
+It is a living map,
+whose model of open licensing and crowdsourced contribution give rise to a map more complete and encompassing than any proprietary&amp;nbsp;alternative.&lt;/p&gt;
+&lt;p&gt;Liberate the trails, put them on &lt;em&gt;the map&lt;/em&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Find supplementary materials to this blog post at &lt;a href="https://github.com/dhimmel/long-trail-maps"&gt;https://github.com/dhimmel/long-trail-maps&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;!--
+## Google MyMaps
+
+Google MyMaps Embed 
+&lt;iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Rr2OSCcRA8PBjBjAIS06Gp9vCc1eWL_6" width="640" height="480"&gt;&lt;/iframe&gt;
+
+
+Message from Zeke: https://www.openstreetmap.org/messages/894718
+
+&gt; Congrats on the thru-hike! I also hiked the LT in 2012. I’m having a hard time remembering exactly when I started working on the long trail in OSM, but I believe it was one of the earliest things I did. I started contributing to OSM in 2008 largely because good online trail maps were hard to come by at the time. I added trails in Vermont because that is where I live and like to hike. The Long Trail is the longest and most well known hiking trail in Vermont so it made sense to get that into OSM. I’m pretty sure I added it in my first year or two working on OSM. The ways making up the trail probably predate the relation because the idea of a relation data structure was either still very new to OSM or didn’t exist yet. If I remember correctly, I imported most of the trail from a publicly available government data source so it would have been “complete” from end to end right away. This imported trail was better than nothing, but not very accurate so for the next few years I refined it from my own GPS traces, aerial imagery, or any other data sources I came across. I haven’t payed too much attention in recent years, but I’m sure there are still plenty areas that need improvement. I did revisit the area around the Winooski River bridge after that was built and the trail rerouted in that area.
+
+https://www.reddit.com/r/openstreetmap/comments/j6j5r5/when_was_the_long_trail_route_relation_first/
+
+
+## External Route title and description
+
+The Long Trail from OpenStreetMap
+
+The Long Trail is the world's first long distance hiking trail and runs from Massachusetts to Canada along the spine of the Green Mountains in Vermont.
+
+This route was posted as a companion to the blog post https://blog.dhimmel.com/long-trail-maps/. The route was extracted from OpenStreetMap on 2021-06-27 using Waymarked Trails:
+https://hiking.waymarkedtrails.org/#route?id=391736&amp;map=9!43.8387!-72.5574
+
+--&gt;</content><category term="misc"></category><category term="hiking"></category><category term="long trail"></category><category term="openstreetmap"></category><category term="osm"></category><category term="vermont"></category><category term="trek"></category><category term="open source"></category><category term="open data"></category><category term="guthook"></category></entry><entry><title>Supporting Alexandra Elbakyan’s nomination for the 2020 John Maddox Prize</title><link href="https://blog.dhimmel.com/maddox-prize-reference/" rel="alternate"></link><published>2020-06-15T00:00:00-07:00</published><updated>2020-06-15T00:00:00-07:00</updated><author><name>Daniel Himmelstein</name></author><id>tag:blog.dhimmel.com,2020-06-15:/maddox-prize-reference/</id><summary type="html">&lt;p&gt;The &lt;a href="https://senseaboutscience.org/john-maddox-prize/"&gt;John Maddox Prize&lt;/a&gt; has been awarded annually since 2012 to &amp;#8220;researchers who have shown great courage and integrity in standing up for science and scientific reasoning against fierce opposition and hostility&amp;#8221;. The prize is a joint initiative between the journal &lt;a href="https://www.nature.com/"&gt;&lt;em&gt;Nature&lt;/em&gt;&lt;/a&gt; and the &lt;a href="https://senseaboutscience.org/"&gt;&lt;em&gt;Sense about Science&lt;/em&gt;&lt;/a&gt;&amp;nbsp;charity.&lt;/p&gt;
 &lt;p&gt;Fergus Kane &lt;a href="http://ferguskane.com/blogs/en/jmn2020/" title="John Maddox Prize Nomination 2020"&gt;nominated&lt;/a&gt; Alexandra Elbakyan, creator of Sci-Hub, for the prize in 2018. While selected to a final shortlist, she did not win. Dr. Kane has nominated …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The &lt;a href="https://senseaboutscience.org/john-maddox-prize/"&gt;John Maddox Prize&lt;/a&gt; has been awarded annually since 2012 to &amp;#8220;researchers who have shown great courage and integrity in standing up for science and scientific reasoning against fierce opposition and hostility&amp;#8221;. The prize is a joint initiative between the journal &lt;a href="https://www.nature.com/"&gt;&lt;em&gt;Nature&lt;/em&gt;&lt;/a&gt; and the &lt;a href="https://senseaboutscience.org/"&gt;&lt;em&gt;Sense about Science&lt;/em&gt;&lt;/a&gt;&amp;nbsp;charity.&lt;/p&gt;
 &lt;p&gt;Fergus Kane &lt;a href="http://ferguskane.com/blogs/en/jmn2020/" title="John Maddox Prize Nomination 2020"&gt;nominated&lt;/a&gt; Alexandra Elbakyan, creator of Sci-Hub, for the prize in 2018. While selected to a final shortlist, she did not win. Dr. Kane has nominated Elbakyan a second time for 2020 and named me as a reference after reading &lt;a href="https://doi.org/10.7554/eLife.32822" title="Sci-Hub provides access to nearly all scholarly literature. eLife (2018-03-01)"&gt;our study&lt;/a&gt; on the coverage of Sci-Hub&amp;#8217;s&amp;nbsp;catalog.&lt;/p&gt;
 &lt;p&gt;Here&amp;#8217;s a figure where we &lt;a href="https://greenelab.github.io/scihub-manuscript/#fig:downloads"&gt;show&lt;/a&gt; the growth in &lt;span class="caps"&gt;PDF&lt;/span&gt; downloads from Sci-Hub over time, based on server log data that Elbakyan has made&amp;nbsp;public:&lt;/p&gt;
