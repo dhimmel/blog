@@ -182,7 +182,7 @@ After a grueling day that started in Johnson and ended at the Taft Lodge on Moun
 
 The next morning, we were rewarded by an unremarkable, windy, and solitary sunrise on Vermont's highest peak.
 There were some incredible beaver dams along the path,
-including the one that created this pond where we stayed on our last night (see also the [astrophotography version]({attach}2020-09-25_beaver-pond.jpg)).
+including the one that created this pond where we stayed on our last night (see also the [astrophotography version]({attach}2020-09-25_tree-at-night-astrophotography.jpg)).
 
 ![Dead tree in front of beaver pond with reflections in the morning.]({attach}2020-09-25_beaver-pond.jpg)
 
@@ -211,7 +211,8 @@ But according to OpenStreetMap, it's 391736.
 That is the ID for the [Long Trail *relation*](https://www.openstreetmap.org/relation/391736#map=9/43.8137/-72.9231).
 The relation connects all the individual trail segments (called ways) into a single conceptual unit.
 
-When I mentioned Zeke Farwell completing the Long Trail, I was referring to the relation which created a continuous path the length of Vermont.
+When I mentioned Zeke Farwell completing the Long Trail,
+I was referring to the relation which created a continuous path the length of Vermont.
 Zeke described a bit more about his early work on the Long Trail:
 
 > I imported most of the trail from a publicly available government data source so it would have been “complete” from end to end right away.
@@ -219,7 +220,7 @@ This imported trail was better than nothing,
 but not very accurate so for the next few years I refined it from my own GPS traces, aerial imagery, or any other data sources I came across.
 
 He went on to complete the trail physically in 2012.
-Eight years later, when I hiked the trail with a copy of the OpenStreetMap relation loaded into my navigation gap,
+Eight years later, when I hiked the trail with a copy of the OpenStreetMap relation loaded into my navigation app,
 I noticed some portions of the trail were off.
 And many side trails were missing.
 Many of the trails still followed Zeke's original imports,
@@ -231,10 +232,12 @@ I expected the Appalachian Trail portion to be more accurate due to its signific
 but this was not the case.
 
 I based my mapping primarily on GPS tracks.
-First I had my own track from our thru-hike and second I could reference the [Strava heatmap](https://www.strava.com/heatmap),
-which summarizes all tracks from the past two years.
+First I had my own track from our thru-hike,
+and second I could reference the [Strava heatmap](https://www.strava.com/heatmap),
+which summarizes all tracks uploaded to that platform over the past two years.
 
-I used the online iD editor for all of my edits (except for rearranging the relation members which I had to do with JOSM).
+I used the online iD editor for all of my edits
+(except for rearranging the relation members which I had to do with JOSM).
 Here is an in-progress edit of the summit of Stratton Mountain.
 The dashed lines show the trails in OpenStreetMap.
 The red/orange/yellow heatmap shows the tracks of Strava users.
@@ -242,9 +245,10 @@ The pink line is my track.
 
 ![OpenStreetMap iD editor zoomed into the Long Trail on Stratton Mountain.]({attach}2020-09-29_osm-iD-editor-stratton-mountain.png "Editing OpenStreetMap on 2020-09-29 using the iD editor with a Strava Heatmap background. The red line shows the track of our hike. GPS tracks indicate the Long Trail is incorrectly placed.")
 
-Any GPS recording from consumer hardware will have some inaccuracy, but this is easily overcome by averaging many tracks!
+Any GPS recording from consumer hardware will have some inaccuracy,
+but this is easily overcome by averaging many tracks!
 Wisdom of the crowd.
-My track as well as the Strava heatmap make it clear that the Long Trail needs to be shifted East, along with some other alignments.
+My track as well as the Strava heatmap make it clear that the Long Trail needs to be shifted east, along with some other alignments.
 I made these changes in [changeset 91733004](https://overpass-api.de/achavi/?changeset=91733004),
 where I also added additional metadata to the fire tower like that its height is 21 meters.
 Maybe now the tower will [show up](https://www.engadget.com/flight-simulator-open-street-map-building-205545509.html "A typo created a 212-story monolith in ‘Microsoft Flight Simulator’") in flight simulators.
@@ -276,7 +280,7 @@ It is just a point (node) that has the following tags:
 | toilets:disposal | pitlatrine |
 | toilets:handwashing | no |
 
-I added `composting=yes` to help raise awareness of proper [privy etiquette](https://www.greenmountainclub.org/privy-privy-privy/):
+I added the `composting=yes` tag to help raise awareness of proper [privy etiquette](https://www.greenmountainclub.org/privy-privy-privy/):
 no trash, only toilet paper and poo, unless it's a moldering privy in which case urine is welcome.
 
 On the interactive map above, there is a _before_ layer you can toggle on, which will show the Long Trail route before my edits.
@@ -284,9 +288,9 @@ While only a few sections deviated in major ways, I realigned large portions of 
 Looking at features (specifically nodes, ways, and relations) that were [last edited by me](https://overpass-turbo.eu/s/18VX),
 you'll notice a pattern in my contributions spanning the Long Trail (along with the Upper Valley, see also [YOSMHM](https://yosmhm.neis-one.org/?zoom=9&lat=43.89078&lon=-71.98882&layers=B00TTF&u=dhimmel)):
 
-![OpenStreetMap points and ways edited most recently by dhimmel.]({attach}2021-06-28_dhimmel-osm-edits.png)
+![OpenStreetMap points and ways edited most recently by dhimmel.]({attach}2021-06-28_dhimmel-osm-edits.png "Features that were most recently edited by dhimmel as of June 28, 2021.")
 
-Do you see the section in the middle of the trail (Green Mountain National Forest) where I don't have any of the most recent edits?
+Do you see the section in the middle -- in Green Mountain National Forest -- where I don't have any of the most recent edits?
 That is because another user [Adam Franco](https://www.openstreetmap.org/user/Adam%20Franco) made [further enhancements](https://overpass-api.de/achavi/?changeset=103664322) more recently.
 
 That is the beauty of OpenStreetMap.
