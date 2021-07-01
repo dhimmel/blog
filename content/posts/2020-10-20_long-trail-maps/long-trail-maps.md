@@ -151,7 +151,7 @@ but can diminish the experience should they spoil the surprise of a guard dog am
 ## My Hike
 
 I hiked the Long Trail in September, with my two friends Freshmeat and I.A.O. Moosalamoo (trail names).
-September is an ideal month, since there's fewer bugs, less mud, and later sunrises.
+September is an ideal month, since there are fewer bugs, less mud, and later sunrises.
 But really any month is a good time to hike!
 We hiked 280 miles over 12 days, 22 hours, and 42 minutes,
 <!-- 310:42:45 according to ViewRanger recording -->
