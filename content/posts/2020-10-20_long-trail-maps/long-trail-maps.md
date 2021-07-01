@@ -21,6 +21,7 @@ When I got in touch with [Zeke](https://www.openstreetmap.org/user/ezekielf), he
 "I started contributing to OpenStreetMap in 2008 largely because good online trail maps were hard to come by at the time."
 Due to the efforts of contributors like Zeke — most volunteers, exceeding 6 million in number —
 OpenStreetMap has begun to rival, and often exceed, proprietary alternatives like Google Maps.
+
 I write this post to announce that **the best map of the Long Trail is now freely available to anyone via OpenStreetMap**.
 Curious where the oldest long-distance hiking trail in America wanders?
 Look no further than [OpenStreetMap](https://www.openstreetmap.org/).
@@ -36,11 +37,12 @@ Green Mountain Club, Guthook, and OpenStreetMap.
 ### Green Mountain Club
 
 The [Green Mountain Club](https://www.greenmountainclub.org/) (GMC) is the non-profit organization that maintains the Long Trail.
-The GMC publishes a [paper Long Trail map](https://store.greenmountainclub.org/collections/maps/products/preorder-now-long-trail-map-6th-edition-waterproof), last updated in 2021 and on its 6<sup>th</sup> edition.
+The GMC publishes a [paper Long Trail map](https://store.greenmountainclub.org/collections/maps/products/preorder-now-long-trail-map-6th-edition-waterproof),
+last updated in 2021 and on its 6<sup>th</sup> edition.
 The map is plastic-coated for water resistance and divided into 8 sections to minimize refolding.
 It includes distances, major side trails, shelter locations, 100-feet contour lines, hill-shading, elevation profiles, and nearby towns at 1:85,000 scale.
 If you like a physical map, then consider supporting the GMC!
-The map is listed at $12.95, and available from major retailers like\
+The map is listed at $12.95, and available from major retailers like
 [REI](https://www.rei.com/product/177869/green-mountain-club-vermonts-long-trail-map-5th-edition "Outdated 5th edition"),
 [Amazon](https://www.amazon.com/Vermonts-Long-Trail-Green-Mountain/dp/1888021608/),
 and your local outfitters.
@@ -53,8 +55,9 @@ But the PDFs are locked in the Avenza app, so make sure you like the Avenza inte
 ### Guthook Guides
 
 [Guthook Guides](https://atlasguides.com/) brands itself "the #1 app for long-distance hikes".
-Currently, Guthook sells guides for 53 trails, including the [Long Trail](https://atlasguides.com/long-trail/) for the price of $11.99.
+Currently, Guthook sells guides for 53 trails, including the [Long Trail](https://atlasguides.com/long-trail-map/) for the price of $11.99.
 The Guthook App includes the route and locations of shelters, campsites, water sources, and viewpoints.
+
 The real selling point however is the large number of user comments on points of interest (POIs).
 The comments can help with scouting to optimize your hike,
 but also can distract from the experience,
@@ -63,7 +66,7 @@ and create reliance on an information source that isn't available for trails off
 
 Guthook is made by hikers for hikers.
 But its database of routes and POIs is proprietary.
-Leaving a comment, or suggesting a new POI, on Guthook is sharing that information only with customers of Guthook,
+Leaving a comment or suggesting a new POI is sharing that information only with customers of Guthook,
 rather than society at large.
 
 <!-- 
@@ -85,10 +88,10 @@ I've even used it to [navigate](https://twitter.com/dhimmel/status/1221841589661
 OpenStreetMap has a lot more than just _streets_,
 and contains natural features as well as those related to outdoor recreation,
 such as trails, campsites, shelters, waterways, and cliffs.
-Unlike the GMC and Guthook maps, OpenStreetMap is not based around any single trail.
+Unlike the GMC map and Guthook, OpenStreetMap is not based around any single trail.
 Nonetheless, it [contains](https://www.openstreetmap.org/relation/391736#map=9/43.9839/-72.4919) the entire Long Trail.
 But since OpenStreetMap itself is just a geospatial database,
-it is best paired with an outdoor navigation focused app that specialize in rendering wilderness.
+it is best paired with an outdoor navigation app that specialize in rendering wilderness.
 
 <!--
 Used https://www.gpsvisualizer.com/convert?output_elevation to add elevation to Waymarked Trails GPX.
@@ -112,10 +115,10 @@ and [Komoot](https://www.komoot.com/tour/403656220).
 All of these apps include data from OpenStreetMap in their default map rendering.
 So by exporting the Long Trail to a route and uploading it to these apps,
 we're essentially highlighting a trail that should already be on the map.
-Many of these apps support downloading maps for offline, but sometimes only as a paid feature.
+Many of these apps support downloading maps for offline use, but sometimes only as a paid feature.
 
-If you just want to look at the map quickly,
-here's an embedded map [from uMap](http://u.osmfr.org/m/506490/) of the Long Trail:
+If you just want to look at the Long Trail route from OpenStreetMap quickly,
+here's an embedded map [from uMap](http://u.osmfr.org/m/506490/):
 
 <!-- OpenStreetMap uMap Embed https://u.osmfr.org/m/506490/ -->
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/long-trail_506490?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#9/43.8880/-72.8229">
@@ -173,16 +176,18 @@ Here Freshmeat enjoys the morning fog on Lift 2 of Mad River Glen:
 
 ![Sitting on the top chair of Lift 2 at Mad River Glen in the Fog.]({attach}2020-09-18_ski-lift-in-the-fog.jpg)
 
-Big ponds carefully crafted by beavers:
-
-![Dead tree in front of beaver pond with reflections in the morning.]({attach}2020-09-25_beaver-pond.jpg)
-
-A feast for all after a grueling day that started in Johnson and ended at the Taft Lodge on Mount Mansfield.
-We were rewarded by an unremarkable, windy, and solitary sunrise the next morning on Vermont's highest peak.
+After a grueling day that started in Johnson and ended at the Taft Lodge on Mount Mansfield, I prepared a deluxe feast for all.
 
 ![Preparing a meal at Taft Lodge.]({attach}2020-09-15_meal.jpg "Dirtbag deluxe aka the hiker trash feast.")
 
-If you'd like to see more pictures from our hike, or explore the route further, here are the daily recordings on Strava:
+The next morning, we were rewarded by an unremarkable, windy, and solitary sunrise on Vermont's highest peak.
+There were some incredible beaver dams along the path,
+including the one that created this pond where we stayed on our last night (see also the [astrophotography version]({attach}2020-09-25_beaver-pond.jpg)).
+
+![Dead tree in front of beaver pond with reflections in the morning.]({attach}2020-09-25_beaver-pond.jpg)
+
+If you'd like to see more pictures from our hike or explore the route further,
+here are the daily recordings on Strava:
 
 - [2020-09-12 Long Trail Day 1](https://www.strava.com/activities/4054451382)
 - [2020-09-13 Long Trail Day 2](https://www.strava.com/activities/4058835073)
