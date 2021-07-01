@@ -1,12 +1,8 @@
 Title: Mapping the Long Trail: the best is now free with OpenStreetMaps
 Slug: long-trail-maps
-Date: 2021-06-30
+Date: 2021-07-01
 Tags: hiking, long trail, openstreetmap, osm, vermont, trek, open source, open data, guthook
-Status: draft
 
-<!--
-https://blog.dhimmel.com/drafts/long-trail-maps
--->
 
 On January 24, 2010, Zeke Farwell [completed](https://www.reddit.com/r/openstreetmap/comments/j6j5r5/when_was_the_long_trail_route_relation_first/ "Reddit OpenStreetMap: When was the Long Trail route relation first completed?") the Long Trail.
 He had begun just two days earlier, connecting more than 50 segments of trail spanning over 200 miles.
@@ -206,7 +202,7 @@ here are the daily recordings on Strava:
 
 ## Editing the Map
 
-According to the US Forest Service, the Long Trail is #1 (or perhaps #3).
+According [to](https://github.com/dhimmel/long-trail-maps/blob/dhimmel-changesets/supplements/2020-10-01_National_Forest_System_Trails.xlsx) the US Forest Service, the Long Trail is #1 (or perhaps #3).
 But according to OpenStreetMap, it's 391736.
 That is the ID for the [Long Trail *relation*](https://www.openstreetmap.org/relation/391736#map=9/43.8137/-72.9231).
 The relation connects all the individual trail segments (called ways) into a single conceptual unit.
@@ -257,7 +253,7 @@ By the way, if you like fire towers, the Long Trail has three:
 [Stratton](https://www.openstreetmap.org/node/356555377) (enclosed),
 and [Belvidere](https://www.openstreetmap.org/node/618994751).
 
-In total, I made [34 changesets](https://nbviewer.jupyter.org/github/dhimmel/osm-get-user-changeset-metadata/blob/dhimmel-changesets/long_trail_changesets.ipynb) (collections of edits) related to the Long Trail.
+In total, I made [34 changesets](https://nbviewer.jupyter.org/github/dhimmel/long-trail-maps/blob/dhimmel-changesets/long_trail_changesets.ipynb) (collections of edits) related to the Long Trail.
 I started the edits the day after getting back from the hike,
 and completed my revisions in 11 days, faster even than we hiked it!
 Warning before you start contributing to OpenStreetMaps,
@@ -298,6 +294,8 @@ It is a living map,
 whose model of open licensing and crowdsourced contribution give rise to a map more complete and encompassing than any proprietary alternative.
 
 Liberate the trails, put them on _the map_!
+
+_Find supplementary materials to this blog post at <https://github.com/dhimmel/long-trail-maps>._
 
 <!--
 ## Google MyMaps
