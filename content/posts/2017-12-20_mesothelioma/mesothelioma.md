@@ -54,7 +54,7 @@ Unfortunately, any amount of exposure to asbestos could lead to mesothelioma, or
 Immunotherapy, the act of transferring T-cells, is designed to help the immune system recognize cancer cells that it otherwise wouldn’t have been able to.
 It encourages antibodies to block the PD-L1 protein so that T-cells can recognize it and fight it off.
 
-+ **Cancer Moonshot** — During its first year of operation, [Cancer Moonshot](https://obamawhitehouse.archives.gov/node/352601)’s mission has been clear: to make more therapies available and work on early detection.
++ **Cancer Moonshot** — During its first year of operation, [Cancer Moonshot](https://web.archive.org/web/20170629100506/https://obamawhitehouse.archives.gov/node/352601)’s mission has been clear: to make more therapies available and work on early detection.
 This initiative puts a big focus on targeted immunotherapy, allowing more unique treatment options that fit a patient’s specific cancer.
 Fortunately, with the approval from the National Cancer Institute, researchers at NCI Cancer Centers have quick access to new drugs in hopes of finding effective treatments at a faster pace.
 With this in mind, people diagnosed with less common cancers, such as mesothelioma, can have more faith in future treatment options as opposed to the limited treatments currently available.
