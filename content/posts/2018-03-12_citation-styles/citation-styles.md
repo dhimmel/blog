@@ -3,7 +3,7 @@ Slug: citation-styles
 Date: 2018-03-12
 Tags: style, bibliography, references, citations, journals, Manubot, eLife, PeerJ, Thinklab, PubMed Central
 
-Should citations in scholarly writing appear as author-year snippets, like ([Pantcheva, 2018](https://web.archive.org/web/20180311072702/http://site.uit.no/english/writing-style/citationstyles/ "Citation styles: Vancouver and Harvard systems"); [Zelle, 2015](http://docs.citationstyles.org/en/1.0.1/primer.html "Primer — An Introduction to CSL: v1.0.1")), or numbers, like [[1](https://www.nottingham.ac.uk/studyingeffectively/referencing/referencing/styles.aspx "Studying Effectively: Referencing styles · University of Nottingham"),[2](https://web.archive.org/web/20200615045722/https://library.wur.nl/infoboard/7_citing/citation_styles.html "Author-date or numeric style · Wageningen University & Research")]?
+Should citations in scholarly writing appear as author-year snippets, like ([Pantcheva, 2018](https://web.archive.org/web/20180311072702/http://site.uit.no/english/writing-style/citationstyles/ "Citation styles: Vancouver and Harvard systems"); [Zelle, 2015](https://docs.citationstyles.org/en/v1.0.1/primer.html "Primer — An Introduction to CSL: v1.0.1")), or numbers, like [[1](https://www.nottingham.ac.uk/studyingeffectively/referencing/referencing/styles.aspx "Studying Effectively: Referencing styles · University of Nottingham"),[2](https://web.archive.org/web/20200615045722/https://library.wur.nl/infoboard/7_citing/citation_styles.html "Author-date or numeric style · Wageningen University & Research")]?
 Let's refer to these two methods as _author-style_ and _numeric-style_.
 You may have also heard them referred to as the [Harvard](https://en.wikipedia.org/wiki/Parenthetical_referencing "Parenthetical referencing · Wikipedia") and [Vancouver](https://en.wikipedia.org/wiki/Vancouver_system "Vancouver system · Wikipedia") referencing systems.
 
@@ -120,7 +120,7 @@ Also, there's less room for misrecognition when readers are always shown the ful
 2. **The first author is more visibly credited.**
 Credit is important in science.
 As a first author, it can certainly be nice to find your surname in the main text of articles that you've influenced.
-Unfortunately, science is rarely a one-(wo)man job these days, with biomedical publications [now averaging](https://10.15200/winn.141832.26907 "Robert Aboukhalil · 2014 · The rising trend in authorship · Winnower") over five authors.
+Unfortunately, science is rarely a one-(wo)man job these days, with biomedical publications [now averaging](https://doi.org/10.15200/winn.141832.26907 "Robert Aboukhalil · 2014 · The rising trend in authorship · Winnower") over five authors.
 Precisely since credit is so important for propelling the academic enterprise forward, we should avoid systems that tend to improperly credit individuals over communities.
 
 3. **Dates help readers establish the chronology of prior work and quickly identify outdated citations.**

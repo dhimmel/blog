@@ -35,7 +35,7 @@ I looked at delays for open access journals in my field. Below, publication time
 
 As luck would have it, *PLOS Computational Biology* has the highest median publication time. Since all PLOS journals use the same editorial and typesetting system, the poor performance across the PLOS family is unsurprising.
 
-*eLife* is quickest with a majority of articles published within 3 days after acceptance. The comparison is skewed because *eLife* allows [early access](http://elifesciences.org/content/early/recent) to a pre-formatted article PDF. However, early access provides many of the benefits of publication such as visibility and citability.
+*eLife* is quickest with a majority of articles published within 3 days after acceptance. The comparison is skewed because *eLife* allows [early access](https://web.archive.org/web/20150627174355/http://elifesciences.org/content/early/recent) to a pre-formatted article PDF. However, early access provides many of the benefits of publication such as visibility and citability.
 
 Next, I looked at acceptance times for the same 16 journals.
 

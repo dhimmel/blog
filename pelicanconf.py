@@ -45,7 +45,7 @@ LINKS = [
     ("&ndash; archives", "/archives"),
     ("<b>Daniel Himmelstein</b>", "https://dhimmel.com/"),
     ("&ndash; about", "https://dhimmel.com/about"),
-    ("&ndash; research", "https://dhimmel.com/research"),
+    # ("&ndash; research", "https://dhimmel.com/research"),
 ]
 
 DEFAULT_PAGINATION = 10
