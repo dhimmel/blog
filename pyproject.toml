@@ -6,9 +6,9 @@ authors = ["Daniel Himmelstein"]
 
 # https://python-poetry.org/docs/versions/
 [tool.poetry.dependencies]
-python = "^3.8"
-pelican = "^4.2.0"
-markdown = "^3.2.2"
+python = "^3.11"
+pelican = "^4.9.1"
+markdown = "^3.6"
 smartypants = "^2.0.1"
-jinja2 = "^2.11.2"
+jinja2 = "^3.1.4"
 typogrify = "^2.0.7"
