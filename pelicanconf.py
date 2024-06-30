@@ -17,7 +17,7 @@ for name in "CNAME", "404.md", ".nojekyll":
 
 TIMEZONE = "America/New_York"
 
-DEFAULT_LANG = "en-us"
+DEFAULT_LANG = "en"
 
 # URL settings
 SITEURL = "https://blog.dhimmel.com"
@@ -57,7 +57,7 @@ DIRECT_TEMPLATES = ("index", "archives", "sitemap", "robots", "humans")
 ROBOTS_SAVE_AS = "robots.txt"
 HUMANS_SAVE_AS = "humans.txt"
 SITEMAP_SAVE_AS = "sitemap.xml"
-DATE_FORMATS = {"en": "%B %d, %Y"}
+DEFAULT_DATE_FORMAT = "%Y-%m-%d"
 SITEDESCRIPTION = "the blog of Daniel Himmelstein"
 TYPOGRIFY = True
 MARKDOWN = {
