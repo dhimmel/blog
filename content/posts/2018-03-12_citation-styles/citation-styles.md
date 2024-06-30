@@ -134,7 +134,7 @@ However, there's always the risk of author-year collisions, which either breaks 
 
     Also, the future of scholarly writing is cite-by-identifier.
 For example, I'd cite Project Rephetio by its Digital Object Identifier like `[@doi:10.7554/eLife.26726]`.
-Then, typesetting software, such as [Manubot](https://github.com/greenelab/manubot-rootstock), retrieves the corresponding bibliographic metadata and automatically formats both the citations and references according to [whatever style](https://github.com/citation-style-language/styles) you specify.
+Then, typesetting software, such as [Manubot](https://github.com/manubot/rootstock), retrieves the corresponding bibliographic metadata and automatically formats both the citations and references according to [whatever style](https://github.com/citation-style-language/styles) you specify.
 
 ## Advantages of numeric-style
 
@@ -185,7 +185,12 @@ It will be informative to see if they decide to switch to numeric-style.
 <span style="background-color: #D9FFDE">code or data</span>).
 
 + Consider reformatting the style of references.
-I [think](https://github.com/greenelab/manubot-rootstock/issues/53) the title should go first, before authors, as seen in the Manubot-generated references above.
+I [think](https://github.com/manubot/rootstock/issues/53) the title should go first, before authors, as seen in the Manubot-generated references above.
 Always provide a standard identifier or URL in references.
 It's the single most important element of a textual reference.
 In other words, `PMC4805733` or `https://doi.org/cmbr` is a better reference than `A. Ofosu, Aog 29 (2016) 1-8` (the style currently used by uBiome SmartGut reports).
+
+***
+
+**Update:** D. J. Bernstein explores additional arguments in favor of numeric citations in a [2024 blog post](https://blog.cr.yp.to/20240612-bibkeys.html "Bibliography keys: It's as easy as [1], [2], [3]. 2024-06-12").
+Yes, this is the cryptographer [from](https://cr.yp.to/export/docs.html) _Bernstein v. United States_, the series of court cases that established source code as First Amendment-protected speech!
