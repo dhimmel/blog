@@ -3,7 +3,6 @@ Slug: long-trail-maps
 Date: 2021-07-01
 Tags: hiking, long trail, openstreetmap, osm, vermont, trek, open source, open data, guthook
 
-
 On January 24, 2010, Zeke Farwell [completed](https://www.reddit.com/r/openstreetmap/comments/j6j5r5/when_was_the_long_trail_route_relation_first/ "Reddit OpenStreetMap: When was the Long Trail route relation first completed?") the Long Trail.
 He had begun just two days earlier, connecting more than 50 segments of trail spanning over 200 miles.
 Motivated by "the longest and most well known hiking trail in Vermont",
@@ -143,7 +142,6 @@ many users note the new-and-true route.
 This is a good example of how Guthook comments provide advanced reconnaissance,
 but can diminish the experience should they spoil the surprise of a guard dog ambush or tempt you to [yellow blaze](https://adventurepossible.com/adventure/white-blue-and-other-blazes-of-the-appalachian-trail/).
 
-
 ## My Hike
 
 I hiked the Long Trail in September, with my two friends Freshmeat and I.A.O. Moosalamoo (trail names).
@@ -204,7 +202,7 @@ here are the daily recordings on Strava:
 
 According [to](https://github.com/dhimmel/long-trail-maps/blob/dhimmel-changesets/supplements/2020-10-01_National_Forest_System_Trails.xlsx) the US Forest Service, the Long Trail is #1 (or perhaps #3).
 But according to OpenStreetMap, it's 391736.
-That is the ID for the [Long Trail *relation*](https://www.openstreetmap.org/relation/391736#map=9/43.8137/-72.9231).
+That is the ID for the [Long Trail _relation_](https://www.openstreetmap.org/relation/391736#map=9/43.8137/-72.9231).
 The relation connects all the individual trail segments (called ways) into a single conceptual unit.
 
 When I mentioned Zeke Farwell completing the Long Trail,
@@ -260,7 +258,7 @@ Warning before you start contributing to OpenStreetMaps,
 it can be addicting.
 
 I added many of the shelters that were missing,
-such as the [Duck Brook Shelter](https://www.openstreetmap.org/way/852564406#map=19/44.39119/-72.91795) on the *Old Long Trail* that's visible in the map comparison image above.
+such as the [Duck Brook Shelter](https://www.openstreetmap.org/way/852564406#map=19/44.39119/-72.91795) on the _Old Long Trail_ that's visible in the map comparison image above.
 One type of feature that is still largely missing is privies.
 While all the shelters have a privy nearby,
 it can be surprisingly hard to find them, especially at night.
@@ -303,13 +301,11 @@ _Find supplementary materials to this blog post at <https://github.com/dhimmel/l
 Google MyMaps Embed 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Rr2OSCcRA8PBjBjAIS06Gp9vCc1eWL_6" width="640" height="480"></iframe>
 
-
 Message from Zeke: https://www.openstreetmap.org/messages/894718
 
 > Congrats on the thru-hike! I also hiked the LT in 2012. I’m having a hard time remembering exactly when I started working on the long trail in OSM, but I believe it was one of the earliest things I did. I started contributing to OSM in 2008 largely because good online trail maps were hard to come by at the time. I added trails in Vermont because that is where I live and like to hike. The Long Trail is the longest and most well known hiking trail in Vermont so it made sense to get that into OSM. I’m pretty sure I added it in my first year or two working on OSM. The ways making up the trail probably predate the relation because the idea of a relation data structure was either still very new to OSM or didn’t exist yet. If I remember correctly, I imported most of the trail from a publicly available government data source so it would have been “complete” from end to end right away. This imported trail was better than nothing, but not very accurate so for the next few years I refined it from my own GPS traces, aerial imagery, or any other data sources I came across. I haven’t payed too much attention in recent years, but I’m sure there are still plenty areas that need improvement. I did revisit the area around the Winooski River bridge after that was built and the trail rerouted in that area.
 
 https://www.reddit.com/r/openstreetmap/comments/j6j5r5/when_was_the_long_trail_route_relation_first/
-
 
 ## External Route title and description
 
@@ -321,4 +317,3 @@ This route was posted as a companion to the blog post https://blog.dhimmel.com/l
 https://hiking.waymarkedtrails.org/#route?id=391736&map=9!43.8387!-72.5574
 
 -->
-

@@ -11,12 +11,12 @@ Participants included individuals supported by the [Thiel Foundation](http://thi
 
 Several ideas came to the forefront as the forum progressed:
 
-*   Students should not complete a unit unless they have mastered the subject material. Variable learning rates are poorly accommodated by traditional academic terms.
-*   Development efforts should focus on the interactive portions of the curriculum. Consumption based learning can be outsourced. Open online courses provide world-class and cutting-edge education at little cost and enable coursework away from campus – for example, while providing care in the countryside.
-*   Doctors should be just-in-time learners. Physicians need the ability to stay current in a rapidly changing field. The ability to effectively retrieve and integrate literature will be crucial.
-*   Technology will continue to play a growing role in medicine eventually supplanting many of the current duties of a physician. Future physicians should be prepared to effectively embrace and explain these technologies.
-*   Patients are costumers. Like any business, medicine should deliver services that the customer desires. Striving for customer satisfaction would help simplify the process of purchasing medical services and emphasize the often overlooked aspect of empathic care.
-*   Bioinformatics is an auspicious field given its low barriers to entry. Contracted bioinformatics projects could reduce tuition while providing an educational research experience for students.
+* Students should not complete a unit unless they have mastered the subject material. Variable learning rates are poorly accommodated by traditional academic terms.
+* Development efforts should focus on the interactive portions of the curriculum. Consumption based learning can be outsourced. Open online courses provide world-class and cutting-edge education at little cost and enable coursework away from campus – for example, while providing care in the countryside.
+* Doctors should be just-in-time learners. Physicians need the ability to stay current in a rapidly changing field. The ability to effectively retrieve and integrate literature will be crucial.
+* Technology will continue to play a growing role in medicine eventually supplanting many of the current duties of a physician. Future physicians should be prepared to effectively embrace and explain these technologies.
+* Patients are costumers. Like any business, medicine should deliver services that the customer desires. Striving for customer satisfaction would help simplify the process of purchasing medical services and emphasize the often overlooked aspect of empathic care.
+* Bioinformatics is an auspicious field given its low barriers to entry. Contracted bioinformatics projects could reduce tuition while providing an educational research experience for students.
 
 I had the [opportunity to explore the UFM campus](https://noticias.ufm.edu/cientificos-y-emprendedores-en-la-ufm/ "Cientificos_y_emprendedores_en_la_UFM") and was thoroughly impressed by the design, hospitality, principles, and foresight of the institution. While visiting the campus, I was interviewed about my views on accessibility and communication in science. The [recording](https://newmedia.ufm.edu/video/accessibility-and-communication-in-science/ "UFM NewMedia Interview Page") is below:
 

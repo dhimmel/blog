@@ -169,7 +169,6 @@ During this time we checked out some local attractions such as Hapuna Beach. We 
 
 ![bmw-biking.png](https://ipfs.busy.org/ipfs/QmQtLJhHnK36iQtiY2oxTnLdyx8YBhBMfo2M5deZ1JasMs)
 
-
 Makalawena Beach was nice and included a resident seal. We imitated petroglyphs with our shadows: 
 
 ![Makalawena Beach shadows.png](https://ipfs.busy.org/ipfs/QmNR2m7dDNWVag99BAG1rpe6RV1GVR1Dn62NaVThJCeAJE)

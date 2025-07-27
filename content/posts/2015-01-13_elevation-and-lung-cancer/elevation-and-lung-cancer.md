@@ -16,7 +16,7 @@ We found that lung cancer decreased dramatically with rising elevation. This tre
 
 To convey the magnitude of the observed association, we imagine a hypothetical situation where the entire United States elevates to the level of the highest US county (San Juan, Colorado at 3,473 meters / 11,395 feet). Were all other factors to remain constant, we estimate 65,496 fewer new cases of lung cancer would arise per year. For comparison, 224,210 new cases of lung cancer [arose](https://doi.org/10.3322/caac.21208 "Cancer statistics, 2014") in the United States last year.
 
-While we don't recommend anyone relocate just yet and the risk for nonsmokers is low, experimental confirmation of oxygen-driven tumorgenesis could lead to new insights that yield better lung cancer preventions and treatment. Learn more about our findings in the [press release](https://www.eurekalert.org/news-releases/589870 "Press Release: Can inhaled oxygen cause cancer?") or see *SciShow's* [video summary](https://youtu.be/HrIrB9reWwQ?t=89s):
+While we don't recommend anyone relocate just yet and the risk for nonsmokers is low, experimental confirmation of oxygen-driven tumorgenesis could lead to new insights that yield better lung cancer preventions and treatment. Learn more about our findings in the [press release](https://www.eurekalert.org/news-releases/589870 "Press Release: Can inhaled oxygen cause cancer?") or see _SciShow's_ [video summary](https://youtu.be/HrIrB9reWwQ?t=89s):
 
 <div class="videoWrapper"><iframe width="604" height="340" src="https://www.youtube.com/embed/HrIrB9reWwQ?start=89&feature=oembed&rel=0&theme=light&showinfo=0&autohide=1" frameborder="0" allowfullscreen></iframe></div>
 
@@ -25,6 +25,5 @@ While we don't recommend anyone relocate just yet and the risk for nonsmokers is
 Interact with this scatterplot to explore the relationship between elevation and lung cancer. The bivariate plot shows unadjusted lung cancer incidence decreasing with county elevation. The partial regression plot shows the relationship while accounting for additional factors, such as smoking and education. Accounting for the additional factors sharpened the association. Vector (pdf) versions of the manuscript figures are [available from the project's repository](https://github.com/dhimmel/elevcan/tree/master/manual/figures/vectors "Project GitHub -- Vector Images").
 
 <div><iframe src="https://dhimmel.shinyapps.io/elevcan" width="100%" height="700px" style="border: none;">Shiny Visualization</iframe></div>
-
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>

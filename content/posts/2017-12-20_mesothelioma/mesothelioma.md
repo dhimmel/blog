@@ -20,7 +20,7 @@ The disease affects people who have been exposed to asbestos in their day-to-day
 
 ![Mesothelioma mortality in the United States](https://github.com/dhimmel/mesothelioma/raw/886f3a0779c9cb6cb051e22c2f72c5be1e348087/figure/mortality.png "Mesothelioma mortality by state. Age-adjusted to the 2000 US standard population. Source: United States Cancer Statistics, WONDER Online Database, United States Department of Health and Human Services.")
 
-_**Data visualization:** mesothelioma mortality varies by state ([source code](https://github.com/dhimmel/mesothelioma))._
+***Data visualization:** mesothelioma mortality varies by state ([source code](https://github.com/dhimmel/mesothelioma)).*
 
 > What is asbestos and how does it cause mesothelioma?
 

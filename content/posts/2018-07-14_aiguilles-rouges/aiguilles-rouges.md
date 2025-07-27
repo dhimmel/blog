@@ -3,7 +3,6 @@ Slug: aiguilles-rouges
 Date: 2018-07-14
 Tags: hiking, alps, trekking, hive
 
-
 On Wednesday, June 27, 2018 I woke up in Zurich, having [given a presentation](https://hive.blog/science/@dhimmel/68uly2sj) at the Central Library the day prior. After 3 trains, I arrived in the French town of Vallorcine to begin my hike of the Aiguilles Rouges, which in English translates to "Red Peaks". The beginning of the hike was picturesque with benign terrain (this would change soon enough):
 
 <!-- https://ipfs.busy.org/ipfs/QmUjZdzuuejMcnMGKi3TVJV7taoqPmw9AoG5guxPbfYmTq -->
