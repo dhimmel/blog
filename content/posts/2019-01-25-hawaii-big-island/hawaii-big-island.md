@@ -11,7 +11,7 @@ This post discloses an 8-day itinerary for exploring the Big Island, Hawaii. It 
 
 We planned our trip by creating a [custom map](https://www.google.com/maps/d/viewer?mid=1n5mSaUnn9WsF_k7LGgF7n3Pc4xTQ45vO) of attractions:
 
-![custom map](https://ipfs.busy.org/ipfs/QmPL9K87SyxafiGTy78DPEB2jntUFz2C7JkoshqsnD46m6)
+![custom map]({attach}01-custom-map.png)
 
 We decided to circumnavigate the island clockwise, beginning at Kona airport, where we rented the weakest car available from Hertz, a Nissan Versa.
 
@@ -19,17 +19,17 @@ We decided to circumnavigate the island clockwise, beginning at Kona airport, wh
 
 We [hiked to Kealakekua Bay](https://bigislandhikes.com/kealakekua-bay/), with the Big Island's best snorkeling and Captain Cook's Monument. [Here's our GPS track](https://my.viewranger.com/track/details/OTQ0Mzc4OQ==). The hike is about 2 miles each way and scenic:
 
-![Kealakekua Bay Hiking](https://ipfs.busy.org/ipfs/QmYsyZTEB5n8Bd6Hh5Xmwb9v4yoTg9evxqPkwWZVucUBDo)
+![Kealakekua Bay Hiking]({attach}02-IMG_20190108_122720.jpg)
 
 Francesca joined us for this part of the journey. She's an Italian scientist currently living in Arizona, who performs some of the most advanced matrix computations for data integration in the world.
 
 At the bay, we found a nice hammock spot:
 
-![Kealakekua Bay Hammocking](https://ipfs.busy.org/ipfs/QmZcKeohzM1gJT7SWScfZvBxbihsKWgJzzUs93gTGFX6J8)
+![Kealakekua Bay Hammocking]({attach}03-IMG_20190108_133204.jpg)
 
 The main attraction however is the snorkeling. Put on some goggles, jump in, and witness your world transform into a colorful cacophony of marine mania. We didn't get any pictures of the underwater view, but on shore the sun gave birth to crustacean reds:
 
-![crustacean reds](https://ipfs.busy.org/ipfs/QmUWWYVTFimJaLZW4H6FxyujkHT9p9db241gaNVHnzrkoo)
+![crustacean reds]({attach}04-IMG_20190108_142052.jpg)
 
 We drove north this night and camped at [Mãhukona Beach Park](https://hawaiicounty.ehawaii.gov/camping/all,details,57791.html), which was somewhat sketch especially considering its $42 price tag for 2 non-residents. 
 
@@ -37,19 +37,19 @@ We drove north this night and camped at [Mãhukona Beach Park](https://hawaiicou
 
 We started day 2 with a [short hike](https://my.viewranger.com/track/details/OTQ3MjU2MA==) down to the beach at [Pololū Valley](https://www.lovebigisland.com/pololu-valley/). The view looking out towards the 7 valleys of the Kohala Volcana was impressive and a nice reminder of the wilderness we were about to explore.
 
-![MVIMG_20190109_082117.jpg](https://ipfs.busy.org/ipfs/QmQEtUVU2rpna1873PudY9u699mWtH31uy7721yb6qdpW4)
+![MVIMG_20190109_082117.jpg]({attach}05-MVIMG_20190109_082117.jpg)
 
 Next we drove around Kohala Volcana to reach Waipi’o Valley (the easternmost valley). From there we set out to hike the Muliwai Trail to [Waimanu Valley](https://bigislandhikes.com/waimanu-valley/) ([tracks](https://my.viewranger.com/track/details/OTQ3MjU2MQ==)).
 
-![PANO_20190109_112824.vr.jpg](https://ipfs.busy.org/ipfs/QmSumm2jQPZzJKZeWa2FRr8pD3ESDHRU4AhGQMuFB45Rxf)
+![PANO_20190109_112824.vr.jpg]({attach}06-PANO_20190109_112824.vr.jpg)
 
 Check out @trang's [amazing video](https://busy.org/@trang/zy5zezs6) recounting our time at Waimanu Valley. The hike was scenic:
 
-![IMG_20190109_151729.jpg](https://ipfs.busy.org/ipfs/QmYYSCTFZ1aZ2KH8mAwMGUfnLtEXvf193f1vPdsYYiZp9W)
+![IMG_20190109_151729.jpg]({attach}07-IMG_20190109_151729.jpg)
 
 And wet...
 
-![rain on Muliwai Trail gif](https://ipfs.busy.org/ipfs/QmR7uC1UNLw957FSqStyf1JKku9xXfBZqBm3hSSePUA12e)
+![rain on Muliwai Trail gif]({attach}08-MVIMG_20190109_170339.jpg)
 
 And by the time we reached camp, _dark_. We stayed at campsite 1 ([map download](https://camping.ehawaii.gov/camping/all,map,31720.html)), which was pretty good, although campsite 2 has the best view and fire pit, and served as the socialization venue for all the expeditions.
 
@@ -57,15 +57,15 @@ And by the time we reached camp, _dark_. We stayed at campsite 1 ([map download]
 
 The view in the morning was worth it:
 
-![Waimanu Valley](https://ipfs.busy.org/ipfs/Qmeir78Pq3Su9xveWEkawjo6WXzhPNGBAZpDhRgsgdRPfN)
+![Waimanu Valley]({attach}09-MVIMG_20190110_082125_exported_1841226954767972300.jpg)
 
 We continued along the valley perimeter along an unmaintained trail network to reach Waihilau Falls, the 14th tallest [waterfall in the world](https://www.worldwaterfalldatabase.com/tallest-waterfalls/total-height).
 
-![Waihilau Falls](https://ipfs.busy.org/ipfs/QmVYxrcccpcwAzTPjS4ThhUwUkZnvvAGVDJyq7F9MBgEd2)
+![Waihilau Falls]({attach}10-IMG_20190110_102447.jpg)
 
 Remember this is the jungle and the trek is treacherous:
 
-![spider webs](https://ipfs.busy.org/ipfs/QmdzpqgcDpa5ticwK5vDq9t22J3QyWKrSuFYksF2UBhDu8)
+![spider webs]({attach}11-IMG_20190110_092616.jpg)
 
 That night we had a gathering of the vibes with other attendees.
 
@@ -73,7 +73,7 @@ That night we had a gathering of the vibes with other attendees.
 
 We hiked out early. By the way, did I mention there are two major water crossings: Waimanu Stream and Queen's River. The beauty however is that you get to experience where the fresh meets the salt waters. Watch @trang cross Waimanu Stream:
 
-![waimanu-stream-crossing-reduced-size.gif](https://ipfs.busy.org/ipfs/QmYYi7ttMD4xNv7ZkXBWHnvVjcQ8EbuTqyV2ft9ke2mz4H)
+![waimanu-stream-crossing-reduced-size.gif]({attach}12-MVIMG_20190111_070009.jpg)
 
 The hike out went smoothly. Overall, this outing comprised 22 miles of hiking and 10,600 feet of elevation gain.
 
@@ -87,21 +87,21 @@ Despite augmentation with 10 milligrams of acetazolamide, I felt elevation weakn
 
 On the way, we stopped by Lake Waiau, Hawaii's only alpine lake and a place of great historical importance as ancient peoples would deposit umbilical cords of newborns here as a ritual to promote longevity.
 
-![PANO_20190112_141022.vr.jpg](https://ipfs.busy.org/ipfs/QmQhXajA1r6g7Fh69WSr4nNgPd1QPFzGjwrpJtTyuKPUXN)
+![PANO_20190112_141022.vr.jpg]({attach}13-PANO_20190112_141022.vr.jpg)
 
 A few other visitors stopped by and took a photo for us:
 
-![image.png](https://ipfs.busy.org/ipfs/QmZ454LSxjQKXuC7r8tXc254p8bd8vVQnP8w7GynWYav3e)
+![image.png]({attach}14-MVIMG_20190112_140935_exported_2803647246858292368.jpg)
 
 However, one of the visitors kept throwing rocks in the lake, which annoyed me because the lake [already struggles enough](https://doi.org/10.1002/2014EO140001 "Tracking Dramatic Changes at Hawaii’s Only Alpine Lake. 2014") with maintaining its depth.
 
 After a [total](https://my.viewranger.com/track/details/OTQ3MjU2Mg==) of 6.5 miles, we reached the summit and enjoyed the views:
 
-![PANO_20190112_154537.vr.jpg](https://ipfs.busy.org/ipfs/QmbP5E3dLSWm8RYbUoSLy7kYUcRbtTrG8YutGqV14yn3qx)
+![PANO_20190112_154537.vr.jpg]({attach}15-PANO_20190112_154537.vr.jpg)
 
 Mauna Kea is also special for being one of the premier sites on the earth for astronomical observation. The area surrounding the summit is currently home to 13 telescopic observatories:
 
-![image.png](https://ipfs.busy.org/ipfs/QmTndUqNefcbAGdCmQinofgeqARXireyL3A65UAi89CkwF)
+![image.png]({attach}16-IMG_20190112_155543.jpg)
 
 A telescope much greater than any of the existing telescopes has been planned. Its name: the Thirty Meter Telescope. However, there has been much resistance to this telescope and protesters halted the construction in 2015. Recently, court rulings [have sided](https://doi.org/10.1038/d41586-018-04444-2 "Embattled Thirty Meter Telescope scores big win in Hawaii’s highest court") with the telescope. On our drive around the island, we saw many "Save Mauna Kea" signs advocating against the telescope. While I generally side with preservationists, I don't see the merits of stopping this important eye into the sky and hence the history of the universe. Furthermore, the telescope will be recessed from the summit. Personally, I find the proposed design aesthetically pleasing and think it would contribute to the legacy and myth of the mountain.
 
@@ -109,27 +109,27 @@ We hitchhiked down and arrived to Nāmakanipaio Campground at Hawaii Volcanoes N
 
 ## Day 6: Volcanoes National Park
 
-![shutdown-reduced-size.gif](https://ipfs.busy.org/ipfs/QmNeScFKNsUk2ErjcasrAwrkWm2JokcpBf5G1FPj7R5K6F)
+![shutdown-reduced-size.gif]({attach}17-MVIMG_20190113_075729_exported_stabilized_1107483430301573383.gif)
 
 Due to the longest government shutdown in U.S. history, a higher percent of the lands at Volcanoes National Park were forbidden than usual. Therefore, we are substituting this part with the itinerary we would have liked to do were the park fully open.
 
 We had planned to hike the [Nāpau Trail](https://bigislandhikes.com/napau-trail/) into the backcountry, where one can witness lava flows and steam vents:
 
-![steam-vents.gif](https://ipfs.busy.org/ipfs/Qmctx1HH6zAB1em7SBRskcWFdN4nm4khyPsPYB3m4hKW6M)
+![steam-vents.gif]({attach}18-MVIMG_20190114_085906.jpg)
 
 Behold the gigantic _Cibotium menziesii_ (Hawaiian Tree Fern):
 
-![ferns png](https://ipfs.busy.org/ipfs/QmSkAs7s6gbPrUbH7vr14o4x7kH51dVWzV355gR32RFsz3)
+![ferns png]({attach}19-IMG_20190113_140337.jpg)
 
 Instead we had to settle for some déjà vu backcountry solitude:
 
-![tent setup png](https://ipfs.busy.org/ipfs/QmauAtXQWNqbvF1DJtNsqwM3yxsj77z33CmfojDde8YrMz)
+![tent setup png]({attach}20-IMG_20190113_162130.jpg)
 
 ## Day 7: Volcanoes National Park
 
 We did get to walk along Rim Drive to get a nice vantage point of Kīlauea Crater. 
 
-![PANO_20190114_125845.vr.jpg](https://ipfs.busy.org/ipfs/QmaRy6732QUvNfUL6FGeKz6moZbjzxymx2NbF2D934DSHp)
+![PANO_20190114_125845.vr.jpg]({attach}21-PANO_20190114_125845.vr.jpg)
 
 After seeping lava continuously for 35 years, Kīlauea and its subordinates [experienced](https://doi.org/10.1126/science.aav7046 "The 2018 rift eruption and summit collapse of Kīlauea Volcano") increased volcanic activity last summer. During this period, the magma exhausted itself. Hence, there was no lava anywhere on the Big Island for the duration of our visit.
 
@@ -139,15 +139,15 @@ On the night of day 7, we camped at [Whittington Beach Park](https://hawaiicount
 
 On day 8, we made it near the southernmost point in the United States. We [hiked](https://my.viewranger.com/track/details/OTQ5NjczMg==) to the Green Sand Beach:
 
-![green sand selfie.png](https://ipfs.busy.org/ipfs/QmNQuUdRz4niJTTrizqVtrdPZQNhu13ob9BkNAhfcArAeW)
+![green sand selfie.png]({attach}22-IMG_20190115_103344.jpg)
 
 I was happy to see most other visitors hiking rather than purchasing a ride on a 4×4, since the automobiles do considerable damage to the landscape, which made for a nice photo:
 
-![green sand beach ruts.png](https://ipfs.busy.org/ipfs/Qmexm1z5t2VxQf78mJ47qYwRB34Rr1LbbsSyKs8GR7A67F)
+![green sand beach ruts.png]({attach}23-IMG_20190115_095813.jpg)
 
 On the hike we were reminded of the onslaught of plastic pollution humans are littering the ocean with:
 
-![image.png](https://ipfs.busy.org/ipfs/QmXWHfRdZDBBkphgcGnMCkxMD2t9eD1CJHz5RghkP2YJVm)
+![image.png]({attach}24-IMG_20190115_094209.jpg)
 
 We must all do our part to address this crisis. @trang and I pick up as much litter as possible when traveling and around the streets of Philly. On the bright side, people are waking up to the issue and are prototyping solutions. For the second time, we just missed sighting [The Ocean Cleanup](https://www.theoceancleanup.com/)'s System 001, which was [brought](https://twitter.com/TheOceanCleanup/status/1086220492351115264) to Hilo Harbor for repairs a couple days after we passed through.
 
@@ -155,9 +155,9 @@ Then we went to the southernmost point cliff jump where there were many fisherme
 
 So we walked the plank, me then her.
 
-![dhimmel plank.png](https://ipfs.busy.org/ipfs/QmPiCLLiQVjcwMAjFi6DsneRcqisRioPyAzvMykrtyXYnN)
+![dhimmel plank.png]({attach}25-dhimmel-plank.jpg)
 
-![trang plank.png](https://ipfs.busy.org/ipfs/QmejsjfHGv1KmFpvDPXPzEejuJGN9QDBKSfqcmsapNMwJS)
+![trang plank.png]({attach}26-trang-plank.jpg)
 
 We both enjoyed the jump. Although, I think @trang will make sure to have a more streamlined landing on her next jump! Finally we drove north, snorkeled at Honaunau Beach, and ate rambutan before hopping on a red eye flight back to the mainland.
 
@@ -167,21 +167,21 @@ We were in Hawaii before this vacation for a conference called the [Pacific Symp
 
 During this time we checked out some local attractions such as Hapuna Beach. We even rented convertible BMWs, which were free to borrow:
 
-![bmw-biking.png](https://ipfs.busy.org/ipfs/QmQtLJhHnK36iQtiY2oxTnLdyx8YBhBMfo2M5deZ1JasMs)
+![bmw-biking.png]({attach}27-bmw-biking.jpg)
 
 Makalawena Beach was nice and included a resident seal. We imitated petroglyphs with our shadows: 
 
-![Makalawena Beach shadows.png](https://ipfs.busy.org/ipfs/QmNR2m7dDNWVag99BAG1rpe6RV1GVR1Dn62NaVThJCeAJE)
+![Makalawena Beach shadows.png]({attach}28-IMG_20190107_174052.jpg)
 
 Sunset walking back from Makalawena Beach was picturesque:
 
-![sunset.png](https://ipfs.busy.org/ipfs/QmU66T7mQgTAaaq974SV5piefFm8yEepbWw3vcBSTABcdB)
+![sunset.png]({attach}29-IMG_20190107_183107.jpg)
 
 We had parked at the southern trailhead. Apparently, the park closes at 7:00 PM. Be out by then. A security personal tailgated us for 10 minutes with great rage. To this person's dismay, we cleared the gates at 6:59 PM, so he was not able to ticket us.
 
 In conclusion, sea turtles:
 
-![sea turtles.png](https://ipfs.busy.org/ipfs/QmaLsQhviiaNm8WFER6w7CnbengqQNUP6aFkj8D4quXqND)
+![sea turtles.png]({attach}30-IMG_20190104_175710.jpg)
 
 ## History
 
