@@ -25,7 +25,7 @@ pre-commit install
 uv run pelican
 
 # view the blog locally at http://localhost:8000/
-uv run pelican --listen
+uv run pelican --autoreload --listen
 ```
 
 Deployment is done via CI.
