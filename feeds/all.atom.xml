@@ -488,11 +488,11 @@ In 2020, Steem experienced a hostile takeover with a community-driven fork named
 &lt;h3 id="sent-by-daniel-h-on-wednesday-july-4-2018-at-11656-pm"&gt;Sent by Daniel H. on Wednesday, July 4, 2018 at 1:16:56 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/h3&gt;
 &lt;p&gt;Here is documentation of the issue. My &lt;a href="https://riders.uber.com/trips/c786435a-2ddb-4ff1-9665-83f429469460"&gt;trip details&lt;/a&gt; and receipt from Uber show that the ride was paid with via Uber&amp;nbsp;Credit:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;img alt="uber-trip-details.png" src="https://ipfs.busy.org/ipfs/QmVe3vJ3k1aDtbzuEx2QAqsyZwCkGpoSqGMYr8UsfDNGYo"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="uber-trip-details.png" src="https://blog.dhimmel.com/uber-support/2018-07-04_uber-trip-details.png"&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;However, my credit card ending in 4602 was charged the full amount for this&amp;nbsp;ride:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;img alt="credit-card-charge.png" src="https://ipfs.busy.org/ipfs/QmXaFDGwQTLuzWERxMh9QSrAgDZzksSNtyGXisP3GVjKjt"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="credit-card-charge.png" src="https://blog.dhimmel.com/uber-support/2018-07-04_credit-card-charge.png"&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;I had Uber Credit from my Amex Platinum card. It is &lt;span class="caps"&gt;VERY&lt;/span&gt; &lt;span class="caps"&gt;CONCERNING&lt;/span&gt; to me that my credit card was charged when the receipt does not reflect this. I am lucky that I closely check my credit card&amp;nbsp;bill.&lt;/p&gt;
 &lt;p&gt;Please look into this,&amp;nbsp;Daniel&lt;/p&gt;
@@ -547,7 +547,7 @@ Status: &lt;strong&gt;Voided&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Thanks for looking into it. I have confirmed that a $20.34 charge from Uber posted to my Amex card ending in 1009 on October 21, 2018. I think we may be in agreement here because you write: &amp;#8220;I can confirm here the fare of $20.34 for this trip was successfully charged once under your card and not on your Uber&amp;nbsp;credits.&amp;#8221;&lt;/p&gt;
 &lt;p&gt;This however is an issue that any card of mine was charged. The original receipt showed (and &lt;a href="https://riders.uber.com/trips/c786435a-2ddb-4ff1-9665-83f429469460"&gt;still shows online&lt;/a&gt;) that the fare was paid with credits. Here is a screenshot of an email receipt which I just requested from the system&amp;nbsp;today:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;img alt="uber-receipt-oct-24-email.png" src="https://ipfs.busy.org/ipfs/QmSVK91KMQKPFtzatrxGeMYjPHR8JSM3SxvZQpXa6zk9t8"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="uber-receipt-email.png" src="https://blog.dhimmel.com/uber-support/2018-10-25_uber-receipt-email.png"&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Note how it shows the fare was paid with credits. What is frustrating is that Uber support previously claimed that my credit card was not charged for this ride and agreed I paid with credits. However, my credit card ending in 4602 was charged. Hence, I disputed the charge with my bank. Now four months later, my card ending in 1009 has been charged. Meanwhile the receipt continues to show that my app credits were used to fund the&amp;nbsp;ride.&lt;/p&gt;
 &lt;hr&gt;
@@ -636,19 +636,19 @@ Before sending us the details above, you may want to check with your family or c
 &lt;li&gt;
 &lt;p&gt;Via Uber Credits on June 23, 2018 as shown in the app while requesting the ride and on the receipt. The screenshot shows my receipt from&amp;nbsp;Uber:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;img alt="uber-receipt.png" src="https://ipfs.busy.org/ipfs/QmdHURex58KnZW4hMxbVxwqVgV4Xe4j2BHBEJQ8G7ErpZs"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="uber-receipt.png" src="https://blog.dhimmel.com/uber-support/2018-10-27_uber-receipt.png"&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Via Visa credit card &lt;span class="caps"&gt;XXXX&lt;/span&gt;-XXxx-xxxx-4602 expiring January 2023, which posted on June 25, 2018. I disputed this charge and I believe Capital One performed a chargeback. The screenshot shows the posted charge from my online banking at Capital&amp;nbsp;One:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;img alt="uber-visa-charge.png" src="https://ipfs.busy.org/ipfs/QmXaFDGwQTLuzWERxMh9QSrAgDZzksSNtyGXisP3GVjKjt"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="uber-visa-charge.png" src="https://blog.dhimmel.com/uber-support/2018-10-27_uber-visa-charge.png"&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Via Amex credit card &lt;span class="caps"&gt;YYYY&lt;/span&gt;-YYyyyy-y1009 expiring January 2023, which posted on October 21, 2018. This charge occurred after the Uber app recently required me to pay an &amp;#8220;outstanding&amp;#8221; balance before being able to get another ride. The screenshot shows the transaction details exported from my online banking at American&amp;nbsp;Express:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;img alt="uber-amex-charge-oct-21.png" src="https://ipfs.busy.org/ipfs/QmY1okDdY7ZMAiPYK1ACR3DW89vGKD583ihRQgQDiqPGw1"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="uber-amex-charge.png" src="https://blog.dhimmel.com/uber-support/2018-10-27_uber-amex-charge.png"&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
@@ -671,7 +671,7 @@ Before sending us the details above, you may want to check with your family or c
 &lt;p&gt;When I booked the ride, the app showed that I had Uber credits (in part due to my Amex Platinum card membership). The receipt for the ride shows that the fare was paid in &amp;#8220;Credits&amp;#8221;. Therefore, my credit card should never have been&amp;nbsp;charged.&lt;/p&gt;
 &lt;p&gt;Note that there is an insidious issue with the Uber system. My receipt continues to rightly show that the fare was paid via Uber Credits (see screenshots from prior messages). However the &amp;#8220;My trips&amp;#8221; page &lt;a href="https://riders.uber.com/trips"&gt;online&lt;/a&gt; shows the fare was paid via my card ending in&amp;nbsp;1009:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;img alt="uber-my-trips.png" src="https://ipfs.busy.org/ipfs/QmdHoWeK1YRkw9CH4dfLUCp3N3dxBZ25rG7r6byo8MQNu6"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="uber-my-trips.png" src="https://blog.dhimmel.com/uber-support/2018-10-29_uber-my-trips.png"&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Looking forward to hearing back,&amp;nbsp;Daniel&lt;/p&gt;
 &lt;hr&gt;
@@ -714,12 +714,12 @@ Before sending us the details above, you may want to check with your family or c
 &lt;p&gt;When I requested the ride, the app showed that I had Uber Credits available. Note that I would not have chosen this method of transportation on June 23 had I no Uber Credits. The original ride receipt, as emailed to me on June 23, 2018 following the ride, shows the fare was paid using Uber&amp;nbsp;Credits.&lt;/p&gt;
 &lt;p&gt;The mobile Android app previously showed a receipt that indicated the fare was paid via Uber Credits. However, when I just navigated to the receipt under &amp;#8220;Your Trips &amp;gt; Trip Details &amp;gt; Receipt&amp;#8221;, I see the&amp;nbsp;following:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;img alt="2018-10-29_uber-receipt-mobile-app.png" src="https://ipfs.busy.org/ipfs/QmUTqgJMv8AYxKuKWJTZJnJ2eKab1MxUac3jRutZ7HeLkz"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="uber-receipt-mobile-app.png" src="https://blog.dhimmel.com/uber-support/2018-10-29_uber-receipt-mobile-app.png"&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Now the mobile receipt shows both credit card charges (I understand that the 4602 charge is void because I disputed it with my bank). Perhaps your investigation somehow changed the mobile&amp;nbsp;receipt?&lt;/p&gt;
 &lt;p&gt;Nonetheless, the receipt online and a resent email receipt still show that I paid via Uber Credits. Here is a screenshot of my receipt online (taken after I received your last&amp;nbsp;message):&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;img alt="2018-10-29_uber-receipt-online.png" src="https://ipfs.busy.org/ipfs/QmXqkWwgNCL2Myw9MBttnwVuSH73npj9CU66xHdNxLN3WY"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="uber-receipt-online.png" src="https://blog.dhimmel.com/uber-support/2018-10-29_uber-receipt-online.png"&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Note how the receipt shows I paid the fare using Uber Credits. Therefore, it is incorrect to charge my credit&amp;nbsp;card.&lt;/p&gt;
 &lt;p&gt;Best,&amp;nbsp;Daniel&lt;/p&gt;
@@ -750,7 +750,7 @@ Before sending us the details above, you may want to check with your family or c
 &lt;p&gt;However, I disagree that Uber Credits were switched off during my June 23, 2018 ride. Instead, the receipt clearly shows that fare was paid via Uber Credits. However, my credit card was also&amp;nbsp;charged.&lt;/p&gt;
 &lt;p&gt;To help show what I&amp;#8217;ve mean, I&amp;#8217;ve applied red markup to my receipt retrieved today from the Uber&amp;nbsp;website:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;img alt="2018-11-02_uber-receipt-with-markup.png" src="https://ipfs.busy.org/ipfs/QmQd8HTfxV2zT7NtTHh8pHiPSTh7Z2eQqFGAtuL4NPqc7h"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="uber-receipt-with-markup.png" src="https://blog.dhimmel.com/uber-support/2018-11-02_uber-receipt-with-markup.png"&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Please note how the receipt shows the fare was paid via &amp;#8220;Credits&amp;#8221;. Therefore, I do not believe the issue was that I switched Uber Credits &lt;span class="caps"&gt;OFF&lt;/span&gt; during this&amp;nbsp;ride.&lt;/p&gt;
 &lt;hr&gt;
@@ -778,7 +778,7 @@ Before sending us the details above, you may want to check with your family or c
 &lt;p&gt;Hi &lt;span class="caps"&gt;AT&lt;/span&gt;,&lt;/p&gt;
 &lt;p&gt;I disagree that my Uber Credits were not activated for my June 23, 2018 trip. The receipt shows very clearly that the fare was paid via Uber Credits. Let me attach the screenshot of the receipt again, with my annotations in&amp;nbsp;red:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;img alt="2018-11-02_uber-receipt-with-markup.png" src="https://ipfs.busy.org/ipfs/QmQd8HTfxV2zT7NtTHh8pHiPSTh7Z2eQqFGAtuL4NPqc7h"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="uber-receipt-with-markup.png" src="https://blog.dhimmel.com/uber-support/2018-11-02_uber-receipt-with-markup.png"&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Why was my credit card charged when the receipt shows that I paid the fare via Uber&amp;nbsp;Credits?&lt;/p&gt;
 &lt;p&gt;Sincerely,
@@ -959,23 +959,25 @@ Dr.&amp;nbsp;Himmelstein&lt;/p&gt;
 &lt;p&gt;Would it be possible to be assigned a dedicated representative to correspond with for the remainder of this issue? I have been least unsatisfied with the support provided by Noel L., Laurence Red O., and Lovely M.; so I would prefer to work directly with one of these representatives on getting the matter&amp;nbsp;resolved.&lt;/p&gt;
 &lt;p&gt;Sincerely,&amp;nbsp;Daniel&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Supplemental&amp;nbsp;code:&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;`python&lt;/p&gt;
-&lt;h1 id="python-3-code-to-count-the-number-of-messages-by-author"&gt;Python 3 code to count the number of messages by&amp;nbsp;author.&lt;/h1&gt;
-&lt;h1 id="requires-the-markdown-message-log-file-uber-supportmd"&gt;Requires the markdown message log file&amp;nbsp;&amp;#8216;uber-support.md&amp;#8217;.&lt;/h1&gt;
-&lt;p&gt;import collections
+&lt;!-- FIXME: pelican only supports this terrible indent style for code blocks. Also need syntax highlighting --&gt;
+
+&lt;pre&gt;&lt;code&gt;# Python 3 code to count the number of messages by author.
+# Requires the markdown message log file 'uber-support.md'.
+import collections
 import pathlib
 import re
-text = pathlib.Path(&amp;#8216;uber-support.md&amp;#8217;).read_text()
-pattern = re.compile(r&amp;#8217;### Sent by (.+?) on&amp;#8217;)
+text = pathlib.Path('uber-support.md').read_text()
+pattern = re.compile(r'### Sent by (.+?) on')
 names = pattern.findall(text)
 counter = collections.Counter(names)
 sorted_counts = sorted(counter.items(), key=lambda x: (-x[1], x[0].lower()))
 summary = (
-    f&amp;#8217;{len(names):,} total messages.\n&amp;#8217;
-    &amp;#8216;Messages per author:\n&amp;#8217; +
-    &amp;#8216;; &amp;#8216;.join(f&amp;#8217;{count:,} from {name}&amp;#8217; for name, count in sorted_counts)
+    f'{len(names):,} total messages.\n'
+    'Messages per author:\n' +
+    '; '.join(f'{count:,} from {name}' for name, count in sorted_counts)
 )
-print(summary)&amp;nbsp;&amp;#8220;`&lt;/p&gt;
+print(summary)
+&lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
 &lt;h3 id="sent-by-daniel-h-on-tuesday-december-18-2018"&gt;Sent by Daniel H. on Tuesday, December 18,&amp;nbsp;2018&lt;/h3&gt;
 &lt;p&gt;Greetings Uber support, I haven&amp;#8217;t received a response to my message from four days ago (December 14). Can you please&amp;nbsp;respond?&lt;/p&gt;
