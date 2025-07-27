@@ -27,4 +27,4 @@ repos:
     rev: v0.45.0
     hooks:
       - id: markdownlint
-        args: ["--config", "pyproject.toml", "--configPointer", "/tool/markdownlint", "--ignore", "themes/"]
+        args: ["--config=pyproject.toml", "--configPointer=/tool/markdownlint", "--ignore=themes/", "--fix"]

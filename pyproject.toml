@@ -22,7 +22,6 @@ dev = [
 default = true
 # Disable problematic rules for blog content
 MD009 = false  # no-trailing-spaces
-MD011 = false  # Reversed link syntax, was detected HTML not MD
 MD013 = false  # line-length (prose can be long)
 MD026 = false  # Trailing punctuation in heading
 MD033 = false  # no-inline-html Inline HTML
