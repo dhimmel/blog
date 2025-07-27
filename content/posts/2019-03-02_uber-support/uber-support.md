@@ -39,11 +39,11 @@ Looking forward to hear back from you.
 
 Here is documentation of the issue. My [trip details](https://riders.uber.com/trips/c786435a-2ddb-4ff1-9665-83f429469460) and receipt from Uber show that the ride was paid with via Uber Credit:
 
-> ![uber-trip-details.png](https://ipfs.busy.org/ipfs/QmVe3vJ3k1aDtbzuEx2QAqsyZwCkGpoSqGMYr8UsfDNGYo)
+> ![uber-trip-details.png]({attach}2018-07-04_uber-trip-details.png)
 
 However, my credit card ending in 4602 was charged the full amount for this ride:
 
-> ![credit-card-charge.png](https://ipfs.busy.org/ipfs/QmXaFDGwQTLuzWERxMh9QSrAgDZzksSNtyGXisP3GVjKjt)
+> ![credit-card-charge.png]({attach}2018-07-04_credit-card-charge.png)
 
 I had Uber Credit from my Amex Platinum card. It is VERY CONCERNING to me that my credit card was charged when the receipt does not reflect this. I am lucky that I closely check my credit card bill.
 
@@ -147,7 +147,7 @@ Thanks for looking into it. I have confirmed that a $20.34 charge from Uber post
 
 This however is an issue that any card of mine was charged. The original receipt showed (and [still shows online](https://riders.uber.com/trips/c786435a-2ddb-4ff1-9665-83f429469460)) that the fare was paid with credits. Here is a screenshot of an email receipt which I just requested from the system today:
 
-> ![uber-receipt-oct-24-email.png](https://ipfs.busy.org/ipfs/QmSVK91KMQKPFtzatrxGeMYjPHR8JSM3SxvZQpXa6zk9t8)
+> ![uber-receipt-email.png]({attach}2018-10-25_uber-receipt-email.png)
 
 Note how it shows the fare was paid with credits. What is frustrating is that Uber support previously claimed that my credit card was not charged for this ride and agreed I paid with credits. However, my credit card ending in 4602 was charged. Hence, I disputed the charge with my bank. Now four months later, my card ending in 1009 has been charged. Meanwhile the receipt continues to show that my app credits were used to fund the ride.
 
@@ -304,15 +304,15 @@ Here are the separate times I've been charged for the ride. All charges were for
 
 1. Via Uber Credits on June 23, 2018 as shown in the app while requesting the ride and on the receipt. The screenshot shows my receipt from Uber:
 
-    > ![uber-receipt.png](https://ipfs.busy.org/ipfs/QmdHURex58KnZW4hMxbVxwqVgV4Xe4j2BHBEJQ8G7ErpZs)
+    > ![uber-receipt.png]({attach}2018-10-27_uber-receipt.png)
 
 2. Via Visa credit card XXXX-XXxx-xxxx-4602 expiring January 2023, which posted on June 25, 2018. I disputed this charge and I believe Capital One performed a chargeback. The screenshot shows the posted charge from my online banking at Capital One:
 
-    > ![uber-visa-charge.png](https://ipfs.busy.org/ipfs/QmXaFDGwQTLuzWERxMh9QSrAgDZzksSNtyGXisP3GVjKjt)
+    > ![uber-visa-charge.png]({attach}2018-10-27_uber-visa-charge.png)
 
 3. Via Amex credit card YYYY-YYyyyy-y1009 expiring January 2023, which posted on October 21, 2018. This charge occurred after the Uber app recently required me to pay an "outstanding" balance before being able to get another ride. The screenshot shows the transaction details exported from my online banking at American Express:
 
-    > ![uber-amex-charge-oct-21.png](https://ipfs.busy.org/ipfs/QmY1okDdY7ZMAiPYK1ACR3DW89vGKD583ihRQgQDiqPGw1)
+    > ![uber-amex-charge.png]({attach}2018-10-27_uber-amex-charge.png)
 
 Looking forward to hearing back ASAP,
 Daniel
@@ -352,7 +352,7 @@ When I booked the ride, the app showed that I had Uber credits (in part due to m
 
 Note that there is an insidious issue with the Uber system. My receipt continues to rightly show that the fare was paid via Uber Credits (see screenshots from prior messages). However the "My trips" page [online](https://riders.uber.com/trips) shows the fare was paid via my card ending in 1009:
 
-> ![uber-my-trips.png](https://ipfs.busy.org/ipfs/QmdHoWeK1YRkw9CH4dfLUCp3N3dxBZ25rG7r6byo8MQNu6)
+> ![uber-my-trips.png]({attach}2018-10-29_uber-my-trips.png)
 
 Looking forward to hearing back,
 Daniel
@@ -436,13 +436,13 @@ When I requested the ride, the app showed that I had Uber Credits available. Not
 
 The mobile Android app previously showed a receipt that indicated the fare was paid via Uber Credits. However, when I just navigated to the receipt under "Your Trips > Trip Details > Receipt", I see the following:
 
-> ![2018-10-29_uber-receipt-mobile-app.png](https://ipfs.busy.org/ipfs/QmUTqgJMv8AYxKuKWJTZJnJ2eKab1MxUac3jRutZ7HeLkz)
+> ![uber-receipt-mobile-app.png]({attach}2018-10-29_uber-receipt-mobile-app.png)
 
 Now the mobile receipt shows both credit card charges (I understand that the 4602 charge is void because I disputed it with my bank). Perhaps your investigation somehow changed the mobile receipt?
 
 Nonetheless, the receipt online and a resent email receipt still show that I paid via Uber Credits. Here is a screenshot of my receipt online (taken after I received your last message):
 
-> ![2018-10-29_uber-receipt-online.png](https://ipfs.busy.org/ipfs/QmXqkWwgNCL2Myw9MBttnwVuSH73npj9CU66xHdNxLN3WY)
+> ![uber-receipt-online.png]({attach}2018-10-29_uber-receipt-online.png)
 
 Note how the receipt shows I paid the fare using Uber Credits. Therefore, it is incorrect to charge my credit card.
 
@@ -496,7 +496,7 @@ However, I disagree that Uber Credits were switched off during my June 23, 2018 
 
 To help show what I've mean, I've applied red markup to my receipt retrieved today from the Uber website:
 
-> ![2018-11-02_uber-receipt-with-markup.png](https://ipfs.busy.org/ipfs/QmQd8HTfxV2zT7NtTHh8pHiPSTh7Z2eQqFGAtuL4NPqc7h)
+> ![uber-receipt-with-markup.png]({attach}2018-11-02_uber-receipt-with-markup.png)
 
 Please note how the receipt shows the fare was paid via "Credits". Therefore, I do not believe the issue was that I switched Uber Credits OFF during this ride.
 
@@ -548,7 +548,7 @@ Hi AT,
 
 I disagree that my Uber Credits were not activated for my June 23, 2018 trip. The receipt shows very clearly that the fare was paid via Uber Credits. Let me attach the screenshot of the receipt again, with my annotations in red:
 
-> ![2018-11-02_uber-receipt-with-markup.png](https://ipfs.busy.org/ipfs/QmQd8HTfxV2zT7NtTHh8pHiPSTh7Z2eQqFGAtuL4NPqc7h)
+> ![uber-receipt-with-markup.png]({attach}2018-11-02_uber-receipt-with-markup.png)
 
 Why was my credit card charged when the receipt shows that I paid the fare via Uber Credits?
 
@@ -917,24 +917,24 @@ Daniel
 
 _Supplemental code:_
 
-```python
-# Python 3 code to count the number of messages by author.
-# Requires the markdown message log file 'uber-support.md'.
-import collections
-import pathlib
-import re
-text = pathlib.Path('uber-support.md').read_text()
-pattern = re.compile(r'### Sent by (.+?) on')
-names = pattern.findall(text)
-counter = collections.Counter(names)
-sorted_counts = sorted(counter.items(), key=lambda x: (-x[1], x[0].lower()))
-summary = (
-    f'{len(names):,} total messages.\n'
-    'Messages per author:\n' +
-    '; '.join(f'{count:,} from {name}' for name, count in sorted_counts)
-)
-print(summary)
-```
+<!-- FIXME: pelican only supports this terrible indent style for code blocks. Also need syntax highlighting -->
+
+    # Python 3 code to count the number of messages by author.
+    # Requires the markdown message log file 'uber-support.md'.
+    import collections
+    import pathlib
+    import re
+    text = pathlib.Path('uber-support.md').read_text()
+    pattern = re.compile(r'### Sent by (.+?) on')
+    names = pattern.findall(text)
+    counter = collections.Counter(names)
+    sorted_counts = sorted(counter.items(), key=lambda x: (-x[1], x[0].lower()))
+    summary = (
+        f'{len(names):,} total messages.\n'
+        'Messages per author:\n' +
+        '; '.join(f'{count:,} from {name}' for name, count in sorted_counts)
+    )
+    print(summary)
 
 ***
 
