@@ -16,16 +16,16 @@ The custom subdomain of `blog.dhimmel.com` is specified in top-level `CNAME` fil
 
 ```sh
 # Install the environment
-poetry install --no-root
+uv sync
 
 # enable pre-commit checks (once per local repo)
 pre-commit install
 
 # Build the blog to output
-poetry run pelican
+uv run pelican
 
 # view the blog locally at http://localhost:8000/
-poetry run pelican --listen
+uv run pelican --listen
 ```
 
 Deployment is done via CI.
