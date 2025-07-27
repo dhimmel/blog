@@ -25,7 +25,7 @@ jobs:
     - name: Dependencies
       run: uv sync --dev
     - name: Pelican
-      run: uv run pelican
+      run: uv run pelican content --settings=publishconf.py
     - name: Deploy
       if: github.ref == 'refs/heads/main' && github.event_name == 'push' && !github.event.repository.fork
       uses: peaceiris/actions-gh-pages@v4

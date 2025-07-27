@@ -1,9 +1,10 @@
 # Python 3 pelican configuration file for blog.dhimmel.com
+# https://docs.getpelican.com/en/stable/settings.html
 
 AUTHOR = "Daniel Himmelstein"
 SITENAME = "Satoshi Village"
 
-DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = False
 
 PATH = "content"
 ARTICLE_PATHS = ["posts"]
@@ -21,8 +22,8 @@ DEFAULT_LANG = "en"
 
 # URL settings
 SITEURL = "https://blog.dhimmel.com"
-# Only enable document-relative URLs when developing
-RELATIVE_URLS = False
+# document-relative URLs for developing
+RELATIVE_URLS = True
 ARTICLE_URL = "{slug}/"
 ARTICLE_SAVE_AS = "{slug}/index.html"
 
@@ -31,9 +32,9 @@ USE_FOLDER_AS_CATEGORY = False
 SUMMARY_MAX_LENGTH = 75
 
 # Feed generation is usually not desired when developing
-FEED_DOMAIN = SITEURL
-FEED_ALL_ATOM = "feeds/all.atom.xml"
-FEED_ALL_RSS = "feeds/all.rss.xml"
+FEED_DOMAIN = None
+FEED_ALL_ATOM = None
+FEED_ALL_RSS = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
