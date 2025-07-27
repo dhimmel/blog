@@ -12,6 +12,11 @@
   </url>
 
   <url>
+    <loc>https://blog.dhimmel.com/iceland/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://blog.dhimmel.com/hawaii-big-island/</loc>
     <priority>0.8</priority>
   </url>
