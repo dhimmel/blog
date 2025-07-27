@@ -11,7 +11,7 @@ This post discloses an 8-day itinerary for exploring the Big Island, Hawaii. It 
 
 We planned our trip by creating a [custom map](https://www.google.com/maps/d/viewer?mid=1n5mSaUnn9WsF_k7LGgF7n3Pc4xTQ45vO) of attractions:
 
-[![custom map](https://ipfs.busy.org/ipfs/QmPL9K87SyxafiGTy78DPEB2jntUFz2C7JkoshqsnD46m6)](https://www.google.com/maps/d/viewer?mid=1n5mSaUnn9WsF_k7LGgF7n3Pc4xTQ45vO)
+![custom map](https://ipfs.busy.org/ipfs/QmPL9K87SyxafiGTy78DPEB2jntUFz2C7JkoshqsnD46m6)
 
 We decided to circumnavigate the island clockwise, beginning at Kona airport, where we rented the weakest car available from Hertz, a Nissan Versa.
 
