@@ -7,7 +7,7 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-    - name: Set parameters
+    - name: Parameters
       id: params
       shell: bash
       run: |
@@ -16,16 +16,16 @@ jobs:
         echo "date_iso=$DATE_ISO" >> $GITHUB_OUTPUT
     - name: Checkout repository
       uses: actions/checkout@v4
-    - name: Set up Python
+    - name: Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.12'    
-    - name: Install poetry
-      run: pip install poetry
-    - name: Install dependencies
-      run: poetry install --ansi --no-root
+        python-version: '3.13'    
+    - name: Setup uv
+      uses: astral-sh/setup-uv@v6
+    - name: Dependencies
+      run: uv sync --dev
     - name: Pelican
-      run: poetry run pelican
+      run: uv run pelican
     - name: Deploy
       if: github.ref == 'refs/heads/main' && github.event_name == 'push' && !github.event.repository.fork
       uses: peaceiris/actions-gh-pages@v4
