@@ -1,6 +1,6 @@
 ## Source of the *Satoshi Village* blog
 
-[_Satoshi Village_](https://blog.dhimmel.com) is [Daniel Himmelstein](https://dhimmel.com)'s personal blog.
+[*Satoshi Village*](https://blog.dhimmel.com) is [Daniel Himmelstein](https://dhimmel.com)'s personal blog.
 
 The blog is created using [Pelican](http://docs.getpelican.com/) -- a static site generator, written in Python.
 This program allows posts to be written in markdown and easily converted into html pages.

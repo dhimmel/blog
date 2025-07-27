@@ -16,3 +16,14 @@ dependencies = [
 dev = [
     "pre-commit>=4.2.0",
 ]
+
+[tool.markdownlint]
+# Enable most rules by default
+default = true
+# Disable problematic rules for blog content
+MD009 = false  # no-trailing-spaces
+MD011 = false  # Reversed link syntax, was detected HTML not MD
+MD013 = false  # line-length (prose can be long)
+MD033 = false  # no-inline-html Inline HTML
+MD041 = false  # first-line-heading (posts have metadata)
+MD059 = false  # Link text should be descriptive

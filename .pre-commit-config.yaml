@@ -23,3 +23,8 @@ repos:
     rev: '0.8.3'
     hooks:
       - id: uv-lock
+  - repo: https://github.com/igorshubovych/markdownlint-cli
+    rev: v0.45.0
+    hooks:
+      - id: markdownlint
+        args: ["--config", "pyproject.toml", "--configPointer", "/tool/markdownlint", "--ignore", "themes/"]
