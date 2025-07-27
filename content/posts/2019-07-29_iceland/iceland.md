@@ -1,5 +1,5 @@
 Title: Thru-hiking Skógar to Leirubakki: the longest marked trek in Iceland
-Slug: hawaii-big-island
+Slug: iceland
 Date: 2019-07-29
 Tags: iceland, adventure, hiking, travel, ultralight, backpacking, hive
 
