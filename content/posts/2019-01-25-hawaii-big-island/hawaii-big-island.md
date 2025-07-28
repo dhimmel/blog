@@ -3,7 +3,7 @@ Slug: hawaii-big-island
 Date: 2019-01-25
 Tags: travel, adventure, hiking, hawaii, big island, hive
 
-This post discloses an 8-day itinerary for exploring the Big Island, Hawaii. It is based on the expedition performed by @trang and I in January 2019. Of our 7 nights off the resort, we tent camped for six, which kept the combined lodging costs under $250.
+This post discloses an 8-day itinerary for exploring the Big Island, Hawaii. It is based on the expedition performed by Trang and I in January 2019. Of our 7 nights off the resort, we tent camped for six, which kept the combined lodging costs under $250.
 
 **Warning:** these adventures are not for the weak. Instead, these feats should only be attempted by a strong and frugal traveler, who is prepared to _leave no trace_. We reject commercial tourism and those that desecrate the Hawaiin wilderness using motorized contraptions. Hike or bike, but avoid disturbing what remains of nature by financing trucks, helicopters, and motorboats.
 
@@ -43,7 +43,7 @@ Next we drove around Kohala Volcana to reach Waipi’o Valley (the easternmost v
 
 ![PANO_20190109_112824.vr.jpg]({attach}06-PANO_20190109_112824.vr.jpg)
 
-Check out @trang's [amazing video](https://busy.org/@trang/zy5zezs6) recounting our time at Waimanu Valley. The hike was scenic:
+Check out Trang's [amazing video](https://www.youtube.com/watch?v=U78fJxZfZmw "The Valleys Expedition (or a Hike Unprepared). Originally posted at https://hive.blog/dtube/@trang/zy5zezs6") recounting our time at Waimanu Valley. The hike was scenic:
 
 ![IMG_20190109_151729.jpg]({attach}07-IMG_20190109_151729.jpg)
 
@@ -71,7 +71,7 @@ That night we had a gathering of the vibes with other attendees.
 
 ## Day 4: Vacating the Valleys
 
-We hiked out early. By the way, did I mention there are two major water crossings: Waimanu Stream and Queen's River. The beauty however is that you get to experience where the fresh meets the salt waters. Watch @trang cross Waimanu Stream:
+We hiked out early. By the way, did I mention there are two major water crossings: Waimanu Stream and Queen's River. The beauty however is that you get to experience where the fresh meets the salt waters. Watch Trang cross Waimanu Stream:
 
 ![waimanu-stream-crossing-reduced-size.gif]({attach}12-MVIMG_20190111_070009.jpg)
 
@@ -149,9 +149,9 @@ On the hike we were reminded of the onslaught of plastic pollution humans are li
 
 ![image.png]({attach}24-IMG_20190115_094209.jpg)
 
-We must all do our part to address this crisis. @trang and I pick up as much litter as possible when traveling and around the streets of Philly. On the bright side, people are waking up to the issue and are prototyping solutions. For the second time, we just missed sighting [The Ocean Cleanup](https://www.theoceancleanup.com/)'s System 001, which was [brought](https://twitter.com/TheOceanCleanup/status/1086220492351115264) to Hilo Harbor for repairs a couple days after we passed through.
+We must all do our part to address this crisis. Trang and I pick up as much litter as possible when traveling and around the streets of Philly. On the bright side, people are waking up to the issue and are prototyping solutions. For the second time, we just missed sighting [The Ocean Cleanup](https://www.theoceancleanup.com/)'s System 001, which was [brought](https://twitter.com/TheOceanCleanup/status/1086220492351115264) to Hilo Harbor for repairs a couple days after we passed through.
 
-Then we went to the southernmost point cliff jump where there were many fishermen but few jumpers. I was worried that the moderately high surf would make connecting with the ladder following the 40-foot jump dangerous. But, @trang decided she was doing it regardless. I asked her whether she'd ever jumped from a high height. She said "no".
+Then we went to the southernmost point cliff jump where there were many fishermen but few jumpers. I was worried that the moderately high surf would make connecting with the ladder following the 40-foot jump dangerous. But, Trang decided she was doing it regardless. I asked her whether she'd ever jumped from a high height. She said "no".
 
 So we walked the plank, me then her.
 
@@ -159,7 +159,7 @@ So we walked the plank, me then her.
 
 ![trang plank.png]({attach}26-trang-plank.jpg)
 
-We both enjoyed the jump. Although, I think @trang will make sure to have a more streamlined landing on her next jump! Finally we drove north, snorkeled at Honaunau Beach, and ate rambutan before hopping on a red eye flight back to the mainland.
+We both enjoyed the jump. Although, I think Trang will make sure to have a more streamlined landing on her next jump! Finally we drove north, snorkeled at Honaunau Beach, and ate rambutan before hopping on a red eye flight back to the mainland.
 
 ## Bonus
 
