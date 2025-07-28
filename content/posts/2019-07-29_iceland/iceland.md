@@ -250,7 +250,7 @@ With still a bit more time until the bus arrived, I visited the Hekla Center loc
 
 ## Gear
 
-Putting together my [gear list](https://lighterpack.com/r/pzft6) for this trip was a fun challenge. Before the hike, I gave a [professional presentation](https://vimeo.com/344998904) in London. Therefore, my gear list contains a section of travel/business-related gear that I left at the [Reykjavík Campsite](https://www.reykjavikcampsite.is/).
+Putting together my [gear list](https://lighterpack.com/r/pzft6) for this trip was a fun challenge. Before the hike, I gave a [professional presentation](https://slides.com/dhimmel/highwire) in London. Therefore, my gear list contains a section of travel/business-related gear that I left at the [Reykjavík Campsite](https://www.reykjavikcampsite.is/).
 
 I'd advise hikers to be well prepared against the cold, wind, and rain. I hiked several days in shorts, but having lightweight leg and arm covering can help protect against flies (big buzzing flies, not mosquitos) and the sun. I always hike with GPS and maps on my phone, but this was especially improtant for the Hellismannaleið trail (& extension).
 

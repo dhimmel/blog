@@ -3,7 +3,7 @@ Slug: cruk-reassessment
 Date: 2015-01-15
 Tags: Cancer Research UK, elevation, lung cancer, oxygen, Osgun, PeerJ, smoking
 
-We would like to thank _Cancer Research UK_ for their cancer related advocacy and [their coverage](http://scienceblog.cancerresearchuk.org/2015/01/14/does-oxygen-cause-lung-cancer-i-wouldnt-hold-your-breath/ "Does oxygen cause lung cancer?") of our [recent publication](https://doi.org/10.7717/peerj.705 "Lung cancer incidence decreases with elevation"). However, we find several aspects of their interpretation troubling.
+We would like to thank _Cancer Research UK_ for their cancer related advocacy and [their coverage](https://news.cancerresearchuk.org/2015/01/14/does-oxygen-cause-lung-cancer-i-wouldnt-hold-your-breath/ "Does oxygen cause lung cancer?") of our [recent publication](https://doi.org/10.7717/peerj.705 "Lung cancer incidence decreases with elevation"). However, we find several aspects of their interpretation troubling.
 
 First, we find it unwise to discount our study because it analyzed counties rather than individuals. As [Professor Pearce explains](https://doi.org/10.1136/jech.54.5.326 "The ecological fallacy strikes back"), much of our current understanding of cancer risk arose initially from **ecological studies**:
 
