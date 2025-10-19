@@ -26,6 +26,9 @@ uv run pelican
 
 # view the blog locally at http://localhost:8000/
 uv run pelican --autoreload --listen
+
+# upgrade all dependencies
+uv lock --upgrade
 ```
 
 Deployment is done via CI.
