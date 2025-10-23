@@ -21,7 +21,7 @@ Soon we found the prize.
 
 ![The quadripoint of Hanover, Canaan, Enfield, and Lebanon.]({attach}2025-09-27_hcel-four-corners.jpg)
 
-The difference was that this time we were endowed with Page 93 of Kurt Gotthardt's 2010 report titled [A History of Enfield Town Lines: From 1761 To 2007](https://www.enfieldnh.gov/media/7556).
+The difference was that this time we were endowed with Page 93 of Kurt Gotthardt's [2010 report](https://www.enfieldnh.gov/media/7556) titled _A History of Enfield Town Lines: From 1761 to 2007_.
 Herein the true GPS coordinates were revealed as 43°39′32.72″N 72°09′43.23″W (`43.659089,-72.162008`).
 
 > the USGS topo maps stop showing the town lines after the 1996 series. You can view all of the USGS maps ever produced on [this website](https://www.usgs.gov/the-national-map-data-delivery/topographic-map-access-points). I use the Topoview feature, but have not tried the other options.
