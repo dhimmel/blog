@@ -59,6 +59,16 @@ Here is the 1996 USGS Topo map, with <span style="text-decoration-line: underlin
 
 ![The 1996 USGS Topo map showing the Hanover, Canaan, Enfield, and Lebanon border from the NH_Enfield_329548_1996_24000_geo. Markup in purple]({attach}usgs-topo-map-1996-hcel-four-corners-with-markup-reduced.png)
 
+I started to wonder whether all maps were wrong?
+I found the HCEL quadripoint was misplaced on OpenStreetMap, Google Maps, Apple Maps, NH GRANIT, [TIGER](https://tigerweb.geo.census.gov/tigerweb/) census tracts, the 2024 DeLorme Atlas & Gazetteer, Lebanon's [MapGeo](https://lebanonnh.mapgeo.io/), and Hanover's [AxisGIS](https://www.axisgis.com/HanoverNH/) (some layers correct).
+
+GRANIT is New Hampshire's statewide geographic information system.
+Robert Moynihan expounds on how political boundaries were added to GRANIT in a 2003 report titled [A Manual on Municipal Boundaries: Perambulating Town Lines in New Hampshire](https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/MANUAL%20ON%20Municipal%20Boundaries%20R&L%20Justified%20-WITH%20NO%20APPENDICES.pdf "A Manual on Municipal Boundaries: Perambulating Town Lines in New Hampshire. By UNH Professor Robert Moynihan. 2003-09. Page 11")
+
+> The current Political Boundary Layer of the state GIS was developed from existing United States Geological Survey (USGS) topographic maps with a scale of 1:24,000 (1 inch = 2000 feet). The expected positional accuracy of mapped features at this scale is in the ±40 to ±60 foot range. While the USGS maps are renowned for their reliability, it was known that some of the town lines on the maps might be incorrectly placed. In fact, a good example of this uncertainty occurs on the USGS “Peterborough North” quadrangle map which currently shows a part of the Bennington–Greenfield town line as 'indefinite boundary'. As the various individual maps were connected together (paneled) it was found that municipal boundaries did not always line up or match. Decisions were made to average the positions if the mismatch was small (less than 40 to 50 feet). Where the alignment of the town line from one map to another was significantly off, a new line segment was added to connect the two ends. This represents only an artificial “fix” and needs to be corrected. Obtaining more accurate positions of the monuments (during perambulations) will allow the system to be updated.
+
+What percent did this resize enfield?
+
 ***
 
 > the USGS topo maps stop showing the town lines after the 1996 series. You can view all of the USGS maps ever produced on [this website](https://www.usgs.gov/the-national-map-data-delivery/topographic-map-access-points). I use the Topoview feature, but have not tried the other options.
@@ -70,15 +80,6 @@ If you do not see a square symbol at the corner of where the town lines meet, th
 TIGER census tracts have issue
 
 Page 109-110 history
-
-[A Manual on Municipal Boundaries: Perambulating Town Lines in New Hampshire](https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/MANUAL%20ON%20Municipal%20Boundaries%20R&L%20Justified%20-WITH%20NO%20APPENDICES.pdf) by Robert G. Moynihan in 2003
-<https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/MANUAL%20ON%20Municipal%20Boundaries%20R&L%20Justified%20-WITH%20NO%20APPENDICES.pdf>
-
-Page 11
-
-> A statewide geographic information system (GIS), named Geographically Referenced Analysis and Information Transfer (GRANIT), has been developed to assist state and local officials make reasoned decisions relative to land use and natural resources issues.
->
-> The current Political Boundary Layer of the state GIS was developed from existing United States Geological Survey (USGS) topographic maps with a scale of 1:24,000 (1 inch = 2000 feet). The expected positional accuracy of mapped features at this scale is in the +/- 40 to +/- 60 foot range. While the USGS maps are renowned for their reliability, it was known that some of the town lines on the maps might be incorrectly placed. In fact, a good example of this uncertainty occurs on the USGS “Peterborough North” quadrangle map which currently shows a part of the BenningtonGreenfield town line as 'indefinite boundary'. As the various individual maps were connected together (paneled) it was found that municipal boundaries did not always line up or match. Decisions were made to average the positions if the mismatch was small (less than 40 to 50 feet). Where the alignment of the town line from one map to another was significantly off, a new line segment was added to connect the two ends. This represents only an artificial “fix” and needs to be corrected. Obtaining more accurate positions of the monuments (during perambulations) will allow the system to be updated.
 
 <https://www.openstreetmap.org/changeset/118449523>
 
