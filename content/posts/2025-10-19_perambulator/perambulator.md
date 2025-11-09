@@ -40,12 +40,13 @@ In the case of my search for the HCEL corner, Gotthardt's GPS coordinates for th
 
 In my earlier attempt to locate the quadripoint, I had gone to the location where maps showed the intersection.
 However, it turns out the maps were wrong to the tune of 500 feet.
-I asked Gotthardt how this could be, to which he provided this detailed commentary:
+I asked Gotthardt how this could be, to which he provided a detailed historical account:
 
 > The problem with the maps showing Enfield/Lebanon town line is that they are all based on a 1927 USGS topo map that showed the town lines on it, but the map makers were not sure where all of the true corners were located.
 > For example, the Enfield/Lebanon town line is a straight line per both Charters that created those towns, but if you put a straight edge on that line as shown on any USGS topo map it will show a bend in the line as it crosses Mascoma Lake.
 > They also needed to have the Cannan town line meet the Enfield/Lebanon/Hanover town lines,
 > so they "adjusted" the lines to all meet.
+>
 > Unfortunately this error has carried forward to today's maps.
 > Some USGS topo maps that show town lines will actually state on the map next to the line "approximate location".
 > If you look closely at the USGS topo maps, you will see a small square located along some town lines where they cross a road,
@@ -53,6 +54,10 @@ I asked Gotthardt how this could be, to which he provided this detailed commenta
 > they too are carried forward onto any future USGS topo maps.
 > Some of those monuments are still there, others have been lost or are missing.
 > The USGS topo maps are the best reference maps for topo features, but political boundaries are not topo features.
+
+Here is the 1996 USGS Topo map, with <span style="text-decoration-line: underline; text-decoration-color: #8210C4;">purple markup</span> to show town names and the true location of the four corners.
+
+![The 1996 USGS Topo map showing the Hanover, Canaan, Enfield, and Lebanon border from the NH_Enfield_329548_1996_24000_geo. Markup in purple]({attach}usgs-topo-map-1996-hcel-four-corners-with-markup-reduced.png)
 
 ***
 
@@ -92,3 +97,10 @@ By Christopher J. Porter
 <https://www.enfieldnh.gov/media/12106>
 
 1827 law
+
+> The rules of surveying state that the corners as monumented when the original survey was conducted are the true corners
+...
+As a side note regarding the location of town lines, the line is a straight line from "corner to corner", you are not locating a true town line if you only look at the line from one reference monument to another reference monument. These reference monuments were placed for convenience only.
+
+The other point regarding using the granite post as the true corner point for the 4 towns is the other rule of surveying regarding what takes precedence when a new or re-survey is done, and this is called "rules of construction" which dictates which "deed" (or charter) description to use when determining where a corner is located. See the article below for a good description. So even though the original charter stated compass bearings and distances, when the first surveyors put a stake in the ground and called it the corner and everybody accepted it as the corner, it became the "true" corner regardless of what the written description stated.
+<https://www.washingtonsurveyor.com/blog/priority-of-calls-aka-rules-of-construction-what-they-are-and-why-they-matter>
