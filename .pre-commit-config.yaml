@@ -10,7 +10,7 @@ repos:
       - id: check-case-conflict
       - id: check-yaml
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.14.1
+    rev: v0.14.4
     hooks:
       # Run the linter.
       - id: ruff
@@ -20,7 +20,7 @@ repos:
       - id: ruff-format
         types_or: [ python, jupyter ]
   - repo: https://github.com/astral-sh/uv-pre-commit
-    rev: '0.9.4'
+    rev: '0.9.8'
     hooks:
       - id: uv-lock
   - repo: https://github.com/igorshubovych/markdownlint-cli
