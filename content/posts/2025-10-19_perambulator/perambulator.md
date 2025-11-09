@@ -63,9 +63,31 @@ I started to wonder whether all maps were wrong?
 I found the HCEL quadripoint was misplaced on OpenStreetMap, Google Maps, Apple Maps, NH GRANIT, [TIGER](https://tigerweb.geo.census.gov/tigerweb/) census tracts, the 2024 DeLorme Atlas & Gazetteer, Lebanon's [MapGeo](https://lebanonnh.mapgeo.io/), and Hanover's [AxisGIS](https://www.axisgis.com/HanoverNH/) (some layers correct).
 
 GRANIT is New Hampshire's statewide geographic information system.
-Robert Moynihan expounds on how political boundaries were added to GRANIT in a 2003 report titled [A Manual on Municipal Boundaries: Perambulating Town Lines in New Hampshire](https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/MANUAL%20ON%20Municipal%20Boundaries%20R&L%20Justified%20-WITH%20NO%20APPENDICES.pdf "A Manual on Municipal Boundaries: Perambulating Town Lines in New Hampshire. By UNH Professor Robert Moynihan. 2003-09. Page 11")
+Robert Moynihan expounds on how political boundaries were added to GRANIT in a 2003 report titled [A Manual on Municipal Boundaries: Perambulating Town Lines in New Hampshire](https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/MANUAL%20ON%20Municipal%20Boundaries%20R&L%20Justified%20-WITH%20NO%20APPENDICES.pdf "A Manual on Municipal Boundaries: Perambulating Town Lines in New Hampshire. By UNH Professor Robert Moynihan. 2003-09. Page 11"):
 
-> The current Political Boundary Layer of the state GIS was developed from existing United States Geological Survey (USGS) topographic maps with a scale of 1:24,000 (1 inch = 2000 feet). The expected positional accuracy of mapped features at this scale is in the ±40 to ±60 foot range. While the USGS maps are renowned for their reliability, it was known that some of the town lines on the maps might be incorrectly placed. In fact, a good example of this uncertainty occurs on the USGS “Peterborough North” quadrangle map which currently shows a part of the Bennington–Greenfield town line as 'indefinite boundary'. As the various individual maps were connected together (paneled) it was found that municipal boundaries did not always line up or match. Decisions were made to average the positions if the mismatch was small (less than 40 to 50 feet). Where the alignment of the town line from one map to another was significantly off, a new line segment was added to connect the two ends. This represents only an artificial “fix” and needs to be corrected. Obtaining more accurate positions of the monuments (during perambulations) will allow the system to be updated.
+> The current Political Boundary Layer of the state GIS was developed from existing United States Geological Survey (USGS) topographic maps with a scale of 1:24,000 (1 inch = 2000 feet). The expected positional accuracy of mapped features at this scale is in the ± 40 to ± 60 foot range. While the USGS maps are renowned for their reliability, it was known that some of the town lines on the maps might be incorrectly placed. In fact, a good example of this uncertainty occurs on the USGS “Peterborough North” quadrangle map which currently shows a part of the Bennington–Greenfield town line as 'indefinite boundary'. As the various individual maps were connected together (paneled) it was found that municipal boundaries did not always line up or match. Decisions were made to average the positions if the mismatch was small (less than 40 to 50 feet). Where the alignment of the town line from one map to another was significantly off, a new line segment was added to connect the two ends. This represents only an artificial “fix” and needs to be corrected. Obtaining more accurate positions of the monuments (during perambulations) will allow the system to be updated.
+
+In my correspondence with Gotthardt, I asked him how prevalent misplaced corners are.
+His response:
+
+> The USGS topo maps stop showing the town lines after the 1996 series. … If you do not see a square symbol at the corner of where the town lines meet, then it's probably incorrect, and this error probably has been carried over to other maps as an incorrect corner.
+
+So we have now established that:
+
+1. many political boundary corners in the USGS topo maps were approximates and hence may deviate considerably from the actual monument location.
+2. most maps derive their town boundaries from USGS topo maps.
+3. parambulation is the official mechanism to locate the true boundaries, which can then be updated on maps.
+
+Hence a concerted effort is now needed to establish the location of all town corners in New Hampshire by means of parambulation.
+And once enshrined in parambulation reports, the coordinates shall be used to refine the location of political boundaries on maps and in geographic information systems.
+
+I decided to do my part by updating OpenStreetMap.
+I describe OpenSteetMap as the _one map to rule them all_,
+since it is the only mature map that meets all critical criteria:
+global, broad, crowd-sourced, and reusable under an open license.
+Make an edit on OpenSteetMap and in due time you will likely see it appear in the wild,
+as many maps derive their data from OpenSteetMap.
+Make an edit to a map other than OpenSteetMap and prepare your effort to be lost to the sands of time.
 
 What percent did this resize enfield?
 
