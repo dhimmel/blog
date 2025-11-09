@@ -7,7 +7,7 @@ Status: draft
 The Four Corners is often thought of where Utah, Colorado, New Mexico, and Arizona collide.
 But if are satisfied with a municipal as opposed to statal four corners, you likely can find a quadripoint much closer to home.
 
-In my case, I'd been searching for the meeting point for four municipalities in New Hampshire  --- the towns of Hanover, Canaan, Enfield, and the City of Lebanon.
+In my case, I'd been searching for the meeting point for four municipalities in New Hampshire — the towns of Hanover, Canaan, Enfield, and the City of Lebanon.
 
 <!-- https://www.strava.com/activities/5798442786 -->
 In 2021, my wife and I set out as newlyweds to find the monument and stand in four towns at once.
@@ -21,8 +21,40 @@ Soon we found the prize.
 
 ![The quadripoint of Hanover, Canaan, Enfield, and Lebanon.]({attach}2025-09-27_hcel-four-corners.jpg)
 
-The difference was that this time we were endowed with Page 93 of Kurt Gotthardt's [2010 report](https://www.enfieldnh.gov/media/7556) titled _A History of Enfield Town Lines: From 1761 to 2007_.
+The difference was that this time we were endued with Page 93 of Kurt Gotthardt's [2010 report](https://www.enfieldnh.gov/media/7556) titled _A History of Enfield Town Lines: From 1761 to 2007_.
 Herein the true GPS coordinates were revealed as 43°39′32.72″N 72°09′43.23″W (`43.659089,-72.162008`).
+
+Gotthardt dedicated his report to "to all of those who walked the Town Lines before me".
+Walking the lines refers to _perambulation_.
+New Hampshire law requires that towns perform this act with regularity:
+
+> The lines between the towns in this state shall be perambulated, and the marks and bounds renewed, once in every 7 years forever, by the selectmen of the towns, or by such persons as they shall in writing appoint for that purpose.
+
+Despite the statute, only 15 of 110 towns [surveyed](https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/Articles/NHMunicipal%20Assoc%20Perambulation%20Data%20Report%202010.pdf "NHMA Perambulation Survey: Total-Sample Data Summary. 2010-07-28") in 2010 had comprehensively walked their lines.
+And a 2017 [bill](https://legiscan.com/NH/bill/SB171/2017, "New Hampshire Senate Bill 171") sought to repeal the duty altogether,
+passing the Senate with a voice vote before the House deemed the matter "inexpedient to legislate".
+
+Gotthardt has participated in XX perambulations of Enfield, first in XXXX and most recently in XXXX.
+<!-- quick bio of Gotthardt, how he became interested in this, his perambulation partner, etc -->
+In the case of my search for the HCEL corner, Gotthardt's GPS coordinates for the marker proved critical as well as the report's online availability and indexing by search engines.
+
+In my earlier attempt to locate the quadripoint, I had gone to the location where maps showed the intersection.
+However, it turns out the maps were wrong to the tune of 500 feet.
+I asked Gotthardt how this could be, to which he provided this detailed commentary:
+
+> The problem with the maps showing Enfield/Lebanon town line is that they are all based on a 1927 USGS topo map that showed the town lines on it, but the map makers were not sure where all of the true corners were located.
+> For example, the Enfield/Lebanon town line is a straight line per both Charters that created those towns, but if you put a straight edge on that line as shown on any USGS topo map it will show a bend in the line as it crosses Mascoma Lake.
+> They also needed to have the Cannan town line meet the Enfield/Lebanon/Hanover town lines,
+> so they "adjusted" the lines to all meet.
+> Unfortunately this error has carried forward to today's maps.
+> Some USGS topo maps that show town lines will actually state on the map next to the line "approximate location".
+> If you look closely at the USGS topo maps, you will see a small square located along some town lines where they cross a road,
+> those are locations where the map makers located a town line monument at some point in time,
+> they too are carried forward onto any future USGS topo maps.
+> Some of those monuments are still there, others have been lost or are missing.
+> The USGS topo maps are the best reference maps for topo features, but political boundaries are not topo features.
+
+***
 
 > the USGS topo maps stop showing the town lines after the 1996 series. You can view all of the USGS maps ever produced on [this website](https://www.usgs.gov/the-national-map-data-delivery/topographic-map-access-points). I use the Topoview feature, but have not tried the other options.
 
@@ -48,3 +80,15 @@ Page 11
 <https://www.merrimackvalleylife.com/articles/on-the-hunt-for-boundary-markers/>
 
 515 boundary point nodes in GRANIT as of 2014. <https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/Presentations/R%20Moynihan%20Presentation%202004%20Perambulation%20of%20Town%20Lines%20in%20New%20Hampshire.pdf>
+
+<https://www.nhpr.org/nh-news/2015-05-23/why-new-hampshire-towns-are-supposed-to-walk-their-boundaries-even-in-the-gps-age>
+<https://www.citizenscount.org/news/town-line-perambulation-law>
+
+360 Years of Perambulation
+New Hampshire Town and City, November/December 2010
+By Christopher J. Porter
+<https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/Articles/360%20Years%20of%20Perambulation%20%20NH%20Cities%20and%20Town%20Magazine%20Article%20Nov-Dec%202010.pdf>
+
+<https://www.enfieldnh.gov/media/12106>
+
+1827 law
