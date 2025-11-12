@@ -83,11 +83,24 @@ And once enshrined in parambulation reports, the coordinates shall be used to re
 
 I decided to do my part by updating OpenStreetMap.
 I describe OpenSteetMap as the _one map to rule them all_,
-since it is the only mature map that meets all critical criteria:
+since it is the only mature platform that meets all critical criteria:
 global, broad, crowd-sourced, and reusable under an open license.
 Make an edit on OpenSteetMap and in due time you will likely see it appear in the wild,
-as many maps derive their data from OpenSteetMap.
-Make an edit to a map other than OpenSteetMap and prepare your effort to be lost to the sands of time.
+as many maps are based on OpenSteetMap data.
+Make an edit to a map other than OpenSteetMap and prepare for your effort to be lost to the sands of time or the silos of exclusivity.
+
+The unit of change in OpenStreetMaps is called a _changeset_, which a bundle of edits (like a commit in Git parlance).
+My edits consisted of 3 changesets: [172589326](https://osmcha.org/changesets/172589326) to move the boundary stone close to the parambulated coordinates in the iD editor, [173198750](https://www.openstreetmap.org/changeset/173198750) to make the boundary stone to exactly the parambulated coordinates in the JOSM editor, and [173652662](https://osmcha.org/changesets/173652662) to update the metadata on the boundary stone to note the discrepancy with the TIGER/USGS location.
+
+<https://osmcha.org/changesets/118449523>
+
+```txt
+boundary: marker
+historic: boundary_stone
+height: 0.9652
+material: granite
+inscription: E C H L
+```
 
 What percent did this resize enfield?
 
