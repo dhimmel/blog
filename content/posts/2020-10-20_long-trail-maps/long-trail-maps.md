@@ -148,8 +148,8 @@ I hiked the Long Trail in September, with my two friends Freshmeat and I.A.O. Mo
 September is an ideal month, since there are fewer bugs, less mud, and later sunrises.
 But really any month is a good time to hike!
 We hiked 280 miles over 12 days, 22 hours, and 42 minutes,
-<!-- 310:42:45 according to ViewRanger recording -->
 taking us from Canada to Massachusetts along the spine of the Green Mountains.
+<!-- 310:42:45 according to ViewRanger recording -->
 
 It's hard to sum up the trip in three photos.
 But I'll try.
