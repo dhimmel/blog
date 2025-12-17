@@ -115,7 +115,7 @@ Don't miss the ponds in the vicinity, one which empties to the north into Stony 
 What different trajectories for water bodies that are within 500 feet of each other!
 <!-- https://www.strava.com/activities/16130218018 -->
 
-![The pond in the Snow Mountain Conservation Area that drains into Stony Brook with the operating cellular tower in the background]({attach}2025-10-19_perambulator/2025-10-13_snow-mountain-pond.jpg)
+![The pond in the Snow Mountain Conservation Area that drains into Stony Brook with the operating cellular tower in the background]({attach}2025-10-13_snow-mountain-pond.jpg)
 
 ***
 
