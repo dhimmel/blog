@@ -92,7 +92,7 @@ Make an edit to a map other than OpenSteetMap and prepare for your effort to be 
 The unit of change in OpenStreetMaps is called a _changeset_, which a bundle of edits (like a commit in Git parlance).
 My edits consisted of 3 changesets: [172589326](https://osmcha.org/changesets/172589326) to move the boundary stone close to the parambulated coordinates in the iD editor, [173198750](https://www.openstreetmap.org/changeset/173198750) to make the boundary stone to exactly the parambulated coordinates in the JOSM editor, and [173652662](https://osmcha.org/changesets/173652662) to update the metadata on the boundary stone to note the discrepancy with the TIGER/USGS location.
 
-<https://osmcha.org/changesets/118449523>
+At the time of writing, the OpenStreetMap [node](https://www.openstreetmap.org/node/9012708145) for the quadripoint has the following metadata tags:
 
 ```txt
 boundary: marker
@@ -100,15 +100,29 @@ historic: boundary_stone
 height: 0.9652
 material: granite
 inscription: E C H L
+name: Enfield/Lebanon/Hanover/Canaan Granite Post
+note: Located at 43.659089, -72.162008 according to https://www.enfieldnh.gov/media/7556#page=93. Note that the USGS map location is approximate and incorrect and this incorrect location was adopted by GRANIT and many other maps.
 ```
 
-What percent did this resize enfield?
+<!-- double check inscription -->
+In the end, I moved the location of boundary by XX feet (XX meters), which increased the size of the Enfield by XX% (from XX to XX square miles).
+
+If you're looking to visit another Enfield boundary by foot, the Enfield/Plainfield/Grantham Corner ([node](https://www.openstreetmap.org/node/13230460968), coordinates XX) is a worthy of exploration.
+I was drawn to this boundary, since it also had an approximate USGS location and I like to survey with my own eyes before editing OpenStreetMap.
+Located in the Upper Valley Land Trust's [Snow Mountain Conservation Area](https://uvlt.org/conservation-areas/snow-mountain/),
+you can visit two nearby towers, only one of which still operates.
+Don't miss the ponds in the vicinity, one which empties to the north into Stony Brook and then the Mascoma River and second that gives rise to Great Brook to the south before emptying into the Connecticut River.
+What different trajectories for water bodies that are within 500 feet of each other!
+<!-- https://www.strava.com/activities/16130218018 -->
+
+![The pond in the Snow Mountain Conservation Area that drains into Stony Brook with the operating cellular tower in the background]({attach}2025-10-19_perambulator/2025-10-13_snow-mountain-pond.jpg)
 
 ***
 
-> the USGS topo maps stop showing the town lines after the 1996 series. You can view all of the USGS maps ever produced on [this website](https://www.usgs.gov/the-national-map-data-delivery/topographic-map-access-points). I use the Topoview feature, but have not tried the other options.
+> The other point regarding using the granite post as the true corner point for the 4 towns is the other rule of surveying regarding what takes precedence when a new or re-survey is done, and this is called "rules of construction" which dictates which "deed" (or charter) description to use when determining where a corner is located. See [this article](https://www.washingtonsurveyor.com/blog/priority-of-calls-aka-rules-of-construction-what-they-are-and-why-they-matter) for a good description. So even though the original charter stated compass bearings and distances, when the first surveyors put a stake in the ground and called it the corner and everybody accepted it as the corner, it became the "true" corner regardless of what the written description stated.
 
-If you do not see a square symbol at the corner of where the town lines meet, then it's properly incorrect, and this error properly has been carried over to other maps as an incorrect corner.
+What percent did this resize enfield?
+<https://osmcha.org/changesets/118449523>
 
 <https://www.usgs.gov/index.php/faqs/why-dont-boundaries-us-topo-maps-match-and-why-are-some-missing>
 
