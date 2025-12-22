@@ -105,8 +105,12 @@ note: Located at 43.659089, -72.162008 according to https://www.enfieldnh.gov/me
 ```
 
 <!-- double check inscription -->
-In the end, I moved the location of boundary by XX feet (XX meters), which increased the size of the Enfield by XX% (from XX to XX square miles).
-
+<!-- 
+start location of quadripoint before changeset 172589326, https://www.openstreetmap.org/node/9012708145/history/2: 43.6586291, -72.1603499
+end location of quadripoint after changeset 173652662: 43.6590890, -72.1620080
+-->
+In the end, I moved the location of boundary by 469.9 feet (143.2 meters), which increased the size of the Enfield by 0.57% (from 42.94 to 43.18 square miles).
+The post has engraved letters to identify the four towns, but strangely the inscriptions are incorrect with L and C on adjacent rather than opposing sides.
 If you're looking to visit another Enfield boundary by foot, the Enfield/Plainfield/Grantham Corner ([node](https://www.openstreetmap.org/node/13230460968), coordinates XX) is a worthy of exploration.
 I was drawn to this boundary, since it also had an approximate USGS location and I like to survey with my own eyes before editing OpenStreetMap.
 Located in the Upper Valley Land Trust's [Snow Mountain Conservation Area](https://uvlt.org/conservation-areas/snow-mountain/),
