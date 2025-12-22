@@ -94,15 +94,13 @@ My edits consisted of 3 changesets: [172589326](https://osmcha.org/changesets/17
 
 At the time of writing, the OpenStreetMap [node](https://www.openstreetmap.org/node/9012708145) for the quadripoint has the following metadata tags:
 
-```txt
-boundary: marker
-historic: boundary_stone
-height: 0.9652
-material: granite
-inscription: E C H L
-name: Enfield/Lebanon/Hanover/Canaan Granite Post
-note: Located at 43.659089, -72.162008 according to https://www.enfieldnh.gov/media/7556#page=93. Note that the USGS map location is approximate and incorrect and this incorrect location was adopted by GRANIT and many other maps.
-```
+    boundary: marker
+    historic: boundary_stone
+    height: 0.9652
+    material: granite
+    inscription: E C H L
+    name: Enfield/Lebanon/Hanover/Canaan Granite Post
+    note: Located at 43.659089, -72.162008 according to https://www.enfieldnh.gov/media/7556#page=93. Note that the USGS map location is approximate and incorrect and this incorrect location was adopted by GRANIT and many other maps.
 
 <!-- double check inscription -->
 <!-- 
@@ -111,12 +109,21 @@ end location of quadripoint after changeset 173652662: 43.6590890, -72.1620080
 -->
 In the end, I moved the location of boundary by 469.9 feet (143.2 meters), which increased the size of the Enfield by 0.57% (from 42.94 to 43.18 square miles).
 The post has engraved letters to identify the four towns, but strangely the inscriptions are incorrect with L and C on adjacent rather than opposing sides.
-If you're looking to visit another Enfield boundary by foot, the Enfield/Plainfield/Grantham Corner ([node](https://www.openstreetmap.org/node/13230460968), coordinates XX) is a worthy of exploration.
+
+If you're looking to visit another Enfield boundary by foot, the Enfield/Plainfield/Grantham [Corner](https://www.openstreetmap.org/node/13230460968) is a worthy of exploration.
 I was drawn to this boundary, since it also had an approximate USGS location and I like to survey with my own eyes before editing OpenStreetMap.
+Here, I [moved](https://osmcha.org/changesets/173229060) the tripoint 430 feet (131 meters) to its paramulated coordinates of 43°34′24.63″N 72°10′10.94″W (`43.5735083, -72.1697056`).
+In this transaction, Plainfield grew while Grantham shrunk.
+<!--
+from 43.5740225, -72.1711653 to 43.5735083, -72.1697056 
+https://www.openstreetmap.org/node/1625622958/history
+https://osmcha.org/changesets/173229060
+-->
+
 Located in the Upper Valley Land Trust's [Snow Mountain Conservation Area](https://uvlt.org/conservation-areas/snow-mountain/),
 you can visit two nearby towers, only one of which still operates.
 Don't miss the ponds in the vicinity, one which empties to the north into Stony Brook and then the Mascoma River and second that gives rise to Great Brook to the south before emptying into the Connecticut River.
-What different trajectories for water bodies that are within 500 feet of each other!
+My precocious daughter pondered the diverging trajectory of these two water bodies within 500 feet of each other:
 <!-- https://www.strava.com/activities/16130218018 -->
 
 ![The pond in the Snow Mountain Conservation Area that drains into Stony Brook with the operating cellular tower in the background]({attach}2025-10-13_snow-mountain-pond.jpg)
@@ -125,8 +132,7 @@ What different trajectories for water bodies that are within 500 feet of each ot
 
 > The other point regarding using the granite post as the true corner point for the 4 towns is the other rule of surveying regarding what takes precedence when a new or re-survey is done, and this is called "rules of construction" which dictates which "deed" (or charter) description to use when determining where a corner is located. See [this article](https://www.washingtonsurveyor.com/blog/priority-of-calls-aka-rules-of-construction-what-they-are-and-why-they-matter) for a good description. So even though the original charter stated compass bearings and distances, when the first surveyors put a stake in the ground and called it the corner and everybody accepted it as the corner, it became the "true" corner regardless of what the written description stated.
 
-What percent did this resize enfield?
-<https://osmcha.org/changesets/118449523>
+## References
 
 <https://www.usgs.gov/index.php/faqs/why-dont-boundaries-us-topo-maps-match-and-why-are-some-missing>
 
