@@ -1,6 +1,6 @@
 Title: Finding four corners when all the maps are wrong
 Slug: perambulator
-Date: 2025-10-19
+Date: 2025-12-22
 Tags: gis, openstreetmap, osm, enfield, new hampshire, surveying, boundaries
 Status: draft
 
