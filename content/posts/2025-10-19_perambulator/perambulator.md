@@ -109,6 +109,23 @@ end location of quadripoint after changeset 173652662: 43.6590890, -72.1620080
 In the end, I moved the location of boundary by 469.9 horizontal feet (143.2 meters), which increased the size of the Enfield by 0.57% (from 42.94 to 43.18 square miles).
 The post has engraved letters to identify the four towns, but strangely the inscriptions are incorrect with L and C on adjacent rather than opposing sides.
 
+Before my correspondence with Gotthardt, I was uncertain of whether the granite post was the true four corners.
+In my naivete, I thought the map location might have been more authoritative than the granite post.
+Gotthardt explained:
+
+> The other point regarding using the granite post as the true corner point for the 4 towns is the other rule of surveying regarding what takes precedence when a new or re-survey is done, and this is called "[rules of construction](https://www.washingtonsurveyor.com/blog/priority-of-calls-aka-rules-of-construction-what-they-are-and-why-they-matter)" which dictates which "deed" (or charter) description to use when determining where a corner is located. So even though the original charter stated compass bearings and distances, when the first surveyors put a stake in the ground and called it the corner and everybody accepted it as the corner, it became the "true" corner regardless of what the written description stated.
+
+In fact, the actual monuments bounding Enfield deviate considerably from the original deed.
+From Gotthardt's [report](https://www.enfieldnh.gov/media/7556#page=27), we see the deeded boundary in green was quite a bit smaller than the surveyed boundary:
+
+![]({attach}2010-06-21_enfield-town-lines-page-27.png "Page 27 of 'A History of Enfield Town Lines' by Kurt Gotthardt in 2010.")
+
+One final thing I learned from Gotthardt is that the corner monuments are more controlling than intermediate monuments:
+
+> As a side note regarding the location of town lines, the line is a straight line from "corner to corner", you are not locating a true town line if you only look at the line from one reference monument to another reference monument. These reference monuments were placed for convenience only.
+
+But the data scientist in now begins wondering how does one programmatically establish whether a point on a polygon is merely intermediate or actually a corner?
+
 If you're looking to visit another Enfield boundary by foot, the Enfield/Plainfield/Grantham [Corner](https://www.openstreetmap.org/node/13230460968) is a worthy of exploration.
 I was drawn to this boundary, since it also had an approximate USGS location and I like to survey with my own eyes before editing OpenStreetMap.
 Here, I [moved](https://osmcha.org/changesets/173229060) the tripoint 430 horizontal feet (131 meters) to its paramulated coordinates of 43°34′24.63″N 72°10′10.94″W (`43.5735083,-72.1697056`).
@@ -127,11 +144,7 @@ My precocious daughter pondered the diverging trajectory of these two water bodi
 
 ![The pond in the Snow Mountain Conservation Area that drains into Stony Brook with the operating cellular tower in the background]({attach}2025-10-13_snow-mountain-pond.jpg)
 
-***
-
-> The other point regarding using the granite post as the true corner point for the 4 towns is the other rule of surveying regarding what takes precedence when a new or re-survey is done, and this is called "rules of construction" which dictates which "deed" (or charter) description to use when determining where a corner is located. See [this article](https://www.washingtonsurveyor.com/blog/priority-of-calls-aka-rules-of-construction-what-they-are-and-why-they-matter) for a good description. So even though the original charter stated compass bearings and distances, when the first surveyors put a stake in the ground and called it the corner and everybody accepted it as the corner, it became the "true" corner regardless of what the written description stated.
-
-## References
+<!-- ## References
 
 <https://www.usgs.gov/index.php/faqs/why-dont-boundaries-us-topo-maps-match-and-why-are-some-missing>
 
@@ -160,6 +173,4 @@ By Christopher J. Porter
 > The rules of surveying state that the corners as monumented when the original survey was conducted are the true corners
 ...
 As a side note regarding the location of town lines, the line is a straight line from "corner to corner", you are not locating a true town line if you only look at the line from one reference monument to another reference monument. These reference monuments were placed for convenience only.
-
-The other point regarding using the granite post as the true corner point for the 4 towns is the other rule of surveying regarding what takes precedence when a new or re-survey is done, and this is called "rules of construction" which dictates which "deed" (or charter) description to use when determining where a corner is located. See the article below for a good description. So even though the original charter stated compass bearings and distances, when the first surveyors put a stake in the ground and called it the corner and everybody accepted it as the corner, it became the "true" corner regardless of what the written description stated.
-<https://www.washingtonsurveyor.com/blog/priority-of-calls-aka-rules-of-construction-what-they-are-and-why-they-matter>
+-->
