@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="https://blog.dhimmel.com/theme/css/styles.css"/>
 
 
-  <meta name="citation_date" content="2025-10-19" />
+  <meta name="citation_date" content="2025-12-22" />
 
 
 
@@ -78,10 +78,10 @@ styles, `#sidebar-checkbox` for behavior. -->
     <h1 class="post-title">
       Finding four corners when all the maps are&nbsp;wrong
     </h1>
-    <span class="post-date">2025-10-19</span>
+    <span class="post-date">2025-12-22</span>
 
-    <p>The Four Corners is often thought of where Utah, Colorado, New Mexico, and Arizona collide.
-But if are satisfied with a municipal as opposed to statal four corners, you likely can find a quadripoint much closer to&nbsp;home.</p>
+    <p>The Four Corners is often thought of as where Utah, Colorado, New Mexico, and Arizona collide.
+But if you are satisfied with a municipal as opposed to statal four corners, you likely can find a quadripoint much closer to&nbsp;home.</p>
 <p>In my case, I&#8217;d been searching for the meeting point for four municipalities in New Hampshire — the towns of Hanover, Canaan, Enfield, and the City of&nbsp;Lebanon.</p>
 <!-- https://www.strava.com/activities/5798442786 -->
 <p>In 2021, my wife and I set out as newlyweds to find the monument and stand in four towns at once.
@@ -159,20 +159,33 @@ My edits consisted of 3 changesets: <a href="https://osmcha.org/changesets/17258
 historic: boundary_stone
 height: 0.9652
 material: granite
-inscription: E C H L
+inscription: E C L H
 name: Enfield/Lebanon/Hanover/Canaan Granite Post
 note: Located at 43.659089, -72.162008 according to https://www.enfieldnh.gov/media/7556#page=93. Note that the USGS map location is approximate and incorrect and this incorrect location was adopted by GRANIT and many other maps.
 </code></pre>
-<!-- double check inscription -->
 <!-- 
 start location of quadripoint before changeset 172589326, https://www.openstreetmap.org/node/9012708145/history/2: 43.6586291, -72.1603499
 end location of quadripoint after changeset 173652662: 43.6590890, -72.1620080
 -->
-<p>In the end, I moved the location of boundary by 469.9 feet (143.2 meters), which increased the size of the Enfield by 0.57% (from 42.94 to 43.18 square miles).
+<p>In the end, I moved the location of boundary by 469.9 horizontal feet (143.2 meters), which increased the size of the Enfield by 0.57% (from 42.94 to 43.18 square miles).
 The post has engraved letters to identify the four towns, but strangely the inscriptions are incorrect with L and C on adjacent rather than opposing&nbsp;sides.</p>
+<p>Before my correspondence with Gotthardt, I was uncertain of whether the granite post was the true four corners.
+In my naivete, I thought the map location might have been more authoritative than the granite post.
+Gotthardt&nbsp;explained:</p>
+<blockquote>
+<p>The other point regarding using the granite post as the true corner point for the 4 towns is the other rule of surveying regarding what takes precedence when a new or re-survey is done, and this is called &#8220;<a href="https://www.washingtonsurveyor.com/blog/priority-of-calls-aka-rules-of-construction-what-they-are-and-why-they-matter">rules of construction</a>&#8221; which dictates which &#8220;deed&#8221; (or charter) description to use when determining where a corner is located. So even though the original charter stated compass bearings and distances, when the first surveyors put a stake in the ground and called it the corner and everybody accepted it as the corner, it became the &#8220;true&#8221; corner regardless of what the written description&nbsp;stated.</p>
+</blockquote>
+<p>In fact, the actual monuments bounding Enfield deviate considerably from the original deed.
+From Gotthardt&#8217;s <a href="https://www.enfieldnh.gov/media/7556#page=27">report</a>, we see the deeded boundary in green was quite a bit smaller than the surveyed&nbsp;boundary:</p>
+<p><img alt="" src="https://blog.dhimmel.com/drafts/2010-06-21_enfield-town-lines-page-27.png" title="Page 27 of 'A History of Enfield Town Lines' by Kurt Gotthardt in 2010."></p>
+<p>One final thing I learned from Gotthardt is that the corner monuments are more controlling than intermediate&nbsp;monuments:</p>
+<blockquote>
+<p>As a side note regarding the location of town lines, the line is a straight line from &#8220;corner to corner&#8221;, you are not locating a true town line if you only look at the line from one reference monument to another reference monument. These reference monuments were placed for convenience&nbsp;only.</p>
+</blockquote>
+<p>But the data scientist in now begins wondering how does one programmatically establish whether a point on a polygon is merely intermediate or actually a&nbsp;corner?</p>
 <p>If you&#8217;re looking to visit another Enfield boundary by foot, the Enfield/Plainfield/Grantham <a href="https://www.openstreetmap.org/node/13230460968">Corner</a> is a worthy of exploration.
 I was drawn to this boundary, since it also had an approximate <span class="caps">USGS</span> location and I like to survey with my own eyes before editing OpenStreetMap.
-Here, I <a href="https://osmcha.org/changesets/173229060">moved</a> the tripoint 430 feet (131 meters) to its paramulated coordinates of 43°34′24.63″N 72°10′10.94″W&nbsp;(<code>43.5735083, -72.1697056</code>).
+Here, I <a href="https://osmcha.org/changesets/173229060">moved</a> the tripoint 430 horizontal feet (131 meters) to its paramulated coordinates of 43°34′24.63″N 72°10′10.94″W&nbsp;(<code>43.5735083,-72.1697056</code>).
 In this transaction, Plainfield grew while Grantham&nbsp;shrunk.</p>
 <!--
 from 43.5740225, -72.1711653 to 43.5735083, -72.1697056 
@@ -187,32 +200,36 @@ My precocious daughter pondered the diverging trajectory of these two water bodi
 <!-- https://www.strava.com/activities/16130218018 -->
 
 <p><img alt="The pond in the Snow Mountain Conservation Area that drains into Stony Brook with the operating cellular tower in the background" src="https://blog.dhimmel.com/drafts/2025-10-13_snow-mountain-pond.jpg"></p>
-<hr>
-<blockquote>
-<p>The other point regarding using the granite post as the true corner point for the 4 towns is the other rule of surveying regarding what takes precedence when a new or re-survey is done, and this is called &#8220;rules of construction&#8221; which dictates which &#8220;deed&#8221; (or charter) description to use when determining where a corner is located. See <a href="https://www.washingtonsurveyor.com/blog/priority-of-calls-aka-rules-of-construction-what-they-are-and-why-they-matter">this article</a> for a good description. So even though the original charter stated compass bearings and distances, when the first surveyors put a stake in the ground and called it the corner and everybody accepted it as the corner, it became the &#8220;true&#8221; corner regardless of what the written description&nbsp;stated.</p>
-</blockquote>
-<h2 id="references">References</h2>
-<p><a href="https://www.usgs.gov/index.php/faqs/why-dont-boundaries-us-topo-maps-match-and-why-are-some-missing">https://www.usgs.gov/index.php/faqs/why-dont-boundaries-us-topo-maps-match-and-why-are-some-missing</a></p>
-<p><span class="caps">TIGER</span> census tracts have&nbsp;issue</p>
-<p>Page 109-110&nbsp;history</p>
-<p><a href="https://www.openstreetmap.org/changeset/118449523">https://www.openstreetmap.org/changeset/118449523</a></p>
-<p><a href="https://www.merrimackvalleylife.com/articles/on-the-hunt-for-boundary-markers/">https://www.merrimackvalleylife.com/articles/on-the-hunt-for-boundary-markers/</a></p>
-<p>515 boundary point nodes in <span class="caps">GRANIT</span> as of 2014. <a href="https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/Presentations/R%20Moynihan%20Presentation%202004%20Perambulation%20of%20Town%20Lines%20in%20New%20Hampshire.pdf">https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%<span class="caps">20STATE</span>%<span class="caps">20GIS</span>%<span class="caps">20SUB</span>%<span class="caps">20COMMITTEE</span>%<span class="caps">20INFO</span>/Presentations/R%20Moynihan%20Presentation%202004%20Perambulation%20of%20Town%20Lines%20in%20New%20Hampshire.pdf</a></p>
-<p><a href="https://www.nhpr.org/nh-news/2015-05-23/why-new-hampshire-towns-are-supposed-to-walk-their-boundaries-even-in-the-gps-age">https://www.nhpr.org/nh-news/2015-05-23/why-new-hampshire-towns-are-supposed-to-walk-their-boundaries-even-in-the-gps-age</a>
-<a href="https://www.citizenscount.org/news/town-line-perambulation-law">https://www.citizenscount.org/news/town-line-perambulation-law</a></p>
-<p>360 Years of Perambulation
+<!-- ## References
+
+<https://www.usgs.gov/index.php/faqs/why-dont-boundaries-us-topo-maps-match-and-why-are-some-missing>
+
+TIGER census tracts have issue
+
+Page 109-110 history
+
+<https://www.openstreetmap.org/changeset/118449523>
+
+<https://www.merrimackvalleylife.com/articles/on-the-hunt-for-boundary-markers/>
+
+515 boundary point nodes in GRANIT as of 2014. <https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/Presentations/R%20Moynihan%20Presentation%202004%20Perambulation%20of%20Town%20Lines%20in%20New%20Hampshire.pdf>
+
+<https://www.nhpr.org/nh-news/2015-05-23/why-new-hampshire-towns-are-supposed-to-walk-their-boundaries-even-in-the-gps-age>
+<https://www.citizenscount.org/news/town-line-perambulation-law>
+
+360 Years of Perambulation
 New Hampshire Town and City, November/December 2010
 By Christopher J. Porter
-<a href="https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/Articles/360%20Years%20of%20Perambulation%20%20NH%20Cities%20and%20Town%20Magazine%20Article%20Nov-Dec%202010.pdf">https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%<span class="caps">20STATE</span>%<span class="caps">20GIS</span>%<span class="caps">20SUB</span>%<span class="caps">20COMMITTEE</span>%<span class="caps">20INFO</span>/Articles/360%20Years%20of%20Perambulation%20%<span class="caps">20NH</span>%20Cities%20and%20Town%20Magazine%20Article%20Nov-Dec%202010.pdf</a></p>
-<p><a href="https://www.enfieldnh.gov/media/12106">https://www.enfieldnh.gov/media/12106</a></p>
-<p>1827&nbsp;law</p>
-<blockquote>
-<p>The rules of surveying state that the corners as monumented when the original survey was conducted are the true corners
-&#8230;
-As a side note regarding the location of town lines, the line is a straight line from &#8220;corner to corner&#8221;, you are not locating a true town line if you only look at the line from one reference monument to another reference monument. These reference monuments were placed for convenience&nbsp;only.</p>
-</blockquote>
-<p>The other point regarding using the granite post as the true corner point for the 4 towns is the other rule of surveying regarding what takes precedence when a new or re-survey is done, and this is called &#8220;rules of construction&#8221; which dictates which &#8220;deed&#8221; (or charter) description to use when determining where a corner is located. See the article below for a good description. So even though the original charter stated compass bearings and distances, when the first surveyors put a stake in the ground and called it the corner and everybody accepted it as the corner, it became the &#8220;true&#8221; corner regardless of what the written description stated.
-<a href="https://www.washingtonsurveyor.com/blog/priority-of-calls-aka-rules-of-construction-what-they-are-and-why-they-matter">https://www.washingtonsurveyor.com/blog/priority-of-calls-aka-rules-of-construction-what-they-are-and-why-they-matter</a></p>
+<https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/Articles/360%20Years%20of%20Perambulation%20%20NH%20Cities%20and%20Town%20Magazine%20Article%20Nov-Dec%202010.pdf>
+
+<https://www.enfieldnh.gov/media/12106>
+
+1827 law
+
+> The rules of surveying state that the corners as monumented when the original survey was conducted are the true corners
+...
+As a side note regarding the location of town lines, the line is a straight line from "corner to corner", you are not locating a true town line if you only look at the line from one reference monument to another reference monument. These reference monuments were placed for convenience only.
+-->
 
     <h2 id="comments">Comments</h2>
 <div id="disqus_thread"></div>
