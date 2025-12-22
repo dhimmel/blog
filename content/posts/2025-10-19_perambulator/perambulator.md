@@ -4,8 +4,8 @@ Date: 2025-10-19
 Tags: gis, openstreetmap, osm, enfield, new hampshire, surveying, boundaries
 Status: draft
 
-The Four Corners is often thought of where Utah, Colorado, New Mexico, and Arizona collide.
-But if are satisfied with a municipal as opposed to statal four corners, you likely can find a quadripoint much closer to home.
+The Four Corners is often thought of as where Utah, Colorado, New Mexico, and Arizona collide.
+But if you are satisfied with a municipal as opposed to statal four corners, you likely can find a quadripoint much closer to home.
 
 In my case, I'd been searching for the meeting point for four municipalities in New Hampshire — the towns of Hanover, Canaan, Enfield, and the City of Lebanon.
 
@@ -98,21 +98,20 @@ At the time of writing, the OpenStreetMap [node](https://www.openstreetmap.org/n
     historic: boundary_stone
     height: 0.9652
     material: granite
-    inscription: E C H L
+    inscription: E C L H
     name: Enfield/Lebanon/Hanover/Canaan Granite Post
     note: Located at 43.659089, -72.162008 according to https://www.enfieldnh.gov/media/7556#page=93. Note that the USGS map location is approximate and incorrect and this incorrect location was adopted by GRANIT and many other maps.
 
-<!-- double check inscription -->
 <!-- 
 start location of quadripoint before changeset 172589326, https://www.openstreetmap.org/node/9012708145/history/2: 43.6586291, -72.1603499
 end location of quadripoint after changeset 173652662: 43.6590890, -72.1620080
 -->
-In the end, I moved the location of boundary by 469.9 feet (143.2 meters), which increased the size of the Enfield by 0.57% (from 42.94 to 43.18 square miles).
+In the end, I moved the location of boundary by 469.9 horizontal feet (143.2 meters), which increased the size of the Enfield by 0.57% (from 42.94 to 43.18 square miles).
 The post has engraved letters to identify the four towns, but strangely the inscriptions are incorrect with L and C on adjacent rather than opposing sides.
 
 If you're looking to visit another Enfield boundary by foot, the Enfield/Plainfield/Grantham [Corner](https://www.openstreetmap.org/node/13230460968) is a worthy of exploration.
 I was drawn to this boundary, since it also had an approximate USGS location and I like to survey with my own eyes before editing OpenStreetMap.
-Here, I [moved](https://osmcha.org/changesets/173229060) the tripoint 430 feet (131 meters) to its paramulated coordinates of 43°34′24.63″N 72°10′10.94″W (`43.5735083, -72.1697056`).
+Here, I [moved](https://osmcha.org/changesets/173229060) the tripoint 430 horizontal feet (131 meters) to its paramulated coordinates of 43°34′24.63″N 72°10′10.94″W (`43.5735083,-72.1697056`).
 In this transaction, Plainfield grew while Grantham shrunk.
 <!--
 from 43.5740225, -72.1711653 to 43.5735083, -72.1697056 
