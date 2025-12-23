@@ -144,33 +144,35 @@ My precocious daughter pondered the diverging trajectory of these two water bodi
 
 ![The pond in the Snow Mountain Conservation Area that drains into Stony Brook with the operating cellular tower in the background]({attach}2025-10-13_snow-mountain-pond.jpg)
 
+In closing: take a hike, find a monument, fix a map!
+
+## Related Readings
+
+Here are some related articles with additional information on the topic.
+
+- [360 Years of Perambulation](https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/Articles/360%20Years%20of%20Perambulation%20%20NH%20Cities%20and%20Town%20Magazine%20Article%20Nov-Dec%202010.pdf)  
+Christopher J. Porter  
+_New Hampshire Town and City Magazine_ (2010 Nov/Dec)
+
+- [Perambulation of Town Lines in New Hampshire (Presentation)](https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/Presentations/R%20Moynihan%20Presentation%202004%20Perambulation%20of%20Town%20Lines%20in%20New%20Hampshire.pdf)  
+Robert G. Moynihan (2014)  
+Notes there are 515 boundary point nodes in GRANIT.
+
+- [On the hunt for boundary markers](https://www.merrimackvalleylife.com/articles/on-the-hunt-for-boundary-markers/)  
+Alison Colby-Campbell  
+_Merrimack Valley Life_ (2025-07-01)
+
+- [Why New Hampshire Towns Are Supposed To Walk Their Boundaries, Even In The GPS Age](https://www.nhpr.org/nh-news/2015-05-23/why-new-hampshire-towns-are-supposed-to-walk-their-boundaries-even-in-the-gps-age)  
+_New Hampshire Public Radio_ (2015-05-23)
+
+- [Town Line Perambulation Law?](https://www.citizenscount.org/news/town-line-perambulation-law)  
+_Citizens Count_ (2017-04-05)
+
 <!-- ## References
+
+OSM history:
+moved the Hanover/Lebanon/Enfield/Canaan quadpoint to the boundary stone node <https://www.openstreetmap.org/changeset/118449523>
 
 <https://www.usgs.gov/index.php/faqs/why-dont-boundaries-us-topo-maps-match-and-why-are-some-missing>
 
-TIGER census tracts have issue
-
-Page 109-110 history
-
-<https://www.openstreetmap.org/changeset/118449523>
-
-<https://www.merrimackvalleylife.com/articles/on-the-hunt-for-boundary-markers/>
-
-515 boundary point nodes in GRANIT as of 2014. <https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/Presentations/R%20Moynihan%20Presentation%202004%20Perambulation%20of%20Town%20Lines%20in%20New%20Hampshire.pdf>
-
-<https://www.nhpr.org/nh-news/2015-05-23/why-new-hampshire-towns-are-supposed-to-walk-their-boundaries-even-in-the-gps-age>
-<https://www.citizenscount.org/news/town-line-perambulation-law>
-
-360 Years of Perambulation
-New Hampshire Town and City, November/December 2010
-By Christopher J. Porter
-<https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/Articles/360%20Years%20of%20Perambulation%20%20NH%20Cities%20and%20Town%20Magazine%20Article%20Nov-Dec%202010.pdf>
-
-<https://www.enfieldnh.gov/media/12106>
-
-1827 law
-
-> The rules of surveying state that the corners as monumented when the original survey was conducted are the true corners
-...
-As a side note regarding the location of town lines, the line is a straight line from "corner to corner", you are not locating a true town line if you only look at the line from one reference monument to another reference monument. These reference monuments were placed for convenience only.
 -->
