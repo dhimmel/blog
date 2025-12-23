@@ -168,6 +168,7 @@ _New Hampshire Public Radio_ (2015-05-23)
 - [Town Line Perambulation Law?](https://www.citizenscount.org/news/town-line-perambulation-law)  
 _Citizens Count_ (2017-04-05)
 
+Finally, some of these documents are archived at <https://github.com/dhimmel/perambulator>, which also contains some very rough and mostly unused analyses related to this blog post and OpenStreetMap political boundaries in New Hampshire.
 <!-- ## References
 
 OSM history:
