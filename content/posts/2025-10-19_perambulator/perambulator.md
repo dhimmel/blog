@@ -34,7 +34,7 @@ Despite the statute, only 15 of 110 towns [surveyed](https://ftp.granit.unh.edu/
 And a 2017 [bill](https://legiscan.com/NH/bill/SB171/2017 "New Hampshire Senate Bill 171") sought to repeal the duty altogether,
 passing the Senate with a voice vote before the House deemed the matter "inexpedient to legislate".
 
-Gotthardt performed the official 2010 parambulation of Enfield along with Jim Taylor.
+Gotthardt performed the official 2010 parambulation of Enfield along with James Taylor.
 In the case of my search for the HCEL corner, Gotthardt's GPS coordinates for the marker proved critical as well as the report's online availability and indexing by search engines.
 
 In my earlier attempt to locate the quadripoint, I had gone to the location where maps showed the intersection.
@@ -117,7 +117,7 @@ Gotthardt explained:
 In fact, the actual monuments bounding Enfield deviate considerably from the original deed.
 From Gotthardt's [report](https://www.enfieldnh.gov/media/7556#page=27), we see the deeded boundary in green was quite a bit smaller than the surveyed boundary:
 
-![]({attach}2010-06-21_enfield-town-lines-page-27.png "Page 27 of 'A History of Enfield Town Lines' by Kurt Gotthardt in 2010.")
+![Comparison between Original Descriptions and Recent GPS Locations of Existing Town Line Monuments for Enfield, New Hampshire]({attach}2010-06-21_enfield-town-lines-page-27.png "Page 27 of 'A History of Enfield Town Lines' by Kurt Gotthardt in 2010. Rasterization fidelity was improved with Upscayl version 2.15.")
 
 One final thing I learned from Gotthardt is that the corner monuments are more controlling than intermediate monuments:
 
