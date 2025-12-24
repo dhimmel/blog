@@ -15,7 +15,7 @@ We searched the vicinity of where the maps showed the intersection, but found no
 
 After four years of reeling in defeat from this failed mission, we set out again.
 This time with a bigger expedition that included my partner in a [new venture](https://radoverlay.com/) and our respective offspring.
-Parking at the Lakeview Cemetery in Enfield, then walking up the Class IV Old County Road, turning right off the path and up the slope towards the Tom Linnell Ridge trail.
+Parking at the Lakeview Cemetery in Enfield, then walking up the Class VI Old County Road, turning right off the path and up the slope towards the Tom Linnell Ridge trail.
 Soon we found the prize.
 <!-- https://www.strava.com/activities/15956675704 -->
 
@@ -31,11 +31,10 @@ New Hampshire law requires that towns perform this act with regularity:
 > The lines between the towns in this state shall be perambulated, and the marks and bounds renewed, once in every 7 years forever, by the selectmen of the towns, or by such persons as they shall in writing appoint for that purpose.
 
 Despite the statute, only 15 of 110 towns [surveyed](https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/Articles/NHMunicipal%20Assoc%20Perambulation%20Data%20Report%202010.pdf "NHMA Perambulation Survey: Total-Sample Data Summary. 2010-07-28") in 2010 had comprehensively walked their lines.
-And a 2017 [bill](https://legiscan.com/NH/bill/SB171/2017, "New Hampshire Senate Bill 171") sought to repeal the duty altogether,
+And a 2017 [bill](https://legiscan.com/NH/bill/SB171/2017 "New Hampshire Senate Bill 171") sought to repeal the duty altogether,
 passing the Senate with a voice vote before the House deemed the matter "inexpedient to legislate".
 
-Gotthardt has participated in XX perambulations of Enfield, first in XXXX and most recently in XXXX.
-<!-- quick bio of Gotthardt, how he became interested in this, his perambulation partner, etc -->
+Gotthardt performed the official 2010 parambulation of Enfield along with Jim Taylor.
 In the case of my search for the HCEL corner, Gotthardt's GPS coordinates for the marker proved critical as well as the report's online availability and indexing by search engines.
 
 In my earlier attempt to locate the quadripoint, I had gone to the location where maps showed the intersection.
