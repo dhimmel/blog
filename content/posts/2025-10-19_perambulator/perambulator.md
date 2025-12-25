@@ -14,7 +14,7 @@ In 2021, my wife and I set out as newlyweds to find the monument and stand in fo
 We searched the vicinity of where the maps showed the intersection, but found no markers or granite posts.
 
 After four years of reeling in defeat from this failed mission, we set out again.
-This time with a bigger expedition that included my partner in a [new venture](https://radoverlay.com/) and our respective offspring.
+This time with a bigger expedition that included my partner in a [new venture](https://radoverlay.com/) and our respective oddborn offspring.
 Parking at the Lakeview Cemetery in Enfield, then walking up the Class VI Old County Road, turning right off the path and up the slope towards the Tom Linnell Ridge trail.
 Soon we found the prize.
 <!-- https://www.strava.com/activities/15956675704 -->
