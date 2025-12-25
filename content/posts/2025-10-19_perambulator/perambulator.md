@@ -135,6 +135,8 @@ https://www.openstreetmap.org/node/1625622958/history
 https://osmcha.org/changesets/173229060
 -->
 
+![The 1996 USGS Topo map showing the Enfield, Grantham, Plainfield border. Markup in purple]({attach}usgs-topo-map-1996-egp-three-corners-with-markup.png)
+
 Located in the Upper Valley Land Trust's [Snow Mountain Conservation Area](https://uvlt.org/conservation-areas/snow-mountain/),
 you can visit two nearby towers, only one of which still operates.
 Don't miss the ponds in the vicinity, one which empties to the north into Stony Brook and then the Mascoma River and second that gives rise to Great Brook to the south before emptying into the Connecticut River.
