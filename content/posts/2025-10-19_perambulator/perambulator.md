@@ -1,8 +1,7 @@
 Title: Finding four corners when all the maps are wrong
 Slug: perambulator
-Date: 2025-12-22
-Tags: gis, openstreetmap, osm, enfield, new hampshire, surveying, boundaries
-Status: draft
+Date: 2025-12-25
+Tags: gis, openstreetmap, osm, enfield, new hampshire, surveying, boundaries, lebanon, hanover, canaan, plainfield, grantham
 
 The Four Corners is often thought of as where Utah, Colorado, New Mexico, and Arizona collide.
 But if you are satisfied with a municipal as opposed to an interstate four corners, you likely can find a quadripoint much closer to home.
