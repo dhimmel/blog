@@ -5,7 +5,7 @@ Tags: gis, openstreetmap, osm, enfield, new hampshire, surveying, boundaries
 Status: draft
 
 The Four Corners is often thought of as where Utah, Colorado, New Mexico, and Arizona collide.
-But if you are satisfied with a municipal as opposed to statal four corners, you likely can find a quadripoint much closer to home.
+But if you are satisfied with a municipal as opposed to an interstate four corners, you likely can find a quadripoint much closer to home.
 
 In my case, I'd been searching for the meeting point for four municipalities in New Hampshire — the towns of Hanover, Canaan, Enfield, and the City of Lebanon.
 
@@ -34,7 +34,7 @@ Despite the statute, only 15 of 110 towns [surveyed](https://ftp.granit.unh.edu/
 And a 2017 [bill](https://legiscan.com/NH/bill/SB171/2017 "New Hampshire Senate Bill 171") sought to repeal the duty altogether,
 passing the Senate with a voice vote before the House deemed the matter "inexpedient to legislate".
 
-Gotthardt performed the official 2010 parambulation of Enfield along with James Taylor.
+Gotthardt performed the official 2010 perambulation of Enfield along with James Taylor.
 In the case of my search for the HCEL corner, Gotthardt's GPS coordinates for the marker proved critical as well as the report's online availability and indexing by search engines.
 
 In my earlier attempt to locate the quadripoint, I had gone to the location where maps showed the intersection.
@@ -73,23 +73,23 @@ His response:
 
 So we have now established that:
 
-1. many political boundary corners in the USGS topo maps were approximates and hence may deviate considerably from the actual monument location.
+1. many political boundary corners in the USGS topo maps were approximate and hence may deviate considerably from the actual monument location.
 2. most maps derive their town boundaries from USGS topo maps.
-3. parambulation is the official mechanism to locate the true boundaries, which can then be updated on maps.
+3. perambulation is the official mechanism to locate the true boundaries, which can then be updated on maps.
 
-Hence a concerted effort is now needed to establish the location of all town corners in New Hampshire by means of parambulation.
-And once enshrined in parambulation reports, the coordinates shall be used to refine the location of political boundaries on maps and in geographic information systems.
+Hence a concerted effort is now needed to establish the location of all town corners in New Hampshire by means of perambulation.
+And once enshrined in perambulation reports, the coordinates shall be used to refine the location of political boundaries on maps and in geographic information systems.
 
 I decided to do my part by updating OpenStreetMap.
-I describe OpenSteetMap as the _one map to rule them all_,
-since it is the only mature platform that meets all critical criteria:
+I describe OpenStreetMap as the _one map to rule them all_,
+since it is the only widely used platform that meets all critical criteria:
 global, broad, crowd-sourced, and reusable under an open license.
-Make an edit on OpenSteetMap and in due time you will likely see it appear in the wild,
-as many maps are based on OpenSteetMap data.
-Make an edit to a map other than OpenSteetMap and prepare for your effort to be lost to the sands of time or the silos of exclusivity.
+Make an edit on OpenStreetMap and in due time you will likely see it appear in the wild,
+as many maps are based on OpenStreetMap data.
+Make an edit to a map other than OpenStreetMap and prepare for your effort to be lost to the sands of time or the silos of exclusivity.
 
-The unit of change in OpenStreetMaps is called a _changeset_, which a bundle of edits (like a commit in Git parlance).
-My edits consisted of 3 changesets: [172589326](https://osmcha.org/changesets/172589326) to move the boundary stone close to the parambulated coordinates in the iD editor, [173198750](https://www.openstreetmap.org/changeset/173198750) to make the boundary stone to exactly the parambulated coordinates in the JOSM editor, and [173652662](https://osmcha.org/changesets/173652662) to update the metadata on the boundary stone to note the discrepancy with the TIGER/USGS location.
+The unit of change in OpenStreetMap is called a _changeset_, which is a bundle of edits (like a commit in Git parlance).
+My edits consisted of 3 changesets: [172589326](https://osmcha.org/changesets/172589326) to move the boundary stone close to the perambulated coordinates in the iD editor, [173198750](https://www.openstreetmap.org/changeset/173198750) to make the boundary stone exactly the perambulated coordinates in the JOSM editor, and [173652662](https://osmcha.org/changesets/173652662) to update the metadata on the boundary stone to note the discrepancy with the TIGER/USGS location.
 
 At the time of writing, the OpenStreetMap [node](https://www.openstreetmap.org/node/9012708145) for the quadripoint has the following metadata tags:
 
@@ -105,7 +105,7 @@ At the time of writing, the OpenStreetMap [node](https://www.openstreetmap.org/n
 start location of quadripoint before changeset 172589326, https://www.openstreetmap.org/node/9012708145/history/2: 43.6586291, -72.1603499
 end location of quadripoint after changeset 173652662: 43.6590890, -72.1620080
 -->
-In the end, I moved the location of boundary by 469.9 horizontal feet (143.2 meters), which increased the size of the Enfield by 0.57% (from 42.94 to 43.18 square miles).
+In the end, I moved the location of the boundary by 469.9 horizontal feet (143.2 meters), which increased the cartographic area of the Enfield by 0.57% (from 42.94 to 43.18 square miles).
 The post has engraved letters to identify the four towns, but strangely the inscriptions are incorrect with L and C on adjacent rather than opposing sides.
 
 Before my correspondence with Gotthardt, I was uncertain of whether the granite post was the true four corners.
@@ -121,11 +121,11 @@ From Gotthardt's [report](https://www.enfieldnh.gov/media/7556#page=27), we see 
 
 One final thing I learned from Gotthardt is that the corner monuments are more controlling than intermediate monuments:
 
-> As a side note regarding the location of town lines, the line is a straight line from "corner to corner", you are not locating a true town line if you only look at the line from one reference monument to another reference monument. These reference monuments were placed for convenience only.
+> As a side note regarding the location of town lines, the line is a straight line from "corner to corner"; you are not locating a true town line if you only look at the line from one reference monument to another reference monument. These reference monuments were placed for convenience only.
 
-But the data scientist in now begins wondering how does one programmatically establish whether a point on a polygon is merely intermediate or actually a corner?
+But the data scientist in me now begins wondering how does one programmatically establish whether a point on a polygon is merely intermediate or actually a corner?
 
-If you're looking to visit another Enfield boundary by foot, the Enfield/Plainfield/Grantham [Corner](https://www.openstreetmap.org/node/13230460968) is a worthy of exploration.
+If you're looking to visit another Enfield boundary by foot, the Enfield/Plainfield/Grantham [Corner](https://www.openstreetmap.org/node/13230460968) is worthy of exploration.
 I was drawn to this boundary, since it also had an approximate USGS location and I like to survey with my own eyes before editing OpenStreetMap.
 Here, I [moved](https://osmcha.org/changesets/173229060) the tripoint 430 horizontal feet (131 meters) to its paramulated coordinates of 43°34′24.63″N 72°10′10.94″W (`43.5735083,-72.1697056`).
 In this transaction, Plainfield grew while Grantham shrunk.
@@ -139,7 +139,7 @@ https://osmcha.org/changesets/173229060
 
 Located in the Upper Valley Land Trust's [Snow Mountain Conservation Area](https://uvlt.org/conservation-areas/snow-mountain/),
 you can visit two nearby towers, only one of which still operates.
-Don't miss the ponds in the vicinity, one which empties to the north into Stony Brook and then the Mascoma River and second that gives rise to Great Brook to the south before emptying into the Connecticut River.
+Don't miss the ponds in the vicinity, one of which empties to the north into Stony Brook and then the Mascoma River and second that gives rise to Great Brook to the south before emptying into the Connecticut River.
 My precocious daughter pondered the diverging trajectory of these two water bodies within 500 feet of each other:
 <!-- https://www.strava.com/activities/16130218018 -->
 
