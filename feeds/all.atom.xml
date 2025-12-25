@@ -1,5 +1,165 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Satoshi Village</title><link href="https://blog.dhimmel.com/" rel="alternate"/><link href="https://blog.dhimmel.com/feeds/all.atom.xml" rel="self"/><id>https://blog.dhimmel.com/</id><updated>2021-07-01T00:00:00-04:00</updated><entry><title>Mapping the Long Trail: the best is now free with OpenStreetMaps</title><link href="https://blog.dhimmel.com/long-trail-maps/" rel="alternate"/><published>2021-07-01T00:00:00-04:00</published><updated>2021-07-01T00:00:00-04:00</updated><author><name>Daniel Himmelstein</name></author><id>tag:blog.dhimmel.com,2021-07-01:/long-trail-maps/</id><summary type="html">&lt;p&gt;On January 24, 2010, Zeke Farwell &lt;a href="https://www.reddit.com/r/openstreetmap/comments/j6j5r5/when_was_the_long_trail_route_relation_first/" title="Reddit OpenStreetMap: When was the Long Trail route relation first completed?"&gt;completed&lt;/a&gt; the Long Trail.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Satoshi Village</title><link href="https://blog.dhimmel.com/" rel="alternate"/><link href="https://blog.dhimmel.com/feeds/all.atom.xml" rel="self"/><id>https://blog.dhimmel.com/</id><updated>2025-12-25T00:00:00-05:00</updated><entry><title>Finding four corners when all the maps are wrong</title><link href="https://blog.dhimmel.com/perambulator/" rel="alternate"/><published>2025-12-25T00:00:00-05:00</published><updated>2025-12-25T00:00:00-05:00</updated><author><name>Daniel Himmelstein</name></author><id>tag:blog.dhimmel.com,2025-12-25:/perambulator/</id><summary type="html">&lt;p&gt;The Four Corners is often thought of as where Utah, Colorado, New Mexico, and Arizona collide.
+But if you are satisfied with a municipal as opposed to an interstate four corners, you likely can find a quadripoint much closer to&amp;nbsp;home.&lt;/p&gt;
+&lt;p&gt;In my case, I&amp;#8217;d been searching for the meeting point for four municipalities in New Hampshire — the towns of Hanover, Canaan, Enfield, and the City of&amp;nbsp;Lebanon.&lt;/p&gt;
+&lt;!-- https://www.strava.com/activities/5798442786 --&gt;
+&lt;p&gt;In 2021, my wife and I …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Four Corners is often thought of as where Utah, Colorado, New Mexico, and Arizona collide.
+But if you are satisfied with a municipal as opposed to an interstate four corners, you likely can find a quadripoint much closer to&amp;nbsp;home.&lt;/p&gt;
+&lt;p&gt;In my case, I&amp;#8217;d been searching for the meeting point for four municipalities in New Hampshire — the towns of Hanover, Canaan, Enfield, and the City of&amp;nbsp;Lebanon.&lt;/p&gt;
+&lt;!-- https://www.strava.com/activities/5798442786 --&gt;
+&lt;p&gt;In 2021, my wife and I set out as newlyweds to find the monument and stand in four towns at once.
+We searched the vicinity of where the maps showed the intersection, but found no markers or granite&amp;nbsp;posts.&lt;/p&gt;
+&lt;p&gt;After four years of reeling in defeat from this failed mission, we set out again.
+This time with a bigger expedition that included my partner in a &lt;a href="https://radoverlay.com/"&gt;new venture&lt;/a&gt; and our respective oddborn offspring.
+Parking at the Lakeview Cemetery in Enfield, then walking up the Class &lt;span class="caps"&gt;VI&lt;/span&gt; Old County Road, turning right off the path and up the slope towards the Tom Linnell Ridge trail.
+Soon we found the&amp;nbsp;prize.&lt;/p&gt;
+&lt;!-- https://www.strava.com/activities/15956675704 --&gt;
+
+&lt;p&gt;&lt;img alt="The quadripoint of Hanover, Canaan, Enfield, and Lebanon." src="https://blog.dhimmel.com/perambulator/2025-09-27_hcel-four-corners.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;The difference was that this time we were endued with Page 93 of Kurt Gotthardt&amp;#8217;s &lt;a href="https://www.enfieldnh.gov/media/7556"&gt;2010 report&lt;/a&gt; titled &lt;em&gt;A History of Enfield Town Lines: From 1761 to 2007&lt;/em&gt;.
+Herein the true &lt;span class="caps"&gt;GPS&lt;/span&gt; coordinates were revealed as 43°39′32.72″N 72°09′43.23″W&amp;nbsp;(&lt;code&gt;43.659089,-72.162008&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;Gotthardt dedicated his report to &amp;#8220;to all of those who walked the Town Lines before me&amp;#8221;.
+Walking the lines refers to &lt;em&gt;perambulation&lt;/em&gt;.
+New Hampshire law requires that towns perform this act with&amp;nbsp;regularity:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The lines between the towns in this state shall be perambulated, and the marks and bounds renewed, once in every 7 years forever, by the selectmen of the towns, or by such persons as they shall in writing appoint for that&amp;nbsp;purpose.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Despite the statute, only 15 of 110 towns &lt;a href="https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/Articles/NHMunicipal%20Assoc%20Perambulation%20Data%20Report%202010.pdf" title="NHMA Perambulation Survey: Total-Sample Data Summary. 2010-07-28"&gt;surveyed&lt;/a&gt; in 2010 had comprehensively walked their lines.
+And a 2017 &lt;a href="https://legiscan.com/NH/bill/SB171/2017" title="New Hampshire Senate Bill 171"&gt;bill&lt;/a&gt; sought to repeal the duty altogether,
+passing the Senate with a voice vote before the House deemed the matter &amp;#8220;inexpedient to&amp;nbsp;legislate&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;Gotthardt performed the official 2010 perambulation of Enfield along with James Taylor.
+In the case of my search for the &lt;span class="caps"&gt;HCEL&lt;/span&gt; corner, Gotthardt&amp;#8217;s &lt;span class="caps"&gt;GPS&lt;/span&gt; coordinates for the marker proved critical as well as the report&amp;#8217;s online availability and indexing by search&amp;nbsp;engines.&lt;/p&gt;
+&lt;p&gt;In my earlier attempt to locate the quadripoint, I had gone to the location where maps showed the intersection.
+However, it turns out the maps were wrong to the tune of 500 feet.
+I asked Gotthardt how this could be, to which he provided a detailed historical&amp;nbsp;account:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The problem with the maps showing Enfield/Lebanon town line is that they are all based on a 1927 &lt;span class="caps"&gt;USGS&lt;/span&gt; topo map that showed the town lines on it, but the map makers were not sure where all of the true corners were located.
+For example, the Enfield/Lebanon town line is a straight line per both Charters that created those towns, but if you put a straight edge on that line as shown on any &lt;span class="caps"&gt;USGS&lt;/span&gt; topo map it will show a bend in the line as it crosses Mascoma Lake.
+They also needed to have the Cannan town line meet the Enfield/Lebanon/Hanover town lines,
+so they &amp;#8220;adjusted&amp;#8221; the lines to all&amp;nbsp;meet.&lt;/p&gt;
+&lt;p&gt;Unfortunately this error has carried forward to today&amp;#8217;s maps.
+Some &lt;span class="caps"&gt;USGS&lt;/span&gt; topo maps that show town lines will actually state on the map next to the line &amp;#8220;approximate location&amp;#8221;.
+If you look closely at the &lt;span class="caps"&gt;USGS&lt;/span&gt; topo maps, you will see a small square located along some town lines where they cross a road,
+those are locations where the map makers located a town line monument at some point in time,
+they too are carried forward onto any future &lt;span class="caps"&gt;USGS&lt;/span&gt; topo maps.
+Some of those monuments are still there, others have been lost or are missing.
+The &lt;span class="caps"&gt;USGS&lt;/span&gt; topo maps are the best reference maps for topo features, but political boundaries are not topo&amp;nbsp;features.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here is the 1996 &lt;span class="caps"&gt;USGS&lt;/span&gt; Topo map, with &lt;span style="text-decoration-line: underline; text-decoration-color: #8210C4;"&gt;purple markup&lt;/span&gt; to show town names and the true location of the four&amp;nbsp;corners.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="The 1996 USGS Topo map showing the Hanover, Canaan, Enfield, and Lebanon border from the NH_Enfield_329548_1996_24000_geo. Markup in purple" src="https://blog.dhimmel.com/perambulator/usgs-topo-map-1996-hcel-four-corners-with-markup-reduced.png"&gt;&lt;/p&gt;
+&lt;p&gt;I started to wonder whether all maps were wrong?
+I found the &lt;span class="caps"&gt;HCEL&lt;/span&gt; quadripoint was misplaced on OpenStreetMap, Google Maps, Apple Maps, &lt;span class="caps"&gt;NH&lt;/span&gt; &lt;span class="caps"&gt;GRANIT&lt;/span&gt;, &lt;a href="https://tigerweb.geo.census.gov/tigerweb/"&gt;&lt;span class="caps"&gt;TIGER&lt;/span&gt;&lt;/a&gt; census tracts, the 2024 DeLorme Atlas &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Gazetteer, Lebanon&amp;#8217;s &lt;a href="https://lebanonnh.mapgeo.io/"&gt;MapGeo&lt;/a&gt;, and Hanover&amp;#8217;s &lt;a href="https://www.axisgis.com/HanoverNH/"&gt;AxisGIS&lt;/a&gt; (some layers&amp;nbsp;correct).&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;GRANIT&lt;/span&gt; is New Hampshire&amp;#8217;s statewide geographic information system.
+Robert Moynihan expounds on how political boundaries were added to &lt;span class="caps"&gt;GRANIT&lt;/span&gt; in a 2003 report titled &lt;a href="https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/MANUAL%20ON%20Municipal%20Boundaries%20R&amp;amp;L%20Justified%20-WITH%20NO%20APPENDICES.pdf" title="A Manual on Municipal Boundaries: Perambulating Town Lines in New Hampshire. By UNH Professor Robert Moynihan. 2003-09. Page 11"&gt;A Manual on Municipal Boundaries: Perambulating Town Lines in New Hampshire&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The current Political Boundary Layer of the state &lt;span class="caps"&gt;GIS&lt;/span&gt; was developed from existing United States Geological Survey (&lt;span class="caps"&gt;USGS&lt;/span&gt;) topographic maps with a scale of 1:24,000 (1 inch = 2000 feet). The expected positional accuracy of mapped features at this scale is in the ± 40 to ± 60 foot range. While the &lt;span class="caps"&gt;USGS&lt;/span&gt; maps are renowned for their reliability, it was known that some of the town lines on the maps might be incorrectly placed. In fact, a good example of this uncertainty occurs on the &lt;span class="caps"&gt;USGS&lt;/span&gt; “Peterborough North” quadrangle map which currently shows a part of the Bennington–Greenfield town line as &amp;#8216;indefinite boundary&amp;#8217;. As the various individual maps were connected together (paneled) it was found that municipal boundaries did not always line up or match. Decisions were made to average the positions if the mismatch was small (less than 40 to 50 feet). Where the alignment of the town line from one map to another was significantly off, a new line segment was added to connect the two ends. This represents only an artificial “fix” and needs to be corrected. Obtaining more accurate positions of the monuments (during perambulations) will allow the system to be&amp;nbsp;updated.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In my correspondence with Gotthardt, I asked him how prevalent misplaced corners are.
+His&amp;nbsp;response:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The &lt;span class="caps"&gt;USGS&lt;/span&gt; topo maps stop showing the town lines after the 1996 series. … If you do not see a square symbol at the corner of where the town lines meet, then it&amp;#8217;s probably incorrect, and this error probably has been carried over to other maps as an incorrect&amp;nbsp;corner.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So we have now established&amp;nbsp;that:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;many political boundary corners in the &lt;span class="caps"&gt;USGS&lt;/span&gt; topo maps were approximate and hence may deviate considerably from the actual monument&amp;nbsp;location.&lt;/li&gt;
+&lt;li&gt;most maps derive their town boundaries from &lt;span class="caps"&gt;USGS&lt;/span&gt; topo&amp;nbsp;maps.&lt;/li&gt;
+&lt;li&gt;perambulation is the official mechanism to locate the true boundaries, which can then be updated on&amp;nbsp;maps.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Hence a concerted effort is now needed to establish the location of all town corners in New Hampshire by means of perambulation.
+And once enshrined in perambulation reports, the coordinates shall be used to refine the location of political boundaries on maps and in geographic information&amp;nbsp;systems.&lt;/p&gt;
+&lt;p&gt;I decided to do my part by updating OpenStreetMap.
+I describe OpenStreetMap as the &lt;em&gt;one map to rule them all&lt;/em&gt;,
+since it is the only widely used platform that meets all critical criteria:
+global, broad, crowd-sourced, and reusable under an open license.
+Make an edit on OpenStreetMap and in due time you will likely see it appear in the wild,
+as many maps are based on OpenStreetMap data.
+Make an edit to a map other than OpenStreetMap and prepare for your effort to be lost to the sands of time or the silos of&amp;nbsp;exclusivity.&lt;/p&gt;
+&lt;p&gt;The unit of change in OpenStreetMap is called a &lt;em&gt;changeset&lt;/em&gt;, which is a bundle of edits (like a commit in Git parlance).
+My edits consisted of 3 changesets: &lt;a href="https://osmcha.org/changesets/172589326"&gt;172589326&lt;/a&gt; to move the boundary stone close to the perambulated coordinates in the iD editor, &lt;a href="https://www.openstreetmap.org/changeset/173198750"&gt;173198750&lt;/a&gt; to make the boundary stone exactly the perambulated coordinates in the &lt;span class="caps"&gt;JOSM&lt;/span&gt; editor, and &lt;a href="https://osmcha.org/changesets/173652662"&gt;173652662&lt;/a&gt; to update the metadata on the boundary stone to note the discrepancy with the &lt;span class="caps"&gt;TIGER&lt;/span&gt;/&lt;span class="caps"&gt;USGS&lt;/span&gt;&amp;nbsp;location.&lt;/p&gt;
+&lt;p&gt;At the time of writing, the OpenStreetMap &lt;a href="https://www.openstreetmap.org/node/9012708145"&gt;node&lt;/a&gt; for the quadripoint has the following metadata&amp;nbsp;tags:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;boundary: marker
+historic: boundary_stone
+height: 0.9652
+material: granite
+inscription: E C L H
+name: Enfield/Lebanon/Hanover/Canaan Granite Post
+note: Located at 43.659089, -72.162008 according to https://www.enfieldnh.gov/media/7556#page=93. Note that the USGS map location is approximate and incorrect and this incorrect location was adopted by GRANIT and many other maps.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- 
+start location of quadripoint before changeset 172589326, https://www.openstreetmap.org/node/9012708145/history/2: 43.6586291, -72.1603499
+end location of quadripoint after changeset 173652662: 43.6590890, -72.1620080
+--&gt;
+&lt;p&gt;In the end, I moved the location of the boundary by 469.9 horizontal feet (143.2 meters), which increased the cartographic area of the Enfield by 0.57% (from 42.94 to 43.18 square miles).
+The post has engraved letters to identify the four towns, but strangely the inscriptions are incorrect with L and C on adjacent rather than opposing&amp;nbsp;sides.&lt;/p&gt;
+&lt;p&gt;Before my correspondence with Gotthardt, I was uncertain of whether the granite post was the true four corners.
+In my naivete, I thought the map location might have been more authoritative than the granite post.
+Gotthardt&amp;nbsp;explained:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The other point regarding using the granite post as the true corner point for the 4 towns is the other rule of surveying regarding what takes precedence when a new or re-survey is done, and this is called &amp;#8220;&lt;a href="https://www.washingtonsurveyor.com/blog/priority-of-calls-aka-rules-of-construction-what-they-are-and-why-they-matter"&gt;rules of construction&lt;/a&gt;&amp;#8221; which dictates which &amp;#8220;deed&amp;#8221; (or charter) description to use when determining where a corner is located. So even though the original charter stated compass bearings and distances, when the first surveyors put a stake in the ground and called it the corner and everybody accepted it as the corner, it became the &amp;#8220;true&amp;#8221; corner regardless of what the written description&amp;nbsp;stated.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In fact, the actual monuments bounding Enfield deviate considerably from the original deed.
+From Gotthardt&amp;#8217;s &lt;a href="https://www.enfieldnh.gov/media/7556#page=27"&gt;report&lt;/a&gt;, we see the deeded boundary in green was quite a bit smaller than the surveyed&amp;nbsp;boundary:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Comparison between Original Descriptions and Recent GPS Locations of Existing Town Line Monuments for Enfield, New Hampshire" src="https://blog.dhimmel.com/perambulator/2010-06-21_enfield-town-lines-page-27.png" title="Page 27 of 'A History of Enfield Town Lines' by Kurt Gotthardt in 2010. Rasterization fidelity was improved with Upscayl version 2.15."&gt;&lt;/p&gt;
+&lt;p&gt;One final thing I learned from Gotthardt is that the corner monuments are more controlling than intermediate&amp;nbsp;monuments:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As a side note regarding the location of town lines, the line is a straight line from &amp;#8220;corner to corner&amp;#8221;; you are not locating a true town line if you only look at the line from one reference monument to another reference monument. These reference monuments were placed for convenience&amp;nbsp;only.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;But the data scientist in me now begins wondering how does one programmatically establish whether a point on a polygon is merely intermediate or actually a&amp;nbsp;corner?&lt;/p&gt;
+&lt;p&gt;If you&amp;#8217;re looking to visit another Enfield boundary by foot, the Enfield/Plainfield/Grantham &lt;a href="https://www.openstreetmap.org/node/13230460968"&gt;Corner&lt;/a&gt; is worthy of exploration.
+I was drawn to this boundary, since it also had an approximate &lt;span class="caps"&gt;USGS&lt;/span&gt; location and I like to survey with my own eyes before editing OpenStreetMap.
+Here, I &lt;a href="https://osmcha.org/changesets/173229060"&gt;moved&lt;/a&gt; the tripoint 430 horizontal feet (131 meters) to its paramulated coordinates of 43°34′24.63″N 72°10′10.94″W&amp;nbsp;(&lt;code&gt;43.5735083,-72.1697056&lt;/code&gt;).
+In this transaction, Plainfield grew while Grantham&amp;nbsp;shrunk.&lt;/p&gt;
+&lt;!--
+from 43.5740225, -72.1711653 to 43.5735083, -72.1697056 
+https://www.openstreetmap.org/node/1625622958/history
+https://osmcha.org/changesets/173229060
+--&gt;
+
+&lt;p&gt;&lt;img alt="The 1996 USGS Topo map showing the Enfield, Grantham, Plainfield border. Markup in purple" src="https://blog.dhimmel.com/perambulator/usgs-topo-map-1996-egp-three-corners-with-markup.png"&gt;&lt;/p&gt;
+&lt;p&gt;Located in the Upper Valley Land Trust&amp;#8217;s &lt;a href="https://uvlt.org/conservation-areas/snow-mountain/"&gt;Snow Mountain Conservation Area&lt;/a&gt;,
+you can visit two nearby towers, only one of which still operates.
+Don&amp;#8217;t miss the ponds in the vicinity, one of which empties to the north into Stony Brook and then the Mascoma River and second that gives rise to Great Brook to the south before emptying into the Connecticut River.
+My precocious daughter pondered the diverging trajectory of these two water bodies within 500 feet of each&amp;nbsp;other:&lt;/p&gt;
+&lt;!-- https://www.strava.com/activities/16130218018 --&gt;
+
+&lt;p&gt;&lt;img alt="The pond in the Snow Mountain Conservation Area that drains into Stony Brook with the operating cellular tower in the background" src="https://blog.dhimmel.com/perambulator/2025-10-13_snow-mountain-pond.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;In closing: take a hike, find a monument, fix a&amp;nbsp;map!&lt;/p&gt;
+&lt;h2 id="related-readings"&gt;Related&amp;nbsp;Readings&lt;/h2&gt;
+&lt;p&gt;Here are some related articles with additional information on the&amp;nbsp;topic.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/Articles/360%20Years%20of%20Perambulation%20%20NH%20Cities%20and%20Town%20Magazine%20Article%20Nov-Dec%202010.pdf"&gt;360 Years of Perambulation&lt;/a&gt;&lt;br&gt;
+Christopher J. Porter&lt;br&gt;
+&lt;em&gt;New Hampshire Town and City Magazine&lt;/em&gt; (2010&amp;nbsp;Nov/Dec)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://ftp.granit.unh.edu/submissions/MunicipalBounds/2014%20STATE%20GIS%20SUB%20COMMITTEE%20INFO/Presentations/R%20Moynihan%20Presentation%202004%20Perambulation%20of%20Town%20Lines%20in%20New%20Hampshire.pdf"&gt;Perambulation of Town Lines in New Hampshire (Presentation)&lt;/a&gt;&lt;br&gt;
+Robert G. Moynihan (2014)&lt;br&gt;
+Notes there are 515 boundary point nodes in &lt;span class="caps"&gt;GRANIT&lt;/span&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.merrimackvalleylife.com/articles/on-the-hunt-for-boundary-markers/"&gt;On the hunt for boundary markers&lt;/a&gt;&lt;br&gt;
+Alison Colby-Campbell&lt;br&gt;
+&lt;em&gt;Merrimack Valley Life&lt;/em&gt;&amp;nbsp;(2025-07-01)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.nhpr.org/nh-news/2015-05-23/why-new-hampshire-towns-are-supposed-to-walk-their-boundaries-even-in-the-gps-age"&gt;Why New Hampshire Towns Are Supposed To Walk Their Boundaries, Even In The &lt;span class="caps"&gt;GPS&lt;/span&gt; Age&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;New Hampshire Public Radio&lt;/em&gt;&amp;nbsp;(2015-05-23)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.citizenscount.org/news/town-line-perambulation-law"&gt;Town Line Perambulation Law?&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;Citizens Count&lt;/em&gt;&amp;nbsp;(2017-04-05)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finally, some of these documents are archived at &lt;a href="https://github.com/dhimmel/perambulator"&gt;https://github.com/dhimmel/perambulator&lt;/a&gt;, which also contains some very rough and mostly unused analyses related to this blog post and OpenStreetMap political boundaries in New&amp;nbsp;Hampshire.&lt;/p&gt;
+&lt;!-- ## References
+
+OSM history:
+moved the Hanover/Lebanon/Enfield/Canaan quadpoint to the boundary stone node &lt;https://www.openstreetmap.org/changeset/118449523&gt;
+
+&lt;https://www.usgs.gov/index.php/faqs/why-dont-boundaries-us-topo-maps-match-and-why-are-some-missing&gt;
+
+--&gt;</content><category term="misc"/><category term="gis"/><category term="openstreetmap"/><category term="osm"/><category term="enfield"/><category term="new hampshire"/><category term="surveying"/><category term="boundaries"/><category term="lebanon"/><category term="hanover"/><category term="canaan"/><category term="plainfield"/><category term="grantham"/></entry><entry><title>Mapping the Long Trail: the best is now free with OpenStreetMaps</title><link href="https://blog.dhimmel.com/long-trail-maps/" rel="alternate"/><published>2021-07-01T00:00:00-04:00</published><updated>2021-07-01T00:00:00-04:00</updated><author><name>Daniel Himmelstein</name></author><id>tag:blog.dhimmel.com,2021-07-01:/long-trail-maps/</id><summary type="html">&lt;p&gt;On January 24, 2010, Zeke Farwell &lt;a href="https://www.reddit.com/r/openstreetmap/comments/j6j5r5/when_was_the_long_trail_route_relation_first/" title="Reddit OpenStreetMap: When was the Long Trail route relation first completed?"&gt;completed&lt;/a&gt; the Long Trail.
 He had begun just two days earlier, connecting more than 50 segments of trail spanning over 200 miles.
 Motivated by &amp;#8220;the longest and most well known hiking trail in Vermont&amp;#8221;,
 Zeke often revisited portions of the trails in the years to&amp;nbsp;come.&lt;/p&gt;
