@@ -32,3 +32,8 @@ td img {
 .muted {
   color: #9a9a9a !important;
 }
+
+/* Hide Disqus/Taboola ad iframes (ads still load and track, just hidden) */
+iframe[src*="ads-iframe"] {
+  display: none;
+}
