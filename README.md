@@ -19,7 +19,7 @@ The custom subdomain of `blog.dhimmel.com` is specified in top-level `CNAME` fil
 uv sync
 
 # enable pre-commit checks (once per local repo)
-pre-commit install
+prek install
 
 # Build the blog to output
 uv run pelican
